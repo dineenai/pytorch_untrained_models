@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #
 #SBATCH --gres=gpu:2
