@@ -220,7 +220,7 @@ def main_worker(gpu, ngpus_per_node, args):
         ]))
     
     #Model Folder to facilitate saving of checkpoints - from train_CMC.py line 113-116
-    opt.model_folder = os.path.join(opt.model_path, opt.model_name) 
+    opt.model_folder = os.path.join(opt.model_path, opt.model_names) #Changed model_name to model_names 
     if not os.path.isdir(opt.model_folder):
         os.makedirs(opt.model_folder)
         
