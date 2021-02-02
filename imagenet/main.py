@@ -76,6 +76,8 @@ parser.add_argument('--multiprocessing-distributed', action='store_true',
                          'fastest way to use PyTorch for either single node or '
                          'multi node data parallel training')
 
+opt = parser.parse_args() #Added from train_CMC.py to facilitate saving ckpts
+
 best_acc1 = 0
 
 
