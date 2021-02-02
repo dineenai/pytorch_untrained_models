@@ -8,7 +8,7 @@
 #SBATCH --error=/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/supervised_resnet50/logs/slurm-%j.err
 
 
-DIR='/data/ILSVRC2012/blurry_vision/'
+DIR='/data/ILSVRC2012/'
 PYTHON="/opt/anaconda3/envs/blurry_vision/bin/python"
 MODEL='resnet50'
 
