@@ -25,6 +25,7 @@ model_names = sorted(name for name in models.__dict__
 parser = argparse.ArgumentParser(description='PyTorch ImageNet Training')
 parser.add_argument('data', metavar='DIR',
                     help='path to dataset')
+parser.add_argument('--model_path', type=str, default=None, help='path to save model') #Add Path to save model from CMC
 parser.add_argument('-a', '--arch', metavar='ARCH', default='resnet18',
                     choices=model_names,
                     help='model architecture: ' +
@@ -50,6 +51,7 @@ parser.add_argument('--wd', '--weight-decay', default=1e-4, type=float,
                     dest='weight_decay')
 parser.add_argument('-p', '--print-freq', default=10, type=int,
                     metavar='N', help='print frequency (default: 10)')
+parser.add_argument('--save_freq', type=int, default=10, help='save frequency') #From CMC - AIM: Save Ckpt.
 parser.add_argument('--resume', default='', type=str, metavar='PATH',
                     help='path to latest checkpoint (default: none)')
 parser.add_argument('-e', '--evaluate', dest='evaluate', action='store_true',
@@ -110,6 +112,7 @@ def main():
     else:
         # Simply call main_worker function
         main_worker(args.gpu, ngpus_per_node, args)
+        
 
 
 def main_worker(gpu, ngpus_per_node, args):
