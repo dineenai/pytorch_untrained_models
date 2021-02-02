@@ -272,22 +272,33 @@ def main_worker(gpu, ngpus_per_node, args):
                 'optimizer' : optimizer.state_dict(),
             }, is_best)
 
-        # save model
+#         # save model - from train_CMC.py
+#         if epoch % args.save_freq == 0:
+#             print('==> Saving...')
+#             state = {
+#                 'opt': args,
+#                 'model': model.state_dict(),
+#                 'contrast': contrast.state_dict(),
+#                 'optimizer': optimizer.state_dict(),
+#                 'epoch': epoch,
+#             }
+#             if args.amp:
+#                 state['amp'] = amp.state_dict()
+#             save_file = os.path.join(args.model_folder, 'ckpt_epoch_{epoch}.pth'.format(epoch=epoch))
+#             torch.save(state, save_file)
+#             # help release GPU memory
+#             del state
+         
         if epoch % args.save_freq == 0:
             print('==> Saving...')
-            state = {
-                'opt': args,
-                'model': model.state_dict(),
-                'contrast': contrast.state_dict(),
-                'optimizer': optimizer.state_dict(),
-                'epoch': epoch,
-            }
-            if args.amp:
-                state['amp'] = amp.state_dict()
-            save_file = os.path.join(args.model_folder, 'ckpt_epoch_{epoch}.pth'.format(epoch=epoch))
-            torch.save(state, save_file)
-            # help release GPU memory
-            del state
+        # save running checkpoint From Anna T DeepCluster https://github.com/AnnaTruzzi/deepcluster/blob/backtostart/main.py
+            torch.save({'epoch': epoch + 1,
+                        'arch': args.arch,
+                        'state_dict': model.state_dict(),
+                        'optimizer' : optimizer.state_dict()},
+                     #  os.path.join(args.exp, 'checkpoint_dc'+str(args.instantiation)+'_epoch'+str(epoch)+'.pth.tar'))
+                       os.path.join(args.model_path, 'checkpoint_unsupervised_resnet50'+'_epoch'+str(epoch)+'.pth.tar'))
+
             
 def train(train_loader, model, criterion, optimizer, epoch, args):
     batch_time = AverageMeter('Time', ':6.3f')
