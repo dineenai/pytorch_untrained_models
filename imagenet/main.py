@@ -216,7 +216,12 @@ def main_worker(gpu, ngpus_per_node, args):
             transforms.ToTensor(),
             normalize,
         ]))
-
+    
+    #Model Folder to facilitate saving of checkpoints - from train_CMC.py line 113-116
+    opt.model_folder = os.path.join(opt.model_path, opt.model_name) 
+    if not os.path.isdir(opt.model_folder):
+        os.makedirs(opt.model_folder)
+        
     if args.distributed:
         train_sampler = torch.utils.data.distributed.DistributedSampler(train_dataset)
     else:
