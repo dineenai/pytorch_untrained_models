@@ -265,7 +265,23 @@ def main_worker(gpu, ngpus_per_node, args):
                 'optimizer' : optimizer.state_dict(),
             }, is_best)
 
-
+        # save model
+        if epoch % args.save_freq == 0:
+            print('==> Saving...')
+            state = {
+                'opt': args,
+                'model': model.state_dict(),
+                'contrast': contrast.state_dict(),
+                'optimizer': optimizer.state_dict(),
+                'epoch': epoch,
+            }
+            if args.amp:
+                state['amp'] = amp.state_dict()
+            save_file = os.path.join(args.model_folder, 'ckpt_epoch_{epoch}.pth'.format(epoch=epoch))
+            torch.save(state, save_file)
+            # help release GPU memory
+            del state
+            
 def train(train_loader, model, criterion, optimizer, epoch, args):
     batch_time = AverageMeter('Time', ':6.3f')
     data_time = AverageMeter('Data', ':6.3f')
