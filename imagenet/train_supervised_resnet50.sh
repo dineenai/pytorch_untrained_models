@@ -9,9 +9,11 @@
 
 
 DIR='/data/ILSVRC2012/'
+OUTFOLDER="/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/supervised_resnet50/outmodel"
 PYTHON="/opt/anaconda3/envs/blurry_vision/bin/python"
 MODEL='resnet50'
 
 
 ${PYTHON} main.py --a ${MODEL} \
+--model_path ${OUTFOLDER} \
 ${DIR}
