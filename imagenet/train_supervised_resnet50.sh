@@ -12,8 +12,10 @@ OUTFOLDER="/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/supe
 PYTHON="/opt/anaconda3/envs/blurry_vision/bin/python"
 MODEL='resnet50'
 EPOCHS=60
+SAVE=5
 
 ${PYTHON} main.py --a ${MODEL} \
 --model_path ${OUTFOLDER} \
 --epochs ${EPOCHS} \
+--save_freq ${SAVE} \
 ${DIR}
