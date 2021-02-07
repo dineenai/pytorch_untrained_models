@@ -10,11 +10,10 @@
 DIR='/data/ILSVRC2012/'
 PYTHON="/opt/anaconda3/envs/blurry_vision/bin/python"
 MODEL='resnet50'
-RESUME="/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/ model_best.pth.tar"
+RESUME="/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/model_best.pth.tar"
 
 
 ${PYTHON} main.py --a ${MODEL} \
 --resume ${RESUME} \
 --evaluate \
 ${DIR}
-
