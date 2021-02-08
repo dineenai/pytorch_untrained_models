@@ -13,7 +13,7 @@ MODEL='resnet50'
 RESUME="/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/checkpoint.pth.tar"
 
 
-${PYTHON} main.py --a ${MODEL} \
+${PYTHON} main_val.py --a ${MODEL} \
 --resume ${RESUME} \
 --evaluate \
 ${DIR}
