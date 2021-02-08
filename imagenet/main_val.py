@@ -244,6 +244,11 @@ def main_worker(gpu, ngpus_per_node, args):
         batch_size=args.batch_size, shuffle=False,
         num_workers=args.workers, pin_memory=True)
 
+    # Testing - Attempting to access model predictions
+    # print(train_dataset.targets) #Added to try access labels
+    # print(valdir.targets) #AttributeError: 'str' object has no attribute 'targets'
+
+
     if args.evaluate:
         validate(val_loader, model, criterion, args)
         return
@@ -364,9 +369,9 @@ def validate(val_loader, model, criterion, args):
     with torch.no_grad():
         end = time.time()
         for i, (images, target) in enumerate(val_loader):
-            print(Target: ")
-            print(target)
-            print(images)
+            # print("Target: ")
+            # print(target)
+            # print(images)
             if args.gpu is not None:
                 images = images.cuda(args.gpu, non_blocking=True)
             if torch.cuda.is_available():
@@ -375,6 +380,26 @@ def validate(val_loader, model, criterion, args):
             # compute output
             output = model(images)
             loss = criterion(output, target)
+
+            # Added from: https://pytorch.org/hub/pytorch_vision_resnet/
+            # Tensor of shape 1000, with confidence scores over Imagenet's 1000 classes
+            print("Output: ")
+            # print(output[0])
+            # The output has unnormalized scores. To get probabilities, you can run a softmax on it.
+            probabilities = torch.nn.functional.softmax(output[0], dim=0)
+            # print(probabilities)
+
+            # This may not be the best location! #MOVE
+            # Download ImageNet labels
+            # removed ! and executed in command line:
+            # !wget https://raw.githubusercontent.com/pytorch/hub/master/imagenet_classes.txt
+            # Read the categories
+            with open("imagenet_classes.txt", "r") as f:
+                categories = [s.strip() for s in f.readlines()]
+            # Show top categories per image
+            top5_prob, top5_catid = torch.topk(probabilities, 5)
+            for i in range(top5_prob.size(0)):
+                print(categories[top5_catid[i]], top5_prob[i].item())
 
             # measure accuracy and record loss
             acc1, acc5 = accuracy(output, target, topk=(1, 5))
