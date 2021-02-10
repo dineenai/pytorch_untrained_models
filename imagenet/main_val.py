@@ -17,6 +17,8 @@ import torch.utils.data.distributed
 import torchvision.transforms as transforms
 import torchvision.datasets as datasets
 import torchvision.models as models
+import ntpath #Split path: https://stackoverflow.com/questions/8384737/extract-file-name-from-path-no-matter-what-the-os-path-format
+from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
 
 model_names = sorted(name for name in models.__dict__
     if name.islower() and not name.startswith("__")
@@ -204,20 +206,21 @@ def main_worker(gpu, ngpus_per_node, args):
     cudnn.benchmark = True
 
     # Data loading code
-    traindir = os.path.join(args.data, 'train')
+    # traindir = os.path.join(args.data, 'train')
 #     valdir = os.path.join(args.data, 'val') # Need to change Val to val in folders as this is the directory name on server
-    valdir = os.path.join(args.data, 'val_in_folders')
+    valdir = os.path.join(args.data, 'val')
+    # valdir = os.path.join(args.data, 'val_in_folders') #Change to val_in_folders for imagenet, ie DIR='/data/ILSVRC2012/'  TO DO add this to loop 
     normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406],
                                      std=[0.229, 0.224, 0.225])
 
-    train_dataset = datasets.ImageFolder(
-        traindir,
-        transforms.Compose([
-            transforms.RandomResizedCrop(224),
-            transforms.RandomHorizontalFlip(),
-            transforms.ToTensor(),
-            normalize,
-        ]))
+    # train_dataset = datasets.ImageFolder(
+    #     traindir,
+    #     transforms.Compose([
+    #         transforms.RandomResizedCrop(224),
+    #         transforms.RandomHorizontalFlip(),
+    #         transforms.ToTensor(),
+    #         normalize,
+    #     ]))
 
     #model_names was causing errors - removed to simplify - using DeepCluster vesion instead
 #     #Model Folder to facilitate saving of checkpoints - from train_CMC.py line 113-116
@@ -225,15 +228,21 @@ def main_worker(gpu, ngpus_per_node, args):
 #     if not os.path.isdir(opt.model_folder):
 #         os.makedirs(opt.model_folder)
         
-    if args.distributed:
-        train_sampler = torch.utils.data.distributed.DistributedSampler(train_dataset)
-    else:
-        train_sampler = None
+    # if args.distributed:
+    #     train_sampler = torch.utils.data.distributed.DistributedSampler(train_dataset)
+    # else:
+    #     train_sampler = None
 
-    train_loader = torch.utils.data.DataLoader(
-        train_dataset, batch_size=args.batch_size, shuffle=(train_sampler is None),
-        num_workers=args.workers, pin_memory=True, sampler=train_sampler)
+    # train_loader = torch.utils.data.DataLoader(
+    #     train_dataset, batch_size=args.batch_size, shuffle=(train_sampler is None),
+    #     num_workers=args.workers, pin_memory=True, sampler=train_sampler)
 
+    # folder_dataset_val = ImageFolderWithPaths(root=Config.valdir)
+    folder_dataset_val = ImageFolderWithPaths(valdir) #works
+
+        
+        # print(paths)
+    #Still need to encorporate the above into loader      
     val_loader = torch.utils.data.DataLoader(
         datasets.ImageFolder(valdir, transforms.Compose([
             transforms.Resize(256),
@@ -243,11 +252,8 @@ def main_worker(gpu, ngpus_per_node, args):
         ])),
         batch_size=args.batch_size, shuffle=False,
         num_workers=args.workers, pin_memory=True)
-
-    # Testing - Attempting to access model predictions
-    # print(train_dataset.targets) #Added to try access labels
-    # print(valdir.targets) #AttributeError: 'str' object has no attribute 'targets'
-
+    
+    # test_dataloader = torch.utils.data.DataLoader(folder_dataset_val,num_workers=6,batch_size=1,shuffle=True)    
 
     if args.evaluate:
         validate(val_loader, model, criterion, args)
@@ -305,52 +311,70 @@ def main_worker(gpu, ngpus_per_node, args):
                      #  os.path.join(args.exp, 'checkpoint_dc'+str(args.instantiation)+'_epoch'+str(epoch)+'.pth.tar'))
                        os.path.join(args.model_path, 'checkpoint_unsupervised_resnet50'+'_epoch'+str(epoch)+'.pth.tar'))
 
-            
-def train(train_loader, model, criterion, optimizer, epoch, args):
-    batch_time = AverageMeter('Time', ':6.3f')
-    data_time = AverageMeter('Data', ':6.3f')
-    losses = AverageMeter('Loss', ':.4e')
-    top1 = AverageMeter('Acc@1', ':6.2f')
-    top5 = AverageMeter('Acc@5', ':6.2f')
-    progress = ProgressMeter(
-        len(train_loader),
-        [batch_time, data_time, losses, top1, top5],
-        prefix="Epoch: [{}]".format(epoch))
+# Added Code - further added from CMC LinearProbing_val.py - is there a simpler way - used for output txt file
+def getListOfFiles(dirName):
+    # create a list of file and sub directories 
+    # names in the given directory 
+    listOfFile = os.listdir(dirName)
+    allFiles = list()
+    # Iterate over all the entries
+    for entry in listOfFile:
+        # Create full path
+        fullPath = os.path.join(dirName, entry)
+        # If entry is a directory then get the list of files in this directory 
+        if os.path.isdir(fullPath):
+            allFiles = allFiles + getListOfFiles(fullPath)
+        else:
+            allFiles.append(fullPath)
+#         print(allFiles)
+                
+    return allFiles
 
-    # switch to train mode
-    model.train()
+# def train(train_loader, model, criterion, optimizer, epoch, args):
+#     batch_time = AverageMeter('Time', ':6.3f')
+#     data_time = AverageMeter('Data', ':6.3f')
+#     losses = AverageMeter('Loss', ':.4e')
+#     top1 = AverageMeter('Acc@1', ':6.2f')
+#     top5 = AverageMeter('Acc@5', ':6.2f')
+#     progress = ProgressMeter(
+#         len(train_loader),
+#         [batch_time, data_time, losses, top1, top5],
+#         prefix="Epoch: [{}]".format(epoch))
 
-    end = time.time()
-    for i, (images, target) in enumerate(train_loader):
-        # measure data loading time
-        data_time.update(time.time() - end)
+#     # switch to train mode
+#     model.train()
 
-        if args.gpu is not None:
-            images = images.cuda(args.gpu, non_blocking=True)
-        if torch.cuda.is_available():
-            target = target.cuda(args.gpu, non_blocking=True)
+#     end = time.time()
+#     for i, (images, target) in enumerate(train_loader):
+#         # measure data loading time
+#         data_time.update(time.time() - end)
 
-        # compute output
-        output = model(images)
-        loss = criterion(output, target)
+#         if args.gpu is not None:
+#             images = images.cuda(args.gpu, non_blocking=True)
+#         if torch.cuda.is_available():
+#             target = target.cuda(args.gpu, non_blocking=True)
 
-        # measure accuracy and record loss
-        acc1, acc5 = accuracy(output, target, topk=(1, 5))
-        losses.update(loss.item(), images.size(0))
-        top1.update(acc1[0], images.size(0))
-        top5.update(acc5[0], images.size(0))
+#         # compute output
+#         output = model(images)
+#         loss = criterion(output, target)
 
-        # compute gradient and do SGD step
-        optimizer.zero_grad()
-        loss.backward()
-        optimizer.step()
+#         # measure accuracy and record loss
+#         acc1, acc5 = accuracy(output, target, topk=(1, 5))
+#         losses.update(loss.item(), images.size(0))
+#         top1.update(acc1[0], images.size(0))
+#         top5.update(acc5[0], images.size(0))
 
-        # measure elapsed time
-        batch_time.update(time.time() - end)
-        end = time.time()
+#         # compute gradient and do SGD step
+#         optimizer.zero_grad()
+#         loss.backward()
+#         optimizer.step()
 
-        if i % args.print_freq == 0:
-            progress.display(i)
+#         # measure elapsed time
+#         batch_time.update(time.time() - end)
+#         end = time.time()
+
+#         if i % args.print_freq == 0:
+#             progress.display(i)
 
 
 def validate(val_loader, model, criterion, args):
@@ -370,7 +394,7 @@ def validate(val_loader, model, criterion, args):
         end = time.time()
         for i, (images, target) in enumerate(val_loader):
             # print("Target: ")
-            # print(target)
+            # print(target) #A Tensor
             # print(images)
             if args.gpu is not None:
                 images = images.cuda(args.gpu, non_blocking=True)
@@ -380,26 +404,8 @@ def validate(val_loader, model, criterion, args):
             # compute output
             output = model(images)
             loss = criterion(output, target)
-
-            # Added from: https://pytorch.org/hub/pytorch_vision_resnet/
-            # Tensor of shape 1000, with confidence scores over Imagenet's 1000 classes
-            print("Output: ")
-            # print(output[0])
-            # The output has unnormalized scores. To get probabilities, you can run a softmax on it.
-            probabilities = torch.nn.functional.softmax(output[0], dim=0)
-            # print(probabilities)
-
-            # This may not be the best location! #MOVE
-            # Download ImageNet labels
-            # removed ! and executed in command line:
-            # !wget https://raw.githubusercontent.com/pytorch/hub/master/imagenet_classes.txt
-            # Read the categories
-            with open("imagenet_classes.txt", "r") as f:
-                categories = [s.strip() for s in f.readlines()]
-            # Show top categories per image
-            top5_prob, top5_catid = torch.topk(probabilities, 5)
-            for i in range(top5_prob.size(0)):
-                print(categories[top5_catid[i]], top5_prob[i].item())
+            # print("Output: ")
+            # print(output) #a tensor
 
             # measure accuracy and record loss
             acc1, acc5 = accuracy(output, target, topk=(1, 5))
@@ -410,6 +416,85 @@ def validate(val_loader, model, criterion, args):
             # measure elapsed time
             batch_time.update(time.time() - end)
             end = time.time()
+
+            # https://stackoverflow.com/questions/56699048/how-to-get-the-filename-of-a-sample-from-a-dataloader
+            sample_fname, _ = val_loader.dataset.samples[i]
+            print(sample_fname)
+            short_sample_fname = ntpath.basename(sample_fname) 
+            print(short_sample_fname)
+
+            #Added from CMC LinearProbing_val.py
+            f1 = open('test_result.txt', 'a')
+            # if i % opt.print_freq == 0:
+            if i % args.print_freq == 0:
+                print('Test: [{0}/{1}]\t'
+                      'Time {batch_time.val:.3f} ({batch_time.avg:.3f})\t'
+                      'Loss {loss.val:.4f} ({loss.avg:.4f})\t'
+                      'Acc@1 {top1.val:.3f} ({top1.avg:.3f})\t'
+                      'Acc@5 {top5.val:.3f} ({top5.avg:.3f})'.format(
+                       i, len(val_loader), batch_time=batch_time, loss=losses,
+                       top1=top1, top5=top5))
+
+                # NB this works for test data set BUT will need to use folder title and link the offset actual label####
+                #Make a loop, perhapse use a parser specifying imagenet!
+                # print(listOfFiles[i])
+
+
+                
+                # Added from: https://pytorch.org/hub/pytorch_vision_resnet/
+                # Tensor of shape 1000, with confidence scores over Imagenet's 1000 classes
+ 
+                # The output has unnormalized scores. To get probabilities, you can run a softmax on it.
+                probabilities = torch.nn.functional.softmax(output[0], dim=0)
+                # print(probabilities)
+
+                # This may not be the best location! #MOVE
+
+                # Download ImageNet labels: 
+                # removed ! and executed in command line:
+                # !wget https://raw.githubusercontent.com/pytorch/hub/master/imagenet_classes.txt
+                
+                # Read the categories
+                with open("imagenet_classes.txt", "r") as f2:
+                    categories = [s.strip() for s in f2.readlines()]
+                # Show top categories per image
+                top5_prob, top5_catid = torch.topk(probabilities, 5)
+                # for i in range(top5_prob.size(0)):
+                #     print(categories[top5_catid[i]], top5_prob[i].item())
+
+                # # Can I do the same for target as done for outout above to get the images label?
+                # # Should this be a probaility or just 1?????
+                # # Target should be just 1 number?
+                # probabilities = torch.nn.functional.softmax(target[0], dim=0)
+                
+                # top5_prob, top5_catid = torch.topk(probabilities, 5)
+                # for i in range(top5_prob.size(0)):
+                #     print(categories[top5_catid[i]], top5_prob[i].item())
+
+             
+
+
+                 # TO DO: PRINT ACTUAL FILE NAME NB - FIX
+                #Added Code
+                f1.write('Image: {0}\t'
+                        'Test: [{1}/{2}]\t'
+#                         'Output: {out}\t'
+                        'Loss: {loss.val:.4f}\t'
+                        'Acc@1 {top1.val:.3f} ({top1.avg:.3f})\t'
+                        'Acc@5 {top5.val:.3f} ({top5.avg:.3f})\t'
+                        '\n'.format(
+                         short_sample_fname, i, len(val_loader), loss=losses,
+                         top1=top1, top5=top5))                   
+                
+
+                for i in range(top5_prob.size(0)):
+                    print(categories[top5_catid[i]], top5_prob[i].item())
+                    f1.write('Prediction {0}: {1}, {2}\t'
+                            '\n'.format(
+                                i + 1, categories[top5_catid[i]], top5_prob[i].item()))
+
+                f2.close
+            f1.close 
 
             if i % args.print_freq == 0:
                 progress.display(i)
