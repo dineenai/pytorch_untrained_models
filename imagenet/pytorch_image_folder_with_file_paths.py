@@ -1,3 +1,4 @@
+# Script from https://gist.github.com/andrewjong/6b02ff237533b3b2c554701fb53d5c4d
 import torch
 from torchvision import datasets
 
