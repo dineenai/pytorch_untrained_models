@@ -1,0 +1,240 @@
+Image: ST_cat10_ele_tex7.png	Test: [0/40]	Loss: 14.9515	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8978657722473145	
+Prediction 2: window screen, 0.07036801427602768	
+Prediction 3: space heater, 0.009048085659742355	
+Prediction 4: honeycomb, 0.007480794098228216	
+Prediction 5: loudspeaker, 0.004926889203488827	
+Image: ST_cat12_ele_tex7.png	Test: [1/40]	Loss: 16.8210	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.9793905019760132	
+Prediction 2: space heater, 0.008133746683597565	
+Prediction 3: window screen, 0.0048330905847251415	
+Prediction 4: fire screen, 0.0022297115065157413	
+Prediction 5: digital clock, 0.0006498447619378567	
+Image: ST_cat13_ele_tex9.png	Test: [2/40]	Loss: 13.6734	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7724437713623047	
+Prediction 2: window screen, 0.1465083807706833	
+Prediction 3: fire screen, 0.018435783684253693	
+Prediction 4: microphone, 0.0173200536519289	
+Prediction 5: space heater, 0.012842663563787937	
+Image: ST_cat3_ele_tex8.png	Test: [3/40]	Loss: 14.2707	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.9564400911331177	
+Prediction 2: strainer, 0.03008701279759407	
+Prediction 3: honeycomb, 0.005276525858789682	
+Prediction 4: fire screen, 0.003969552926719189	
+Prediction 5: loudspeaker, 0.0006586291710846126	
+Image: ST_cat4_ele_tex3.png	Test: [4/40]	Loss: 13.8852	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.57279372215271	
+Prediction 2: strainer, 0.2250501960515976	
+Prediction 3: matchstick, 0.030792370438575745	
+Prediction 4: analog clock, 0.022969746962189674	
+Prediction 5: fire screen, 0.015634382143616676	
+Image: ST_cat7_ele_tex1.png	Test: [5/40]	Loss: 11.9936	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.867899477481842	
+Prediction 2: strainer, 0.07214401662349701	
+Prediction 3: honeycomb, 0.01623711921274662	
+Prediction 4: fire screen, 0.012391758151352406	
+Prediction 5: loudspeaker, 0.008208741433918476	
+Image: ST_cat8_ele_tex11.png	Test: [6/40]	Loss: 14.0652	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.9623066782951355	
+Prediction 2: strainer, 0.0290830135345459	
+Prediction 3: fire screen, 0.002884665736928582	
+Prediction 4: honeycomb, 0.0013244207948446274	
+Prediction 5: loudspeaker, 0.0009364326251670718	
+Image: ST_cat9_ele_tex5.png	Test: [7/40]	Loss: 17.7395	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.6353691816329956	
+Prediction 2: fire screen, 0.26126527786254883	
+Prediction 3: strainer, 0.08218168467283249	
+Prediction 4: matchstick, 0.007490191608667374	
+Prediction 5: digital clock, 0.0027097812853753567	
+Image: ST_ele11_cat_tex5.png	Test: [8/40]	Loss: 9.8878	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.5117892026901245	
+Prediction 2: strainer, 0.30365076661109924	
+Prediction 3: chain mail, 0.0735483393073082	
+Prediction 4: American chameleon, 0.024162568151950836	
+Prediction 5: green lizard, 0.008970024064183235	
+Image: ST_ele12_cat_tex7.png	Test: [9/40]	Loss: 14.1400	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.3689599931240082	
+Prediction 2: fire screen, 0.2840611934661865	
+Prediction 3: window screen, 0.11394215375185013	
+Prediction 4: oscilloscope, 0.05687989667057991	
+Prediction 5: honeycomb, 0.056518156081438065	
+Image: ST_ele1_cat_tex1.png	Test: [10/40]	Loss: 16.2239	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.626359760761261	
+Prediction 2: strainer, 0.27077946066856384	
+Prediction 3: fire screen, 0.06498836725950241	
+Prediction 4: matchstick, 0.016660908237099648	
+Prediction 5: honeycomb, 0.0034107824321836233	
+Image: ST_ele2_cat_tex6.png	Test: [11/40]	Loss: 14.1513	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.6995086073875427	
+Prediction 2: window screen, 0.21807755529880524	
+Prediction 3: fire screen, 0.05785422399640083	
+Prediction 4: honeycomb, 0.007018580567091703	
+Prediction 5: matchstick, 0.003130553290247917	
+Image: ST_ele3_cat_tex2.png	Test: [12/40]	Loss: 10.7188	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.758804202079773	
+Prediction 2: strainer, 0.15783219039440155	
+Prediction 3: fire screen, 0.012294849380850792	
+Prediction 4: microphone, 0.01149763073772192	
+Prediction 5: loudspeaker, 0.008760819211602211	
+Image: ST_ele5_cat_tex3.png	Test: [13/40]	Loss: 14.6775	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fire screen, 0.4656056761741638	
+Prediction 2: strainer, 0.3269384503364563	
+Prediction 3: window screen, 0.15861055254936218	
+Prediction 4: honeycomb, 0.02699929289519787	
+Prediction 5: space heater, 0.01928255520761013	
+Image: ST_ele6_cat_tex9.png	Test: [14/40]	Loss: 13.9441	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: space heater, 0.48260149359703064	
+Prediction 2: strainer, 0.253867506980896	
+Prediction 3: electric fan, 0.1618664413690567	
+Prediction 4: microphone, 0.05194534361362457	
+Prediction 5: loudspeaker, 0.012390006333589554	
+Image: ST_ele8_cat_tex8.png	Test: [15/40]	Loss: 17.1594	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: analog clock, 0.3757602870464325	
+Prediction 2: web site, 0.27351170778274536	
+Prediction 3: strainer, 0.06097030267119408	
+Prediction 4: wall clock, 0.048143982887268066	
+Prediction 5: digital clock, 0.03146757185459137	
+Image: cat10_ele_tex7.png	Test: [16/40]	Loss: 10.4210	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: analog clock, 0.19598373770713806	
+Prediction 2: matchstick, 0.08522571623325348	
+Prediction 3: window screen, 0.08520565181970596	
+Prediction 4: strainer, 0.07156242430210114	
+Prediction 5: crossword puzzle, 0.06505643576383591	
+Image: cat11_ele_tex6.png	Test: [17/40]	Loss: 8.3750	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: analog clock, 0.07411199808120728	
+Prediction 2: strainer, 0.06768008321523666	
+Prediction 3: crossword puzzle, 0.05095865577459335	
+Prediction 4: digital clock, 0.047981612384319305	
+Prediction 5: matchstick, 0.030863158404827118	
+Image: cat12_ele_tex2.png	Test: [18/40]	Loss: 10.2978	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: analog clock, 0.2080993950366974	
+Prediction 2: crossword puzzle, 0.11246480792760849	
+Prediction 3: oscilloscope, 0.06874953210353851	
+Prediction 4: digital clock, 0.06565696746110916	
+Prediction 5: web site, 0.05827390030026436	
+Image: cat13._ele_tex9.png	Test: [19/40]	Loss: 10.3755	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.5344579219818115	
+Prediction 2: strainer, 0.11689136177301407	
+Prediction 3: analog clock, 0.06843402981758118	
+Prediction 4: fire screen, 0.0272273700684309	
+Prediction 5: chainlink fence, 0.01445995457470417	
+Image: cat1_ele_tex_12.png	Test: [20/40]	Loss: 11.6744	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leopard, 0.6290382146835327	
+Prediction 2: jaguar, 0.07069772481918335	
+Prediction 3: cheetah, 0.04960056394338608	
+Prediction 4: crossword puzzle, 0.03136582300066948	
+Prediction 5: flatworm, 0.03064887598156929	
+Image: cat3_ele_tex8.png	Test: [21/40]	Loss: 9.4343	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: crossword puzzle, 0.24725528061389923	
+Prediction 2: analog clock, 0.08499302715063095	
+Prediction 3: jigsaw puzzle, 0.07658600062131882	
+Prediction 4: matchstick, 0.042210500687360764	
+Prediction 5: digital clock, 0.036528751254081726	
+Image: cat4_ele_tex13.png	Test: [22/40]	Loss: 8.9233	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.09438256174325943	
+Prediction 2: analog clock, 0.06880718469619751	
+Prediction 3: window screen, 0.04031840339303017	
+Prediction 4: matchstick, 0.03219083324074745	
+Prediction 5: syringe, 0.028577066957950592	
+Image: cat5_ele_tex4.png	Test: [23/40]	Loss: 8.9128	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: matchstick, 0.15655013918876648	
+Prediction 2: strainer, 0.14332827925682068	
+Prediction 3: analog clock, 0.11260849237442017	
+Prediction 4: window screen, 0.061473358422517776	
+Prediction 5: digital clock, 0.059281740337610245	
+Image: cat6_ele_tex_10.png	Test: [24/40]	Loss: 9.6662	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.09917658567428589	
+Prediction 2: crossword puzzle, 0.08728612959384918	
+Prediction 3: matchstick, 0.07591839879751205	
+Prediction 4: analog clock, 0.07251040637493134	
+Prediction 5: strainer, 0.048057232052087784	
+Image: cat7_ele_tex1.png	Test: [25/40]	Loss: 10.3518	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.6564844846725464	
+Prediction 2: strainer, 0.1359492540359497	
+Prediction 3: fire screen, 0.0783306285738945	
+Prediction 4: matchstick, 0.019795283675193787	
+Prediction 5: honeycomb, 0.014529402367770672	
+Image: cat8_ele_tex11.png	Test: [26/40]	Loss: 8.7205	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.24422681331634521	
+Prediction 2: window screen, 0.23951880633831024	
+Prediction 3: analog clock, 0.0573887899518013	
+Prediction 4: matchstick, 0.039364200085401535	
+Prediction 5: digital clock, 0.031709592789411545	
+Image: cat9_ele_tex5.png	Test: [27/40]	Loss: 9.9334	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.135519877076149	
+Prediction 2: analog clock, 0.1194334402680397	
+Prediction 3: matchstick, 0.0848405510187149	
+Prediction 4: digital clock, 0.061960458755493164	
+Prediction 5: crossword puzzle, 0.03420253098011017	
+Image: ele10_cat_tex12.png	Test: [28/40]	Loss: 7.4235	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.3886747658252716	
+Prediction 2: analog clock, 0.045646533370018005	
+Prediction 3: window screen, 0.030593758448958397	
+Prediction 4: puffer, 0.02832156978547573	
+Prediction 5: microphone, 0.022241296246647835	
+Image: ele11_cat_tex5.png	Test: [29/40]	Loss: 9.2567	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: web site, 0.06771758943796158	
+Prediction 2: matchstick, 0.03911812976002693	
+Prediction 3: analog clock, 0.0373411625623703	
+Prediction 4: lighter, 0.03698228299617767	
+Prediction 5: crossword puzzle, 0.03593941032886505	
+Image: ele12_cat_tex7.png	Test: [30/40]	Loss: 10.1520	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: oscilloscope, 0.417720764875412	
+Prediction 2: analog clock, 0.1076292097568512	
+Prediction 3: crossword puzzle, 0.09683863073587418	
+Prediction 4: web site, 0.047105152159929276	
+Prediction 5: digital clock, 0.04216887056827545	
+Image: ele1_cat_tex1.png	Test: [31/40]	Loss: 10.3371	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: web site, 0.2500613033771515	
+Prediction 2: analog clock, 0.16518902778625488	
+Prediction 3: wall clock, 0.04051458463072777	
+Prediction 4: stopwatch, 0.03228100761771202	
+Prediction 5: digital clock, 0.031347695738077164	
+Image: ele2_cat_tex6.png	Test: [32/40]	Loss: 10.2469	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: oscilloscope, 0.336213082075119	
+Prediction 2: analog clock, 0.14486418664455414	
+Prediction 3: crossword puzzle, 0.10891138017177582	
+Prediction 4: digital clock, 0.06057138741016388	
+Prediction 5: web site, 0.037164926528930664	
+Image: ele3_cat_tex2.png	Test: [33/40]	Loss: 8.4272	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.15517519414424896	
+Prediction 2: analog clock, 0.12938587367534637	
+Prediction 3: matchstick, 0.11539869755506516	
+Prediction 4: window screen, 0.06620039790868759	
+Prediction 5: digital clock, 0.035392459481954575	
+Image: ele4_cat_tex10..png	Test: [34/40]	Loss: 10.3102	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: oscilloscope, 0.27582383155822754	
+Prediction 2: analog clock, 0.12597137689590454	
+Prediction 3: digital clock, 0.11440317332744598	
+Prediction 4: matchstick, 0.1090305745601654	
+Prediction 5: crossword puzzle, 0.08979308605194092	
+Image: ele5_cat_tex3.png	Test: [35/40]	Loss: 10.4283	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: oscilloscope, 0.25016722083091736	
+Prediction 2: digital clock, 0.16147205233573914	
+Prediction 3: fire screen, 0.14388108253479004	
+Prediction 4: matchstick, 0.13216182589530945	
+Prediction 5: analog clock, 0.09624885022640228	
+Image: ele6_cat_tex9.png	Test: [36/40]	Loss: 11.5858	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: web site, 0.5434603095054626	
+Prediction 2: knot, 0.051495976746082306	
+Prediction 3: analog clock, 0.04442064091563225	
+Prediction 4: matchstick, 0.030689479783177376	
+Prediction 5: syringe, 0.025355126708745956	
+Image: ele7_cat_tex11.png	Test: [37/40]	Loss: 9.8418	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: analog clock, 0.17605337500572205	
+Prediction 2: matchstick, 0.14989250898361206	
+Prediction 3: strainer, 0.07658922672271729	
+Prediction 4: digital clock, 0.06060611084103584	
+Prediction 5: window screen, 0.0334855318069458	
+Image: ele8_cat_tex8.png	Test: [38/40]	Loss: 16.4126	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: web site, 0.9557157754898071	
+Prediction 2: analog clock, 0.012370109558105469	
+Prediction 3: stopwatch, 0.0044323173351585865	
+Prediction 4: knot, 0.003241781610995531	
+Prediction 5: crossword puzzle, 0.0020683116745203733	
+Image: ele9_cat_tex15.png	Test: [39/40]	Loss: 8.6770	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: matchstick, 0.22370678186416626	
+Prediction 2: strainer, 0.22003298997879028	
+Prediction 3: leopard, 0.056114111095666885	
+Prediction 4: analog clock, 0.053241029381752014	
+Prediction 5: digital clock, 0.03836784511804581	

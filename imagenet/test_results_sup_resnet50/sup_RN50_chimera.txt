@@ -1,0 +1,240 @@
+Image: ST_cat10_ele_tex7.png	Test: [0/40]	Loss: 11.9971	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.5269857048988342	
+Prediction 2: tusker, 0.311771959066391	
+Prediction 3: Indian elephant, 0.11283601075410843	
+Prediction 4: triceratops, 0.0172830019146204	
+Prediction 5: leatherback turtle, 0.009448823519051075	
+Image: ST_cat12_ele_tex7.png	Test: [1/40]	Loss: 7.3925	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: bassinet, 0.33366039395332336	
+Prediction 2: African elephant, 0.08682102710008621	
+Prediction 3: tusker, 0.07070177793502808	
+Prediction 4: quilt, 0.035398222506046295	
+Prediction 5: leatherback turtle, 0.029826080426573753	
+Image: ST_cat13_ele_tex9.png	Test: [2/40]	Loss: 8.8730	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.49996840953826904	
+Prediction 2: tusker, 0.17226389050483704	
+Prediction 3: triceratops, 0.10576969385147095	
+Prediction 4: Indian elephant, 0.07375022768974304	
+Prediction 5: African grey, 0.029944637790322304	
+Image: ST_cat3_ele_tex8.png	Test: [3/40]	Loss: 7.3320	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.2616971433162689	
+Prediction 2: Indian elephant, 0.10373713076114655	
+Prediction 3: tusker, 0.09202633053064346	
+Prediction 4: hippopotamus, 0.055467311292886734	
+Prediction 5: triceratops, 0.04091940075159073	
+Image: ST_cat4_ele_tex3.png	Test: [4/40]	Loss: 15.2424	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.507707953453064	
+Prediction 2: tusker, 0.4450050890445709	
+Prediction 3: Indian elephant, 0.04621664434671402	
+Prediction 4: triceratops, 0.0001591365726199001	
+Prediction 5: warthog, 0.00011305069347145036	
+Image: ST_cat7_ele_tex1.png	Test: [5/40]	Loss: 10.3030	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.4584971070289612	
+Prediction 2: Indian elephant, 0.21319755911827087	
+Prediction 3: tusker, 0.12275945395231247	
+Prediction 4: warthog, 0.026670532301068306	
+Prediction 5: triceratops, 0.013887445442378521	
+Image: ST_cat8_ele_tex11.png	Test: [6/40]	Loss: 7.1671	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leatherback turtle, 0.07412843406200409	
+Prediction 2: bassinet, 0.03682238608598709	
+Prediction 3: African grey, 0.03395069018006325	
+Prediction 4: loggerhead, 0.029823090881109238	
+Prediction 5: bathtub, 0.028716452419757843	
+Image: ST_cat9_ele_tex5.png	Test: [7/40]	Loss: 19.4575	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.7823672890663147	
+Prediction 2: tusker, 0.1324593424797058	
+Prediction 3: Indian elephant, 0.08341478556394577	
+Prediction 4: hippopotamus, 0.001420560758560896	
+Prediction 5: trilobite, 0.00012560463801492006	
+Image: ST_ele11_cat_tex5.png	Test: [8/40]	Loss: 11.1242	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: hyena, 0.16174983978271484	
+Prediction 2: African crocodile, 0.13818548619747162	
+Prediction 3: sandbar, 0.0895359069108963	
+Prediction 4: Chesapeake Bay retriever, 0.047791555523872375	
+Prediction 5: dowitcher, 0.03604402393102646	
+Image: ST_ele12_cat_tex7.png	Test: [9/40]	Loss: 11.2420	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: jaguar, 0.5059667825698853	
+Prediction 2: velvet, 0.23074689507484436	
+Prediction 3: leopard, 0.04382386803627014	
+Prediction 4: dalmatian, 0.020192928612232208	
+Prediction 5: mailbag, 0.014410709962248802	
+Image: ST_ele1_cat_tex1.png	Test: [10/40]	Loss: 10.1745	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: frilled lizard, 0.16728459298610687	
+Prediction 2: agama, 0.10606341063976288	
+Prediction 3: common iguana, 0.073025181889534	
+Prediction 4: leatherback turtle, 0.06257254630327225	
+Prediction 5: loggerhead, 0.041014209389686584	
+Image: ST_ele2_cat_tex6.png	Test: [11/40]	Loss: 15.7538	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: hyena, 0.436522901058197	
+Prediction 2: cheetah, 0.27111947536468506	
+Prediction 3: diamondback, 0.08287569135427475	
+Prediction 4: lynx, 0.056263770908117294	
+Prediction 5: leopard, 0.04392487555742264	
+Image: ST_ele3_cat_tex2.png	Test: [12/40]	Loss: 12.4173	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: three-toed sloth, 0.34378549456596375	
+Prediction 2: macaque, 0.07494610548019409	
+Prediction 3: brown bear, 0.07400792092084885	
+Prediction 4: badger, 0.06023484095931053	
+Prediction 5: baboon, 0.04779645800590515	
+Image: ST_ele5_cat_tex3.png	Test: [13/40]	Loss: 9.0838	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: goldfish, 0.5039985179901123	
+Prediction 2: volcano, 0.04021250456571579	
+Prediction 3: jellyfish, 0.035025570541620255	
+Prediction 4: starfish, 0.024987975135445595	
+Prediction 5: guinea pig, 0.01383033487945795	
+Image: ST_ele6_cat_tex9.png	Test: [14/40]	Loss: 6.3578	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African grey, 0.10559365898370743	
+Prediction 2: pelican, 0.08941926807165146	
+Prediction 3: albatross, 0.0802738294005394	
+Prediction 4: American egret, 0.07793591916561127	
+Prediction 5: Great Pyrenees, 0.05348965525627136	
+Image: ST_ele8_cat_tex8.png	Test: [15/40]	Loss: 13.1416	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: three-toed sloth, 0.42927777767181396	
+Prediction 2: beaver, 0.1909155249595642	
+Prediction 3: porcupine, 0.11446614563465118	
+Prediction 4: brown bear, 0.04853430017828941	
+Prediction 5: Irish wolfhound, 0.025816941633820534	
+Image: cat10_ele_tex7.png	Test: [16/40]	Loss: 12.5552	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: triceratops, 0.20552697777748108	
+Prediction 2: African elephant, 0.20405301451683044	
+Prediction 3: tusker, 0.13323837518692017	
+Prediction 4: wool, 0.07767584174871445	
+Prediction 5: cuirass, 0.05856853350996971	
+Image: cat11_ele_tex6.png	Test: [17/40]	Loss: 11.5283	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: triceratops, 0.1750679910182953	
+Prediction 2: bassinet, 0.14925384521484375	
+Prediction 3: knot, 0.10657081753015518	
+Prediction 4: buckle, 0.04544639214873314	
+Prediction 5: horned viper, 0.03289182111620903	
+Image: cat12_ele_tex2.png	Test: [18/40]	Loss: 12.2782	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: triceratops, 0.40270960330963135	
+Prediction 2: wool, 0.1713399589061737	
+Prediction 3: stole, 0.04957481473684311	
+Prediction 4: bassinet, 0.018423784524202347	
+Prediction 5: muzzle, 0.014091841876506805	
+Image: cat13._ele_tex9.png	Test: [19/40]	Loss: 11.9320	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: wool, 0.5816295742988586	
+Prediction 2: triceratops, 0.12437684834003448	
+Prediction 3: tusker, 0.040052905678749084	
+Prediction 4: chain mail, 0.03708229213953018	
+Prediction 5: stole, 0.029965214431285858	
+Image: cat1_ele_tex_12.png	Test: [20/40]	Loss: 13.5328	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: knot, 0.7095839381217957	
+Prediction 2: buckle, 0.035918887704610825	
+Prediction 3: panpipe, 0.013052527792751789	
+Prediction 4: letter opener, 0.01298573613166809	
+Prediction 5: hair slide, 0.012292401865124702	
+Image: cat3_ele_tex8.png	Test: [21/40]	Loss: 12.4366	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: conch, 0.3947691321372986	
+Prediction 2: triceratops, 0.269656240940094	
+Prediction 3: kite, 0.06363387405872345	
+Prediction 4: panpipe, 0.05590895563364029	
+Prediction 5: stole, 0.038301967084407806	
+Image: cat4_ele_tex13.png	Test: [22/40]	Loss: 10.4478	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: triceratops, 0.311745822429657	
+Prediction 2: stole, 0.1466030776500702	
+Prediction 3: wool, 0.09737811982631683	
+Prediction 4: sweatshirt, 0.03183997794985771	
+Prediction 5: sleeping bag, 0.028791258111596107	
+Image: cat5_ele_tex4.png	Test: [23/40]	Loss: 12.2071	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: trilobite, 0.1446537971496582	
+Prediction 2: bassinet, 0.11568176746368408	
+Prediction 3: electric ray, 0.11102139949798584	
+Prediction 4: bonnet, 0.0944054052233696	
+Prediction 5: triceratops, 0.08261972665786743	
+Image: cat6_ele_tex_10.png	Test: [24/40]	Loss: 12.4809	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: triceratops, 0.24272216856479645	
+Prediction 2: wool, 0.18300709128379822	
+Prediction 3: stole, 0.18097420036792755	
+Prediction 4: poncho, 0.14096370339393616	
+Prediction 5: cuirass, 0.03550208359956741	
+Image: cat7_ele_tex1.png	Test: [25/40]	Loss: 15.5119	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: wool, 0.6365419030189514	
+Prediction 2: mitten, 0.08093872666358948	
+Prediction 3: poncho, 0.043407417833805084	
+Prediction 4: stole, 0.026901712641119957	
+Prediction 5: knee pad, 0.026056036353111267	
+Image: cat8_ele_tex11.png	Test: [26/40]	Loss: 12.1699	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: triceratops, 0.36142629384994507	
+Prediction 2: African elephant, 0.25616180896759033	
+Prediction 3: tusker, 0.15509448945522308	
+Prediction 4: wool, 0.06040344387292862	
+Prediction 5: Indian elephant, 0.053938426077365875	
+Image: cat9_ele_tex5.png	Test: [27/40]	Loss: 14.6984	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: triceratops, 0.4694351553916931	
+Prediction 2: trilobite, 0.25302472710609436	
+Prediction 3: African elephant, 0.1082635223865509	
+Prediction 4: isopod, 0.021424058824777603	
+Prediction 5: tusker, 0.015216321684420109	
+Image: ele10_cat_tex12.png	Test: [28/40]	Loss: 12.0734	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: triceratops, 0.48733824491500854	
+Prediction 2: African elephant, 0.12516894936561584	
+Prediction 3: warthog, 0.10585468262434006	
+Prediction 4: tusker, 0.020495090633630753	
+Prediction 5: Indian elephant, 0.018744133412837982	
+Image: ele11_cat_tex5.png	Test: [29/40]	Loss: 9.9051	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: wool, 0.12823377549648285	
+Prediction 2: trilobite, 0.048098258674144745	
+Prediction 3: swab, 0.033990804105997086	
+Prediction 4: triceratops, 0.03360676392912865	
+Prediction 5: cliff, 0.0330355130136013	
+Image: ele12_cat_tex7.png	Test: [30/40]	Loss: 11.1917	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: mitten, 0.26248541474342346	
+Prediction 2: velvet, 0.11679533123970032	
+Prediction 3: wool, 0.10704130679368973	
+Prediction 4: fur coat, 0.0747276246547699	
+Prediction 5: poncho, 0.030783239752054214	
+Image: ele1_cat_tex1.png	Test: [31/40]	Loss: 12.9775	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: thatch, 0.6346978545188904	
+Prediction 2: cliff, 0.14504973590373993	
+Prediction 3: triceratops, 0.037498850375413895	
+Prediction 4: ibex, 0.018370820209383965	
+Prediction 5: promontory, 0.015439986251294613	
+Image: ele2_cat_tex6.png	Test: [32/40]	Loss: 17.8490	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: hyena, 0.92649906873703	
+Prediction 2: Egyptian cat, 0.04740551859140396	
+Prediction 3: African chameleon, 0.005757137667387724	
+Prediction 4: snow leopard, 0.0042905909940600395	
+Prediction 5: cheetah, 0.004116791300475597	
+Image: ele3_cat_tex2.png	Test: [33/40]	Loss: 15.6650	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.5266510248184204	
+Prediction 2: Indian elephant, 0.13822516798973083	
+Prediction 3: tusker, 0.11825889348983765	
+Prediction 4: wool, 0.04531314596533775	
+Prediction 5: thatch, 0.0343327559530735	
+Image: ele4_cat_tex10..png	Test: [34/40]	Loss: 11.5562	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: triceratops, 0.4918099641799927	
+Prediction 2: trilobite, 0.05211351811885834	
+Prediction 3: broom, 0.03608235344290733	
+Prediction 4: African elephant, 0.02822546847164631	
+Prediction 5: conch, 0.02665860392153263	
+Image: ele5_cat_tex3.png	Test: [35/40]	Loss: 9.7415	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: triceratops, 0.35249221324920654	
+Prediction 2: red wolf, 0.14535893499851227	
+Prediction 3: African elephant, 0.02137514390051365	
+Prediction 4: warthog, 0.019909894093871117	
+Prediction 5: poncho, 0.016662076115608215	
+Image: ele6_cat_tex9.png	Test: [36/40]	Loss: 14.6137	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: wool, 0.5625770688056946	
+Prediction 2: sarong, 0.10893372446298599	
+Prediction 3: swab, 0.04879722371697426	
+Prediction 4: stole, 0.03786147013306618	
+Prediction 5: knee pad, 0.034152183681726456	
+Image: ele7_cat_tex11.png	Test: [37/40]	Loss: 13.5588	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: wool, 0.3183635175228119	
+Prediction 2: triceratops, 0.07232274115085602	
+Prediction 3: wild boar, 0.06621955335140228	
+Prediction 4: badger, 0.05363459140062332	
+Prediction 5: trilobite, 0.05203033238649368	
+Image: ele8_cat_tex8.png	Test: [38/40]	Loss: 15.3033	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: swab, 0.4951171875	
+Prediction 2: komondor, 0.32613083720207214	
+Prediction 3: wool, 0.08489104360342026	
+Prediction 4: stole, 0.03266206383705139	
+Prediction 5: poncho, 0.012102956883609295	
+Image: ele9_cat_tex15.png	Test: [39/40]	Loss: 12.4409	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.19058173894882202	
+Prediction 2: red wolf, 0.1430993676185608	
+Prediction 3: broom, 0.14258606731891632	
+Prediction 4: ox, 0.0503118522465229	
+Prediction 5: golden retriever, 0.03839508071541786	

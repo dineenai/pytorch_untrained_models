@@ -1,0 +1,318 @@
+Image: cat1.png	Test: [0/53]	Loss: 13.2427	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leopard, 0.8134419322013855	
+Prediction 2: jaguar, 0.12018023431301117	
+Prediction 3: cheetah, 0.0200965479016304	
+Prediction 4: crossword puzzle, 0.002358324360102415	
+Prediction 5: strainer, 0.0021173688583076	
+Image: cat10.png	Test: [1/53]	Loss: 12.6979	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.24888968467712402	
+Prediction 2: analog clock, 0.10035291314125061	
+Prediction 3: barbershop, 0.0814569741487503	
+Prediction 4: cheetah, 0.05907156690955162	
+Prediction 5: microphone, 0.029828717932105064	
+Image: cat11.png	Test: [2/53]	Loss: 12.0324	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7127569913864136	
+Prediction 2: hook, 0.033840104937553406	
+Prediction 3: microphone, 0.029775470495224	
+Prediction 4: shovel, 0.010909637436270714	
+Prediction 5: combination lock, 0.009820176288485527	
+Image: cat12.png	Test: [3/53]	Loss: 14.7124	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: web site, 0.25865209102630615	
+Prediction 2: analog clock, 0.15733949840068817	
+Prediction 3: oscilloscope, 0.08737632632255554	
+Prediction 4: nematode, 0.08468545973300934	
+Prediction 5: digital clock, 0.0307382270693779	
+Image: cat13.png	Test: [4/53]	Loss: 9.4718	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: chain mail, 0.1774047613143921	
+Prediction 2: apron, 0.12366306036710739	
+Prediction 3: puffer, 0.11631159484386444	
+Prediction 4: leopard, 0.08958263695240021	
+Prediction 5: strainer, 0.07267551124095917	
+Image: cat2.png	Test: [5/53]	Loss: 10.8446	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.7283133864402771	
+Prediction 2: strainer, 0.18018357455730438	
+Prediction 3: honeycomb, 0.022631151601672173	
+Prediction 4: chain mail, 0.013776768930256367	
+Prediction 5: doormat, 0.005554539617151022	
+Image: cat3.png	Test: [6/53]	Loss: 11.9599	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leopard, 0.432053804397583	
+Prediction 2: jaguar, 0.07969647645950317	
+Prediction 3: cheetah, 0.049693744629621506	
+Prediction 4: strainer, 0.043718818575143814	
+Prediction 5: analog clock, 0.04122176766395569	
+Image: cat4.png	Test: [7/53]	Loss: 10.5745	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: web site, 0.14912213385105133	
+Prediction 2: analog clock, 0.06338077038526535	
+Prediction 3: perfume, 0.04308868944644928	
+Prediction 4: Egyptian cat, 0.041476476937532425	
+Prediction 5: strainer, 0.03859421983361244	
+Image: cat5.png	Test: [8/53]	Loss: 10.8736	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.2237738072872162	
+Prediction 2: analog clock, 0.18517139554023743	
+Prediction 3: crossword puzzle, 0.04755937308073044	
+Prediction 4: matchstick, 0.029531776905059814	
+Prediction 5: web site, 0.024634376168251038	
+Image: cat6.png	Test: [9/53]	Loss: 10.2909	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: zebra, 0.08481159806251526	
+Prediction 2: strainer, 0.04450152441859245	
+Prediction 3: bow tie, 0.034787148237228394	
+Prediction 4: maillot, 0.03056176006793976	
+Prediction 5: sock, 0.027707500383257866	
+Image: cat7.png	Test: [10/53]	Loss: 9.8430	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.21350695192813873	
+Prediction 2: microphone, 0.20554764568805695	
+Prediction 3: window screen, 0.11224458366632462	
+Prediction 4: chain mail, 0.06229221075773239	
+Prediction 5: honeycomb, 0.05216149985790253	
+Image: cat8.png	Test: [11/53]	Loss: 15.3600	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: web site, 0.6785459518432617	
+Prediction 2: analog clock, 0.07401913404464722	
+Prediction 3: knot, 0.018580645322799683	
+Prediction 4: wall clock, 0.014904332347214222	
+Prediction 5: syringe, 0.014689629897475243	
+Image: cat9.png	Test: [12/53]	Loss: 12.3981	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8239807486534119	
+Prediction 2: microphone, 0.015950648114085197	
+Prediction 3: analog clock, 0.012393705546855927	
+Prediction 4: matchstick, 0.011368395760655403	
+Prediction 5: digital clock, 0.010816003195941448	
+Image: cat_tex1.png	Test: [13/53]	Loss: 13.7448	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.3456575870513916	
+Prediction 2: window screen, 0.1384667158126831	
+Prediction 3: matchstick, 0.10198353230953217	
+Prediction 4: analog clock, 0.04520173743367195	
+Prediction 5: fire screen, 0.03282624110579491	
+Image: cat_tex10.png	Test: [14/53]	Loss: 18.5763	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fire screen, 0.5063777565956116	
+Prediction 2: window screen, 0.4125090539455414	
+Prediction 3: strainer, 0.07516813278198242	
+Prediction 4: matchstick, 0.0026466171257197857	
+Prediction 5: space heater, 0.0008439845405519009	
+Image: cat_tex11.png	Test: [15/53]	Loss: 16.7506	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.7482643723487854	
+Prediction 2: strainer, 0.17767837643623352	
+Prediction 3: fire screen, 0.0632854774594307	
+Prediction 4: matchstick, 0.0023739582393318415	
+Prediction 5: loudspeaker, 0.0021707620471715927	
+Image: cat_tex12.png	Test: [16/53]	Loss: 7.9705	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.278659462928772	
+Prediction 2: window screen, 0.20199686288833618	
+Prediction 3: puffer, 0.1448659747838974	
+Prediction 4: jackfruit, 0.0710102990269661	
+Prediction 5: honeycomb, 0.05696175992488861	
+Image: cat_tex13.png	Test: [17/53]	Loss: 12.4304	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.8316338062286377	
+Prediction 2: strainer, 0.10268126428127289	
+Prediction 3: fire screen, 0.02222549170255661	
+Prediction 4: matchstick, 0.005038385279476643	
+Prediction 5: loudspeaker, 0.004734396003186703	
+Image: cat_tex14.png	Test: [18/53]	Loss: 12.8859	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.7054280042648315	
+Prediction 2: strainer, 0.16935519874095917	
+Prediction 3: fire screen, 0.05849064886569977	
+Prediction 4: honeycomb, 0.010100636631250381	
+Prediction 5: matchstick, 0.006688243243843317	
+Image: cat_tex15.png	Test: [19/53]	Loss: 13.7151	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.8859661221504211	
+Prediction 2: strainer, 0.06488548964262009	
+Prediction 3: fire screen, 0.03590390831232071	
+Prediction 4: honeycomb, 0.007729898672550917	
+Prediction 5: loudspeaker, 0.0009011065703816712	
+Image: cat_tex2.png	Test: [20/53]	Loss: 12.4112	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.7233098745346069	
+Prediction 2: strainer, 0.1876692920923233	
+Prediction 3: fire screen, 0.03671712055802345	
+Prediction 4: matchstick, 0.009805784560739994	
+Prediction 5: loudspeaker, 0.00458558602258563	
+Image: cat_tex3.png	Test: [21/53]	Loss: 16.6644	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fire screen, 0.6202420592308044	
+Prediction 2: window screen, 0.30273476243019104	
+Prediction 3: strainer, 0.06667721271514893	
+Prediction 4: honeycomb, 0.0036232187412679195	
+Prediction 5: space heater, 0.0032069096341729164	
+Image: cat_tex4.png	Test: [22/53]	Loss: 6.8847	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.21762065589427948	
+Prediction 2: puffer, 0.1869998425245285	
+Prediction 3: window screen, 0.1283731758594513	
+Prediction 4: eel, 0.06715364754199982	
+Prediction 5: brain coral, 0.04759761318564415	
+Image: cat_tex5.png	Test: [23/53]	Loss: 13.1144	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.9782271385192871	
+Prediction 2: strainer, 0.016471294686198235	
+Prediction 3: chain mail, 0.0011635953560471535	
+Prediction 4: honeycomb, 0.0005443474510684609	
+Prediction 5: doormat, 0.00040563245420344174	
+Image: cat_tex6.png	Test: [24/53]	Loss: 12.1931	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.7269944548606873	
+Prediction 2: strainer, 0.08087543398141861	
+Prediction 3: fire screen, 0.06515328586101532	
+Prediction 4: matchstick, 0.03836396709084511	
+Prediction 5: lampshade, 0.00560002401471138	
+Image: cat_tex7.png	Test: [25/53]	Loss: 10.8892	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.30606916546821594	
+Prediction 2: fire screen, 0.1387692540884018	
+Prediction 3: strainer, 0.12927564978599548	
+Prediction 4: honeycomb, 0.0522124357521534	
+Prediction 5: matchstick, 0.038887228816747665	
+Image: cat_tex8.png	Test: [26/53]	Loss: 18.9850	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: web site, 0.9474202990531921	
+Prediction 2: analog clock, 0.018548792228102684	
+Prediction 3: stopwatch, 0.005249079316854477	
+Prediction 4: knot, 0.004483032505959272	
+Prediction 5: hook, 0.003498261561617255	
+Image: cat_tex9.png	Test: [27/53]	Loss: 15.6326	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.7039793729782104	
+Prediction 2: strainer, 0.25927212834358215	
+Prediction 3: fire screen, 0.025186343118548393	
+Prediction 4: loudspeaker, 0.0031323349103331566	
+Prediction 5: honeycomb, 0.0028893074486404657	
+Image: elephant1.png	Test: [28/53]	Loss: 7.7485	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leopard, 0.35068029165267944	
+Prediction 2: cheetah, 0.21819092333316803	
+Prediction 3: jaguar, 0.0682840347290039	
+Prediction 4: oscilloscope, 0.04080246016383171	
+Prediction 5: strainer, 0.04073473438620567	
+Image: elephant10.png	Test: [29/53]	Loss: 11.1928	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: analog clock, 0.18942472338676453	
+Prediction 2: crossword puzzle, 0.18089398741722107	
+Prediction 3: oscilloscope, 0.09659914672374725	
+Prediction 4: strainer, 0.08512625098228455	
+Prediction 5: web site, 0.0797746330499649	
+Image: elephant11.png	Test: [30/53]	Loss: 10.7233	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leopard, 0.43853357434272766	
+Prediction 2: jaguar, 0.18328508734703064	
+Prediction 3: cheetah, 0.12165994197130203	
+Prediction 4: crossword puzzle, 0.019382962957024574	
+Prediction 5: web site, 0.013133774511516094	
+Image: elephant12.png	Test: [31/53]	Loss: 8.6352	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: zebra, 0.17923377454280853	
+Prediction 2: web site, 0.13534191250801086	
+Prediction 3: leopard, 0.06483182311058044	
+Prediction 4: knot, 0.04407428950071335	
+Prediction 5: strainer, 0.04396989569067955	
+Image: elephant2.png	Test: [32/53]	Loss: 8.7066	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.2863241732120514	
+Prediction 2: cheetah, 0.0793665423989296	
+Prediction 3: microphone, 0.06110220029950142	
+Prediction 4: web site, 0.05001275986433029	
+Prediction 5: matchstick, 0.04443531855940819	
+Image: elephant3.png	Test: [33/53]	Loss: 8.6280	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: microphone, 0.20184902846813202	
+Prediction 2: puffer, 0.14660649001598358	
+Prediction 3: leopard, 0.11773681640625	
+Prediction 4: cheetah, 0.09246871620416641	
+Prediction 5: thimble, 0.07456482946872711	
+Image: elephant4.png	Test: [34/53]	Loss: 10.1243	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leopard, 0.36135736107826233	
+Prediction 2: cheetah, 0.23618927597999573	
+Prediction 3: jaguar, 0.12777851521968842	
+Prediction 4: crossword puzzle, 0.02686380036175251	
+Prediction 5: oscilloscope, 0.02357710339128971	
+Image: elephant5.png	Test: [35/53]	Loss: 12.7961	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leopard, 0.5531864762306213	
+Prediction 2: cheetah, 0.3242715299129486	
+Prediction 3: jaguar, 0.07998423278331757	
+Prediction 4: eel, 0.004814130254089832	
+Prediction 5: strainer, 0.0034208146389573812	
+Image: elephant6.png	Test: [36/53]	Loss: 11.9356	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leopard, 0.41750437021255493	
+Prediction 2: cheetah, 0.410287469625473	
+Prediction 3: jaguar, 0.057162292301654816	
+Prediction 4: crossword puzzle, 0.012521314434707165	
+Prediction 5: analog clock, 0.008718736469745636	
+Image: elephant7.jpg	Test: [37/53]	Loss: 6.6459	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: matchstick, 0.20322325825691223	
+Prediction 2: strainer, 0.19695626199245453	
+Prediction 3: lighter, 0.09296654909849167	
+Prediction 4: microphone, 0.0808921530842781	
+Prediction 5: leopard, 0.04526279866695404	
+Image: elephant8.png	Test: [38/53]	Loss: 11.0684	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: oscilloscope, 0.4105420708656311	
+Prediction 2: crossword puzzle, 0.19784854352474213	
+Prediction 3: analog clock, 0.07635892927646637	
+Prediction 4: digital clock, 0.033695682883262634	
+Prediction 5: web site, 0.030476383864879608	
+Image: elephant9.png	Test: [39/53]	Loss: 14.2603	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leopard, 0.7451621294021606	
+Prediction 2: jaguar, 0.14634107053279877	
+Prediction 3: cheetah, 0.07710147649049759	
+Prediction 4: crossword puzzle, 0.016556883230805397	
+Prediction 5: oscilloscope, 0.0056924112141132355	
+Image: elephant_tex1.png	Test: [40/53]	Loss: 13.2146	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.9738004207611084	
+Prediction 2: strainer, 0.012958996929228306	
+Prediction 3: fire screen, 0.00689069414511323	
+Prediction 4: honeycomb, 0.001957915723323822	
+Prediction 5: loudspeaker, 0.0013667555758729577	
+Image: elephant_tex10.png	Test: [41/53]	Loss: 14.1158	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.9570306539535522	
+Prediction 2: strainer, 0.033111441880464554	
+Prediction 3: fire screen, 0.0044058202765882015	
+Prediction 4: loudspeaker, 0.001994812162593007	
+Prediction 5: honeycomb, 0.001342092058621347	
+Image: elephant_tex11.png	Test: [42/53]	Loss: 13.9033	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.9707961678504944	
+Prediction 2: strainer, 0.013479480519890785	
+Prediction 3: fire screen, 0.009450899437069893	
+Prediction 4: loudspeaker, 0.0036716985050588846	
+Prediction 5: honeycomb, 0.0006657066405750811	
+Image: elephant_tex12.png	Test: [43/53]	Loss: 11.3955	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.5436933636665344	
+Prediction 2: strainer, 0.16217951476573944	
+Prediction 3: fire screen, 0.15568090975284576	
+Prediction 4: matchstick, 0.02166276052594185	
+Prediction 5: analog clock, 0.012241539545357227	
+Image: elephant_tex13.png	Test: [44/53]	Loss: 12.6136	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.9775751829147339	
+Prediction 2: strainer, 0.015453750267624855	
+Prediction 3: fire screen, 0.0017916964134201407	
+Prediction 4: honeycomb, 0.001419575186446309	
+Prediction 5: loudspeaker, 0.00046542834024876356	
+Image: elephant_tex2.png	Test: [45/53]	Loss: 14.6898	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.8889090418815613	
+Prediction 2: fire screen, 0.08473066985607147	
+Prediction 3: strainer, 0.023838741704821587	
+Prediction 4: loudspeaker, 0.0007722845766693354	
+Prediction 5: matchstick, 0.0006268427823670208	
+Image: elephant_tex3.png	Test: [46/53]	Loss: 10.5415	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.3081684112548828	
+Prediction 2: window screen, 0.16244693100452423	
+Prediction 3: analog clock, 0.11380189657211304	
+Prediction 4: matchstick, 0.07548556476831436	
+Prediction 5: digital clock, 0.04519255831837654	
+Image: elephant_tex4.png	Test: [47/53]	Loss: 14.3236	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.9455592036247253	
+Prediction 2: strainer, 0.026210183277726173	
+Prediction 3: fire screen, 0.025504691526293755	
+Prediction 4: loudspeaker, 0.0008539543487131596	
+Prediction 5: honeycomb, 0.0006174346199259162	
+Image: elephant_tex5.png	Test: [48/53]	Loss: 10.9202	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.5206636786460876	
+Prediction 2: strainer, 0.2948521375656128	
+Prediction 3: fire screen, 0.06441253423690796	
+Prediction 4: matchstick, 0.023932330310344696	
+Prediction 5: digital clock, 0.011867965571582317	
+Image: elephant_tex6.png	Test: [49/53]	Loss: 10.3638	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.417203813791275	
+Prediction 2: strainer, 0.41598254442214966	
+Prediction 3: fire screen, 0.10011143982410431	
+Prediction 4: matchstick, 0.019444484263658524	
+Prediction 5: microphone, 0.005801054649055004	
+Image: elephant_tex7.png	Test: [50/53]	Loss: 13.7541	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.8481733202934265	
+Prediction 2: fire screen, 0.07453727722167969	
+Prediction 3: strainer, 0.06601722538471222	
+Prediction 4: loudspeaker, 0.004586416762322187	
+Prediction 5: space heater, 0.0019139808136969805	
+Image: elephant_tex8.png	Test: [51/53]	Loss: 13.5504	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.9642890691757202	
+Prediction 2: strainer, 0.025157969444990158	
+Prediction 3: fire screen, 0.005025139078497887	
+Prediction 4: loudspeaker, 0.0020681130699813366	
+Prediction 5: honeycomb, 0.0011995797976851463	
+Image: elephant_tex9.png	Test: [52/53]	Loss: 14.4354	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.9462074637413025	
+Prediction 2: strainer, 0.030767278745770454	
+Prediction 3: fire screen, 0.018511660397052765	
+Prediction 4: loudspeaker, 0.0018683495000004768	
+Prediction 5: honeycomb, 0.0006427885964512825	
