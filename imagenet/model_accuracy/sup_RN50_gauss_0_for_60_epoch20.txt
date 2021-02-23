@@ -1,0 +1,1 @@
+Model Path: /home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch20.pth.tar	Acc@1 53.882	Acc@5 79.526	
