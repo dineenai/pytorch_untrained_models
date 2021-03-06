@@ -1,0 +1,300 @@
+Image: tex_egy_cat_val_ILSVRC2012_val_00000709.jpeg	Test: [4/50]	Loss: 12.1284	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Egyptian cat, 0.19723957777023315	
+Prediction 2: tiger cat, 0.1318085640668869	
+Prediction 3: tabby, 0.13152314722537994	
+Prediction 4: great grey owl, 0.069960817694664	
+Prediction 5: wool, 0.05012669414281845	
+Image: tex_egy_cat_val_ILSVRC2012_val_00001496.jpeg	Test: [4/50]	Loss: 7.2483	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: sea lion, 0.4807661771774292	
+Prediction 2: Egyptian cat, 0.0602608285844326	
+Prediction 3: tabby, 0.05163296312093735	
+Prediction 4: otter, 0.042823173105716705	
+Prediction 5: tiger cat, 0.03816671296954155	
+Image: tex_egy_cat_val_ILSVRC2012_val_00002072.jpeg	Test: [4/50]	Loss: 13.4975	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: otter, 0.23281905055046082	
+Prediction 2: black-footed ferret, 0.16476908326148987	
+Prediction 3: polecat, 0.12250310927629471	
+Prediction 4: tabby, 0.06856542080640793	
+Prediction 5: Siamese cat, 0.06014522910118103	
+Image: tex_egy_cat_val_ILSVRC2012_val_00004612.jpeg	Test: [4/50]	Loss: 11.7799	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Siamese cat, 0.27484819293022156	
+Prediction 2: beagle, 0.25125768780708313	
+Prediction 3: Saint Bernard, 0.11210618913173676	
+Prediction 4: basset, 0.027259334921836853	
+Prediction 5: Pembroke, 0.024488402530550957	
+Image: tex_egy_cat_val_ILSVRC2012_val_00004719.jpeg	Test: [4/50]	Loss: 10.4237	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: redbone, 0.08323952555656433	
+Prediction 2: Egyptian cat, 0.07459091395139694	
+Prediction 3: Norwich terrier, 0.06409860402345657	
+Prediction 4: golden retriever, 0.046973198652267456	
+Prediction 5: chow, 0.03065834380686283	
+Image: tex_egy_cat_val_ILSVRC2012_val_00005207.jpeg	Test: [4/50]	Loss: 7.9984	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: jaguar, 0.033880263566970825	
+Prediction 2: leopard, 0.026669414713978767	
+Prediction 3: Egyptian cat, 0.024487407878041267	
+Prediction 4: velvet, 0.022242210805416107	
+Prediction 5: hoopskirt, 0.013630393892526627	
+Image: tex_egy_cat_val_ILSVRC2012_val_00005362.jpeg	Test: [4/50]	Loss: 14.5801	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Siamese cat, 0.5100246071815491	
+Prediction 2: Persian cat, 0.19870522618293762	
+Prediction 3: Arctic fox, 0.09977129101753235	
+Prediction 4: guinea pig, 0.03876439481973648	
+Prediction 5: Angora, 0.03664431348443031	
+Image: tex_egy_cat_val_ILSVRC2012_val_00007023.jpeg	Test: [4/50]	Loss: 9.8443	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Siamese cat, 0.06836637854576111	
+Prediction 2: French bulldog, 0.04965979978442192	
+Prediction 3: Maltese dog, 0.03983478993177414	
+Prediction 4: Samoyed, 0.03498222678899765	
+Prediction 5: Angora, 0.03191429749131203	
+Image: tex_egy_cat_val_ILSVRC2012_val_00008778.jpeg	Test: [4/50]	Loss: 12.6205	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: orangutan, 0.2030472457408905	
+Prediction 2: spider monkey, 0.1174444779753685	
+Prediction 3: guenon, 0.08486107736825943	
+Prediction 4: howler monkey, 0.0803418681025505	
+Prediction 5: Siamese cat, 0.06161995604634285	
+Image: tex_egy_cat_val_ILSVRC2012_val_00009683.jpeg	Test: [4/50]	Loss: 10.6762	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Egyptian cat, 0.3168924152851105	
+Prediction 2: horned viper, 0.13826462626457214	
+Prediction 3: sidewinder, 0.07832488417625427	
+Prediction 4: cheetah, 0.06402779370546341	
+Prediction 5: lynx, 0.0430835597217083	
+Image: tex_egy_cat_val_ILSVRC2012_val_00010417.jpeg	Test: [4/50]	Loss: 11.8631	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: badger, 0.1088336631655693	
+Prediction 2: Airedale, 0.0693482831120491	
+Prediction 3: cocker spaniel, 0.0636746808886528	
+Prediction 4: Lakeland terrier, 0.06340914219617844	
+Prediction 5: three-toed sloth, 0.045950695872306824	
+Image: tex_egy_cat_val_ILSVRC2012_val_00010598.jpeg	Test: [4/50]	Loss: 7.5500	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: isopod, 0.05529021844267845	
+Prediction 2: black grouse, 0.048332102596759796	
+Prediction 3: common newt, 0.044260844588279724	
+Prediction 4: brambling, 0.036341529339551926	
+Prediction 5: nematode, 0.02947668544948101	
+Image: tex_egy_cat_val_ILSVRC2012_val_00011952.jpeg	Test: [4/50]	Loss: 8.2013	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tiger cat, 0.27084094285964966	
+Prediction 2: Egyptian cat, 0.21966148912906647	
+Prediction 3: tiger, 0.11282967031002045	
+Prediction 4: tabby, 0.10854263603687286	
+Prediction 5: zebra, 0.03976159542798996	
+Image: tex_egy_cat_val_ILSVRC2012_val_00013410.jpeg	Test: [4/50]	Loss: 14.2291	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Egyptian cat, 0.41149988770484924	
+Prediction 2: tabby, 0.3219084143638611	
+Prediction 3: tiger cat, 0.2503076493740082	
+Prediction 4: African grey, 0.005208398215472698	
+Prediction 5: space heater, 0.0010761742014437914	
+Image: tex_egy_cat_val_ILSVRC2012_val_00013918.jpeg	Test: [4/50]	Loss: 9.5756	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: golden retriever, 0.101115383207798	
+Prediction 2: Egyptian cat, 0.06739936023950577	
+Prediction 3: cocker spaniel, 0.03546147421002388	
+Prediction 4: tiger cat, 0.032549116760492325	
+Prediction 5: Chesapeake Bay retriever, 0.031365469098091125	
+Image: tex_egy_cat_val_ILSVRC2012_val_00014432.jpeg	Test: [4/50]	Loss: 7.5104	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: digital clock, 0.019053539261221886	
+Prediction 2: spotlight, 0.01719004474580288	
+Prediction 3: theater curtain, 0.015242201276123524	
+Prediction 4: matchstick, 0.01357413362711668	
+Prediction 5: jellyfish, 0.01292665209621191	
+Image: tex_egy_cat_val_ILSVRC2012_val_00014773.jpeg	Test: [4/50]	Loss: 6.0378	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: proboscis monkey, 0.044370897114276886	
+Prediction 2: Pomeranian, 0.04083570837974548	
+Prediction 3: patas, 0.035505928099155426	
+Prediction 4: langur, 0.028458617627620697	
+Prediction 5: marmoset, 0.027830807492136955	
+Image: tex_egy_cat_val_ILSVRC2012_val_00016918.jpeg	Test: [4/50]	Loss: 7.3704	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Egyptian cat, 0.1697663813829422	
+Prediction 2: tabby, 0.0704624354839325	
+Prediction 3: zebra, 0.06833603978157043	
+Prediction 4: peacock, 0.05988878756761551	
+Prediction 5: tiger cat, 0.05730418860912323	
+Image: tex_egy_cat_val_ILSVRC2012_val_00019119.jpeg	Test: [4/50]	Loss: 17.9174	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: black-footed ferret, 0.4054037928581238	
+Prediction 2: Siamese cat, 0.20653599500656128	
+Prediction 3: polecat, 0.15807025134563446	
+Prediction 4: weasel, 0.06628772616386414	
+Prediction 5: Egyptian cat, 0.03675493970513344	
+Image: tex_egy_cat_val_ILSVRC2012_val_00021675.jpeg	Test: [4/50]	Loss: 5.6360	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.015144354663789272	
+Prediction 2: jellyfish, 0.012272262945771217	
+Prediction 3: pick, 0.0120229572057724	
+Prediction 4: Angora, 0.011853517033159733	
+Prediction 5: chambered nautilus, 0.010954245924949646	
+Image: tex_egy_cat_val_ILSVRC2012_val_00022337.jpeg	Test: [4/50]	Loss: 8.9890	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: nematode, 0.0727953314781189	
+Prediction 2: whiptail, 0.06624697148799896	
+Prediction 3: sidewinder, 0.06410086899995804	
+Prediction 4: banded gecko, 0.056145887821912766	
+Prediction 5: Indian cobra, 0.03255812078714371	
+Image: tex_egy_cat_val_ILSVRC2012_val_00023393.jpeg	Test: [4/50]	Loss: 12.5986	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: mongoose, 0.3503453731536865	
+Prediction 2: fox squirrel, 0.15337850153446198	
+Prediction 3: marmot, 0.08889378607273102	
+Prediction 4: meerkat, 0.07087203860282898	
+Prediction 5: grey fox, 0.06355304270982742	
+Image: tex_egy_cat_val_ILSVRC2012_val_00023696.jpeg	Test: [4/50]	Loss: 11.8619	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Egyptian cat, 0.09476149827241898	
+Prediction 2: Siamese cat, 0.06296855956315994	
+Prediction 3: Persian cat, 0.06169366091489792	
+Prediction 4: tabby, 0.059950683265924454	
+Prediction 5: lynx, 0.058615513145923615	
+Image: tex_egy_cat_val_ILSVRC2012_val_00023786.jpeg	Test: [4/50]	Loss: 13.3215	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: giant panda, 0.16015413403511047	
+Prediction 2: Norwegian elkhound, 0.1373959481716156	
+Prediction 3: Egyptian cat, 0.0911107286810875	
+Prediction 4: Siamese cat, 0.06964179128408432	
+Prediction 5: tabby, 0.06718515604734421	
+Image: tex_egy_cat_val_ILSVRC2012_val_00023871.jpeg	Test: [4/50]	Loss: 14.1360	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: badger, 0.22957466542720795	
+Prediction 2: mongoose, 0.11906701326370239	
+Prediction 3: wombat, 0.11476659029722214	
+Prediction 4: sea lion, 0.08485235273838043	
+Prediction 5: marmot, 0.07190490514039993	
+Image: tex_egy_cat_val_ILSVRC2012_val_00023906.jpeg	Test: [4/50]	Loss: 11.9456	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Egyptian cat, 0.24300844967365265	
+Prediction 2: Madagascar cat, 0.13885490596294403	
+Prediction 3: indri, 0.13720043003559113	
+Prediction 4: koala, 0.11123594641685486	
+Prediction 5: tabby, 0.05718503147363663	
+Image: tex_egy_cat_val_ILSVRC2012_val_00024000.jpeg	Test: [4/50]	Loss: 9.3608	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: potpie, 0.10028067231178284	
+Prediction 2: French loaf, 0.06800926476716995	
+Prediction 3: red fox, 0.06430766731500626	
+Prediction 4: grey fox, 0.046897776424884796	
+Prediction 5: mongoose, 0.04521424323320389	
+Image: tex_egy_cat_val_ILSVRC2012_val_00025168.jpeg	Test: [4/50]	Loss: 13.3427	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fur coat, 0.3362390398979187	
+Prediction 2: cocker spaniel, 0.09325754642486572	
+Prediction 3: lynx, 0.0718872994184494	
+Prediction 4: Egyptian cat, 0.05671904981136322	
+Prediction 5: Chesapeake Bay retriever, 0.048080652952194214	
+Image: tex_egy_cat_val_ILSVRC2012_val_00026403.jpeg	Test: [4/50]	Loss: 8.0617	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: American black bear, 0.032220229506492615	
+Prediction 2: bluetick, 0.020908033475279808	
+Prediction 3: Bernese mountain dog, 0.019396578893065453	
+Prediction 4: Rottweiler, 0.017258627340197563	
+Prediction 5: Tibetan mastiff, 0.016460450366139412	
+Image: tex_egy_cat_val_ILSVRC2012_val_00026412.jpeg	Test: [4/50]	Loss: 13.7270	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tiger cat, 0.4389779567718506	
+Prediction 2: Egyptian cat, 0.20042921602725983	
+Prediction 3: tabby, 0.18058760464191437	
+Prediction 4: lesser panda, 0.025562817230820656	
+Prediction 5: tiger, 0.023639554157853127	
+Image: tex_egy_cat_val_ILSVRC2012_val_00027189.jpeg	Test: [4/50]	Loss: 16.3187	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Egyptian cat, 0.46534791588783264	
+Prediction 2: tabby, 0.2741418480873108	
+Prediction 3: tiger cat, 0.20634804666042328	
+Prediction 4: Siamese cat, 0.006394159980118275	
+Prediction 5: leopard, 0.0060122935101389885	
+Image: tex_egy_cat_val_ILSVRC2012_val_00027448.jpeg	Test: [4/50]	Loss: 9.1585	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: gorilla, 0.12866607308387756	
+Prediction 2: siamang, 0.0809258297085762	
+Prediction 3: American coot, 0.06291211396455765	
+Prediction 4: little blue heron, 0.058257900178432465	
+Prediction 5: sea lion, 0.041057098656892776	
+Image: tex_egy_cat_val_ILSVRC2012_val_00028628.jpeg	Test: [4/50]	Loss: 10.7738	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: gorilla, 0.28141307830810547	
+Prediction 2: Madagascar cat, 0.06344057619571686	
+Prediction 3: keeshond, 0.039016157388687134	
+Prediction 4: Angora, 0.03409584239125252	
+Prediction 5: guenon, 0.028480496257543564	
+Image: tex_egy_cat_val_ILSVRC2012_val_00028970.jpeg	Test: [4/50]	Loss: 11.7158	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Irish water spaniel, 0.060013771057128906	
+Prediction 2: great grey owl, 0.054925210773944855	
+Prediction 3: koala, 0.04261963441967964	
+Prediction 4: Persian cat, 0.03683353587985039	
+Prediction 5: gorilla, 0.036023616790771484	
+Image: tex_egy_cat_val_ILSVRC2012_val_00029864.jpeg	Test: [4/50]	Loss: 17.9458	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Egyptian cat, 0.3493995666503906	
+Prediction 2: tiger cat, 0.34080907702445984	
+Prediction 3: tabby, 0.28551095724105835	
+Prediction 4: tiger, 0.011339508928358555	
+Prediction 5: cougar, 0.0027986105997115374	
+Image: tex_egy_cat_val_ILSVRC2012_val_00031185.jpeg	Test: [4/50]	Loss: 9.6300	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Boston bull, 0.10168008506298065	
+Prediction 2: Greater Swiss Mountain dog, 0.04295273870229721	
+Prediction 3: EntleBucher, 0.039016712456941605	
+Prediction 4: velvet, 0.037560369819402695	
+Prediction 5: jean, 0.03733590990304947	
+Image: tex_egy_cat_val_ILSVRC2012_val_00032637.jpeg	Test: [4/50]	Loss: 16.8145	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Egyptian cat, 0.8459669351577759	
+Prediction 2: snow leopard, 0.046539053320884705	
+Prediction 3: lynx, 0.043730903416872025	
+Prediction 4: Persian cat, 0.014373361133038998	
+Prediction 5: tabby, 0.011111692525446415	
+Image: tex_egy_cat_val_ILSVRC2012_val_00033582.jpeg	Test: [4/50]	Loss: 10.7197	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Siamese cat, 0.1836920529603958	
+Prediction 2: black-footed ferret, 0.08399879187345505	
+Prediction 3: Pekinese, 0.07792960852384567	
+Prediction 4: Pomeranian, 0.05803897976875305	
+Prediction 5: Persian cat, 0.04165125638246536	
+Image: tex_egy_cat_val_ILSVRC2012_val_00037997.jpeg	Test: [4/50]	Loss: 11.2949	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tabby, 0.3156660795211792	
+Prediction 2: Egyptian cat, 0.21921630203723907	
+Prediction 3: tiger cat, 0.10615813732147217	
+Prediction 4: wombat, 0.042585570365190506	
+Prediction 5: koala, 0.027684872969985008	
+Image: tex_egy_cat_val_ILSVRC2012_val_00038683.jpeg	Test: [4/50]	Loss: 10.5895	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: wombat, 0.3858143091201782	
+Prediction 2: Norwegian elkhound, 0.10397785156965256	
+Prediction 3: wallaby, 0.03289971873164177	
+Prediction 4: macaque, 0.032787300646305084	
+Prediction 5: cougar, 0.031564801931381226	
+Image: tex_egy_cat_val_ILSVRC2012_val_00038976.jpeg	Test: [4/50]	Loss: 11.0014	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: cheetah, 0.1932445466518402	
+Prediction 2: Egyptian cat, 0.16760267317295074	
+Prediction 3: leopard, 0.15127748250961304	
+Prediction 4: jaguar, 0.06464999914169312	
+Prediction 5: fur coat, 0.06162957102060318	
+Image: tex_egy_cat_val_ILSVRC2012_val_00040192.jpeg	Test: [4/50]	Loss: 9.2542	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Egyptian cat, 0.3508652150630951	
+Prediction 2: tiger cat, 0.30053281784057617	
+Prediction 3: tabby, 0.1642541140317917	
+Prediction 4: tiger, 0.018391229212284088	
+Prediction 5: trilobite, 0.007853067480027676	
+Image: tex_egy_cat_val_ILSVRC2012_val_00040600.jpeg	Test: [4/50]	Loss: 14.6845	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Egyptian cat, 0.4083007276058197	
+Prediction 2: tabby, 0.15703175961971283	
+Prediction 3: Siamese cat, 0.08553968369960785	
+Prediction 4: tiger cat, 0.05937986820936203	
+Prediction 5: Persian cat, 0.018020544201135635	
+Image: tex_egy_cat_val_ILSVRC2012_val_00041427.jpeg	Test: [4/50]	Loss: 16.2760	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: koala, 0.3379729688167572	
+Prediction 2: tabby, 0.16408522427082062	
+Prediction 3: tiger cat, 0.14936767518520355	
+Prediction 4: mongoose, 0.09112238138914108	
+Prediction 5: Egyptian cat, 0.05017620697617531	
+Image: tex_egy_cat_val_ILSVRC2012_val_00041579.jpeg	Test: [4/50]	Loss: 16.4114	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: otter, 0.4586550295352936	
+Prediction 2: Siamese cat, 0.0792820006608963	
+Prediction 3: Egyptian cat, 0.0725133866071701	
+Prediction 4: tabby, 0.04910938814282417	
+Prediction 5: tarantula, 0.0239340141415596	
+Image: tex_egy_cat_val_ILSVRC2012_val_00042232.jpeg	Test: [4/50]	Loss: 8.2380	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: ice bear, 0.22536295652389526	
+Prediction 2: Arctic fox, 0.1284470111131668	
+Prediction 3: hamster, 0.03744339942932129	
+Prediction 4: weasel, 0.03716251999139786	
+Prediction 5: Angora, 0.03221272677183151	
+Image: tex_egy_cat_val_ILSVRC2012_val_00044374.jpeg	Test: [4/50]	Loss: 8.3697	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: badger, 0.1946464478969574	
+Prediction 2: platypus, 0.038083236664533615	
+Prediction 3: African grey, 0.03417991101741791	
+Prediction 4: mongoose, 0.03208320215344429	
+Prediction 5: armadillo, 0.027063893154263496	
+Image: tex_egy_cat_val_ILSVRC2012_val_00046770.jpeg	Test: [4/50]	Loss: 8.8215	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fox squirrel, 0.2208382487297058	
+Prediction 2: mongoose, 0.077740877866745	
+Prediction 3: wombat, 0.06991033256053925	
+Prediction 4: wood rabbit, 0.0393405444920063	
+Prediction 5: meerkat, 0.03280375525355339	
+Image: tex_egy_cat_val_ILSVRC2012_val_00046964.jpeg	Test: [4/50]	Loss: 7.9166	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: coyote, 0.10698290169239044	
+Prediction 2: timber wolf, 0.09346462786197662	
+Prediction 3: fox squirrel, 0.07857835292816162	
+Prediction 4: grey fox, 0.07583163678646088	
+Prediction 5: wood rabbit, 0.07535094767808914	
+Image: tex_egy_cat_val_ILSVRC2012_val_00049735.jpeg	Test: [4/50]	Loss: 11.6806	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: trilobite, 0.8251557350158691	
+Prediction 2: tiger cat, 0.04043903201818466	
+Prediction 3: tabby, 0.0402311235666275	
+Prediction 4: zebra, 0.02125762589275837	
+Prediction 5: Egyptian cat, 0.016323786228895187	

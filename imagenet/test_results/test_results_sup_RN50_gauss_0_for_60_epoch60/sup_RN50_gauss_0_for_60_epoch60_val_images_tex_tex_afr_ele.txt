@@ -1,0 +1,300 @@
+Image: tex_afr_ele_val_ILSVRC2012_val_00001177.jpeg	Test: [4/50]	Loss: 7.3915	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.09973793476819992	
+Prediction 2: Siamese cat, 0.027971701696515083	
+Prediction 3: Mexican hairless, 0.022852150723338127	
+Prediction 4: langur, 0.022171717137098312	
+Prediction 5: African elephant, 0.014593749307096004	
+Image: tex_afr_ele_val_ILSVRC2012_val_00001958.jpeg	Test: [4/50]	Loss: 8.9989	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.4321299195289612	
+Prediction 2: tusker, 0.17685917019844055	
+Prediction 3: Indian elephant, 0.1715019941329956	
+Prediction 4: vault, 0.03878515213727951	
+Prediction 5: African grey, 0.011940514668822289	
+Image: tex_afr_ele_val_ILSVRC2012_val_00002282.jpeg	Test: [4/50]	Loss: 8.2807	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tusker, 0.35163626074790955	
+Prediction 2: African elephant, 0.28796082735061646	
+Prediction 3: Indian elephant, 0.17739298939704895	
+Prediction 4: sweatshirt, 0.011157028377056122	
+Prediction 5: African grey, 0.00978471152484417	
+Image: tex_afr_ele_val_ILSVRC2012_val_00002887.jpeg	Test: [4/50]	Loss: 9.0485	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: bloodhound, 0.36583802103996277	
+Prediction 2: African elephant, 0.1279796063899994	
+Prediction 3: vizsla, 0.06198512390255928	
+Prediction 4: earthstar, 0.05847839638590813	
+Prediction 5: Indian elephant, 0.05509302392601967	
+Image: tex_afr_ele_val_ILSVRC2012_val_00003538.jpeg	Test: [4/50]	Loss: 13.1401	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.31807947158813477	
+Prediction 2: wild boar, 0.2845926880836487	
+Prediction 3: hog, 0.13591504096984863	
+Prediction 4: warthog, 0.08488394320011139	
+Prediction 5: water buffalo, 0.06426911056041718	
+Image: tex_afr_ele_val_ILSVRC2012_val_00003747.jpeg	Test: [4/50]	Loss: 8.4535	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.317130982875824	
+Prediction 2: gorilla, 0.11714375019073486	
+Prediction 3: African elephant, 0.10809040814638138	
+Prediction 4: tusker, 0.07160795480012894	
+Prediction 5: African grey, 0.06181923300027847	
+Image: tex_afr_ele_val_ILSVRC2012_val_00004013.jpeg	Test: [4/50]	Loss: 10.3456	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: komondor, 0.12596623599529266	
+Prediction 2: hen-of-the-woods, 0.08474529534578323	
+Prediction 3: otterhound, 0.06108662486076355	
+Prediction 4: warthog, 0.060131046921014786	
+Prediction 5: briard, 0.034994058310985565	
+Image: tex_afr_ele_val_ILSVRC2012_val_00004990.jpeg	Test: [4/50]	Loss: 8.7070	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: proboscis monkey, 0.4609009921550751	
+Prediction 2: fur coat, 0.06336400657892227	
+Prediction 3: French loaf, 0.0498197115957737	
+Prediction 4: hen-of-the-woods, 0.046573638916015625	
+Prediction 5: three-toed sloth, 0.028084643185138702	
+Image: tex_afr_ele_val_ILSVRC2012_val_00005109.jpeg	Test: [4/50]	Loss: 4.8785	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: hippopotamus, 0.3373578190803528	
+Prediction 2: bull mastiff, 0.05790545791387558	
+Prediction 3: armadillo, 0.042031049728393555	
+Prediction 4: Indian elephant, 0.04137420654296875	
+Prediction 5: Mexican hairless, 0.039588604122400284	
+Image: tex_afr_ele_val_ILSVRC2012_val_00007292.jpeg	Test: [4/50]	Loss: 7.7359	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.13788162171840668	
+Prediction 2: African elephant, 0.06345418840646744	
+Prediction 3: dugong, 0.05965257063508034	
+Prediction 4: tusker, 0.057127565145492554	
+Prediction 5: proboscis monkey, 0.04977964609861374	
+Image: tex_afr_ele_val_ILSVRC2012_val_00009638.jpeg	Test: [4/50]	Loss: 6.4226	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.26221922039985657	
+Prediction 2: Indian elephant, 0.21041594445705414	
+Prediction 3: trilobite, 0.1701728254556656	
+Prediction 4: tusker, 0.10500853508710861	
+Prediction 5: loggerhead, 0.028218738734722137	
+Image: tex_afr_ele_val_ILSVRC2012_val_00010078.jpeg	Test: [4/50]	Loss: 6.8079	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: mailbag, 0.00926438719034195	
+Prediction 2: velvet, 0.008886287920176983	
+Prediction 3: breastplate, 0.008114330470561981	
+Prediction 4: Windsor tie, 0.007810964249074459	
+Prediction 5: black-footed ferret, 0.007739919237792492	
+Image: tex_afr_ele_val_ILSVRC2012_val_00010196.jpeg	Test: [4/50]	Loss: 6.7938	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: proboscis monkey, 0.22785867750644684	
+Prediction 2: hartebeest, 0.04219214618206024	
+Prediction 3: Mexican hairless, 0.04075855761766434	
+Prediction 4: hog, 0.04037664830684662	
+Prediction 5: African elephant, 0.04029350355267525	
+Image: tex_afr_ele_val_ILSVRC2012_val_00010242.jpeg	Test: [4/50]	Loss: 7.9396	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: clumber, 0.06941764056682587	
+Prediction 2: Angora, 0.05519908294081688	
+Prediction 3: dugong, 0.05288393795490265	
+Prediction 4: hog, 0.0332876555621624	
+Prediction 5: tick, 0.02857036143541336	
+Image: tex_afr_ele_val_ILSVRC2012_val_00010619.jpeg	Test: [4/50]	Loss: 7.1337	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: wool, 0.0817672461271286	
+Prediction 2: proboscis monkey, 0.07809673994779587	
+Prediction 3: guenon, 0.05497768893837929	
+Prediction 4: baboon, 0.03293123096227646	
+Prediction 5: Angora, 0.029066670686006546	
+Image: tex_afr_ele_val_ILSVRC2012_val_00013193.jpeg	Test: [4/50]	Loss: 8.4285	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: hen-of-the-woods, 0.09850391745567322	
+Prediction 2: cliff, 0.04405241832137108	
+Prediction 3: frilled lizard, 0.027609605342149734	
+Prediction 4: volcano, 0.02478780783712864	
+Prediction 5: coral fungus, 0.022639203816652298	
+Image: tex_afr_ele_val_ILSVRC2012_val_00015578.jpeg	Test: [4/50]	Loss: 7.0249	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.18735425174236298	
+Prediction 2: Indian elephant, 0.1545298844575882	
+Prediction 3: tusker, 0.11179769784212112	
+Prediction 4: warthog, 0.03940572217106819	
+Prediction 5: armadillo, 0.02919343113899231	
+Image: tex_afr_ele_val_ILSVRC2012_val_00016215.jpeg	Test: [4/50]	Loss: 7.1226	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: baboon, 0.09467393159866333	
+Prediction 2: macaque, 0.08084344118833542	
+Prediction 3: patas, 0.07444639503955841	
+Prediction 4: titi, 0.045705460011959076	
+Prediction 5: wombat, 0.023419177159667015	
+Image: tex_afr_ele_val_ILSVRC2012_val_00017097.jpeg	Test: [4/50]	Loss: 8.3690	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.2927674353122711	
+Prediction 2: Indian elephant, 0.20218192040920258	
+Prediction 3: tusker, 0.17925450205802917	
+Prediction 4: lion, 0.03907262161374092	
+Prediction 5: ox, 0.012545096687972546	
+Image: tex_afr_ele_val_ILSVRC2012_val_00018201.jpeg	Test: [4/50]	Loss: 8.6983	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: three-toed sloth, 0.12473534792661667	
+Prediction 2: Norwich terrier, 0.08804243057966232	
+Prediction 3: wild boar, 0.059263017028570175	
+Prediction 4: fox squirrel, 0.05741681903600693	
+Prediction 5: platypus, 0.04926401376724243	
+Image: tex_afr_ele_val_ILSVRC2012_val_00018263.jpeg	Test: [4/50]	Loss: 6.1439	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: jean, 0.05050741881132126	
+Prediction 2: nail, 0.037811119109392166	
+Prediction 3: wool, 0.029051225632429123	
+Prediction 4: trilobite, 0.027782456949353218	
+Prediction 5: doormat, 0.018298842012882233	
+Image: tex_afr_ele_val_ILSVRC2012_val_00021712.jpeg	Test: [4/50]	Loss: 7.2239	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: vault, 0.17913827300071716	
+Prediction 2: armadillo, 0.11527081578969955	
+Prediction 3: maze, 0.08312231302261353	
+Prediction 4: tusker, 0.026183124631643295	
+Prediction 5: prison, 0.023379623889923096	
+Image: tex_afr_ele_val_ILSVRC2012_val_00021807.jpeg	Test: [4/50]	Loss: 7.2164	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: sloth bear, 0.1297222226858139	
+Prediction 2: siamang, 0.05490584671497345	
+Prediction 3: affenpinscher, 0.05065257474780083	
+Prediction 4: chimpanzee, 0.03273209184408188	
+Prediction 5: Sealyham terrier, 0.027809610590338707	
+Image: tex_afr_ele_val_ILSVRC2012_val_00022907.jpeg	Test: [4/50]	Loss: 6.3664	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: sweatshirt, 0.06708244979381561	
+Prediction 2: African elephant, 0.046532243490219116	
+Prediction 3: Indian elephant, 0.035264138132333755	
+Prediction 4: wool, 0.029515884816646576	
+Prediction 5: Mexican hairless, 0.02819017320871353	
+Image: tex_afr_ele_val_ILSVRC2012_val_00023463.jpeg	Test: [4/50]	Loss: 9.8169	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.49627596139907837	
+Prediction 2: sea lion, 0.08265532553195953	
+Prediction 3: leatherback turtle, 0.08143823593854904	
+Prediction 4: African elephant, 0.051222529262304306	
+Prediction 5: tusker, 0.04002553969621658	
+Image: tex_afr_ele_val_ILSVRC2012_val_00025072.jpeg	Test: [4/50]	Loss: 9.6228	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.422537624835968	
+Prediction 2: African elephant, 0.3704424500465393	
+Prediction 3: tusker, 0.18001605570316315	
+Prediction 4: sweatshirt, 0.007719468325376511	
+Prediction 5: warthog, 0.003399568609893322	
+Image: tex_afr_ele_val_ILSVRC2012_val_00025941.jpeg	Test: [4/50]	Loss: 9.4596	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.43192294239997864	
+Prediction 2: African elephant, 0.15028026700019836	
+Prediction 3: Arabian camel, 0.07210200279951096	
+Prediction 4: tusker, 0.05980219691991806	
+Prediction 5: loggerhead, 0.01999546028673649	
+Image: tex_afr_ele_val_ILSVRC2012_val_00027908.jpeg	Test: [4/50]	Loss: 5.1304	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.09351516515016556	
+Prediction 2: pickelhaube, 0.04588645324110985	
+Prediction 3: tusker, 0.03224899619817734	
+Prediction 4: triceratops, 0.031387798488140106	
+Prediction 5: sweatshirt, 0.029804235324263573	
+Image: tex_afr_ele_val_ILSVRC2012_val_00029453.jpeg	Test: [4/50]	Loss: 7.7116	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: clumber, 0.12438809871673584	
+Prediction 2: hog, 0.036268819123506546	
+Prediction 3: Sealyham terrier, 0.035681385546922684	
+Prediction 4: Siamese cat, 0.02379901520907879	
+Prediction 5: Weimaraner, 0.023008210584521294	
+Image: tex_afr_ele_val_ILSVRC2012_val_00030840.jpeg	Test: [4/50]	Loss: 6.5732	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.23373158276081085	
+Prediction 2: Indian elephant, 0.17953349649906158	
+Prediction 3: wool, 0.08211376518011093	
+Prediction 4: tusker, 0.06002972275018692	
+Prediction 5: cardigan, 0.019989242777228355	
+Image: tex_afr_ele_val_ILSVRC2012_val_00032404.jpeg	Test: [4/50]	Loss: 7.6766	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Angora, 0.08281783759593964	
+Prediction 2: Indian elephant, 0.05661585181951523	
+Prediction 3: gorilla, 0.04543984308838844	
+Prediction 4: Bedlington terrier, 0.03720736876130104	
+Prediction 5: Persian cat, 0.03414382413029671	
+Image: tex_afr_ele_val_ILSVRC2012_val_00032620.jpeg	Test: [4/50]	Loss: 8.5133	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.08355605602264404	
+Prediction 2: three-toed sloth, 0.07289601862430573	
+Prediction 3: wombat, 0.06054319068789482	
+Prediction 4: Bedlington terrier, 0.052880819886922836	
+Prediction 5: Dandie Dinmont, 0.04302828386425972	
+Image: tex_afr_ele_val_ILSVRC2012_val_00033235.jpeg	Test: [4/50]	Loss: 7.3322	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.21150986850261688	
+Prediction 2: African elephant, 0.13965736329555511	
+Prediction 3: tusker, 0.07658753544092178	
+Prediction 4: wool, 0.04897838458418846	
+Prediction 5: poncho, 0.03449311852455139	
+Image: tex_afr_ele_val_ILSVRC2012_val_00033832.jpeg	Test: [4/50]	Loss: 7.2345	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tusker, 0.16426296532154083	
+Prediction 2: Indian elephant, 0.1505693644285202	
+Prediction 3: African elephant, 0.08936364948749542	
+Prediction 4: armadillo, 0.06244745850563049	
+Prediction 5: warthog, 0.043077465146780014	
+Image: tex_afr_ele_val_ILSVRC2012_val_00033861.jpeg	Test: [4/50]	Loss: 9.7156	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: three-toed sloth, 0.3804687261581421	
+Prediction 2: baboon, 0.12164732813835144	
+Prediction 3: Irish wolfhound, 0.07814953476190567	
+Prediction 4: standard schnauzer, 0.026962950825691223	
+Prediction 5: patas, 0.020452752709388733	
+Image: tex_afr_ele_val_ILSVRC2012_val_00034527.jpeg	Test: [4/50]	Loss: 9.9154	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.5342147946357727	
+Prediction 2: African elephant, 0.25136449933052063	
+Prediction 3: tusker, 0.1921120136976242	
+Prediction 4: warthog, 0.0028233290649950504	
+Prediction 5: chain mail, 0.0018158365273848176	
+Image: tex_afr_ele_val_ILSVRC2012_val_00034562.jpeg	Test: [4/50]	Loss: 6.8974	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.3545213043689728	
+Prediction 2: African elephant, 0.128055602312088	
+Prediction 3: tusker, 0.07382026314735413	
+Prediction 4: wool, 0.04693559184670448	
+Prediction 5: Mexican hairless, 0.03522514924407005	
+Image: tex_afr_ele_val_ILSVRC2012_val_00036121.jpeg	Test: [4/50]	Loss: 8.7294	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.7191570997238159	
+Prediction 2: African elephant, 0.1915605515241623	
+Prediction 3: tusker, 0.06864742189645767	
+Prediction 4: Mexican hairless, 0.002926931716501713	
+Prediction 5: triceratops, 0.0011355935130268335	
+Image: tex_afr_ele_val_ILSVRC2012_val_00036436.jpeg	Test: [4/50]	Loss: 14.9473	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.41300055384635925	
+Prediction 2: Indian elephant, 0.40391385555267334	
+Prediction 3: tusker, 0.18158763647079468	
+Prediction 4: ram, 0.00025740949786268175	
+Prediction 5: Arabian camel, 0.00013047875836491585	
+Image: tex_afr_ele_val_ILSVRC2012_val_00037659.jpeg	Test: [4/50]	Loss: 9.2074	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: chambered nautilus, 0.049232617020606995	
+Prediction 2: Angora, 0.042234521359205246	
+Prediction 3: acorn, 0.03356557711958885	
+Prediction 4: miniature poodle, 0.032997749745845795	
+Prediction 5: Sealyham terrier, 0.032542869448661804	
+Image: tex_afr_ele_val_ILSVRC2012_val_00038578.jpeg	Test: [4/50]	Loss: 10.3019	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: orangutan, 0.13425520062446594	
+Prediction 2: Irish setter, 0.11136136204004288	
+Prediction 3: sorrel, 0.07477881014347076	
+Prediction 4: chow, 0.05159127712249756	
+Prediction 5: proboscis monkey, 0.03590052202343941	
+Image: tex_afr_ele_val_ILSVRC2012_val_00039678.jpeg	Test: [4/50]	Loss: 8.1423	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.35154393315315247	
+Prediction 2: Mexican hairless, 0.05434681847691536	
+Prediction 3: tusker, 0.040724173188209534	
+Prediction 4: African elephant, 0.03320561349391937	
+Prediction 5: orangutan, 0.02949438989162445	
+Image: tex_afr_ele_val_ILSVRC2012_val_00040375.jpeg	Test: [4/50]	Loss: 9.7769	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.8049378395080566	
+Prediction 2: African elephant, 0.15514332056045532	
+Prediction 3: tusker, 0.03573731705546379	
+Prediction 4: Mexican hairless, 0.0008328623953275383	
+Prediction 5: dugong, 0.0004253270453773439	
+Image: tex_afr_ele_val_ILSVRC2012_val_00041799.jpeg	Test: [4/50]	Loss: 6.2105	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: polecat, 0.029576802626252174	
+Prediction 2: echidna, 0.02798573486506939	
+Prediction 3: black-footed ferret, 0.025061968713998795	
+Prediction 4: beaver, 0.016646306961774826	
+Prediction 5: platypus, 0.01462344266474247	
+Image: tex_afr_ele_val_ILSVRC2012_val_00042879.jpeg	Test: [4/50]	Loss: 15.8278	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.55497807264328	
+Prediction 2: Indian elephant, 0.410440057516098	
+Prediction 3: tusker, 0.028430147096514702	
+Prediction 4: warthog, 0.002936058910563588	
+Prediction 5: Mexican hairless, 0.0020259201992303133	
+Image: tex_afr_ele_val_ILSVRC2012_val_00046061.jpeg	Test: [4/50]	Loss: 7.9830	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian elephant, 0.04522979259490967	
+Prediction 2: Band Aid, 0.028817947953939438	
+Prediction 3: hog, 0.027457794174551964	
+Prediction 4: Mexican hairless, 0.026255551725625992	
+Prediction 5: African elephant, 0.023153357207775116	
+Image: tex_afr_ele_val_ILSVRC2012_val_00047534.jpeg	Test: [4/50]	Loss: 9.9666	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Siamese cat, 0.04309643805027008	
+Prediction 2: Persian cat, 0.04283428192138672	
+Prediction 3: Irish wolfhound, 0.0342436283826828	
+Prediction 4: Weimaraner, 0.026319527998566628	
+Prediction 5: guinea pig, 0.025514407083392143	
+Image: tex_afr_ele_val_ILSVRC2012_val_00047540.jpeg	Test: [4/50]	Loss: 10.5665	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Norfolk terrier, 0.14272673428058624	
+Prediction 2: Norwich terrier, 0.12452854961156845	
+Prediction 3: chow, 0.10109008848667145	
+Prediction 4: lion, 0.051209062337875366	
+Prediction 5: Pekinese, 0.037006888538599014	
+Image: tex_afr_ele_val_ILSVRC2012_val_00048108.jpeg	Test: [4/50]	Loss: 12.4375	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: African elephant, 0.37222304940223694	
+Prediction 2: tusker, 0.35659608244895935	
+Prediction 3: Indian elephant, 0.19611261785030365	
+Prediction 4: wool, 0.021675527095794678	
+Prediction 5: poncho, 0.0062282150611281395	
+Image: tex_afr_ele_val_ILSVRC2012_val_00048781.jpeg	Test: [4/50]	Loss: 8.6313	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tick, 0.2020740509033203	
+Prediction 2: barn spider, 0.06635768711566925	
+Prediction 3: hartebeest, 0.05115819349884987	
+Prediction 4: horned viper, 0.03527631610631943	
+Prediction 5: nail, 0.023497503250837326	
