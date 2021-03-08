@@ -1,0 +1,306 @@
+Image: tex_gw_shrk_val_ILSVRC2012_val_00002338.jpeg	Test: [4/51]	Loss: 7.5117	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: electric ray, 0.10824131965637207	
+Prediction 2: hammerhead, 0.07126252353191376	
+Prediction 3: jellyfish, 0.05050923302769661	
+Prediction 4: tiger shark, 0.04960445314645767	
+Prediction 5: coral reef, 0.04026954993605614	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00002752.jpeg	Test: [4/51]	Loss: 8.6955	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: brain coral, 0.7715886235237122	
+Prediction 2: puffer, 0.0985393300652504	
+Prediction 3: eel, 0.030894553288817406	
+Prediction 4: jackfruit, 0.01634811982512474	
+Prediction 5: rock beauty, 0.010977099649608135	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00004311.jpeg	Test: [4/51]	Loss: 5.7586	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: puffer, 0.6795490980148315	
+Prediction 2: electric ray, 0.14328457415103912	
+Prediction 3: eel, 0.06399831175804138	
+Prediction 4: stingray, 0.01914176717400551	
+Prediction 5: brain coral, 0.012924457900226116	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00004329.jpeg	Test: [4/51]	Loss: 5.3826	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: brain coral, 0.25608035922050476	
+Prediction 2: puffer, 0.1615402102470398	
+Prediction 3: rock beauty, 0.11660747975111008	
+Prediction 4: coral reef, 0.05160277709364891	
+Prediction 5: eel, 0.030664855614304543	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00006491.jpeg	Test: [4/51]	Loss: 6.2473	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.17634545266628265	
+Prediction 2: puffer, 0.13489648699760437	
+Prediction 3: spider web, 0.10396119952201843	
+Prediction 4: lionfish, 0.08171950280666351	
+Prediction 5: chain mail, 0.028833763673901558	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00008848.jpeg	Test: [4/51]	Loss: 7.0668	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: electric ray, 0.18290747702121735	
+Prediction 2: rock beauty, 0.09450114518404007	
+Prediction 3: nematode, 0.06846994906663895	
+Prediction 4: hammerhead, 0.04256217181682587	
+Prediction 5: dugong, 0.03599838539958	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00014467.jpeg	Test: [4/51]	Loss: 9.3700	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.06498906016349792	
+Prediction 2: tray, 0.03841512277722359	
+Prediction 3: fountain, 0.028274836018681526	
+Prediction 4: measuring cup, 0.026848386973142624	
+Prediction 5: handkerchief, 0.022870216518640518	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00015157.jpeg	Test: [4/51]	Loss: 8.5295	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: submarine, 0.3505524694919586	
+Prediction 2: cliff, 0.09521210193634033	
+Prediction 3: promontory, 0.01661357656121254	
+Prediction 4: pickelhaube, 0.01641567051410675	
+Prediction 5: cliff dwelling, 0.013628172688186169	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00015220.jpeg	Test: [4/51]	Loss: 6.7383	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dishrag, 0.49108362197875977	
+Prediction 2: bib, 0.044906746596097946	
+Prediction 3: cardigan, 0.034351903945207596	
+Prediction 4: velvet, 0.03414412960410118	
+Prediction 5: brain coral, 0.022288700565695763	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00016168.jpeg	Test: [4/51]	Loss: 9.8708	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.09710295498371124	
+Prediction 2: jaguar, 0.0771937370300293	
+Prediction 3: window screen, 0.05339229106903076	
+Prediction 4: cheetah, 0.04102082550525665	
+Prediction 5: leopard, 0.025515688583254814	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00016859.jpeg	Test: [4/51]	Loss: 6.8099	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.54906165599823	
+Prediction 2: electric ray, 0.06033733859658241	
+Prediction 3: tiger shark, 0.04296348616480827	
+Prediction 4: jellyfish, 0.03413451462984085	
+Prediction 5: ice bear, 0.02736688405275345	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00016988.jpeg	Test: [4/51]	Loss: 8.0203	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: puffer, 0.46358102560043335	
+Prediction 2: stingray, 0.276519775390625	
+Prediction 3: electric ray, 0.0681726410984993	
+Prediction 4: strainer, 0.04345591366291046	
+Prediction 5: coral reef, 0.021415958181023598	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00017105.jpeg	Test: [4/51]	Loss: 7.6669	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: chain mail, 0.16651472449302673	
+Prediction 2: dishrag, 0.12070785462856293	
+Prediction 3: manhole cover, 0.06015593186020851	
+Prediction 4: maze, 0.04840833693742752	
+Prediction 5: tile roof, 0.04279821738600731	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00017194.jpeg	Test: [4/51]	Loss: 5.8447	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.5214141607284546	
+Prediction 2: puffer, 0.09377506375312805	
+Prediction 3: window screen, 0.09230359643697739	
+Prediction 4: rock beauty, 0.05403300002217293	
+Prediction 5: honeycomb, 0.03346729651093483	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00019409.jpeg	Test: [4/51]	Loss: 8.4442	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: spider web, 0.06593279540538788	
+Prediction 2: dishrag, 0.06286520510911942	
+Prediction 3: jellyfish, 0.056502651423215866	
+Prediction 4: lionfish, 0.04374582692980766	
+Prediction 5: stole, 0.03979304060339928	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00019435.jpeg	Test: [4/51]	Loss: 6.0588	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: jackfruit, 0.27529284358024597	
+Prediction 2: eel, 0.25472861528396606	
+Prediction 3: window screen, 0.13620954751968384	
+Prediction 4: puffer, 0.08336421102285385	
+Prediction 5: brain coral, 0.05875369906425476	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00020011.jpeg	Test: [4/51]	Loss: 8.0470	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.31424546241760254	
+Prediction 2: puffer, 0.3061932325363159	
+Prediction 3: stingray, 0.0528680719435215	
+Prediction 4: chain mail, 0.017360324040055275	
+Prediction 5: eel, 0.016481535509228706	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00023185.jpeg	Test: [4/51]	Loss: 7.7648	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8260100483894348	
+Prediction 2: eel, 0.01655217446386814	
+Prediction 3: window screen, 0.01531312894076109	
+Prediction 4: rock beauty, 0.013309124857187271	
+Prediction 5: puffer, 0.01105685718357563	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00024940.jpeg	Test: [4/51]	Loss: 5.3037	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.2879400849342346	
+Prediction 2: window screen, 0.1554895043373108	
+Prediction 3: chain mail, 0.05965864658355713	
+Prediction 4: puffer, 0.03947025537490845	
+Prediction 5: rock beauty, 0.03238019347190857	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00025900.jpeg	Test: [4/51]	Loss: 7.1644	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: spider web, 0.5988286733627319	
+Prediction 2: strainer, 0.04342987760901451	
+Prediction 3: electric fan, 0.039471618831157684	
+Prediction 4: maze, 0.03869692236185074	
+Prediction 5: puffer, 0.03437165543437004	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00027063.jpeg	Test: [4/51]	Loss: 6.3903	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: brain coral, 0.6698811650276184	
+Prediction 2: electric ray, 0.07397578656673431	
+Prediction 3: stingray, 0.03531734645366669	
+Prediction 4: puffer, 0.02223624289035797	
+Prediction 5: coral reef, 0.015181074850261211	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00027063_2.jpeg	Test: [4/51]	Loss: 7.4564	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.47089630365371704	
+Prediction 2: puffer, 0.16290540993213654	
+Prediction 3: eel, 0.10954071581363678	
+Prediction 4: window screen, 0.09127296507358551	
+Prediction 5: microphone, 0.02288646623492241	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00027419.jpeg	Test: [4/51]	Loss: 8.1589	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: brain coral, 0.7411378622055054	
+Prediction 2: jackfruit, 0.11407545953989029	
+Prediction 3: eel, 0.018951786682009697	
+Prediction 4: chain mail, 0.015382852405309677	
+Prediction 5: dishrag, 0.010606462135910988	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00027514.jpeg	Test: [4/51]	Loss: 7.8842	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.04432808980345726	
+Prediction 2: jellyfish, 0.02870173752307892	
+Prediction 3: bee eater, 0.015571670606732368	
+Prediction 4: traffic light, 0.014569804072380066	
+Prediction 5: dragonfly, 0.013431606814265251	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00028028.jpeg	Test: [4/51]	Loss: 8.1888	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: jellyfish, 0.04863675311207771	
+Prediction 2: American egret, 0.027081996202468872	
+Prediction 3: kite, 0.025954633951187134	
+Prediction 4: scuba diver, 0.024826765060424805	
+Prediction 5: black stork, 0.023777944967150688	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00029481.jpeg	Test: [4/51]	Loss: 7.4838	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dishrag, 0.36428165435791016	
+Prediction 2: brain coral, 0.14350482821464539	
+Prediction 3: bonnet, 0.11582031846046448	
+Prediction 4: cardigan, 0.06690781563520432	
+Prediction 5: poncho, 0.05650860071182251	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00030127.jpeg	Test: [4/51]	Loss: 9.5998	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: brain coral, 0.9626105427742004	
+Prediction 2: puffer, 0.010754397138953209	
+Prediction 3: coral reef, 0.006828281097114086	
+Prediction 4: electric ray, 0.002862667664885521	
+Prediction 5: dugong, 0.002343221567571163	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00031466.jpeg	Test: [4/51]	Loss: 7.8075	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: brain coral, 0.21131998300552368	
+Prediction 2: coral reef, 0.13678602874279022	
+Prediction 3: electric ray, 0.12095075100660324	
+Prediction 4: dugong, 0.07890962809324265	
+Prediction 5: tiger shark, 0.06231475621461868	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00031720.jpeg	Test: [4/51]	Loss: 7.8358	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: sarong, 0.08285938948392868	
+Prediction 2: velvet, 0.07158450037240982	
+Prediction 3: shower curtain, 0.0652000904083252	
+Prediction 4: jellyfish, 0.05628664419054985	
+Prediction 5: swimming trunks, 0.020632795989513397	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00031808.jpeg	Test: [4/51]	Loss: 6.7103	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.02489257976412773	
+Prediction 2: paper towel, 0.022794371470808983	
+Prediction 3: nematode, 0.017948836088180542	
+Prediction 4: dishrag, 0.01550346054136753	
+Prediction 5: poncho, 0.015372982248663902	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00032288.jpeg	Test: [4/51]	Loss: 6.7604	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: brain coral, 0.6989148259162903	
+Prediction 2: maze, 0.05852801725268364	
+Prediction 3: dishrag, 0.037147752940654755	
+Prediction 4: nematode, 0.02095489203929901	
+Prediction 5: rock beauty, 0.01563982479274273	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00032417.jpeg	Test: [4/51]	Loss: 8.9919	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.8947640657424927	
+Prediction 2: strainer, 0.04335770010948181	
+Prediction 3: puffer, 0.006353927776217461	
+Prediction 4: honeycomb, 0.0054352120496332645	
+Prediction 5: chain mail, 0.0033634817227721214	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00034950.jpeg	Test: [4/51]	Loss: 5.8960	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pillow, 0.20313061773777008	
+Prediction 2: brain coral, 0.0393434539437294	
+Prediction 3: spider web, 0.03130485117435455	
+Prediction 4: velvet, 0.028868118301033974	
+Prediction 5: rock beauty, 0.028027039021253586	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00035223.jpeg	Test: [4/51]	Loss: 6.0624	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.561985969543457	
+Prediction 2: brain coral, 0.07093353569507599	
+Prediction 3: rock beauty, 0.04740069806575775	
+Prediction 4: puffer, 0.04320039600133896	
+Prediction 5: strainer, 0.041334185749292374	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00035774.jpeg	Test: [4/51]	Loss: 5.7768	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: brain coral, 0.34112548828125	
+Prediction 2: puffer, 0.07205761969089508	
+Prediction 3: eel, 0.07067839056253433	
+Prediction 4: rock beauty, 0.06047135964035988	
+Prediction 5: window screen, 0.05916906148195267	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00036737.jpeg	Test: [4/51]	Loss: 8.0272	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: snorkel, 0.08039331436157227	
+Prediction 2: sea lion, 0.0756058320403099	
+Prediction 3: stingray, 0.046588536351919174	
+Prediction 4: hippopotamus, 0.039497073739767075	
+Prediction 5: ice bear, 0.036340877413749695	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00037050.jpeg	Test: [4/51]	Loss: 4.8281	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: electric ray, 0.4391235113143921	
+Prediction 2: puffer, 0.3658762276172638	
+Prediction 3: eel, 0.052695851773023605	
+Prediction 4: chain mail, 0.01659970171749592	
+Prediction 5: strainer, 0.01646760106086731	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00037135.jpeg	Test: [4/51]	Loss: 6.7408	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.22844171524047852	
+Prediction 2: strainer, 0.16196733713150024	
+Prediction 3: eel, 0.14744721353054047	
+Prediction 4: puffer, 0.13088837265968323	
+Prediction 5: brain coral, 0.0849689170718193	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00037488.jpeg	Test: [4/51]	Loss: 5.9790	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: electric ray, 0.2816060185432434	
+Prediction 2: dugong, 0.17585335671901703	
+Prediction 3: submarine, 0.03506609424948692	
+Prediction 4: tiger shark, 0.03168114274740219	
+Prediction 5: hammerhead, 0.019557680934667587	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00037998.jpeg	Test: [4/51]	Loss: 5.5980	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.5171559453010559	
+Prediction 2: strainer, 0.1308339685201645	
+Prediction 3: puffer, 0.02580367587506771	
+Prediction 4: honeycomb, 0.019212841987609863	
+Prediction 5: sea urchin, 0.017934881150722504	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00039304.jpeg	Test: [4/51]	Loss: 6.7003	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: electric ray, 0.1051020696759224	
+Prediction 2: dishrag, 0.09511715918779373	
+Prediction 3: stingray, 0.06129523366689682	
+Prediction 4: puffer, 0.05848890170454979	
+Prediction 5: brain coral, 0.05080617964267731	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00039445.jpeg	Test: [4/51]	Loss: 8.0807	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: electric ray, 0.9344187378883362	
+Prediction 2: stingray, 0.020633762702345848	
+Prediction 3: puffer, 0.015784122049808502	
+Prediction 4: brain coral, 0.006383300293236971	
+Prediction 5: eel, 0.004977894946932793	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00039534.jpeg	Test: [4/51]	Loss: 10.3853	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: shower curtain, 0.09217265248298645	
+Prediction 2: dishwasher, 0.06730073690414429	
+Prediction 3: crossword puzzle, 0.05746225267648697	
+Prediction 4: beaker, 0.054822035133838654	
+Prediction 5: jigsaw puzzle, 0.035232674330472946	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00039865.jpeg	Test: [4/51]	Loss: 8.2160	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: brain coral, 0.25353825092315674	
+Prediction 2: maze, 0.1653020679950714	
+Prediction 3: strainer, 0.11070067435503006	
+Prediction 4: dishrag, 0.08112871646881104	
+Prediction 5: spider web, 0.0517146922647953	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00040098.jpeg	Test: [4/51]	Loss: 6.1004	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.26515135169029236	
+Prediction 2: brain coral, 0.07738921791315079	
+Prediction 3: puffer, 0.030677856877446175	
+Prediction 4: coral reef, 0.01732216589152813	
+Prediction 5: jackfruit, 0.016777558252215385	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00040710.jpeg	Test: [4/51]	Loss: 6.4847	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: jellyfish, 0.10112306475639343	
+Prediction 2: water bottle, 0.07813901454210281	
+Prediction 3: poncho, 0.040425412356853485	
+Prediction 4: pitcher, 0.035009004175662994	
+Prediction 5: goblet, 0.030040670186281204	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00042345.jpeg	Test: [4/51]	Loss: 6.6980	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.11420202255249023	
+Prediction 2: African grey, 0.04138464853167534	
+Prediction 3: paper towel, 0.025443971157073975	
+Prediction 4: strainer, 0.02348232828080654	
+Prediction 5: hippopotamus, 0.020507637411355972	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00044052.jpeg	Test: [4/51]	Loss: 8.5974	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: spider web, 0.5997308492660522	
+Prediction 2: garden spider, 0.030118292197585106	
+Prediction 3: barn spider, 0.024627506732940674	
+Prediction 4: maze, 0.02171986922621727	
+Prediction 5: pillow, 0.018075283616781235	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00044896.jpeg	Test: [4/51]	Loss: 7.3006	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.07002055644989014	
+Prediction 2: grey whale, 0.06390561163425446	
+Prediction 3: ice bear, 0.05082643777132034	
+Prediction 4: velvet, 0.036484070122241974	
+Prediction 5: nematode, 0.03128378838300705	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00045730.jpeg	Test: [4/51]	Loss: 7.3014	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: spider web, 0.06280559301376343	
+Prediction 2: dishrag, 0.045936454087495804	
+Prediction 3: poncho, 0.030578920617699623	
+Prediction 4: brain coral, 0.026889938861131668	
+Prediction 5: velvet, 0.025727547705173492	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00046171.jpeg	Test: [4/51]	Loss: 7.5707	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: jellyfish, 0.15464654564857483	
+Prediction 2: window screen, 0.10537854582071304	
+Prediction 3: coral reef, 0.0668676421046257	
+Prediction 4: scuba diver, 0.05299243703484535	
+Prediction 5: brain coral, 0.05190744251012802	

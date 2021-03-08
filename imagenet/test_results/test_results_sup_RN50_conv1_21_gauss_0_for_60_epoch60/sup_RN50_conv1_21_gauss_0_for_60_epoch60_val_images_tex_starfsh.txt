@@ -1,0 +1,300 @@
+Image: ILSVRC2012_val_00001161.jpeg	Test: [4/50]	Loss: 14.1218	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9985394477844238	
+Prediction 2: conch, 0.00026344688376411796	
+Prediction 3: sea urchin, 0.00015501960297115147	
+Prediction 4: hermit crab, 8.55334074003622e-05	
+Prediction 5: sea slug, 7.2899078077171e-05	
+Image: ILSVRC2012_val_00001499.jpeg	Test: [4/50]	Loss: 13.6452	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9178192019462585	
+Prediction 2: wolf spider, 0.0406605489552021	
+Prediction 3: sea urchin, 0.018196213990449905	
+Prediction 4: tarantula, 0.009786322712898254	
+Prediction 5: barn spider, 0.0036045846063643694	
+Image: ILSVRC2012_val_00001740.jpeg	Test: [4/50]	Loss: 21.1536	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9999405145645142	
+Prediction 2: sea urchin, 2.0273040718166158e-05	
+Prediction 3: sea cucumber, 1.823371167120058e-05	
+Prediction 4: sea slug, 5.671258350048447e-06	
+Prediction 5: brain coral, 1.954704202944413e-06	
+Image: ILSVRC2012_val_00001748.jpeg	Test: [4/50]	Loss: 5.4578	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: coho, 0.5961003303527832	
+Prediction 2: alp, 0.04498685523867607	
+Prediction 3: sturgeon, 0.03011753410100937	
+Prediction 4: binoculars, 0.01722964644432068	
+Prediction 5: valley, 0.01507008820772171	
+Image: ILSVRC2012_val_00003537.jpeg	Test: [4/50]	Loss: 8.2393	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: piggy bank, 0.5425599813461304	
+Prediction 2: stingray, 0.1060846745967865	
+Prediction 3: pinwheel, 0.06422026455402374	
+Prediction 4: sunscreen, 0.05513976141810417	
+Prediction 5: triceratops, 0.0333678163588047	
+Image: ILSVRC2012_val_00003995.jpeg	Test: [4/50]	Loss: 14.4642	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: doormat, 0.7277218103408813	
+Prediction 2: manhole cover, 0.05258924886584282	
+Prediction 3: wallet, 0.044141609221696854	
+Prediction 4: prayer rug, 0.031155487522482872	
+Prediction 5: bib, 0.018063578754663467	
+Image: ILSVRC2012_val_00004153.jpeg	Test: [4/50]	Loss: 9.6692	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: coral reef, 0.6446455121040344	
+Prediction 2: brain coral, 0.10896885395050049	
+Prediction 3: sea slug, 0.08833634853363037	
+Prediction 4: flatworm, 0.07361242920160294	
+Prediction 5: electric ray, 0.013670552521944046	
+Image: ILSVRC2012_val_00004810.jpeg	Test: [4/50]	Loss: 14.8086	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9861443042755127	
+Prediction 2: sea anemone, 0.0036454328801482916	
+Prediction 3: sea urchin, 0.0021894313395023346	
+Prediction 4: sea cucumber, 0.0015574776334688067	
+Prediction 5: coral reef, 0.0011795033933594823	
+Image: ILSVRC2012_val_00005011.jpeg	Test: [4/50]	Loss: 17.7635	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9997144341468811	
+Prediction 2: loggerhead, 4.628960232366808e-05	
+Prediction 3: screw, 3.553909118636511e-05	
+Prediction 4: sea urchin, 1.904254349938128e-05	
+Prediction 5: brain coral, 1.700541361060459e-05	
+Image: ILSVRC2012_val_00007244.jpeg	Test: [4/50]	Loss: 10.2142	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.773157000541687	
+Prediction 2: bell pepper, 0.032435864210128784	
+Prediction 3: cucumber, 0.013112767599523067	
+Prediction 4: broccoli, 0.01251205150038004	
+Prediction 5: triceratops, 0.009217184968292713	
+Image: ILSVRC2012_val_00007644.jpeg	Test: [4/50]	Loss: 20.2977	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9998656511306763	
+Prediction 2: sea urchin, 1.6798778233351186e-05	
+Prediction 3: stole, 1.1118976544821635e-05	
+Prediction 4: conch, 6.869894605188165e-06	
+Prediction 5: screw, 6.276825843087863e-06	
+Image: ILSVRC2012_val_00010430.jpeg	Test: [4/50]	Loss: 13.3157	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.970698893070221	
+Prediction 2: sea cucumber, 0.016436025500297546	
+Prediction 3: sea slug, 0.002380871679633856	
+Prediction 4: spiny lobster, 0.0017076676012948155	
+Prediction 5: sea anemone, 0.0016311671352013946	
+Image: ILSVRC2012_val_00010703.jpeg	Test: [4/50]	Loss: 20.2722	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9998552799224854	
+Prediction 2: stinkhorn, 2.638875048432965e-05	
+Prediction 3: hair slide, 1.8744058252195828e-05	
+Prediction 4: jigsaw puzzle, 1.7474951164331287e-05	
+Prediction 5: sea urchin, 1.5903826351859607e-05	
+Image: ILSVRC2012_val_00011730.jpeg	Test: [4/50]	Loss: 17.5323	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9948095083236694	
+Prediction 2: sea cucumber, 0.004735153634101152	
+Prediction 3: electric ray, 0.0001835440780268982	
+Prediction 4: conch, 7.71620761952363e-05	
+Prediction 5: hammerhead, 3.6752247979165986e-05	
+Image: ILSVRC2012_val_00012640.jpeg	Test: [4/50]	Loss: 19.4841	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9990583062171936	
+Prediction 2: coral reef, 0.00042690656846389174	
+Prediction 3: brain coral, 0.00015241735673043877	
+Prediction 4: sea urchin, 8.476058428641409e-05	
+Prediction 5: earthstar, 5.7367196859559044e-05	
+Image: ILSVRC2012_val_00014059.jpeg	Test: [4/50]	Loss: 14.7064	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9967796206474304	
+Prediction 2: coral reef, 0.0006559999892488122	
+Prediction 3: loggerhead, 0.0005254264688119292	
+Prediction 4: hammerhead, 0.0002740737108979374	
+Prediction 5: scuba diver, 0.0002470945182722062	
+Image: ILSVRC2012_val_00014590.jpeg	Test: [4/50]	Loss: 12.9768	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9693577885627747	
+Prediction 2: breakwater, 0.0037829477805644274	
+Prediction 3: African crocodile, 0.003014711895957589	
+Prediction 4: knot, 0.002562261652201414	
+Prediction 5: sea urchin, 0.0017569304909557104	
+Image: ILSVRC2012_val_00014948.jpeg	Test: [4/50]	Loss: 15.0398	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9576562643051147	
+Prediction 2: stinkhorn, 0.026522932574152946	
+Prediction 3: coral fungus, 0.00471760518848896	
+Prediction 4: sea cucumber, 0.0020864508114755154	
+Prediction 5: eft, 0.0019107714761048555	
+Image: ILSVRC2012_val_00015004.jpeg	Test: [4/50]	Loss: 18.4470	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9982372522354126	
+Prediction 2: sea cucumber, 0.0015277237398549914	
+Prediction 3: brain coral, 9.95641530607827e-05	
+Prediction 4: sea urchin, 4.730404543806799e-05	
+Prediction 5: sea anemone, 2.462228985677939e-05	
+Image: ILSVRC2012_val_00016273.jpeg	Test: [4/50]	Loss: 19.0934	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.8984745144844055	
+Prediction 2: brain coral, 0.08606772124767303	
+Prediction 3: sea anemone, 0.004678887315094471	
+Prediction 4: sea cucumber, 0.0036849938333034515	
+Prediction 5: coral reef, 0.0027559560257941484	
+Image: ILSVRC2012_val_00017129.jpeg	Test: [4/50]	Loss: 15.0979	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9810394048690796	
+Prediction 2: leatherback turtle, 0.0023400578647851944	
+Prediction 3: sea cucumber, 0.0016243911813944578	
+Prediction 4: sea urchin, 0.0013892330462113023	
+Prediction 5: knot, 0.0012907767668366432	
+Image: ILSVRC2012_val_00017888.jpeg	Test: [4/50]	Loss: 18.9593	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9995985627174377	
+Prediction 2: triceratops, 0.0003557500021997839	
+Prediction 3: sea slug, 1.553228503325954e-05	
+Prediction 4: sea cucumber, 6.540205049532233e-06	
+Prediction 5: piggy bank, 3.1999993552744854e-06	
+Image: ILSVRC2012_val_00018447.jpeg	Test: [4/50]	Loss: 15.3198	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9973204731941223	
+Prediction 2: pretzel, 0.0006196871399879456	
+Prediction 3: knot, 0.000377094344003126	
+Prediction 4: ringneck snake, 0.0002061706327367574	
+Prediction 5: banded gecko, 0.00013958627823740244	
+Image: ILSVRC2012_val_00018772.jpeg	Test: [4/50]	Loss: 14.2937	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: coral reef, 0.42195937037467957	
+Prediction 2: flatworm, 0.1809888333082199	
+Prediction 3: sea slug, 0.11553727090358734	
+Prediction 4: sea anemone, 0.07687383145093918	
+Prediction 5: brain coral, 0.03577706962823868	
+Image: ILSVRC2012_val_00021742.jpeg	Test: [4/50]	Loss: 15.3934	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9617595076560974	
+Prediction 2: screw, 0.004598519764840603	
+Prediction 3: leatherback turtle, 0.003372546983882785	
+Prediction 4: loggerhead, 0.003089578589424491	
+Prediction 5: seashore, 0.002521410584449768	
+Image: ILSVRC2012_val_00021973.jpeg	Test: [4/50]	Loss: 23.1215	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9999741315841675	
+Prediction 2: sea urchin, 8.53898745845072e-06	
+Prediction 3: screw, 4.814173280465184e-06	
+Prediction 4: hair slide, 3.2641621601214865e-06	
+Prediction 5: coral reef, 1.4170216218190035e-06	
+Image: ILSVRC2012_val_00022804.jpeg	Test: [4/50]	Loss: 19.7042	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9947577118873596	
+Prediction 2: triceratops, 0.004201036877930164	
+Prediction 3: sea cucumber, 0.000740452203899622	
+Prediction 4: conch, 4.6384611778194085e-05	
+Prediction 5: sea slug, 4.4946962589165196e-05	
+Image: ILSVRC2012_val_00023403.jpeg	Test: [4/50]	Loss: 22.2297	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9999749660491943	
+Prediction 2: sea urchin, 1.2259877621545456e-05	
+Prediction 3: screw, 2.263707074234844e-06	
+Prediction 4: triceratops, 1.6122398847073782e-06	
+Prediction 5: sturgeon, 1.2541596561277402e-06	
+Image: ILSVRC2012_val_00024247.jpeg	Test: [4/50]	Loss: 11.8446	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.5607654452323914	
+Prediction 2: knot, 0.2255648374557495	
+Prediction 3: wolf spider, 0.026472242549061775	
+Prediction 4: velvet, 0.02468741498887539	
+Prediction 5: jean, 0.020532436668872833	
+Image: ILSVRC2012_val_00025161.jpeg	Test: [4/50]	Loss: 17.6571	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9996364116668701	
+Prediction 2: screw, 0.00027137971483170986	
+Prediction 3: sea urchin, 3.951280450564809e-05	
+Prediction 4: corn, 1.1243356311751995e-05	
+Prediction 5: ear, 8.232643267547246e-06	
+Image: ILSVRC2012_val_00026260.jpeg	Test: [4/50]	Loss: 17.7847	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9991311430931091	
+Prediction 2: sea cucumber, 0.0002724599908106029	
+Prediction 3: tailed frog, 0.00014948382158763707	
+Prediction 4: stinkhorn, 0.00010964708053506911	
+Prediction 5: Gila monster, 8.358168270206079e-05	
+Image: ILSVRC2012_val_00027582.jpeg	Test: [4/50]	Loss: 13.7967	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.7782325148582458	
+Prediction 2: sea slug, 0.0665077194571495	
+Prediction 3: sea cucumber, 0.06407762318849564	
+Prediction 4: coral reef, 0.02823732979595661	
+Prediction 5: sea anemone, 0.011089271865785122	
+Image: ILSVRC2012_val_00027930.jpeg	Test: [4/50]	Loss: 13.7126	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9942759871482849	
+Prediction 2: rock crab, 0.0008260507020168006	
+Prediction 3: tailed frog, 0.0007969275466166437	
+Prediction 4: sea slug, 0.0006620587082579732	
+Prediction 5: king crab, 0.0005749575211666524	
+Image: ILSVRC2012_val_00029527.jpeg	Test: [4/50]	Loss: 16.9513	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9913747906684875	
+Prediction 2: sea cucumber, 0.007824154570698738	
+Prediction 3: conch, 0.00021589444077108055	
+Prediction 4: electric ray, 0.0001447725371690467	
+Prediction 5: coral reef, 8.808307029539719e-05	
+Image: ILSVRC2012_val_00030782.jpeg	Test: [4/50]	Loss: 18.0383	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9955287575721741	
+Prediction 2: sea cucumber, 0.002055520424619317	
+Prediction 3: brain coral, 0.0006424530292861164	
+Prediction 4: pretzel, 0.00048141053412109613	
+Prediction 5: horned viper, 0.0002132387162419036	
+Image: ILSVRC2012_val_00032690.jpeg	Test: [4/50]	Loss: 18.3438	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9989055395126343	
+Prediction 2: agama, 0.00047147012082859874	
+Prediction 3: knot, 0.00026231430820189416	
+Prediction 4: screw, 3.5399600164964795e-05	
+Prediction 5: handkerchief, 2.758417213044595e-05	
+Image: ILSVRC2012_val_00032937.jpeg	Test: [4/50]	Loss: 16.1894	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.951590359210968	
+Prediction 2: pretzel, 0.021506452932953835	
+Prediction 3: hognose snake, 0.00901865679770708	
+Prediction 4: horned viper, 0.006794881075620651	
+Prediction 5: diamondback, 0.001413084683008492	
+Image: ILSVRC2012_val_00035040.jpeg	Test: [4/50]	Loss: 17.5066	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9986487030982971	
+Prediction 2: sea cucumber, 0.0007248840993270278	
+Prediction 3: sea urchin, 0.000487670477014035	
+Prediction 4: sea slug, 2.1844580260221846e-05	
+Prediction 5: sea anemone, 2.021220097958576e-05	
+Image: ILSVRC2012_val_00042188.jpeg	Test: [4/50]	Loss: 10.6879	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9765210747718811	
+Prediction 2: sea anemone, 0.0033753053285181522	
+Prediction 3: coral reef, 0.0012797311646863818	
+Prediction 4: sea slug, 0.0012655245373025537	
+Prediction 5: pretzel, 0.0011488811578601599	
+Image: ILSVRC2012_val_00042968.jpeg	Test: [4/50]	Loss: 14.4812	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.842154860496521	
+Prediction 2: anemone fish, 0.029312603175640106	
+Prediction 3: sea anemone, 0.02590400166809559	
+Prediction 4: coral reef, 0.02557685598731041	
+Prediction 5: sea slug, 0.023024845868349075	
+Image: ILSVRC2012_val_00043732.jpeg	Test: [4/50]	Loss: 16.9675	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9886355400085449	
+Prediction 2: Gila monster, 0.0031213697511702776	
+Prediction 3: sea cucumber, 0.0021715161856263876	
+Prediction 4: tailed frog, 0.0006443829042837024	
+Prediction 5: African chameleon, 0.0006134856957942247	
+Image: ILSVRC2012_val_00043929.jpeg	Test: [4/50]	Loss: 15.4597	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9918699264526367	
+Prediction 2: sea cucumber, 0.001486309221945703	
+Prediction 3: coral reef, 0.0009253817261196673	
+Prediction 4: chain, 0.0008628661744296551	
+Prediction 5: knot, 0.0007490061107091606	
+Image: ILSVRC2012_val_00044117.jpeg	Test: [4/50]	Loss: 17.4349	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9938207268714905	
+Prediction 2: sea urchin, 0.004834942985326052	
+Prediction 3: sea anemone, 0.0004739512223750353	
+Prediction 4: sea cucumber, 0.0002517378597985953	
+Prediction 5: coral reef, 0.00021149824897293001	
+Image: ILSVRC2012_val_00045028.jpeg	Test: [4/50]	Loss: 15.7225	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9980236291885376	
+Prediction 2: sea anemone, 0.0005984663730487227	
+Prediction 3: sea urchin, 0.00036746286787092686	
+Prediction 4: sea slug, 0.00032372400164604187	
+Prediction 5: coral reef, 0.00028949498664587736	
+Image: ILSVRC2012_val_00045998.jpeg	Test: [4/50]	Loss: 13.5344	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.28038957715034485	
+Prediction 2: sea cucumber, 0.26217538118362427	
+Prediction 3: king crab, 0.1797134131193161	
+Prediction 4: spiny lobster, 0.09249018877744675	
+Prediction 5: hermit crab, 0.05567776784300804	
+Image: ILSVRC2012_val_00046544.jpeg	Test: [4/50]	Loss: 18.6835	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9999258518218994	
+Prediction 2: sea urchin, 2.123773083440028e-05	
+Prediction 3: sea cucumber, 7.968412319314666e-06	
+Prediction 4: conch, 6.3884049268381204e-06	
+Prediction 5: hair slide, 3.836306859739125e-06	
+Image: ILSVRC2012_val_00048358.jpeg	Test: [4/50]	Loss: 16.7402	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: sea slug, 0.47352853417396545	
+Prediction 2: starfish, 0.44919443130493164	
+Prediction 3: sea anemone, 0.026379531249403954	
+Prediction 4: coral reef, 0.019470496103167534	
+Prediction 5: brain coral, 0.009716100059449673	
+Image: ILSVRC2012_val_00048546.jpeg	Test: [4/50]	Loss: 17.2422	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9983408451080322	
+Prediction 2: sea cucumber, 0.00044738559518009424	
+Prediction 3: coral reef, 0.00026889191940426826	
+Prediction 4: puffer, 0.00025743115111254156	
+Prediction 5: conch, 0.00011391963926143944	
+Image: ILSVRC2012_val_00049508.jpeg	Test: [4/50]	Loss: 22.0872	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.9996091723442078	
+Prediction 2: pretzel, 0.00020766988745890558	
+Prediction 3: earthstar, 2.929742004198488e-05	
+Prediction 4: brain coral, 2.2128775526653044e-05	
+Prediction 5: screw, 1.2185792002128437e-05	
+Image: ILSVRC2012_val_00049576.jpeg	Test: [4/50]	Loss: 11.0457	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.46876218914985657	
+Prediction 2: coral reef, 0.11463084816932678	
+Prediction 3: sea slug, 0.10318531841039658	
+Prediction 4: sea snake, 0.07793524861335754	
+Prediction 5: eel, 0.03646330162882805	

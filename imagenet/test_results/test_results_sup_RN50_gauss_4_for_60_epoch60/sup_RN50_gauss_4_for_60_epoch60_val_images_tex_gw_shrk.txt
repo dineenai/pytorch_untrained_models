@@ -1,0 +1,300 @@
+Image: ILSVRC2012_val_00002338.jpeg	Test: [4/50]	Loss: 9.3880	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: spider web, 0.10111268609762192	
+Prediction 2: analog clock, 0.08049824833869934	
+Prediction 3: window screen, 0.06350136548280716	
+Prediction 4: hammerhead, 0.05971118435263634	
+Prediction 5: digital clock, 0.044657301157712936	
+Image: ILSVRC2012_val_00002752.jpeg	Test: [4/50]	Loss: 8.3103	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: puffer, 0.3782366216182709	
+Prediction 2: electric ray, 0.1500846892595291	
+Prediction 3: strainer, 0.055965356528759	
+Prediction 4: mosque, 0.042373400181531906	
+Prediction 5: rock beauty, 0.027595849707722664	
+Image: ILSVRC2012_val_00004311.jpeg	Test: [4/50]	Loss: 7.8707	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: nematode, 0.20159649848937988	
+Prediction 2: strainer, 0.15880635380744934	
+Prediction 3: window screen, 0.15205885469913483	
+Prediction 4: eel, 0.1498495191335678	
+Prediction 5: flatworm, 0.05696439743041992	
+Image: ILSVRC2012_val_00004329.jpeg	Test: [4/50]	Loss: 9.1111	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7326844334602356	
+Prediction 2: rock beauty, 0.041037458926439285	
+Prediction 3: flatworm, 0.03518267348408699	
+Prediction 4: nematode, 0.014427549205720425	
+Prediction 5: analog clock, 0.01051972433924675	
+Image: ILSVRC2012_val_00006491.jpeg	Test: [4/50]	Loss: 7.8291	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.5506287813186646	
+Prediction 2: puffer, 0.06205308064818382	
+Prediction 3: eel, 0.025126034393906593	
+Prediction 4: coil, 0.015572472475469112	
+Prediction 5: rock beauty, 0.014568012207746506	
+Image: ILSVRC2012_val_00008848.jpeg	Test: [4/50]	Loss: 11.0766	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: hammerhead, 0.798376202583313	
+Prediction 2: lionfish, 0.035161733627319336	
+Prediction 3: coral reef, 0.01786573976278305	
+Prediction 4: starfish, 0.01380070298910141	
+Prediction 5: flatworm, 0.007575999014079571	
+Image: ILSVRC2012_val_00014467.jpeg	Test: [4/50]	Loss: 10.7746	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8321858644485474	
+Prediction 2: window screen, 0.04771270230412483	
+Prediction 3: puffer, 0.03804405406117439	
+Prediction 4: rock beauty, 0.013472304679453373	
+Prediction 5: eel, 0.011126523837447166	
+Image: ILSVRC2012_val_00015157.jpeg	Test: [4/50]	Loss: 13.4772	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.7567295432090759	
+Prediction 2: strainer, 0.16313597559928894	
+Prediction 3: fire screen, 0.010114114731550217	
+Prediction 4: analog clock, 0.006724588572978973	
+Prediction 5: honeycomb, 0.005866213236004114	
+Image: ILSVRC2012_val_00015220.jpeg	Test: [4/50]	Loss: 6.1391	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dishrag, 0.3707970380783081	
+Prediction 2: brain coral, 0.06257182359695435	
+Prediction 3: strainer, 0.04033377021551132	
+Prediction 4: electric ray, 0.036950837820768356	
+Prediction 5: lionfish, 0.02679436281323433	
+Image: ILSVRC2012_val_00016168.jpeg	Test: [4/50]	Loss: 15.0400	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.33287325501441956	
+Prediction 2: matchstick, 0.1777190864086151	
+Prediction 3: fire screen, 0.13612036406993866	
+Prediction 4: window screen, 0.10004013031721115	
+Prediction 5: analog clock, 0.08689159154891968	
+Image: ILSVRC2012_val_00016859.jpeg	Test: [4/50]	Loss: 9.4372	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7990469932556152	
+Prediction 2: lionfish, 0.03798086941242218	
+Prediction 3: puffer, 0.029825204983353615	
+Prediction 4: rock beauty, 0.017262598499655724	
+Prediction 5: spider web, 0.010773830115795135	
+Image: ILSVRC2012_val_00016988.jpeg	Test: [4/50]	Loss: 6.8724	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: puffer, 0.4839712679386139	
+Prediction 2: brain coral, 0.17817336320877075	
+Prediction 3: eel, 0.08328333497047424	
+Prediction 4: strainer, 0.055253565311431885	
+Prediction 5: rock beauty, 0.04582761600613594	
+Image: ILSVRC2012_val_00017105.jpeg	Test: [4/50]	Loss: 15.7030	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: analog clock, 0.6767979860305786	
+Prediction 2: digital clock, 0.03883139416575432	
+Prediction 3: web site, 0.031131042167544365	
+Prediction 4: wall clock, 0.024617431685328484	
+Prediction 5: church, 0.015121689066290855	
+Image: ILSVRC2012_val_00017194.jpeg	Test: [4/50]	Loss: 11.4672	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.3992892801761627	
+Prediction 2: spider web, 0.36428794264793396	
+Prediction 3: analog clock, 0.03306613117456436	
+Prediction 4: maze, 0.02715989015996456	
+Prediction 5: matchstick, 0.02123388834297657	
+Image: ILSVRC2012_val_00019409.jpeg	Test: [4/50]	Loss: 10.9127	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.25069093704223633	
+Prediction 2: analog clock, 0.09548369795084	
+Prediction 3: spider web, 0.09336815774440765	
+Prediction 4: maze, 0.04212827607989311	
+Prediction 5: spotlight, 0.0413522869348526	
+Image: ILSVRC2012_val_00019435.jpeg	Test: [4/50]	Loss: 6.6374	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: rock beauty, 0.1869238317012787	
+Prediction 2: strainer, 0.07487946003675461	
+Prediction 3: dragonfly, 0.06723712384700775	
+Prediction 4: gar, 0.05826864764094353	
+Prediction 5: eel, 0.05628224089741707	
+Image: ILSVRC2012_val_00020011.jpeg	Test: [4/50]	Loss: 11.2925	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7380515933036804	
+Prediction 2: analog clock, 0.0806916281580925	
+Prediction 3: iron, 0.01738137938082218	
+Prediction 4: digital clock, 0.01563345640897751	
+Prediction 5: window screen, 0.006179626565426588	
+Image: ILSVRC2012_val_00023185.jpeg	Test: [4/50]	Loss: 9.5345	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: hammerhead, 0.48115840554237366	
+Prediction 2: American chameleon, 0.060595687478780746	
+Prediction 3: window screen, 0.050720926374197006	
+Prediction 4: gar, 0.04120977595448494	
+Prediction 5: wing, 0.03288987651467323	
+Image: ILSVRC2012_val_00024940.jpeg	Test: [4/50]	Loss: 8.4213	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: puffer, 0.6732587218284607	
+Prediction 2: eel, 0.11199286580085754	
+Prediction 3: electric ray, 0.05543398857116699	
+Prediction 4: rock beauty, 0.04297944903373718	
+Prediction 5: strainer, 0.011688870377838612	
+Image: ILSVRC2012_val_00025900.jpeg	Test: [4/50]	Loss: 9.6658	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.30322515964508057	
+Prediction 2: strainer, 0.15150482952594757	
+Prediction 3: puffer, 0.14517329633235931	
+Prediction 4: maze, 0.06502214819192886	
+Prediction 5: eel, 0.056434955447912216	
+Image: ILSVRC2012_val_00027063.jpeg	Test: [4/50]	Loss: 13.0197	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8805158734321594	
+Prediction 2: window screen, 0.10134032368659973	
+Prediction 3: fire screen, 0.0024079540744423866	
+Prediction 4: microphone, 0.0021963471081107855	
+Prediction 5: honeycomb, 0.001736795878969133	
+Image: ILSVRC2012_val_00027419.jpeg	Test: [4/50]	Loss: 8.2962	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.15029217302799225	
+Prediction 2: window screen, 0.14451417326927185	
+Prediction 3: eel, 0.13052144646644592	
+Prediction 4: puffer, 0.07782798260450363	
+Prediction 5: rock beauty, 0.054167523980140686	
+Image: ILSVRC2012_val_00027514.jpeg	Test: [4/50]	Loss: 11.8713	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: spider web, 0.48465603590011597	
+Prediction 2: black and gold garden spider, 0.1822464019060135	
+Prediction 3: garden spider, 0.13701269030570984	
+Prediction 4: barn spider, 0.12111479789018631	
+Prediction 5: coil, 0.006728355307132006	
+Image: ILSVRC2012_val_00028028.jpeg	Test: [4/50]	Loss: 6.7842	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: nematode, 0.2982136905193329	
+Prediction 2: gar, 0.09161604195833206	
+Prediction 3: great white shark, 0.08238860964775085	
+Prediction 4: tiger shark, 0.050794415175914764	
+Prediction 5: jellyfish, 0.048393018543720245	
+Image: ILSVRC2012_val_00029481.jpeg	Test: [4/50]	Loss: 12.6420	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7120757102966309	
+Prediction 2: analog clock, 0.10305853933095932	
+Prediction 3: spider web, 0.021861666813492775	
+Prediction 4: wall clock, 0.015306506305932999	
+Prediction 5: iron, 0.008793564513325691	
+Image: ILSVRC2012_val_00030127.jpeg	Test: [4/50]	Loss: 12.3811	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.41456490755081177	
+Prediction 2: strainer, 0.1825687438249588	
+Prediction 3: analog clock, 0.10447033494710922	
+Prediction 4: digital clock, 0.029847633093595505	
+Prediction 5: matchstick, 0.02886957861483097	
+Image: ILSVRC2012_val_00031466.jpeg	Test: [4/50]	Loss: 7.1255	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: rock beauty, 0.16777223348617554	
+Prediction 2: hammerhead, 0.13175852596759796	
+Prediction 3: tiger shark, 0.0920071080327034	
+Prediction 4: lionfish, 0.07562843710184097	
+Prediction 5: electric ray, 0.05830671265721321	
+Image: ILSVRC2012_val_00031720.jpeg	Test: [4/50]	Loss: 7.7375	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.30035629868507385	
+Prediction 2: strainer, 0.16002005338668823	
+Prediction 3: puffer, 0.05330871790647507	
+Prediction 4: honeycomb, 0.03718328848481178	
+Prediction 5: brain coral, 0.02319834753870964	
+Image: ILSVRC2012_val_00031808.jpeg	Test: [4/50]	Loss: 12.0833	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: analog clock, 0.5401133894920349	
+Prediction 2: strainer, 0.17500165104866028	
+Prediction 3: digital clock, 0.059999432414770126	
+Prediction 4: window screen, 0.01889031194150448	
+Prediction 5: crossword puzzle, 0.01463403645902872	
+Image: ILSVRC2012_val_00032288.jpeg	Test: [4/50]	Loss: 7.3849	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: eel, 0.08957937359809875	
+Prediction 2: puffer, 0.05563782900571823	
+Prediction 3: window screen, 0.042358122766017914	
+Prediction 4: lionfish, 0.039822544902563095	
+Prediction 5: umbrella, 0.03424150496721268	
+Image: ILSVRC2012_val_00032417.jpeg	Test: [4/50]	Loss: 12.5684	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7934664487838745	
+Prediction 2: window screen, 0.16458159685134888	
+Prediction 3: honeycomb, 0.009543168358504772	
+Prediction 4: puffer, 0.0037923664785921574	
+Prediction 5: fire screen, 0.0034697779919952154	
+Image: ILSVRC2012_val_00034950.jpeg	Test: [4/50]	Loss: 9.5045	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: spider web, 0.3891695439815521	
+Prediction 2: garden spider, 0.11021558940410614	
+Prediction 3: black and gold garden spider, 0.07081550359725952	
+Prediction 4: barn spider, 0.05818615108728409	
+Prediction 5: puffer, 0.03526730835437775	
+Image: ILSVRC2012_val_00035223.jpeg	Test: [4/50]	Loss: 11.7756	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8589200973510742	
+Prediction 2: web site, 0.029953477904200554	
+Prediction 3: spotlight, 0.017130261287093163	
+Prediction 4: analog clock, 0.011101150885224342	
+Prediction 5: microphone, 0.009307639673352242	
+Image: ILSVRC2012_val_00035774.jpeg	Test: [4/50]	Loss: 6.3324	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: rock beauty, 0.28828880190849304	
+Prediction 2: puffer, 0.10651122778654099	
+Prediction 3: gar, 0.09004949033260345	
+Prediction 4: electric ray, 0.06986019760370255	
+Prediction 5: hammerhead, 0.06393831223249435	
+Image: ILSVRC2012_val_00036737.jpeg	Test: [4/50]	Loss: 10.2205	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: American egret, 0.05527191981673241	
+Prediction 2: bee eater, 0.04039274528622627	
+Prediction 3: analog clock, 0.0317063070833683	
+Prediction 4: crane, 0.02952123060822487	
+Prediction 5: kite, 0.02949279546737671	
+Image: ILSVRC2012_val_00037050.jpeg	Test: [4/50]	Loss: 16.9599	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8089057803153992	
+Prediction 2: window screen, 0.11866700649261475	
+Prediction 3: fire screen, 0.04354754090309143	
+Prediction 4: analog clock, 0.005837469361722469	
+Prediction 5: digital clock, 0.005711442790925503	
+Image: ILSVRC2012_val_00037135.jpeg	Test: [4/50]	Loss: 8.8317	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.44639602303504944	
+Prediction 2: strainer, 0.2596034109592438	
+Prediction 3: puffer, 0.05136455222964287	
+Prediction 4: eel, 0.03715653717517853	
+Prediction 5: rock beauty, 0.029536748304963112	
+Image: ILSVRC2012_val_00037488.jpeg	Test: [4/50]	Loss: 6.9648	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.117285817861557	
+Prediction 2: hammerhead, 0.10854671895503998	
+Prediction 3: puffer, 0.08832254260778427	
+Prediction 4: rock beauty, 0.0645691454410553	
+Prediction 5: gar, 0.047315292060375214	
+Image: ILSVRC2012_val_00037998.jpeg	Test: [4/50]	Loss: 9.5360	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.9342977404594421	
+Prediction 2: window screen, 0.00655806390568614	
+Prediction 3: eel, 0.0056892577558755875	
+Prediction 4: puffer, 0.0050361123867332935	
+Prediction 5: lighter, 0.0034855580888688564	
+Image: ILSVRC2012_val_00039304.jpeg	Test: [4/50]	Loss: 13.8671	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.6804730892181396	
+Prediction 2: strainer, 0.2669089436531067	
+Prediction 3: digital clock, 0.005156367085874081	
+Prediction 4: honeycomb, 0.004847237374633551	
+Prediction 5: fire screen, 0.0048440140672028065	
+Image: ILSVRC2012_val_00039445.jpeg	Test: [4/50]	Loss: 12.4517	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: analog clock, 0.3036382496356964	
+Prediction 2: wall clock, 0.0965743362903595	
+Prediction 3: window screen, 0.07289382070302963	
+Prediction 4: strainer, 0.04875626042485237	
+Prediction 5: digital clock, 0.03455629572272301	
+Image: ILSVRC2012_val_00039534.jpeg	Test: [4/50]	Loss: 12.7085	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.16700831055641174	
+Prediction 2: analog clock, 0.12240783870220184	
+Prediction 3: strainer, 0.09049300849437714	
+Prediction 4: web site, 0.05539916828274727	
+Prediction 5: matchstick, 0.04711896553635597	
+Image: ILSVRC2012_val_00039865.jpeg	Test: [4/50]	Loss: 8.4390	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: puffer, 0.23079413175582886	
+Prediction 2: electric ray, 0.07623044401407242	
+Prediction 3: lionfish, 0.0747920572757721	
+Prediction 4: limpkin, 0.07215973734855652	
+Prediction 5: prairie chicken, 0.05982882156968117	
+Image: ILSVRC2012_val_00040098.jpeg	Test: [4/50]	Loss: 6.7411	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: rock beauty, 0.2925392985343933	
+Prediction 2: puffer, 0.24555166065692902	
+Prediction 3: hammerhead, 0.14953820407390594	
+Prediction 4: eel, 0.10272866487503052	
+Prediction 5: tiger shark, 0.07366079092025757	
+Image: ILSVRC2012_val_00040710.jpeg	Test: [4/50]	Loss: 13.2357	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: spider web, 0.5948746800422668	
+Prediction 2: analog clock, 0.10129068791866302	
+Prediction 3: black and gold garden spider, 0.04242062196135521	
+Prediction 4: garden spider, 0.037437960505485535	
+Prediction 5: barn spider, 0.02148527465760708	
+Image: ILSVRC2012_val_00042345.jpeg	Test: [4/50]	Loss: 10.1685	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8669533133506775	
+Prediction 2: puffer, 0.05671638250350952	
+Prediction 3: window screen, 0.01868710108101368	
+Prediction 4: grille, 0.007799644488841295	
+Prediction 5: chain mail, 0.007100336719304323	
+Image: ILSVRC2012_val_00044052.jpeg	Test: [4/50]	Loss: 10.1686	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: analog clock, 0.08793626725673676	
+Prediction 2: window screen, 0.07378766685724258	
+Prediction 3: strainer, 0.055226001888513565	
+Prediction 4: spotlight, 0.04585306718945503	
+Prediction 5: digital clock, 0.0402979739010334	
+Image: ILSVRC2012_val_00044896.jpeg	Test: [4/50]	Loss: 6.4403	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: electric ray, 0.48594674468040466	
+Prediction 2: stingray, 0.055518269538879395	
+Prediction 3: brain coral, 0.05064009130001068	
+Prediction 4: dishrag, 0.04096761718392372	
+Prediction 5: window screen, 0.03228170797228813	
+Image: ILSVRC2012_val_00045730.jpeg	Test: [4/50]	Loss: 11.8088	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.227804496884346	
+Prediction 2: spider web, 0.12300422042608261	
+Prediction 3: strainer, 0.11498137563467026	
+Prediction 4: analog clock, 0.10814908891916275	
+Prediction 5: maze, 0.07508198916912079	
+Image: ILSVRC2012_val_00046171.jpeg	Test: [4/50]	Loss: 10.2015	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.18805895745754242	
+Prediction 2: analog clock, 0.08914102613925934	
+Prediction 3: jigsaw puzzle, 0.08578816801309586	
+Prediction 4: digital clock, 0.0788387879729271	
+Prediction 5: American egret, 0.049580637365579605	

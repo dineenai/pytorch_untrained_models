@@ -1,0 +1,306 @@
+Image: tex_gw_shrk_val_ILSVRC2012_val_00002338.jpeg	Test: [4/51]	Loss: 8.9035	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.3731178343296051	
+Prediction 2: electric ray, 0.1583791971206665	
+Prediction 3: hammerhead, 0.10931868851184845	
+Prediction 4: great white shark, 0.09469761699438095	
+Prediction 5: sea lion, 0.06082627922296524	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00002752.jpeg	Test: [4/51]	Loss: 10.3242	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.6858131289482117	
+Prediction 2: hippopotamus, 0.15617521107196808	
+Prediction 3: great white shark, 0.09735510498285294	
+Prediction 4: tiger shark, 0.018908096477389336	
+Prediction 5: electric ray, 0.00636788085103035	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00004311.jpeg	Test: [4/51]	Loss: 6.2807	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.32724225521087646	
+Prediction 2: platypus, 0.14272166788578033	
+Prediction 3: great white shark, 0.13546589016914368	
+Prediction 4: tiger shark, 0.08573190867900848	
+Prediction 5: electric ray, 0.08177023380994797	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00004329.jpeg	Test: [4/51]	Loss: 10.0420	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.4166457951068878	
+Prediction 2: dugong, 0.32332971692085266	
+Prediction 3: tiger shark, 0.06938999146223068	
+Prediction 4: submarine, 0.030119551345705986	
+Prediction 5: grey whale, 0.02445274405181408	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00006491.jpeg	Test: [4/51]	Loss: 13.0253	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.8018438220024109	
+Prediction 2: grey whale, 0.11464099586009979	
+Prediction 3: tiger shark, 0.04813637584447861	
+Prediction 4: dugong, 0.013200188055634499	
+Prediction 5: alp, 0.004902091342955828	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00008848.jpeg	Test: [4/51]	Loss: 11.1249	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.815412700176239	
+Prediction 2: electric ray, 0.10059956461191177	
+Prediction 3: tiger shark, 0.0339445024728775	
+Prediction 4: hammerhead, 0.01664419285953045	
+Prediction 5: great white shark, 0.009905185550451279	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00014467.jpeg	Test: [4/51]	Loss: 9.9370	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: geyser, 0.47384169697761536	
+Prediction 2: Angora, 0.16140149533748627	
+Prediction 3: Arctic fox, 0.028068728744983673	
+Prediction 4: speedboat, 0.016792666167020798	
+Prediction 5: fireboat, 0.015397418290376663	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00015157.jpeg	Test: [4/51]	Loss: 7.7420	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pickelhaube, 0.23131921887397766	
+Prediction 2: bearskin, 0.13060283660888672	
+Prediction 3: thimble, 0.024532610550522804	
+Prediction 4: oil filter, 0.01735033094882965	
+Prediction 5: macaque, 0.01591617800295353	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00015220.jpeg	Test: [4/51]	Loss: 10.6021	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.6295425295829773	
+Prediction 2: tiger shark, 0.19830849766731262	
+Prediction 3: hammerhead, 0.06235889345407486	
+Prediction 4: dugong, 0.02851126343011856	
+Prediction 5: killer whale, 0.010458653792738914	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00016168.jpeg	Test: [4/51]	Loss: 10.8405	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: banded gecko, 0.38289040327072144	
+Prediction 2: ant, 0.06707555800676346	
+Prediction 3: barn spider, 0.050294820219278336	
+Prediction 4: whiptail, 0.04025788977742195	
+Prediction 5: isopod, 0.03143531084060669	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00016859.jpeg	Test: [4/51]	Loss: 8.8125	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.753933846950531	
+Prediction 2: electric ray, 0.035738226026296616	
+Prediction 3: jellyfish, 0.03454986587166786	
+Prediction 4: hammerhead, 0.03425586223602295	
+Prediction 5: tiger shark, 0.02722315676510334	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00016988.jpeg	Test: [4/51]	Loss: 9.3406	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.2911330461502075	
+Prediction 2: stingray, 0.22364434599876404	
+Prediction 3: tiger shark, 0.13597171008586884	
+Prediction 4: hammerhead, 0.1139565035700798	
+Prediction 5: electric ray, 0.05128541961312294	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00017105.jpeg	Test: [4/51]	Loss: 8.6939	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: handkerchief, 0.08629141747951508	
+Prediction 2: sandbar, 0.028852254152297974	
+Prediction 3: geyser, 0.02708020806312561	
+Prediction 4: bath towel, 0.021554982289671898	
+Prediction 5: cliff, 0.019991563633084297	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00017194.jpeg	Test: [4/51]	Loss: 11.8420	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: albatross, 0.49282240867614746	
+Prediction 2: goose, 0.07204504311084747	
+Prediction 3: great white shark, 0.06727618724107742	
+Prediction 4: oystercatcher, 0.045975781977176666	
+Prediction 5: French bulldog, 0.045675721019506454	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00019409.jpeg	Test: [4/51]	Loss: 10.5718	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.726100742816925	
+Prediction 2: tiger shark, 0.07845605909824371	
+Prediction 3: electric ray, 0.04351770877838135	
+Prediction 4: grey whale, 0.04216605797410011	
+Prediction 5: hammerhead, 0.035519201308488846	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00019435.jpeg	Test: [4/51]	Loss: 6.2577	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tiger shark, 0.48059263825416565	
+Prediction 2: gar, 0.07688437402248383	
+Prediction 3: hammerhead, 0.03892750293016434	
+Prediction 4: great white shark, 0.038173023611307144	
+Prediction 5: sturgeon, 0.028336258605122566	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00020011.jpeg	Test: [4/51]	Loss: 8.3208	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.07839538156986237	
+Prediction 2: tiger shark, 0.06994407624006271	
+Prediction 3: coho, 0.06857014447450638	
+Prediction 4: stingray, 0.06273724138736725	
+Prediction 5: hammerhead, 0.052751313894987106	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00023185.jpeg	Test: [4/51]	Loss: 7.9531	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: safety pin, 0.1350593864917755	
+Prediction 2: nematode, 0.05248162895441055	
+Prediction 3: dugong, 0.039808910340070724	
+Prediction 4: stingray, 0.03861997276544571	
+Prediction 5: screw, 0.03338361904025078	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00024940.jpeg	Test: [4/51]	Loss: 8.3452	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.17805293202400208	
+Prediction 2: albatross, 0.07752133160829544	
+Prediction 3: tiger shark, 0.06073611229658127	
+Prediction 4: volcano, 0.046652719378471375	
+Prediction 5: Arctic fox, 0.042189422994852066	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00025900.jpeg	Test: [4/51]	Loss: 8.5109	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: trilobite, 0.09659136831760406	
+Prediction 2: loggerhead, 0.08285367488861084	
+Prediction 3: shower cap, 0.05736304447054863	
+Prediction 4: jellyfish, 0.047242872416973114	
+Prediction 5: leatherback turtle, 0.0446503609418869	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00027063.jpeg	Test: [4/51]	Loss: 8.3945	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.60274338722229	
+Prediction 2: nematode, 0.11520574986934662	
+Prediction 3: electric ray, 0.04729757457971573	
+Prediction 4: sea lion, 0.02445569448173046	
+Prediction 5: grey whale, 0.021230896934866905	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00027063_2.jpeg	Test: [4/51]	Loss: 9.2745	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.24481892585754395	
+Prediction 2: grey whale, 0.09691645205020905	
+Prediction 3: stingray, 0.07481977343559265	
+Prediction 4: tiger shark, 0.0644908919930458	
+Prediction 5: sea lion, 0.05749063193798065	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00027419.jpeg	Test: [4/51]	Loss: 8.0895	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.16490018367767334	
+Prediction 2: tiger shark, 0.15718011558055878	
+Prediction 3: dugong, 0.11130078136920929	
+Prediction 4: hammerhead, 0.08094774186611176	
+Prediction 5: stingray, 0.036882560700178146	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00027514.jpeg	Test: [4/51]	Loss: 10.0112	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: hammerhead, 0.1770995408296585	
+Prediction 2: scuba diver, 0.1725187450647354	
+Prediction 3: jellyfish, 0.1438339203596115	
+Prediction 4: electric ray, 0.08615980297327042	
+Prediction 5: great white shark, 0.06788524240255356	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00028028.jpeg	Test: [4/51]	Loss: 10.1642	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.33638033270835876	
+Prediction 2: hammerhead, 0.13004657626152039	
+Prediction 3: tiger shark, 0.12446001917123795	
+Prediction 4: dugong, 0.06710478663444519	
+Prediction 5: scuba diver, 0.06301849335432053	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00029481.jpeg	Test: [4/51]	Loss: 7.4206	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.22502751648426056	
+Prediction 2: ice bear, 0.10885791480541229	
+Prediction 3: Arctic fox, 0.10844960808753967	
+Prediction 4: great white shark, 0.042133085429668427	
+Prediction 5: platypus, 0.03283308073878288	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00030127.jpeg	Test: [4/51]	Loss: 11.1530	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.5549291372299194	
+Prediction 2: grey whale, 0.15976502001285553	
+Prediction 3: ice bear, 0.12028787285089493	
+Prediction 4: great white shark, 0.042895976454019547	
+Prediction 5: Arctic fox, 0.019731104373931885	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00031466.jpeg	Test: [4/51]	Loss: 12.1664	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.7551228404045105	
+Prediction 2: tiger shark, 0.0755721777677536	
+Prediction 3: dugong, 0.06120488792657852	
+Prediction 4: grey whale, 0.04635000601410866	
+Prediction 5: killer whale, 0.026752641424536705	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00031720.jpeg	Test: [4/51]	Loss: 9.8303	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.932325005531311	
+Prediction 2: grey whale, 0.021233897656202316	
+Prediction 3: electric ray, 0.011768181808292866	
+Prediction 4: rock beauty, 0.007280687801539898	
+Prediction 5: sea lion, 0.0032961915712803602	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00031808.jpeg	Test: [4/51]	Loss: 7.8970	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tick, 0.11627671867609024	
+Prediction 2: nematode, 0.057448860257864	
+Prediction 3: axolotl, 0.05715804547071457	
+Prediction 4: dugong, 0.05229169875383377	
+Prediction 5: electric ray, 0.037563033401966095	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00032288.jpeg	Test: [4/51]	Loss: 8.3931	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stingray, 0.18833982944488525	
+Prediction 2: great white shark, 0.162565678358078	
+Prediction 3: dugong, 0.11997169256210327	
+Prediction 4: hammerhead, 0.08219087868928909	
+Prediction 5: tiger shark, 0.06156114861369133	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00032417.jpeg	Test: [4/51]	Loss: 8.0959	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: red-backed sandpiper, 0.26348501443862915	
+Prediction 2: weasel, 0.05981477349996567	
+Prediction 3: sea lion, 0.025913944467902184	
+Prediction 4: water ouzel, 0.024824663996696472	
+Prediction 5: otter, 0.02198125049471855	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00034950.jpeg	Test: [4/51]	Loss: 7.7890	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: jellyfish, 0.07143598794937134	
+Prediction 2: great white shark, 0.07124415785074234	
+Prediction 3: shower cap, 0.05744697526097298	
+Prediction 4: plastic bag, 0.05714990571141243	
+Prediction 5: dugong, 0.0503380261361599	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00035223.jpeg	Test: [4/51]	Loss: 7.8273	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stingray, 0.13246804475784302	
+Prediction 2: dugong, 0.10033395141363144	
+Prediction 3: tiger shark, 0.08964958786964417	
+Prediction 4: hammerhead, 0.08401311933994293	
+Prediction 5: jellyfish, 0.04935356602072716	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00035774.jpeg	Test: [4/51]	Loss: 8.6079	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.288202702999115	
+Prediction 2: stingray, 0.13551414012908936	
+Prediction 3: tiger shark, 0.1057833805680275	
+Prediction 4: hammerhead, 0.05190160498023033	
+Prediction 5: snorkel, 0.04247468337416649	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00036737.jpeg	Test: [4/51]	Loss: 10.7906	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: grey whale, 0.8134126663208008	
+Prediction 2: dugong, 0.0838642343878746	
+Prediction 3: great white shark, 0.01748986914753914	
+Prediction 4: electric ray, 0.015097066760063171	
+Prediction 5: leatherback turtle, 0.010919254273176193	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00037050.jpeg	Test: [4/51]	Loss: 3.9410	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: hippopotamus, 0.10735238343477249	
+Prediction 2: sea lion, 0.1035691499710083	
+Prediction 3: sturgeon, 0.055184539407491684	
+Prediction 4: hartebeest, 0.03035692311823368	
+Prediction 5: tiger shark, 0.025463469326496124	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00037135.jpeg	Test: [4/51]	Loss: 10.5872	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.5578203201293945	
+Prediction 2: stingray, 0.1288481056690216	
+Prediction 3: dugong, 0.04775029420852661	
+Prediction 4: breastplate, 0.046427056193351746	
+Prediction 5: tiger shark, 0.03807010501623154	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00037488.jpeg	Test: [4/51]	Loss: 7.7529	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.9211603999137878	
+Prediction 2: grey whale, 0.038103047758340836	
+Prediction 3: velvet, 0.005440379027277231	
+Prediction 4: electric ray, 0.004288712982088327	
+Prediction 5: nematode, 0.004270035773515701	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00037998.jpeg	Test: [4/51]	Loss: 11.1116	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.2925785779953003	
+Prediction 2: albatross, 0.1663636565208435	
+Prediction 3: ptarmigan, 0.07835399359464645	
+Prediction 4: goose, 0.04641853645443916	
+Prediction 5: tiger shark, 0.04479791596531868	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00039304.jpeg	Test: [4/51]	Loss: 9.9147	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Arctic fox, 0.09096212685108185	
+Prediction 2: weasel, 0.05257219448685646	
+Prediction 3: indri, 0.05083717405796051	
+Prediction 4: marmot, 0.03804166242480278	
+Prediction 5: mink, 0.03373727574944496	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00039445.jpeg	Test: [4/51]	Loss: 5.0659	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: grey whale, 0.27708467841148376	
+Prediction 2: platypus, 0.07192541658878326	
+Prediction 3: electric ray, 0.055594924837350845	
+Prediction 4: dugong, 0.045548174530267715	
+Prediction 5: sea lion, 0.03963437303900719	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00039534.jpeg	Test: [4/51]	Loss: 7.9865	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: grey whale, 0.07132534682750702	
+Prediction 2: dugong, 0.05486598238348961	
+Prediction 3: Sealyham terrier, 0.040648601949214935	
+Prediction 4: fox squirrel, 0.039652105420827866	
+Prediction 5: wire-haired fox terrier, 0.017910799011588097	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00039865.jpeg	Test: [4/51]	Loss: 12.0205	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.9210319519042969	
+Prediction 2: grey whale, 0.04275636002421379	
+Prediction 3: tiger shark, 0.014450302347540855	
+Prediction 4: dugong, 0.007010737434029579	
+Prediction 5: loggerhead, 0.0022037974558770657	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00040098.jpeg	Test: [4/51]	Loss: 8.6690	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.2486974000930786	
+Prediction 2: tiger shark, 0.20612841844558716	
+Prediction 3: great white shark, 0.16656070947647095	
+Prediction 4: stingray, 0.10961291939020157	
+Prediction 5: hippopotamus, 0.06874574720859528	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00040710.jpeg	Test: [4/51]	Loss: 7.2414	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: jellyfish, 0.26089218258857727	
+Prediction 2: dugong, 0.14932645857334137	
+Prediction 3: grey whale, 0.12282362580299377	
+Prediction 4: great white shark, 0.06046478450298309	
+Prediction 5: tiger shark, 0.03817269951105118	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00042345.jpeg	Test: [4/51]	Loss: 8.6031	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.11111059039831161	
+Prediction 2: airship, 0.03382724151015282	
+Prediction 3: chambered nautilus, 0.02700529433786869	
+Prediction 4: tiger shark, 0.019803863018751144	
+Prediction 5: great white shark, 0.018921738490462303	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00044052.jpeg	Test: [4/51]	Loss: 9.3594	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: mosquito net, 0.5196702480316162	
+Prediction 2: fireboat, 0.21717876195907593	
+Prediction 3: jellyfish, 0.08532882481813431	
+Prediction 4: fountain, 0.020568162202835083	
+Prediction 5: bubble, 0.012935670092701912	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00044896.jpeg	Test: [4/51]	Loss: 11.2459	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.8267597556114197	
+Prediction 2: sea lion, 0.08914055675268173	
+Prediction 3: ice bear, 0.02398494817316532	
+Prediction 4: grey whale, 0.021932674571871758	
+Prediction 5: great white shark, 0.01129888091236353	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00045730.jpeg	Test: [4/51]	Loss: 10.4293	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: great white shark, 0.5301005244255066	
+Prediction 2: tiger shark, 0.07431413233280182	
+Prediction 3: electric ray, 0.05247274786233902	
+Prediction 4: steel drum, 0.03558195009827614	
+Prediction 5: stingray, 0.0248702485114336	
+Image: tex_gw_shrk_val_ILSVRC2012_val_00046171.jpeg	Test: [4/51]	Loss: 8.2061	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: hammerhead, 0.17593736946582794	
+Prediction 2: jellyfish, 0.16039106249809265	
+Prediction 3: scuba diver, 0.13461139798164368	
+Prediction 4: tiger shark, 0.0883449912071228	
+Prediction 5: dugong, 0.08514637500047684	
