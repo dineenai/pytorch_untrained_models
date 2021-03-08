@@ -1,0 +1,1104 @@
+Image: gw_shrk_val_ILSVRC2012_val_00002338-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.4947	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tick, 0.285917729139328	
+Prediction 2: starfish, 0.1594000905752182	
+Prediction 3: fig, 0.06545142084360123	
+Prediction 4: meat loaf, 0.03820237144827843	
+Prediction 5: chambered nautilus, 0.03150738775730133	
+Image: gw_shrk_val_ILSVRC2012_val_00002338-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.5340	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.3862467110157013	
+Prediction 2: fig, 0.04401098191738129	
+Prediction 3: strawberry, 0.04217986389994621	
+Prediction 4: ant, 0.03240867331624031	
+Prediction 5: rotisserie, 0.032399557530879974	
+Image: gw_shrk_val_ILSVRC2012_val_00002338-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 6.8160	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: crayfish, 0.19000299274921417	
+Prediction 2: isopod, 0.14736567437648773	
+Prediction 3: tailed frog, 0.13554435968399048	
+Prediction 4: scorpion, 0.08930128067731857	
+Prediction 5: fiddler crab, 0.04929785430431366	
+Image: gw_shrk_val_ILSVRC2012_val_00002338-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.2804	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.1779145747423172	
+Prediction 2: stole, 0.041424959897994995	
+Prediction 3: tick, 0.03834913298487663	
+Prediction 4: electric ray, 0.03388243541121483	
+Prediction 5: overskirt, 0.020604075863957405	
+Image: gw_shrk_val_ILSVRC2012_val_00002752-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 11.6874	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.4333255887031555	
+Prediction 2: meat loaf, 0.28828155994415283	
+Prediction 3: Dutch oven, 0.059819772839546204	
+Prediction 4: frying pan, 0.03784482926130295	
+Prediction 5: hot pot, 0.019086601212620735	
+Image: gw_shrk_val_ILSVRC2012_val_00002752-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.5600	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.35315456986427307	
+Prediction 2: fig, 0.13483750820159912	
+Prediction 3: pomegranate, 0.09548550099134445	
+Prediction 4: tick, 0.03801201656460762	
+Prediction 5: flatworm, 0.024466590955853462	
+Image: gw_shrk_val_ILSVRC2012_val_00002752-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.4126	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: electric ray, 0.2240103781223297	
+Prediction 2: slug, 0.09410218894481659	
+Prediction 3: snail, 0.044116485863924026	
+Prediction 4: gar, 0.03503115847706795	
+Prediction 5: puffer, 0.022207016125321388	
+Image: gw_shrk_val_ILSVRC2012_val_00002752-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 10.7318	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.37329915165901184	
+Prediction 2: stole, 0.2800308167934418	
+Prediction 3: starfish, 0.05678305774927139	
+Prediction 4: nematode, 0.051889512687921524	
+Prediction 5: prayer rug, 0.025051174685359	
+Image: gw_shrk_val_ILSVRC2012_val_00004311-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.9865	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.2895876169204712	
+Prediction 2: cockroach, 0.1878792941570282	
+Prediction 3: rock crab, 0.07151524722576141	
+Prediction 4: chiton, 0.06565286964178085	
+Prediction 5: pizza, 0.0631788969039917	
+Image: gw_shrk_val_ILSVRC2012_val_00004311-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 11.4914	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.4016646444797516	
+Prediction 2: tick, 0.11620163172483444	
+Prediction 3: fig, 0.07397909462451935	
+Prediction 4: strawberry, 0.04613607004284859	
+Prediction 5: ant, 0.03094267100095749	
+Image: gw_shrk_val_ILSVRC2012_val_00004311-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.2608	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: isopod, 0.6026955246925354	
+Prediction 2: chiton, 0.09451492130756378	
+Prediction 3: cockroach, 0.03350050747394562	
+Prediction 4: axolotl, 0.022651249542832375	
+Prediction 5: ground beetle, 0.015820790082216263	
+Image: gw_shrk_val_ILSVRC2012_val_00004311-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.3168	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.4059971570968628	
+Prediction 2: stole, 0.10410186648368835	
+Prediction 3: flatworm, 0.03355953097343445	
+Prediction 4: wool, 0.031295422464609146	
+Prediction 5: chiton, 0.027095980942249298	
+Image: gw_shrk_val_ILSVRC2012_val_00004329-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.8635	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.24311479926109314	
+Prediction 2: meat loaf, 0.17633672058582306	
+Prediction 3: Dutch oven, 0.13691309094429016	
+Prediction 4: frying pan, 0.0639345794916153	
+Prediction 5: flatworm, 0.027424629777669907	
+Image: gw_shrk_val_ILSVRC2012_val_00004329-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 11.0580	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.29752397537231445	
+Prediction 2: pomegranate, 0.21625976264476776	
+Prediction 3: lipstick, 0.07160016149282455	
+Prediction 4: strawberry, 0.0586225762963295	
+Prediction 5: mask, 0.03494918346405029	
+Image: gw_shrk_val_ILSVRC2012_val_00004329-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 6.3668	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: barracouta, 0.11577028036117554	
+Prediction 2: great grey owl, 0.09734480828046799	
+Prediction 3: sundial, 0.08880691230297089	
+Prediction 4: chimpanzee, 0.06221049278974533	
+Prediction 5: coho, 0.05609141290187836	
+Image: gw_shrk_val_ILSVRC2012_val_00004329-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.9404	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Irish water spaniel, 0.13961514830589294	
+Prediction 2: stole, 0.09322556108236313	
+Prediction 3: wool, 0.06037868931889534	
+Prediction 4: electric ray, 0.030607696622610092	
+Prediction 5: prayer rug, 0.030246347188949585	
+Image: gw_shrk_val_ILSVRC2012_val_00006491-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 11.5978	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.5232963562011719	
+Prediction 2: meat loaf, 0.23526090383529663	
+Prediction 3: Dutch oven, 0.043068792670965195	
+Prediction 4: frying pan, 0.03995918482542038	
+Prediction 5: king crab, 0.012479190714657307	
+Image: gw_shrk_val_ILSVRC2012_val_00006491-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.2642	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.20182135701179504	
+Prediction 2: flatworm, 0.08271416276693344	
+Prediction 3: chiton, 0.07944433391094208	
+Prediction 4: pomegranate, 0.04561788961291313	
+Prediction 5: meat loaf, 0.0378306619822979	
+Image: gw_shrk_val_ILSVRC2012_val_00006491-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 6.5672	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: grey whale, 0.5003640055656433	
+Prediction 2: trilobite, 0.08258514106273651	
+Prediction 3: sturgeon, 0.05389733612537384	
+Prediction 4: American alligator, 0.03845130279660225	
+Prediction 5: isopod, 0.03424239158630371	
+Image: gw_shrk_val_ILSVRC2012_val_00006491-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.8418	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.25337040424346924	
+Prediction 2: velvet, 0.2144671231508255	
+Prediction 3: hen-of-the-woods, 0.032756417989730835	
+Prediction 4: Irish water spaniel, 0.025601208209991455	
+Prediction 5: wool, 0.024208668619394302	
+Image: gw_shrk_val_ILSVRC2012_val_00008848-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.0276	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.18480122089385986	
+Prediction 2: pizza, 0.10387246310710907	
+Prediction 3: Dutch oven, 0.09163018316030502	
+Prediction 4: frying pan, 0.08864475041627884	
+Prediction 5: fig, 0.05622158199548721	
+Image: gw_shrk_val_ILSVRC2012_val_00008848-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.5811	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.3025073707103729	
+Prediction 2: tick, 0.141583651304245	
+Prediction 3: velvet, 0.08428511768579483	
+Prediction 4: fig, 0.07316142320632935	
+Prediction 5: strawberry, 0.031907856464385986	
+Image: gw_shrk_val_ILSVRC2012_val_00008848-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 4.8988	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: platypus, 0.20743250846862793	
+Prediction 2: electric ray, 0.08667941391468048	
+Prediction 3: tailed frog, 0.03380212187767029	
+Prediction 4: chiton, 0.025252163410186768	
+Prediction 5: hippopotamus, 0.024322155863046646	
+Image: gw_shrk_val_ILSVRC2012_val_00008848-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.6368	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.2371699959039688	
+Prediction 2: starfish, 0.07038097828626633	
+Prediction 3: velvet, 0.04330217093229294	
+Prediction 4: Irish water spaniel, 0.026071935892105103	
+Prediction 5: flatworm, 0.02478875406086445	
+Image: gw_shrk_val_ILSVRC2012_val_00014467-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 11.4919	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.1647505760192871	
+Prediction 2: pizza, 0.1561736911535263	
+Prediction 3: meat loaf, 0.1561732292175293	
+Prediction 4: fig, 0.07841821759939194	
+Prediction 5: Dutch oven, 0.0773206502199173	
+Image: gw_shrk_val_ILSVRC2012_val_00014467-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 12.9853	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.7496858835220337	
+Prediction 2: strawberry, 0.123081736266613	
+Prediction 3: fig, 0.01844640262424946	
+Prediction 4: tick, 0.014590057544410229	
+Prediction 5: starfish, 0.005748553201556206	
+Image: gw_shrk_val_ILSVRC2012_val_00014467-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 6.7019	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: electric ray, 0.2687828242778778	
+Prediction 2: great white shark, 0.19114729762077332	
+Prediction 3: chiton, 0.04853530600667	
+Prediction 4: hippopotamus, 0.04184303432703018	
+Prediction 5: fig, 0.03728887066245079	
+Image: gw_shrk_val_ILSVRC2012_val_00014467-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.8089	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.10211958736181259	
+Prediction 2: electric ray, 0.08438479900360107	
+Prediction 3: stole, 0.07101044803857803	
+Prediction 4: starfish, 0.05559457838535309	
+Prediction 5: Irish water spaniel, 0.028131496161222458	
+Image: gw_shrk_val_ILSVRC2012_val_00015220-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 9.8827	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.19860514998435974	
+Prediction 2: Dutch oven, 0.07991747558116913	
+Prediction 3: frying pan, 0.06409499049186707	
+Prediction 4: meat loaf, 0.057356029748916626	
+Prediction 5: king crab, 0.054585378617048264	
+Image: gw_shrk_val_ILSVRC2012_val_00015220-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.1444	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.2660087049007416	
+Prediction 2: pomegranate, 0.08563857525587082	
+Prediction 3: fig, 0.08123626559972763	
+Prediction 4: butcher shop, 0.04987325519323349	
+Prediction 5: starfish, 0.042902424931526184	
+Image: gw_shrk_val_ILSVRC2012_val_00015220-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 4.3448	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: coho, 0.13189838826656342	
+Prediction 2: common newt, 0.03916364163160324	
+Prediction 3: platypus, 0.03913198411464691	
+Prediction 4: whiptail, 0.037015706300735474	
+Prediction 5: spotted salamander, 0.0346122607588768	
+Image: gw_shrk_val_ILSVRC2012_val_00015220-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 10.5354	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.42382046580314636	
+Prediction 2: velvet, 0.22980129718780518	
+Prediction 3: wool, 0.04169205576181412	
+Prediction 4: prayer rug, 0.023687979206442833	
+Prediction 5: poncho, 0.019753240048885345	
+Image: gw_shrk_val_ILSVRC2012_val_00016168-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 9.8692	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.18223275244235992	
+Prediction 2: fig, 0.10795862972736359	
+Prediction 3: Dutch oven, 0.08201158046722412	
+Prediction 4: hot pot, 0.06955467909574509	
+Prediction 5: Crock Pot, 0.05522383376955986	
+Image: gw_shrk_val_ILSVRC2012_val_00016168-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.7944	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.3135301470756531	
+Prediction 2: fig, 0.14574569463729858	
+Prediction 3: strawberry, 0.0575592964887619	
+Prediction 4: lipstick, 0.03515190631151199	
+Prediction 5: tick, 0.034315530210733414	
+Image: gw_shrk_val_ILSVRC2012_val_00016168-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.5031	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: American alligator, 0.1943768858909607	
+Prediction 2: African crocodile, 0.1045072004199028	
+Prediction 3: platypus, 0.08033572137355804	
+Prediction 4: coho, 0.05861181765794754	
+Prediction 5: fiddler crab, 0.031716056168079376	
+Image: gw_shrk_val_ILSVRC2012_val_00016168-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 7.2363	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.07851841300725937	
+Prediction 2: nematode, 0.03799347206950188	
+Prediction 3: shower cap, 0.03634340316057205	
+Prediction 4: head cabbage, 0.036229535937309265	
+Prediction 5: chain mail, 0.03517095744609833	
+Image: gw_shrk_val_ILSVRC2012_val_00016859-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.0496	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tick, 0.1712130308151245	
+Prediction 2: meat loaf, 0.10615571588277817	
+Prediction 3: fig, 0.05952370911836624	
+Prediction 4: king crab, 0.0511646568775177	
+Prediction 5: crayfish, 0.04442639276385307	
+Image: gw_shrk_val_ILSVRC2012_val_00016859-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.6729	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.5449055433273315	
+Prediction 2: strawberry, 0.051542941480875015	
+Prediction 3: fig, 0.044397931545972824	
+Prediction 4: ant, 0.037427887320518494	
+Prediction 5: crayfish, 0.02690669521689415	
+Image: gw_shrk_val_ILSVRC2012_val_00016859-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.0681	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: barracouta, 0.19469565153121948	
+Prediction 2: gar, 0.08535350859165192	
+Prediction 3: sturgeon, 0.07442320138216019	
+Prediction 4: coho, 0.04124347120523453	
+Prediction 5: fiddler crab, 0.039609670639038086	
+Image: gw_shrk_val_ILSVRC2012_val_00016859-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.6656	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.5712972283363342	
+Prediction 2: nematode, 0.04696674272418022	
+Prediction 3: hen-of-the-woods, 0.020014161244034767	
+Prediction 4: stole, 0.019998498260974884	
+Prediction 5: flatworm, 0.013905306346714497	
+Image: gw_shrk_val_ILSVRC2012_val_00016988-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 11.2962	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.5129669904708862	
+Prediction 2: meat loaf, 0.1420690417289734	
+Prediction 3: frying pan, 0.06056899577379227	
+Prediction 4: Dutch oven, 0.05325824022293091	
+Prediction 5: king crab, 0.021366061642766	
+Image: gw_shrk_val_ILSVRC2012_val_00016988-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.4455	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.2696482539176941	
+Prediction 2: fig, 0.09910263866186142	
+Prediction 3: pomegranate, 0.08809466660022736	
+Prediction 4: strawberry, 0.05725349113345146	
+Prediction 5: tick, 0.018172230571508408	
+Image: gw_shrk_val_ILSVRC2012_val_00016988-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.4454	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: coho, 0.05283799767494202	
+Prediction 2: water ouzel, 0.04434538632631302	
+Prediction 3: platypus, 0.03258293494582176	
+Prediction 4: caldron, 0.023944510146975517	
+Prediction 5: electric ray, 0.016756730154156685	
+Image: gw_shrk_val_ILSVRC2012_val_00016988-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.5743	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.45330163836479187	
+Prediction 2: wool, 0.0708073079586029	
+Prediction 3: velvet, 0.04369906708598137	
+Prediction 4: Irish water spaniel, 0.029971010982990265	
+Prediction 5: poncho, 0.026794757694005966	
+Image: gw_shrk_val_ILSVRC2012_val_00017194-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.6834	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.21412958204746246	
+Prediction 2: fig, 0.10242968052625656	
+Prediction 3: pizza, 0.09902890026569366	
+Prediction 4: Dutch oven, 0.09584507346153259	
+Prediction 5: pomegranate, 0.05188290402293205	
+Image: gw_shrk_val_ILSVRC2012_val_00017194-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.7680	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.4704531729221344	
+Prediction 2: strawberry, 0.13859117031097412	
+Prediction 3: fig, 0.051683459430933	
+Prediction 4: trifle, 0.02074887417256832	
+Prediction 5: tick, 0.019800378009676933	
+Image: gw_shrk_val_ILSVRC2012_val_00017194-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 7.2823	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: sturgeon, 0.26285320520401	
+Prediction 2: barracouta, 0.2134677767753601	
+Prediction 3: electric ray, 0.12578754127025604	
+Prediction 4: gar, 0.05630644038319588	
+Prediction 5: coho, 0.048782311379909515	
+Image: gw_shrk_val_ILSVRC2012_val_00017194-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.9270	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.07411093264818192	
+Prediction 2: electric ray, 0.06804664433002472	
+Prediction 3: mailbag, 0.05395442619919777	
+Prediction 4: grey whale, 0.0536072738468647	
+Prediction 5: nematode, 0.041358549147844315	
+Image: gw_shrk_val_ILSVRC2012_val_00019409-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.5466	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: king crab, 0.22829915583133698	
+Prediction 2: spiny lobster, 0.09106835722923279	
+Prediction 3: meat loaf, 0.07411374896764755	
+Prediction 4: starfish, 0.0637488141655922	
+Prediction 5: tick, 0.05314977839589119	
+Image: gw_shrk_val_ILSVRC2012_val_00019409-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.0581	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.17833495140075684	
+Prediction 2: pomegranate, 0.128919318318367	
+Prediction 3: fig, 0.08193832635879517	
+Prediction 4: strawberry, 0.06982874870300293	
+Prediction 5: meat loaf, 0.046563245356082916	
+Image: gw_shrk_val_ILSVRC2012_val_00019409-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 6.3499	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: spiny lobster, 0.04333065450191498	
+Prediction 2: chiton, 0.036675237119197845	
+Prediction 3: fiddler crab, 0.023500798270106316	
+Prediction 4: sea cucumber, 0.019865745678544044	
+Prediction 5: rock crab, 0.01876678131520748	
+Image: gw_shrk_val_ILSVRC2012_val_00019409-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 10.7890	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.38038599491119385	
+Prediction 2: velvet, 0.160268634557724	
+Prediction 3: prayer rug, 0.13391642272472382	
+Prediction 4: poncho, 0.03770766034722328	
+Prediction 5: wool, 0.027750257402658463	
+Image: gw_shrk_val_ILSVRC2012_val_00019435-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.7115	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.27274611592292786	
+Prediction 2: pizza, 0.08270737528800964	
+Prediction 3: chiton, 0.06149169057607651	
+Prediction 4: fig, 0.05449763685464859	
+Prediction 5: Dutch oven, 0.0516078844666481	
+Image: gw_shrk_val_ILSVRC2012_val_00019435-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.0026	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.23306487500667572	
+Prediction 2: flatworm, 0.15319010615348816	
+Prediction 3: chiton, 0.08010359853506088	
+Prediction 4: pomegranate, 0.07573103159666061	
+Prediction 5: Dungeness crab, 0.042935311794281006	
+Image: gw_shrk_val_ILSVRC2012_val_00019435-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 6.1592	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: chiton, 0.24313300848007202	
+Prediction 2: fiddler crab, 0.10180556029081345	
+Prediction 3: barracouta, 0.048245906829833984	
+Prediction 4: fly, 0.04072123020887375	
+Prediction 5: coho, 0.037810273468494415	
+Image: gw_shrk_val_ILSVRC2012_val_00019435-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 10.1959	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.44063323736190796	
+Prediction 2: stole, 0.28075316548347473	
+Prediction 3: wool, 0.03946412727236748	
+Prediction 4: poncho, 0.02514018677175045	
+Prediction 5: flatworm, 0.01878407783806324	
+Image: gw_shrk_val_ILSVRC2012_val_00020011-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 9.6430	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.18614862859249115	
+Prediction 2: fig, 0.13633564114570618	
+Prediction 3: Dutch oven, 0.046238698065280914	
+Prediction 4: tick, 0.0440235361456871	
+Prediction 5: pomegranate, 0.04138733446598053	
+Image: gw_shrk_val_ILSVRC2012_val_00020011-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.6919	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.2538701593875885	
+Prediction 2: strawberry, 0.11194851249456406	
+Prediction 3: fig, 0.10777474194765091	
+Prediction 4: chiton, 0.03323967382311821	
+Prediction 5: tick, 0.033000241965055466	
+Image: gw_shrk_val_ILSVRC2012_val_00020011-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.4247	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: coho, 0.3659190237522125	
+Prediction 2: barracouta, 0.2402626872062683	
+Prediction 3: sturgeon, 0.055493902415037155	
+Prediction 4: African crocodile, 0.05396440997719765	
+Prediction 5: American alligator, 0.05043173208832741	
+Image: gw_shrk_val_ILSVRC2012_val_00020011-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.5839	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Irish water spaniel, 0.11536994576454163	
+Prediction 2: grey whale, 0.08125894516706467	
+Prediction 3: American alligator, 0.0658639520406723	
+Prediction 4: frilled lizard, 0.0650048553943634	
+Prediction 5: electric ray, 0.04420218616724014	
+Image: gw_shrk_val_ILSVRC2012_val_00023185-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.4274	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.33573368191719055	
+Prediction 2: frying pan, 0.09857291728258133	
+Prediction 3: Dutch oven, 0.09448689222335815	
+Prediction 4: meat loaf, 0.09121201187372208	
+Prediction 5: king crab, 0.028165513649582863	
+Image: gw_shrk_val_ILSVRC2012_val_00023185-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 11.5713	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.2291911244392395	
+Prediction 2: pomegranate, 0.17561644315719604	
+Prediction 3: tick, 0.08245633542537689	
+Prediction 4: lipstick, 0.054663728922605515	
+Prediction 5: flatworm, 0.03130670264363289	
+Image: gw_shrk_val_ILSVRC2012_val_00023185-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 7.4081	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: electric ray, 0.04038853198289871	
+Prediction 2: hen-of-the-woods, 0.027299165725708008	
+Prediction 3: fiddler crab, 0.026364464312791824	
+Prediction 4: ant, 0.023473963141441345	
+Prediction 5: rock crab, 0.021061310544610023	
+Image: gw_shrk_val_ILSVRC2012_val_00023185-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 10.8113	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.6387600302696228	
+Prediction 2: velvet, 0.10638062655925751	
+Prediction 3: wool, 0.043953634798526764	
+Prediction 4: prayer rug, 0.036083418875932693	
+Prediction 5: poncho, 0.02878035232424736	
+Image: gw_shrk_val_ILSVRC2012_val_00024940-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.8912	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: rock crab, 0.13188061118125916	
+Prediction 2: king crab, 0.11627184599637985	
+Prediction 3: meat loaf, 0.10083509236574173	
+Prediction 4: starfish, 0.08255385607481003	
+Prediction 5: pizza, 0.0680183619260788	
+Image: gw_shrk_val_ILSVRC2012_val_00024940-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 11.1733	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.6054486036300659	
+Prediction 2: strawberry, 0.0491364412009716	
+Prediction 3: tick, 0.04150029271841049	
+Prediction 4: lipstick, 0.040840644389390945	
+Prediction 5: fig, 0.01972128637135029	
+Image: gw_shrk_val_ILSVRC2012_val_00024940-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 4.3826	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: sturgeon, 0.36829203367233276	
+Prediction 2: barracouta, 0.12085513025522232	
+Prediction 3: coho, 0.08104711025953293	
+Prediction 4: electric ray, 0.07691773027181625	
+Prediction 5: gar, 0.05532592162489891	
+Image: gw_shrk_val_ILSVRC2012_val_00024940-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.9191	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.1787506490945816	
+Prediction 2: starfish, 0.16031403839588165	
+Prediction 3: eel, 0.12270130962133408	
+Prediction 4: nematode, 0.07265462726354599	
+Prediction 5: flatworm, 0.04700695350766182	
+Image: gw_shrk_val_ILSVRC2012_val_00025900-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.9382	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fig, 0.452392041683197	
+Prediction 2: meat loaf, 0.08347874134778976	
+Prediction 3: Dutch oven, 0.056526415050029755	
+Prediction 4: pizza, 0.0367869958281517	
+Prediction 5: frying pan, 0.03601231053471565	
+Image: gw_shrk_val_ILSVRC2012_val_00025900-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.6860	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.21406932175159454	
+Prediction 2: fig, 0.12343652546405792	
+Prediction 3: chiton, 0.0804876908659935	
+Prediction 4: meat loaf, 0.06083118915557861	
+Prediction 5: velvet, 0.054237816482782364	
+Image: gw_shrk_val_ILSVRC2012_val_00025900-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 7.7330	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: ptarmigan, 0.287397176027298	
+Prediction 2: grey whale, 0.09879899770021439	
+Prediction 3: black grouse, 0.057260967791080475	
+Prediction 4: ruffed grouse, 0.046957097947597504	
+Prediction 5: prairie chicken, 0.04362058639526367	
+Image: gw_shrk_val_ILSVRC2012_val_00025900-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 7.6574	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: loggerhead, 0.08627237379550934	
+Prediction 2: starfish, 0.07038186490535736	
+Prediction 3: tailed frog, 0.04787128418684006	
+Prediction 4: eel, 0.04251495748758316	
+Prediction 5: leatherback turtle, 0.03927980363368988	
+Image: gw_shrk_val_ILSVRC2012_val_00027063-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 12.2137	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.3751145303249359	
+Prediction 2: pizza, 0.2112695276737213	
+Prediction 3: Dutch oven, 0.07352987676858902	
+Prediction 4: frying pan, 0.06992743164300919	
+Prediction 5: fig, 0.02707214467227459	
+Image: gw_shrk_val_ILSVRC2012_val_00027063-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.8329	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.2755892276763916	
+Prediction 2: fig, 0.11012740433216095	
+Prediction 3: strawberry, 0.08295682817697525	
+Prediction 4: tick, 0.06259071826934814	
+Prediction 5: chiton, 0.04651160538196564	
+Image: gw_shrk_val_ILSVRC2012_val_00027063-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.6000	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: coho, 0.3084316849708557	
+Prediction 2: sturgeon, 0.12114974856376648	
+Prediction 3: barracouta, 0.0913286954164505	
+Prediction 4: eel, 0.0521344393491745	
+Prediction 5: hippopotamus, 0.025108831003308296	
+Image: gw_shrk_val_ILSVRC2012_val_00027063-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.0256	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: electric ray, 0.3781481087207794	
+Prediction 2: eel, 0.05307671055197716	
+Prediction 3: stole, 0.05123982951045036	
+Prediction 4: frilled lizard, 0.04505159333348274	
+Prediction 5: Irish water spaniel, 0.026901135221123695	
+Image: gw_shrk_val_ILSVRC2012_val_00027419-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.9797	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.19296680390834808	
+Prediction 2: meat loaf, 0.09989912062883377	
+Prediction 3: tick, 0.07620591670274734	
+Prediction 4: king crab, 0.05622969567775726	
+Prediction 5: Dutch oven, 0.053375475108623505	
+Image: gw_shrk_val_ILSVRC2012_val_00027419-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.9167	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.2745789587497711	
+Prediction 2: chiton, 0.08469100296497345	
+Prediction 3: velvet, 0.06524866819381714	
+Prediction 4: fig, 0.0437530055642128	
+Prediction 5: leaf beetle, 0.038266461342573166	
+Image: gw_shrk_val_ILSVRC2012_val_00027419-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.9419	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: chiton, 0.17071031033992767	
+Prediction 2: common newt, 0.044775329530239105	
+Prediction 3: eft, 0.03756852075457573	
+Prediction 4: alligator lizard, 0.022135820239782333	
+Prediction 5: tailed frog, 0.02114834263920784	
+Image: gw_shrk_val_ILSVRC2012_val_00027419-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.7940	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.2859365940093994	
+Prediction 2: velvet, 0.11206433176994324	
+Prediction 3: starfish, 0.05286625027656555	
+Prediction 4: sea urchin, 0.030019300058484077	
+Prediction 5: poncho, 0.027422452345490456	
+Image: gw_shrk_val_ILSVRC2012_val_00027514-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.6426	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fig, 0.2043883502483368	
+Prediction 2: meat loaf, 0.1316612809896469	
+Prediction 3: pomegranate, 0.0972612276673317	
+Prediction 4: pizza, 0.03774656355381012	
+Prediction 5: Dutch oven, 0.037710040807724	
+Image: gw_shrk_val_ILSVRC2012_val_00027514-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 11.2431	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.32080116868019104	
+Prediction 2: fig, 0.20306536555290222	
+Prediction 3: tick, 0.10398721694946289	
+Prediction 4: strawberry, 0.05059872195124626	
+Prediction 5: velvet, 0.03532828018069267	
+Image: gw_shrk_val_ILSVRC2012_val_00027514-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 6.4976	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: grey whale, 0.1532973200082779	
+Prediction 2: chimpanzee, 0.07682926952838898	
+Prediction 3: platypus, 0.04876835644245148	
+Prediction 4: hippopotamus, 0.03753006085753441	
+Prediction 5: African crocodile, 0.023501034826040268	
+Image: gw_shrk_val_ILSVRC2012_val_00027514-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.5285	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.18933764100074768	
+Prediction 2: velvet, 0.18812452256679535	
+Prediction 3: flatworm, 0.05691198632121086	
+Prediction 4: hen-of-the-woods, 0.04325609654188156	
+Prediction 5: starfish, 0.03611001744866371	
+Image: gw_shrk_val_ILSVRC2012_val_00028028-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 9.8812	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.2376195192337036	
+Prediction 2: meat loaf, 0.20436647534370422	
+Prediction 3: Dutch oven, 0.09666505455970764	
+Prediction 4: frying pan, 0.08016910403966904	
+Prediction 5: king crab, 0.02846166305243969	
+Image: gw_shrk_val_ILSVRC2012_val_00028028-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.6503	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.1319388747215271	
+Prediction 2: meat loaf, 0.12567028403282166	
+Prediction 3: pomegranate, 0.10897774994373322	
+Prediction 4: butcher shop, 0.05163304880261421	
+Prediction 5: fig, 0.04439844563603401	
+Image: gw_shrk_val_ILSVRC2012_val_00028028-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.7110	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fiddler crab, 0.13007164001464844	
+Prediction 2: ground beetle, 0.0866536945104599	
+Prediction 3: platypus, 0.08522706478834152	
+Prediction 4: whiptail, 0.07392150163650513	
+Prediction 5: tiger beetle, 0.04220178723335266	
+Image: gw_shrk_val_ILSVRC2012_val_00028028-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.6618	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.17464536428451538	
+Prediction 2: velvet, 0.14627833664417267	
+Prediction 3: hen-of-the-woods, 0.057953689247369766	
+Prediction 4: chain mail, 0.04312191531062126	
+Prediction 5: wool, 0.04265543818473816	
+Image: gw_shrk_val_ILSVRC2012_val_00029481-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 11.5860	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.22659189999103546	
+Prediction 2: frying pan, 0.13372735679149628	
+Prediction 3: king crab, 0.09466840326786041	
+Prediction 4: Dutch oven, 0.07706034183502197	
+Prediction 5: pizza, 0.05265635997056961	
+Image: gw_shrk_val_ILSVRC2012_val_00029481-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 11.1523	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.5489101409912109	
+Prediction 2: fig, 0.1682041436433792	
+Prediction 3: strawberry, 0.04365667328238487	
+Prediction 4: velvet, 0.023126889020204544	
+Prediction 5: chiton, 0.014923092909157276	
+Image: gw_shrk_val_ILSVRC2012_val_00029481-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 6.7547	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: chiton, 0.44987592101097107	
+Prediction 2: grey whale, 0.09935177862644196	
+Prediction 3: breastplate, 0.04015714302659035	
+Prediction 4: radiator, 0.026985308155417442	
+Prediction 5: electric ray, 0.026709062978625298	
+Image: gw_shrk_val_ILSVRC2012_val_00029481-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.2627	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.12572334706783295	
+Prediction 2: stole, 0.06024286895990372	
+Prediction 3: starfish, 0.040803320705890656	
+Prediction 4: prayer rug, 0.03728098422288895	
+Prediction 5: wool, 0.030414100736379623	
+Image: gw_shrk_val_ILSVRC2012_val_00030127-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.0734	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: king crab, 0.1358945071697235	
+Prediction 2: pizza, 0.11947859078645706	
+Prediction 3: rock crab, 0.08757883310317993	
+Prediction 4: meat loaf, 0.07592109590768814	
+Prediction 5: Dutch oven, 0.054726120084524155	
+Image: gw_shrk_val_ILSVRC2012_val_00030127-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.5110	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.2471337765455246	
+Prediction 2: pomegranate, 0.13528169691562653	
+Prediction 3: strawberry, 0.07763797044754028	
+Prediction 4: fig, 0.04634374752640724	
+Prediction 5: tick, 0.028616473078727722	
+Image: gw_shrk_val_ILSVRC2012_val_00030127-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 7.2200	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: wolf spider, 0.16782985627651215	
+Prediction 2: ground beetle, 0.05227250978350639	
+Prediction 3: acorn, 0.04698067530989647	
+Prediction 4: barn spider, 0.03623035550117493	
+Prediction 5: isopod, 0.02677096240222454	
+Image: gw_shrk_val_ILSVRC2012_val_00030127-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.5464	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.2642190158367157	
+Prediction 2: velvet, 0.08977099508047104	
+Prediction 3: poncho, 0.04584784805774689	
+Prediction 4: wool, 0.03976995125412941	
+Prediction 5: Irish water spaniel, 0.03354422003030777	
+Image: gw_shrk_val_ILSVRC2012_val_00031466-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.5427	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.23158156871795654	
+Prediction 2: king crab, 0.10644114762544632	
+Prediction 3: pizza, 0.09996922314167023	
+Prediction 4: starfish, 0.05848320201039314	
+Prediction 5: frying pan, 0.046463388949632645	
+Image: gw_shrk_val_ILSVRC2012_val_00031466-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.3154	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.3172711730003357	
+Prediction 2: crayfish, 0.12833213806152344	
+Prediction 3: fig, 0.09586915373802185	
+Prediction 4: strawberry, 0.06637002527713776	
+Prediction 5: ant, 0.03576052188873291	
+Image: gw_shrk_val_ILSVRC2012_val_00031466-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 4.7907	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: coho, 0.11281606554985046	
+Prediction 2: gar, 0.08417726308107376	
+Prediction 3: barracouta, 0.07443957775831223	
+Prediction 4: sturgeon, 0.03171498328447342	
+Prediction 5: electric ray, 0.01683146320283413	
+Image: gw_shrk_val_ILSVRC2012_val_00031466-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.9068	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.2800949811935425	
+Prediction 2: starfish, 0.14423948526382446	
+Prediction 3: velvet, 0.13814318180084229	
+Prediction 4: wool, 0.02209014631807804	
+Prediction 5: Irish water spaniel, 0.0186650138348341	
+Image: gw_shrk_val_ILSVRC2012_val_00031808-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 12.3247	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.22646960616111755	
+Prediction 2: fig, 0.20375801622867584	
+Prediction 3: king crab, 0.09421418607234955	
+Prediction 4: pizza, 0.077472023665905	
+Prediction 5: tick, 0.06810623407363892	
+Image: gw_shrk_val_ILSVRC2012_val_00031808-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.8707	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.4334169328212738	
+Prediction 2: tick, 0.06637419015169144	
+Prediction 3: lipstick, 0.049209363758563995	
+Prediction 4: starfish, 0.04148539528250694	
+Prediction 5: fig, 0.041145987808704376	
+Image: gw_shrk_val_ILSVRC2012_val_00031808-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 7.8944	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: chiton, 0.36284005641937256	
+Prediction 2: trilobite, 0.23571708798408508	
+Prediction 3: isopod, 0.08468247950077057	
+Prediction 4: electric ray, 0.01768963411450386	
+Prediction 5: mud turtle, 0.014612535946071148	
+Image: gw_shrk_val_ILSVRC2012_val_00031808-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.8460	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.17467831075191498	
+Prediction 2: flatworm, 0.09524945914745331	
+Prediction 3: nematode, 0.08631478995084763	
+Prediction 4: stole, 0.08533266931772232	
+Prediction 5: chiton, 0.04363250732421875	
+Image: gw_shrk_val_ILSVRC2012_val_00032288-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 12.1629	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.6158456802368164	
+Prediction 2: meat loaf, 0.18564510345458984	
+Prediction 3: Dutch oven, 0.052386682480573654	
+Prediction 4: frying pan, 0.02882533334195614	
+Prediction 5: hot pot, 0.015677696093916893	
+Image: gw_shrk_val_ILSVRC2012_val_00032288-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.0870	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fig, 0.18777263164520264	
+Prediction 2: pomegranate, 0.07857639342546463	
+Prediction 3: rock crab, 0.07584775984287262	
+Prediction 4: Dungeness crab, 0.06550855934619904	
+Prediction 5: strawberry, 0.06528344750404358	
+Image: gw_shrk_val_ILSVRC2012_val_00032288-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.1780	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: platypus, 0.08970586955547333	
+Prediction 2: chiton, 0.07794021815061569	
+Prediction 3: coho, 0.034864287823438644	
+Prediction 4: electric ray, 0.03327634930610657	
+Prediction 5: water ouzel, 0.0254437867552042	
+Image: gw_shrk_val_ILSVRC2012_val_00032288-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.2301	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.2769446074962616	
+Prediction 2: velvet, 0.09053685516119003	
+Prediction 3: electric ray, 0.051338665187358856	
+Prediction 4: loggerhead, 0.05043415725231171	
+Prediction 5: stole, 0.041344113647937775	
+Image: gw_shrk_val_ILSVRC2012_val_00032417-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 12.2945	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strawberry, 0.2345985323190689	
+Prediction 2: meat loaf, 0.17565590143203735	
+Prediction 3: pizza, 0.14178958535194397	
+Prediction 4: fig, 0.09470513463020325	
+Prediction 5: trifle, 0.09292547404766083	
+Image: gw_shrk_val_ILSVRC2012_val_00032417-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 11.3889	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strawberry, 0.21295423805713654	
+Prediction 2: pomegranate, 0.16897699236869812	
+Prediction 3: velvet, 0.16141928732395172	
+Prediction 4: lipstick, 0.12692785263061523	
+Prediction 5: meat loaf, 0.03807109221816063	
+Image: gw_shrk_val_ILSVRC2012_val_00032417-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 7.0500	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: chiton, 0.2021002471446991	
+Prediction 2: eel, 0.11909027397632599	
+Prediction 3: electric ray, 0.09718474000692368	
+Prediction 4: sea snake, 0.09225068986415863	
+Prediction 5: spiny lobster, 0.036856554448604584	
+Image: gw_shrk_val_ILSVRC2012_val_00032417-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 10.9187	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.6965587139129639	
+Prediction 2: velvet, 0.08142583072185516	
+Prediction 3: wool, 0.028783222660422325	
+Prediction 4: poncho, 0.012633567675948143	
+Prediction 5: prayer rug, 0.007747853174805641	
+Image: gw_shrk_val_ILSVRC2012_val_00034950-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 9.0816	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.27552035450935364	
+Prediction 2: tick, 0.0547737255692482	
+Prediction 3: fig, 0.04480578377842903	
+Prediction 4: pizza, 0.04107436537742615	
+Prediction 5: rock crab, 0.03575243055820465	
+Image: gw_shrk_val_ILSVRC2012_val_00034950-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 11.2457	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.5202205181121826	
+Prediction 2: fig, 0.1437862515449524	
+Prediction 3: velvet, 0.04420499503612518	
+Prediction 4: strawberry, 0.03318933770060539	
+Prediction 5: butcher shop, 0.022696254774928093	
+Image: gw_shrk_val_ILSVRC2012_val_00034950-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 3.7181	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: coho, 0.12380761653184891	
+Prediction 2: barracouta, 0.07987668365240097	
+Prediction 3: platypus, 0.060033995658159256	
+Prediction 4: sturgeon, 0.05021018162369728	
+Prediction 5: hippopotamus, 0.047752078622579575	
+Image: gw_shrk_val_ILSVRC2012_val_00034950-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 11.0191	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.6767575144767761	
+Prediction 2: velvet, 0.12347102910280228	
+Prediction 3: sarong, 0.03992461413145065	
+Prediction 4: wool, 0.017048608511686325	
+Prediction 5: poncho, 0.015235381200909615	
+Image: gw_shrk_val_ILSVRC2012_val_00035223-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.5665	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.21192622184753418	
+Prediction 2: Dutch oven, 0.09736912697553635	
+Prediction 3: fig, 0.0664241686463356	
+Prediction 4: pizza, 0.06321790814399719	
+Prediction 5: hot pot, 0.06230812147259712	
+Image: gw_shrk_val_ILSVRC2012_val_00035223-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.1246	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fig, 0.14155133068561554	
+Prediction 2: pomegranate, 0.09231393039226532	
+Prediction 3: strawberry, 0.06747087836265564	
+Prediction 4: meat loaf, 0.06306466460227966	
+Prediction 5: rotisserie, 0.053256355226039886	
+Image: gw_shrk_val_ILSVRC2012_val_00035223-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 4.4265	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: coho, 0.12995903193950653	
+Prediction 2: hippopotamus, 0.07358381152153015	
+Prediction 3: barracouta, 0.07082484662532806	
+Prediction 4: sturgeon, 0.028328925371170044	
+Prediction 5: Dungeness crab, 0.022835541516542435	
+Image: gw_shrk_val_ILSVRC2012_val_00035223-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 10.9483	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.2529486119747162	
+Prediction 2: velvet, 0.21093830466270447	
+Prediction 3: prayer rug, 0.0833112820982933	
+Prediction 4: sarong, 0.04001135006546974	
+Prediction 5: chain mail, 0.036329593509435654	
+Image: gw_shrk_val_ILSVRC2012_val_00035774-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.3346	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.19207854568958282	
+Prediction 2: pizza, 0.14380984008312225	
+Prediction 3: Dutch oven, 0.07570849359035492	
+Prediction 4: king crab, 0.06329359114170074	
+Prediction 5: fig, 0.03504518046975136	
+Image: gw_shrk_val_ILSVRC2012_val_00035774-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.8829	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.22666147351264954	
+Prediction 2: velvet, 0.10286800563335419	
+Prediction 3: strawberry, 0.050186432898044586	
+Prediction 4: leaf beetle, 0.04341849684715271	
+Prediction 5: rock crab, 0.037398841232061386	
+Image: gw_shrk_val_ILSVRC2012_val_00035774-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.1015	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fly, 0.09591133892536163	
+Prediction 2: barracouta, 0.07067446410655975	
+Prediction 3: isopod, 0.056682612746953964	
+Prediction 4: chiton, 0.04348892346024513	
+Prediction 5: bullfrog, 0.04343421384692192	
+Image: gw_shrk_val_ILSVRC2012_val_00035774-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.9888	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.1015721783041954	
+Prediction 2: velvet, 0.09106894582509995	
+Prediction 3: starfish, 0.07440529018640518	
+Prediction 4: long-horned beetle, 0.07216097414493561	
+Prediction 5: overskirt, 0.0342610627412796	
+Image: gw_shrk_val_ILSVRC2012_val_00036737-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 12.2512	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.4882974922657013	
+Prediction 2: meat loaf, 0.1513344645500183	
+Prediction 3: pomegranate, 0.05828706920146942	
+Prediction 4: fig, 0.057319361716508865	
+Prediction 5: Dutch oven, 0.04644617810845375	
+Image: gw_shrk_val_ILSVRC2012_val_00036737-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.9883	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fig, 0.22871915996074677	
+Prediction 2: pomegranate, 0.16688182950019836	
+Prediction 3: chiton, 0.046644486486911774	
+Prediction 4: strawberry, 0.038902707397937775	
+Prediction 5: velvet, 0.023975012823939323	
+Image: gw_shrk_val_ILSVRC2012_val_00036737-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.7640	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: coho, 0.10426792502403259	
+Prediction 2: wombat, 0.09316139668226242	
+Prediction 3: grey whale, 0.05460347235202789	
+Prediction 4: hippopotamus, 0.04788926616311073	
+Prediction 5: American alligator, 0.040655165910720825	
+Image: gw_shrk_val_ILSVRC2012_val_00036737-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.3779	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Irish water spaniel, 0.15585854649543762	
+Prediction 2: eel, 0.07207860052585602	
+Prediction 3: starfish, 0.06936439126729965	
+Prediction 4: electric ray, 0.060776837170124054	
+Prediction 5: flatworm, 0.057894833385944366	
+Image: gw_shrk_val_ILSVRC2012_val_00037050-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.5589	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.26440367102622986	
+Prediction 2: meat loaf, 0.21661671996116638	
+Prediction 3: Dutch oven, 0.08697991818189621	
+Prediction 4: frying pan, 0.06697031110525131	
+Prediction 5: spiny lobster, 0.050905391573905945	
+Image: gw_shrk_val_ILSVRC2012_val_00037050-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.6915	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.9289839267730713	
+Prediction 2: flatworm, 0.005281701218336821	
+Prediction 3: stole, 0.005260528065264225	
+Prediction 4: wool, 0.004557314328849316	
+Prediction 5: lipstick, 0.004097827710211277	
+Image: gw_shrk_val_ILSVRC2012_val_00037050-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 4.7488	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tailed frog, 0.048885777592659	
+Prediction 2: coho, 0.04528263583779335	
+Prediction 3: bullfrog, 0.041430164128541946	
+Prediction 4: platypus, 0.03829206898808479	
+Prediction 5: chiton, 0.03699283301830292	
+Image: gw_shrk_val_ILSVRC2012_val_00037050-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.8394	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.5332178473472595	
+Prediction 2: velvet, 0.08335720747709274	
+Prediction 3: wool, 0.0534505657851696	
+Prediction 4: prayer rug, 0.03500911965966225	
+Prediction 5: poncho, 0.02294285222887993	
+Image: gw_shrk_val_ILSVRC2012_val_00037135-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.6919	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tick, 0.1921762079000473	
+Prediction 2: fig, 0.10909833014011383	
+Prediction 3: pomegranate, 0.08642776310443878	
+Prediction 4: meat loaf, 0.07547222077846527	
+Prediction 5: strawberry, 0.050203803926706314	
+Image: gw_shrk_val_ILSVRC2012_val_00037135-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 13.8775	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.8250656723976135	
+Prediction 2: fig, 0.07464898377656937	
+Prediction 3: strawberry, 0.03280371427536011	
+Prediction 4: trifle, 0.0067855073139071465	
+Prediction 5: tick, 0.006611439399421215	
+Image: gw_shrk_val_ILSVRC2012_val_00037135-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 4.8427	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: barracouta, 0.18791082501411438	
+Prediction 2: coho, 0.12183450162410736	
+Prediction 3: platypus, 0.11370985209941864	
+Prediction 4: sturgeon, 0.09037899971008301	
+Prediction 5: tick, 0.04958055168390274	
+Image: gw_shrk_val_ILSVRC2012_val_00037135-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.9041	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Komodo dragon, 0.14446914196014404	
+Prediction 2: electric ray, 0.10862696915864944	
+Prediction 3: Gila monster, 0.07304377853870392	
+Prediction 4: eel, 0.06437548995018005	
+Prediction 5: tailed frog, 0.05182468146085739	
+Image: gw_shrk_val_ILSVRC2012_val_00037488-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 9.6198	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: starfish, 0.13766902685165405	
+Prediction 2: pizza, 0.11261095851659775	
+Prediction 3: chiton, 0.04280536249279976	
+Prediction 4: flatworm, 0.03942831978201866	
+Prediction 5: meat loaf, 0.03753357008099556	
+Image: gw_shrk_val_ILSVRC2012_val_00037488-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.3647	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: flatworm, 0.45071256160736084	
+Prediction 2: chiton, 0.13726961612701416	
+Prediction 3: velvet, 0.1290782392024994	
+Prediction 4: sea slug, 0.015591412782669067	
+Prediction 5: rock crab, 0.013022243976593018	
+Image: gw_shrk_val_ILSVRC2012_val_00037488-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 7.3144	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: rock crab, 0.1072961613535881	
+Prediction 2: tailed frog, 0.04463746026158333	
+Prediction 3: bullfrog, 0.040164656937122345	
+Prediction 4: eel, 0.038419704884290695	
+Prediction 5: electric ray, 0.035816073417663574	
+Image: gw_shrk_val_ILSVRC2012_val_00037488-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 10.5202	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.5327233672142029	
+Prediction 2: velvet, 0.10087080299854279	
+Prediction 3: flatworm, 0.06733957678079605	
+Prediction 4: starfish, 0.04648079350590706	
+Prediction 5: sea anemone, 0.020191803574562073	
+Image: gw_shrk_val_ILSVRC2012_val_00037998-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.8228	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.23861896991729736	
+Prediction 2: meat loaf, 0.09135396033525467	
+Prediction 3: spiny lobster, 0.0788610503077507	
+Prediction 4: king crab, 0.07235823571681976	
+Prediction 5: Dutch oven, 0.05238709971308708	
+Image: gw_shrk_val_ILSVRC2012_val_00037998-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.6861	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fig, 0.1743210256099701	
+Prediction 2: pomegranate, 0.16456320881843567	
+Prediction 3: strawberry, 0.043713267892599106	
+Prediction 4: tick, 0.036129698157310486	
+Prediction 5: ant, 0.03223801404237747	
+Image: gw_shrk_val_ILSVRC2012_val_00037998-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 7.5041	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: mink, 0.16512808203697205	
+Prediction 2: beaver, 0.057461272925138474	
+Prediction 3: ant, 0.03348911553621292	
+Prediction 4: hippopotamus, 0.030242493376135826	
+Prediction 5: alligator lizard, 0.01779421605169773	
+Image: gw_shrk_val_ILSVRC2012_val_00037998-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.4385	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: grey whale, 0.15479402244091034	
+Prediction 2: African crocodile, 0.06812892109155655	
+Prediction 3: stole, 0.06202185899019241	
+Prediction 4: great white shark, 0.047483429312705994	
+Prediction 5: Irish water spaniel, 0.043371301144361496	
+Image: gw_shrk_val_ILSVRC2012_val_00039304-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.8973	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.18649666011333466	
+Prediction 2: meat loaf, 0.1697995364665985	
+Prediction 3: Dutch oven, 0.09365231543779373	
+Prediction 4: frying pan, 0.08008112758398056	
+Prediction 5: pomegranate, 0.051234178245067596	
+Image: gw_shrk_val_ILSVRC2012_val_00039304-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.7390	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.509057879447937	
+Prediction 2: rock crab, 0.05326472222805023	
+Prediction 3: Dungeness crab, 0.028272094205021858	
+Prediction 4: rhinoceros beetle, 0.027427807450294495	
+Prediction 5: meat loaf, 0.022922256961464882	
+Image: gw_shrk_val_ILSVRC2012_val_00039304-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 10.2633	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: banded gecko, 0.19485639035701752	
+Prediction 2: tailed frog, 0.15971244871616364	
+Prediction 3: whiptail, 0.1265166848897934	
+Prediction 4: common newt, 0.05076279863715172	
+Prediction 5: alligator lizard, 0.04030458629131317	
+Image: gw_shrk_val_ILSVRC2012_val_00039304-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.7120	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.23000620305538177	
+Prediction 2: velvet, 0.15025317668914795	
+Prediction 3: poncho, 0.03812429681420326	
+Prediction 4: wool, 0.03248334303498268	
+Prediction 5: electric ray, 0.026349134743213654	
+Image: gw_shrk_val_ILSVRC2012_val_00039445-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.7836	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.35722023248672485	
+Prediction 2: meat loaf, 0.1892610490322113	
+Prediction 3: Dutch oven, 0.12267512828111649	
+Prediction 4: frying pan, 0.06796015053987503	
+Prediction 5: Crock Pot, 0.015705110505223274	
+Image: gw_shrk_val_ILSVRC2012_val_00039445-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.4761	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.2839552164077759	
+Prediction 2: fig, 0.11050829291343689	
+Prediction 3: strawberry, 0.09320229291915894	
+Prediction 4: pomegranate, 0.06053488701581955	
+Prediction 5: meat loaf, 0.04643463343381882	
+Image: gw_shrk_val_ILSVRC2012_val_00039445-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 6.1694	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tailed frog, 0.2743382453918457	
+Prediction 2: bullfrog, 0.20574277639389038	
+Prediction 3: slug, 0.021825652569532394	
+Prediction 4: electric ray, 0.019338633865118027	
+Prediction 5: water ouzel, 0.01827377639710903	
+Image: gw_shrk_val_ILSVRC2012_val_00039445-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.3489	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.21267582476139069	
+Prediction 2: starfish, 0.05201231688261032	
+Prediction 3: velvet, 0.047111865133047104	
+Prediction 4: coral reef, 0.03608578443527222	
+Prediction 5: spider web, 0.020341895520687103	
+Image: gw_shrk_val_ILSVRC2012_val_00039534-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.7097	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fig, 0.2019180953502655	
+Prediction 2: meat loaf, 0.1624518185853958	
+Prediction 3: pizza, 0.09428676217794418	
+Prediction 4: Dutch oven, 0.0504763200879097	
+Prediction 5: king crab, 0.032329052686691284	
+Image: gw_shrk_val_ILSVRC2012_val_00039534-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 11.2804	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.5684258341789246	
+Prediction 2: fig, 0.09780805557966232	
+Prediction 3: strawberry, 0.037626735866069794	
+Prediction 4: hip, 0.03757713735103607	
+Prediction 5: tick, 0.020801056176424026	
+Image: gw_shrk_val_ILSVRC2012_val_00039534-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.1218	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: hippopotamus, 0.10531189292669296	
+Prediction 2: coho, 0.06787979602813721	
+Prediction 3: chiton, 0.045579180121421814	
+Prediction 4: Dungeness crab, 0.04087558388710022	
+Prediction 5: barracouta, 0.02976272441446781	
+Image: gw_shrk_val_ILSVRC2012_val_00039534-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.6361	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.3157075047492981	
+Prediction 2: Irish water spaniel, 0.14291197061538696	
+Prediction 3: wool, 0.04327331855893135	
+Prediction 4: electric ray, 0.0389980785548687	
+Prediction 5: velvet, 0.03797607496380806	
+Image: gw_shrk_val_ILSVRC2012_val_00039865-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.3903	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.3385035991668701	
+Prediction 2: pizza, 0.10356935858726501	
+Prediction 3: Dutch oven, 0.05882024019956589	
+Prediction 4: frying pan, 0.05133865401148796	
+Prediction 5: French loaf, 0.040551766753196716	
+Image: gw_shrk_val_ILSVRC2012_val_00039865-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 11.1648	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strawberry, 0.3072091341018677	
+Prediction 2: pomegranate, 0.13635887205600739	
+Prediction 3: fig, 0.08283665776252747	
+Prediction 4: velvet, 0.07041629403829575	
+Prediction 5: meat loaf, 0.037529077380895615	
+Image: gw_shrk_val_ILSVRC2012_val_00039865-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 4.6096	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: barracouta, 0.18084277212619781	
+Prediction 2: sturgeon, 0.15981775522232056	
+Prediction 3: grey whale, 0.08760222792625427	
+Prediction 4: coho, 0.07570701837539673	
+Prediction 5: gar, 0.046004295349121094	
+Image: gw_shrk_val_ILSVRC2012_val_00039865-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.5566	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.4767354726791382	
+Prediction 2: velvet, 0.1317661553621292	
+Prediction 3: starfish, 0.0846157968044281	
+Prediction 4: wool, 0.016777344048023224	
+Prediction 5: coral reef, 0.009379182942211628	
+Image: gw_shrk_val_ILSVRC2012_val_00040098-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 11.3547	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.25817084312438965	
+Prediction 2: meat loaf, 0.11116663366556168	
+Prediction 3: king crab, 0.08566255867481232	
+Prediction 4: Dutch oven, 0.0656801089644432	
+Prediction 5: tick, 0.0592646449804306	
+Image: gw_shrk_val_ILSVRC2012_val_00040098-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.0987	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fig, 0.15711335837841034	
+Prediction 2: tick, 0.10419020056724548	
+Prediction 3: velvet, 0.09428172558546066	
+Prediction 4: pomegranate, 0.07235612720251083	
+Prediction 5: meat loaf, 0.05234275385737419	
+Image: gw_shrk_val_ILSVRC2012_val_00040098-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 4.7552	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: coho, 0.09403645247220993	
+Prediction 2: water ouzel, 0.05136525258421898	
+Prediction 3: mink, 0.046152517199516296	
+Prediction 4: sturgeon, 0.04503960534930229	
+Prediction 5: platypus, 0.044957101345062256	
+Image: gw_shrk_val_ILSVRC2012_val_00040098-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.9232	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.38315972685813904	
+Prediction 2: velvet, 0.14203083515167236	
+Prediction 3: wool, 0.034389957785606384	
+Prediction 4: starfish, 0.028291774913668633	
+Prediction 5: Irish water spaniel, 0.027088245376944542	
+Image: gw_shrk_val_ILSVRC2012_val_00040710-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.5718	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: meat loaf, 0.2040819227695465	
+Prediction 2: pizza, 0.17390966415405273	
+Prediction 3: Dutch oven, 0.11286812275648117	
+Prediction 4: frying pan, 0.06380276381969452	
+Prediction 5: king crab, 0.056103963404893875	
+Image: gw_shrk_val_ILSVRC2012_val_00040710-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 11.8350	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.8165568113327026	
+Prediction 2: fig, 0.034702103585004807	
+Prediction 3: chiton, 0.01553777139633894	
+Prediction 4: ant, 0.014740807935595512	
+Prediction 5: tick, 0.006664586253464222	
+Image: gw_shrk_val_ILSVRC2012_val_00040710-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 7.6591	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tailed frog, 0.2334035336971283	
+Prediction 2: chiton, 0.1707061380147934	
+Prediction 3: bullfrog, 0.08430696278810501	
+Prediction 4: fiddler crab, 0.06301922351121902	
+Prediction 5: water snake, 0.032438527792692184	
+Image: gw_shrk_val_ILSVRC2012_val_00040710-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.7406	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.254303514957428	
+Prediction 2: velvet, 0.06584060937166214	
+Prediction 3: Irish water spaniel, 0.051206957548856735	
+Prediction 4: hen-of-the-woods, 0.04069608822464943	
+Prediction 5: wool, 0.026578275486826897	
+Image: gw_shrk_val_ILSVRC2012_val_00042345-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.7671	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.32869061827659607	
+Prediction 2: meat loaf, 0.1146417036652565	
+Prediction 3: Dutch oven, 0.05606291443109512	
+Prediction 4: king crab, 0.04827485233545303	
+Prediction 5: fig, 0.037217773497104645	
+Image: gw_shrk_val_ILSVRC2012_val_00042345-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 9.4304	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.13227787613868713	
+Prediction 2: strawberry, 0.10872168093919754	
+Prediction 3: tick, 0.0688723623752594	
+Prediction 4: fig, 0.062417805194854736	
+Prediction 5: flatworm, 0.0526856929063797	
+Image: gw_shrk_val_ILSVRC2012_val_00042345-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 3.2201	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: barracouta, 0.3265349864959717	
+Prediction 2: coho, 0.14084842801094055	
+Prediction 3: crayfish, 0.1283021867275238	
+Prediction 4: gar, 0.12137817591428757	
+Prediction 5: spiny lobster, 0.040042273700237274	
+Image: gw_shrk_val_ILSVRC2012_val_00042345-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.9346	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.5542292594909668	
+Prediction 2: starfish, 0.08626329898834229	
+Prediction 3: Irish water spaniel, 0.02853482775390148	
+Prediction 4: poncho, 0.021004578098654747	
+Prediction 5: sea urchin, 0.016392048448324203	
+Image: gw_shrk_val_ILSVRC2012_val_00044052-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 10.0508	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.20262008905410767	
+Prediction 2: meat loaf, 0.1445004940032959	
+Prediction 3: Dutch oven, 0.1409832239151001	
+Prediction 4: frying pan, 0.08890805393457413	
+Prediction 5: fig, 0.03493976965546608	
+Image: gw_shrk_val_ILSVRC2012_val_00044052-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.5560	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.5871168375015259	
+Prediction 2: pomegranate, 0.05884750932455063	
+Prediction 3: fig, 0.025864582508802414	
+Prediction 4: strawberry, 0.020062826573848724	
+Prediction 5: bell pepper, 0.016247650608420372	
+Image: gw_shrk_val_ILSVRC2012_val_00044052-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 5.7793	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tailed frog, 0.026992863044142723	
+Prediction 2: whiptail, 0.0219777449965477	
+Prediction 3: platypus, 0.02131836861371994	
+Prediction 4: mink, 0.02104809135198593	
+Prediction 5: European fire salamander, 0.020121056586503983	
+Image: gw_shrk_val_ILSVRC2012_val_00044052-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 10.0785	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.5709676146507263	
+Prediction 2: velvet, 0.13893242180347443	
+Prediction 3: poncho, 0.02158946543931961	
+Prediction 4: starfish, 0.01809662953019142	
+Prediction 5: flatworm, 0.017433293163776398	
+Image: gw_shrk_val_ILSVRC2012_val_00044896-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 11.2105	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pizza, 0.4932738244533539	
+Prediction 2: meat loaf, 0.1855163425207138	
+Prediction 3: Dutch oven, 0.08218784630298615	
+Prediction 4: frying pan, 0.033478956669569016	
+Prediction 5: Crock Pot, 0.019111542031168938	
+Image: gw_shrk_val_ILSVRC2012_val_00044896-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 10.1396	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.360491007566452	
+Prediction 2: flatworm, 0.067391537129879	
+Prediction 3: strawberry, 0.05718523636460304	
+Prediction 4: fig, 0.03514234721660614	
+Prediction 5: rock crab, 0.02865624986588955	
+Image: gw_shrk_val_ILSVRC2012_val_00044896-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 7.3396	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: ground beetle, 0.11926017701625824	
+Prediction 2: water ouzel, 0.06662244349718094	
+Prediction 3: electric ray, 0.05711286514997482	
+Prediction 4: platypus, 0.048637501895427704	
+Prediction 5: spotted salamander, 0.03896837681531906	
+Image: gw_shrk_val_ILSVRC2012_val_00044896-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 9.1057	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.20734480023384094	
+Prediction 2: wool, 0.04704871028661728	
+Prediction 3: velvet, 0.045472655445337296	
+Prediction 4: prayer rug, 0.042625125497579575	
+Prediction 5: cardigan, 0.03013508953154087	
+Image: gw_shrk_val_ILSVRC2012_val_00045730-stylized-tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	Test: [4/184]	Loss: 9.5821	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fig, 0.2666892111301422	
+Prediction 2: meat loaf, 0.10401986539363861	
+Prediction 3: rock crab, 0.03916686028242111	
+Prediction 4: king crab, 0.03573739901185036	
+Prediction 5: pizza, 0.03354984149336815	
+Image: gw_shrk_val_ILSVRC2012_val_00045730-stylized-tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	Test: [4/184]	Loss: 11.1429	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: pomegranate, 0.5078713893890381	
+Prediction 2: fig, 0.12136825919151306	
+Prediction 3: strawberry, 0.05125487968325615	
+Prediction 4: velvet, 0.03073020465672016	
+Prediction 5: tick, 0.020019259303808212	
+Image: gw_shrk_val_ILSVRC2012_val_00045730-stylized-tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	Test: [4/184]	Loss: 7.6616	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tailed frog, 0.08918128162622452	
+Prediction 2: bullfrog, 0.06429550796747208	
+Prediction 3: platypus, 0.05785983055830002	
+Prediction 4: whiptail, 0.053819362074136734	
+Prediction 5: isopod, 0.0475219301879406	
+Image: gw_shrk_val_ILSVRC2012_val_00045730-stylized-tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	Test: [4/184]	Loss: 8.5946	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: stole, 0.19835767149925232	
+Prediction 2: starfish, 0.06569652259349823	
+Prediction 3: velvet, 0.04524955525994301	
+Prediction 4: electric ray, 0.03146061673760414	
+Prediction 5: sea cucumber, 0.026043592020869255	
