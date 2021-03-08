@@ -1,0 +1,14 @@
+tex_gw_shrk_val_ILSVRC2012_val_00004311.jpeg	
+tex_gw_shrk_val_ILSVRC2012_val_00004329.jpeg	
+tex_gw_shrk_val_ILSVRC2012_val_00016988.jpeg	
+tex_gw_shrk_val_ILSVRC2012_val_00019435.jpeg	
+tex_gw_shrk_val_ILSVRC2012_val_00020011.jpeg	
+tex_gw_shrk_val_ILSVRC2012_val_00024940.jpeg	
+tex_gw_shrk_val_ILSVRC2012_val_00025900.jpeg	
+tex_gw_shrk_val_ILSVRC2012_val_00027419.jpeg	
+tex_gw_shrk_val_ILSVRC2012_val_00032417.jpeg	
+tex_gw_shrk_val_ILSVRC2012_val_00037135.jpeg	
+tex_gw_shrk_val_ILSVRC2012_val_00037998.jpeg	
+tex_gw_shrk_val_ILSVRC2012_val_00039865.jpeg	
+tex_gw_shrk_val_ILSVRC2012_val_00040710.jpeg	
+tex_gw_shrk_val_ILSVRC2012_val_00045730.jpeg	

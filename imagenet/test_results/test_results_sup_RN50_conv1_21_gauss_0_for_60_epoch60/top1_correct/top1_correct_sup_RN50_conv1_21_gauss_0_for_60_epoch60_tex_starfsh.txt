@@ -1,0 +1,4 @@
+tex_starfsh_val_ILSVRC2012_val_00005011.jpeg	
+tex_starfsh_val_ILSVRC2012_val_00010703_S.jpeg	
+tex_starfsh_val_ILSVRC2012_val_00023403.jpeg	
+tex_starfsh_val_ILSVRC2012_val_00030782.jpeg	
