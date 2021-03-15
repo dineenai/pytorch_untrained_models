@@ -1,0 +1,300 @@
+Image: collie_val_ILSVRC2012_val_00003480.jpeg	Test: [4/50]	Loss: 16.2811	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Border collie, 0.6318475008010864	
+Prediction 2: borzoi, 0.15563516318798065	
+Prediction 3: collie, 0.11322277784347534	
+Prediction 4: Cardigan, 0.02018178626894951	
+Prediction 5: Shetland sheepdog, 0.014330146834254265	
+Image: collie_val_ILSVRC2012_val_00003862.jpeg	Test: [4/50]	Loss: 16.8987	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.5583243370056152	
+Prediction 2: Shetland sheepdog, 0.4358002543449402	
+Prediction 3: Border collie, 0.0014235428534448147	
+Prediction 4: papillon, 0.000909016584046185	
+Prediction 5: Australian terrier, 0.0003916490823030472	
+Image: collie_val_ILSVRC2012_val_00004711.jpeg	Test: [4/50]	Loss: 16.9727	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.7240680456161499	
+Prediction 2: Shetland sheepdog, 0.2715972661972046	
+Prediction 3: Pomeranian, 0.001114488230086863	
+Prediction 4: keeshond, 0.0005972889484837651	
+Prediction 5: Border collie, 0.0005792938754893839	
+Image: collie_val_ILSVRC2012_val_00006330.jpeg	Test: [4/50]	Loss: 21.3269	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.9096297025680542	
+Prediction 2: Shetland sheepdog, 0.08951424807310104	
+Prediction 3: Border collie, 0.00028021930484101176	
+Prediction 4: borzoi, 0.00017415962065570056	
+Prediction 5: Australian terrier, 0.00011334146984154359	
+Image: collie_val_ILSVRC2012_val_00007355.jpeg	Test: [4/50]	Loss: 18.9571	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Tibetan terrier, 0.9149746894836426	
+Prediction 2: Old English sheepdog, 0.02974333055317402	
+Prediction 3: Australian terrier, 0.01794780045747757	
+Prediction 4: otterhound, 0.014918009750545025	
+Prediction 5: Lhasa, 0.011055336333811283	
+Image: collie_val_ILSVRC2012_val_00007682.jpeg	Test: [4/50]	Loss: 16.6374	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.7142664790153503	
+Prediction 2: Shetland sheepdog, 0.27969956398010254	
+Prediction 3: Pembroke, 0.002167394384741783	
+Prediction 4: Border collie, 0.0012852426152676344	
+Prediction 5: Cardigan, 0.0009009240311570466	
+Image: collie_val_ILSVRC2012_val_00009055.jpeg	Test: [4/50]	Loss: 15.1202	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.8984060883522034	
+Prediction 2: Shetland sheepdog, 0.08557265251874924	
+Prediction 3: German shepherd, 0.002276452025398612	
+Prediction 4: Afghan hound, 0.0017200621077790856	
+Prediction 5: Border collie, 0.0011834414908662438	
+Image: collie_val_ILSVRC2012_val_00011698.jpeg	Test: [4/50]	Loss: 20.5282	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Border collie, 0.8797709345817566	
+Prediction 2: collie, 0.11242695152759552	
+Prediction 3: Shetland sheepdog, 0.004731956869363785	
+Prediction 4: Cardigan, 0.0012490828521549702	
+Prediction 5: Bernese mountain dog, 0.0005658841109834611	
+Image: collie_val_ILSVRC2012_val_00012037.jpeg	Test: [4/50]	Loss: 15.4009	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Tibetan terrier, 0.4026436507701874	
+Prediction 2: briard, 0.18678422272205353	
+Prediction 3: Australian terrier, 0.1337839663028717	
+Prediction 4: otterhound, 0.13296926021575928	
+Prediction 5: Old English sheepdog, 0.06142238527536392	
+Image: collie_val_ILSVRC2012_val_00014086.jpeg	Test: [4/50]	Loss: 12.3869	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.8144197463989258	
+Prediction 2: Shetland sheepdog, 0.10005231201648712	
+Prediction 3: Pembroke, 0.031071029603481293	
+Prediction 4: Cardigan, 0.01780690997838974	
+Prediction 5: malamute, 0.012634637765586376	
+Image: collie_val_ILSVRC2012_val_00014295.jpeg	Test: [4/50]	Loss: 16.1067	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Shetland sheepdog, 0.8688285946846008	
+Prediction 2: collie, 0.11021850258111954	
+Prediction 3: Border collie, 0.009961557574570179	
+Prediction 4: Pembroke, 0.005375153850764036	
+Prediction 5: Cardigan, 0.002973513910546899	
+Image: collie_val_ILSVRC2012_val_00014342.jpeg	Test: [4/50]	Loss: 15.8058	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.49668440222740173	
+Prediction 2: Shetland sheepdog, 0.3695884644985199	
+Prediction 3: Border collie, 0.04625434800982475	
+Prediction 4: Cardigan, 0.0393981859087944	
+Prediction 5: Pembroke, 0.017333654686808586	
+Image: collie_val_ILSVRC2012_val_00015294.jpeg	Test: [4/50]	Loss: 17.5822	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.9329389333724976	
+Prediction 2: Shetland sheepdog, 0.06532566994428635	
+Prediction 3: Border collie, 0.0004967236309312284	
+Prediction 4: borzoi, 0.0001552899630041793	
+Prediction 5: Pembroke, 0.00010727987682912499	
+Image: collie_val_ILSVRC2012_val_00016572.jpeg	Test: [4/50]	Loss: 14.1465	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Border collie, 0.6398792266845703	
+Prediction 2: collie, 0.21544034779071808	
+Prediction 3: Shetland sheepdog, 0.04957126826047897	
+Prediction 4: papillon, 0.016653679311275482	
+Prediction 5: Bernese mountain dog, 0.015500317327678204	
+Image: collie_val_ILSVRC2012_val_00018046.jpeg	Test: [4/50]	Loss: 18.8936	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.603546142578125	
+Prediction 2: Shetland sheepdog, 0.3885831832885742	
+Prediction 3: Border collie, 0.004085577558726072	
+Prediction 4: papillon, 0.0016869890969246626	
+Prediction 5: Australian terrier, 0.0012331416364759207	
+Image: collie_val_ILSVRC2012_val_00018126.jpeg	Test: [4/50]	Loss: 14.9640	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Shetland sheepdog, 0.8406674861907959	
+Prediction 2: collie, 0.1009032353758812	
+Prediction 3: Border collie, 0.02031909115612507	
+Prediction 4: Pembroke, 0.01646801084280014	
+Prediction 5: Cardigan, 0.01237123180180788	
+Image: collie_val_ILSVRC2012_val_00019134.jpeg	Test: [4/50]	Loss: 16.1315	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.9642844200134277	
+Prediction 2: Shetland sheepdog, 0.0305215772241354	
+Prediction 3: German shepherd, 0.0014873488107696176	
+Prediction 4: groenendael, 0.0006965568172745407	
+Prediction 5: Pembroke, 0.0005098102265037596	
+Image: collie_val_ILSVRC2012_val_00019517.jpeg	Test: [4/50]	Loss: 16.5500	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.9211596846580505	
+Prediction 2: Shetland sheepdog, 0.07307366281747818	
+Prediction 3: borzoi, 0.0013460461050271988	
+Prediction 4: Afghan hound, 0.0003769929171539843	
+Prediction 5: Border collie, 0.00028552321600727737	
+Image: collie_val_ILSVRC2012_val_00019767.jpeg	Test: [4/50]	Loss: 17.9822	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.7023069262504578	
+Prediction 2: Shetland sheepdog, 0.2916131317615509	
+Prediction 3: Cardigan, 0.0007246464374475181	
+Prediction 4: Border collie, 0.0006859983550384641	
+Prediction 5: borzoi, 0.0003816326498053968	
+Image: collie_val_ILSVRC2012_val_00020196.jpeg	Test: [4/50]	Loss: 15.1995	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Border collie, 0.7580541372299194	
+Prediction 2: collie, 0.0929199680685997	
+Prediction 3: Cardigan, 0.06605212390422821	
+Prediction 4: Bernese mountain dog, 0.02925926074385643	
+Prediction 5: Shetland sheepdog, 0.013808988966047764	
+Image: collie_val_ILSVRC2012_val_00021226.jpeg	Test: [4/50]	Loss: 14.6320	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.5575540065765381	
+Prediction 2: Shetland sheepdog, 0.4274180829524994	
+Prediction 3: Australian terrier, 0.0019737088587135077	
+Prediction 4: Border collie, 0.0019503928488120437	
+Prediction 5: Pembroke, 0.0011499692918732762	
+Image: collie_val_ILSVRC2012_val_00022645.jpeg	Test: [4/50]	Loss: 17.9755	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Shetland sheepdog, 0.5814284086227417	
+Prediction 2: collie, 0.34387439489364624	
+Prediction 3: Bernese mountain dog, 0.02686510980129242	
+Prediction 4: papillon, 0.014623422175645828	
+Prediction 5: Cardigan, 0.010623001493513584	
+Image: collie_val_ILSVRC2012_val_00023666.jpeg	Test: [4/50]	Loss: 12.5948	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Cardigan, 0.40594401955604553	
+Prediction 2: dogsled, 0.06334450840950012	
+Prediction 3: Eskimo dog, 0.06254345178604126	
+Prediction 4: Pembroke, 0.0589875765144825	
+Prediction 5: Siberian husky, 0.04777861759066582	
+Image: collie_val_ILSVRC2012_val_00023702.jpeg	Test: [4/50]	Loss: 22.6949	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.9651941061019897	
+Prediction 2: borzoi, 0.022290566936135292	
+Prediction 3: Shetland sheepdog, 0.01158775296062231	
+Prediction 4: Afghan hound, 0.000524879724252969	
+Prediction 5: Border collie, 0.00014779857883695513	
+Image: collie_val_ILSVRC2012_val_00023788.jpeg	Test: [4/50]	Loss: 21.1906	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.9391554594039917	
+Prediction 2: Shetland sheepdog, 0.060595132410526276	
+Prediction 3: Pomeranian, 4.50058032583911e-05	
+Prediction 4: Pembroke, 2.6237061319989152e-05	
+Prediction 5: groenendael, 2.443171433696989e-05	
+Image: collie_val_ILSVRC2012_val_00024292.jpeg	Test: [4/50]	Loss: 22.5075	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.8881826400756836	
+Prediction 2: Shetland sheepdog, 0.11166872084140778	
+Prediction 3: Border collie, 5.845315899932757e-05	
+Prediction 4: Australian terrier, 2.016089638345875e-05	
+Prediction 5: borzoi, 1.6910651538637467e-05	
+Image: collie_val_ILSVRC2012_val_00027164.jpeg	Test: [4/50]	Loss: 15.8689	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Border collie, 0.7119371891021729	
+Prediction 2: collie, 0.24114343523979187	
+Prediction 3: Cardigan, 0.012071115896105766	
+Prediction 4: Bernese mountain dog, 0.007197297178208828	
+Prediction 5: Shetland sheepdog, 0.006241368595510721	
+Image: collie_val_ILSVRC2012_val_00027165.jpeg	Test: [4/50]	Loss: 16.7750	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.8695135116577148	
+Prediction 2: Shetland sheepdog, 0.1241539865732193	
+Prediction 3: Australian terrier, 0.000817114720121026	
+Prediction 4: chow, 0.0005020687240175903	
+Prediction 5: Border collie, 0.0003980301844421774	
+Image: collie_val_ILSVRC2012_val_00027522.jpeg	Test: [4/50]	Loss: 14.7803	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.7423288822174072	
+Prediction 2: Shetland sheepdog, 0.25098928809165955	
+Prediction 3: papillon, 0.002495541237294674	
+Prediction 4: Pomeranian, 0.0008731706184335053	
+Prediction 5: Pembroke, 0.0007116430206224322	
+Image: collie_val_ILSVRC2012_val_00027583.jpeg	Test: [4/50]	Loss: 19.9693	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Border collie, 0.8352770209312439	
+Prediction 2: collie, 0.15847726166248322	
+Prediction 3: Bernese mountain dog, 0.002320958534255624	
+Prediction 4: Shetland sheepdog, 0.0018312885658815503	
+Prediction 5: Appenzeller, 0.00047986398567445576	
+Image: collie_val_ILSVRC2012_val_00031799.jpeg	Test: [4/50]	Loss: 20.7876	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.9723581671714783	
+Prediction 2: Shetland sheepdog, 0.026510829105973244	
+Prediction 3: borzoi, 0.000798017019405961	
+Prediction 4: Border collie, 0.0001302445016335696	
+Prediction 5: Afghan hound, 2.5488589017186314e-05	
+Image: collie_val_ILSVRC2012_val_00033642.jpeg	Test: [4/50]	Loss: 17.8505	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.9534053206443787	
+Prediction 2: Shetland sheepdog, 0.042346399277448654	
+Prediction 3: Border collie, 0.0017588252667337656	
+Prediction 4: Pembroke, 0.0005861864774487913	
+Prediction 5: borzoi, 0.00026158016407862306	
+Image: collie_val_ILSVRC2012_val_00035592.jpeg	Test: [4/50]	Loss: 16.0349	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.8739951252937317	
+Prediction 2: Shetland sheepdog, 0.11188012361526489	
+Prediction 3: Border collie, 0.007414571940898895	
+Prediction 4: Australian terrier, 0.0014667243231087923	
+Prediction 5: Pembroke, 0.0006073767435736954	
+Image: collie_val_ILSVRC2012_val_00036097.jpeg	Test: [4/50]	Loss: 22.1110	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.6452892422676086	
+Prediction 2: Shetland sheepdog, 0.35275471210479736	
+Prediction 3: borzoi, 0.0015470731304958463	
+Prediction 4: Border collie, 0.0002474184148013592	
+Prediction 5: Afghan hound, 4.944627289660275e-05	
+Image: collie_val_ILSVRC2012_val_00036360.jpeg	Test: [4/50]	Loss: 12.5493	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Shetland sheepdog, 0.48429033160209656	
+Prediction 2: collie, 0.31644558906555176	
+Prediction 3: Border collie, 0.07036809623241425	
+Prediction 4: Cardigan, 0.04120713472366333	
+Prediction 5: borzoi, 0.017584040760993958	
+Image: collie_val_ILSVRC2012_val_00036371.jpeg	Test: [4/50]	Loss: 17.5704	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.7844811677932739	
+Prediction 2: Shetland sheepdog, 0.21262381970882416	
+Prediction 3: Pembroke, 0.0004412178532220423	
+Prediction 4: Border collie, 0.00022951459686737508	
+Prediction 5: Pomeranian, 0.00011083084245910868	
+Image: collie_val_ILSVRC2012_val_00036543.jpeg	Test: [4/50]	Loss: 13.3173	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Afghan hound, 0.41422250866889954	
+Prediction 2: collie, 0.15004748106002808	
+Prediction 3: Shetland sheepdog, 0.11258193850517273	
+Prediction 4: German shepherd, 0.021386954933404922	
+Prediction 5: Pembroke, 0.0211060531437397	
+Image: collie_val_ILSVRC2012_val_00037075.jpeg	Test: [4/50]	Loss: 13.6075	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Shetland sheepdog, 0.327418714761734	
+Prediction 2: Border collie, 0.24673977494239807	
+Prediction 3: papillon, 0.24325056374073029	
+Prediction 4: collie, 0.10638744384050369	
+Prediction 5: Japanese spaniel, 0.04012637212872505	
+Image: collie_val_ILSVRC2012_val_00037428.jpeg	Test: [4/50]	Loss: 17.9469	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Border collie, 0.5085926055908203	
+Prediction 2: Cardigan, 0.4363011121749878	
+Prediction 3: collie, 0.03307494893670082	
+Prediction 4: Pembroke, 0.007650979794561863	
+Prediction 5: Shetland sheepdog, 0.006917623803019524	
+Image: collie_val_ILSVRC2012_val_00038745.jpeg	Test: [4/50]	Loss: 22.1089	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Border collie, 0.9231388568878174	
+Prediction 2: collie, 0.0711374580860138	
+Prediction 3: Shetland sheepdog, 0.003966109361499548	
+Prediction 4: Cardigan, 0.000570155621971935	
+Prediction 5: English springer, 0.0003929407394025475	
+Image: collie_val_ILSVRC2012_val_00038789.jpeg	Test: [4/50]	Loss: 19.2669	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.9160715341567993	
+Prediction 2: Shetland sheepdog, 0.08343889564275742	
+Prediction 3: Australian terrier, 8.39808999444358e-05	
+Prediction 4: Afghan hound, 7.276679389178753e-05	
+Prediction 5: borzoi, 3.533852213877253e-05	
+Image: collie_val_ILSVRC2012_val_00039035.jpeg	Test: [4/50]	Loss: 14.3498	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.6446198225021362	
+Prediction 2: Shetland sheepdog, 0.1522291898727417	
+Prediction 3: Cardigan, 0.09542079269886017	
+Prediction 4: borzoi, 0.028178343549370766	
+Prediction 5: Pembroke, 0.01209443248808384	
+Image: collie_val_ILSVRC2012_val_00039142.jpeg	Test: [4/50]	Loss: 12.2891	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.3206646144390106	
+Prediction 2: Shetland sheepdog, 0.1841706484556198	
+Prediction 3: Saint Bernard, 0.07722896337509155	
+Prediction 4: Border collie, 0.07273494452238083	
+Prediction 5: Bernese mountain dog, 0.07002539932727814	
+Image: collie_val_ILSVRC2012_val_00039761.jpeg	Test: [4/50]	Loss: 15.3288	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.8470122814178467	
+Prediction 2: Shetland sheepdog, 0.149015873670578	
+Prediction 3: Pembroke, 0.0007661101990379393	
+Prediction 4: Border collie, 0.0005138505948707461	
+Prediction 5: Cardigan, 0.0002976948453579098	
+Image: collie_val_ILSVRC2012_val_00040015.jpeg	Test: [4/50]	Loss: 19.7208	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Border collie, 0.9347267746925354	
+Prediction 2: collie, 0.04931536689400673	
+Prediction 3: flat-coated retriever, 0.0058919815346598625	
+Prediction 4: groenendael, 0.003721637185662985	
+Prediction 5: Appenzeller, 0.0023214921820908785	
+Image: collie_val_ILSVRC2012_val_00041176.jpeg	Test: [4/50]	Loss: 15.4239	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.9180877208709717	
+Prediction 2: Shetland sheepdog, 0.078778475522995	
+Prediction 3: Australian terrier, 0.0007839676691219211	
+Prediction 4: Pomeranian, 0.0006060141022317111	
+Prediction 5: keeshond, 0.00032755735446698964	
+Image: collie_val_ILSVRC2012_val_00041929.jpeg	Test: [4/50]	Loss: 20.3814	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Border collie, 0.9144494533538818	
+Prediction 2: collie, 0.06000512093305588	
+Prediction 3: Shetland sheepdog, 0.01850382424890995	
+Prediction 4: Cardigan, 0.0036868357565253973	
+Prediction 5: Bernese mountain dog, 0.0006124869105406106	
+Image: collie_val_ILSVRC2012_val_00046531.jpeg	Test: [4/50]	Loss: 15.4724	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.7394940853118896	
+Prediction 2: Shetland sheepdog, 0.20409782230854034	
+Prediction 3: German shepherd, 0.013428065925836563	
+Prediction 4: Pembroke, 0.011622840538620949	
+Prediction 5: Cardigan, 0.008248770609498024	
+Image: collie_val_ILSVRC2012_val_00046974.jpeg	Test: [4/50]	Loss: 16.6217	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.9422839283943176	
+Prediction 2: Shetland sheepdog, 0.05461116507649422	
+Prediction 3: Cardigan, 0.0008099134429357946	
+Prediction 4: Pembroke, 0.0007293445523828268	
+Prediction 5: Border collie, 0.00045934217632748187	
+Image: collie_val_ILSVRC2012_val_00049725.jpeg	Test: [4/50]	Loss: 22.5089	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: collie, 0.8132883906364441	
+Prediction 2: Shetland sheepdog, 0.1862984448671341	
+Prediction 3: Border collie, 0.00019866885850206017	
+Prediction 4: malamute, 8.166193583747372e-05	
+Prediction 5: Pembroke, 2.466443766024895e-05	

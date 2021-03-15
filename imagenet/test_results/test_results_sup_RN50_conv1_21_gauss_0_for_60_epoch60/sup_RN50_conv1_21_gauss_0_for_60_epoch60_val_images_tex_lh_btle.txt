@@ -1,0 +1,300 @@
+Image: lh_btle_val_ILSVRC2012_val_00000926.jpeg	Test: [4/50]	Loss: 13.0594	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: mantis, 0.21436244249343872	
+Prediction 2: bee, 0.11361882835626602	
+Prediction 3: grasshopper, 0.08215130865573883	
+Prediction 4: leaf beetle, 0.07272117584943771	
+Prediction 5: yellow lady's slipper, 0.055163562297821045	
+Image: lh_btle_val_ILSVRC2012_val_00001529.jpeg	Test: [4/50]	Loss: 15.0145	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leaf beetle, 0.7180318236351013	
+Prediction 2: long-horned beetle, 0.24952389299869537	
+Prediction 3: weevil, 0.0054674334824085236	
+Prediction 4: tiger beetle, 0.003948239143937826	
+Prediction 5: ladybug, 0.0037845266051590443	
+Image: lh_btle_val_ILSVRC2012_val_00003444.jpeg	Test: [4/50]	Loss: 14.3319	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leaf beetle, 0.5591146945953369	
+Prediction 2: long-horned beetle, 0.22767041623592377	
+Prediction 3: weevil, 0.15195609629154205	
+Prediction 4: ladybug, 0.025576161220669746	
+Prediction 5: ground beetle, 0.006645801942795515	
+Image: lh_btle_val_ILSVRC2012_val_00004919.jpeg	Test: [4/50]	Loss: 13.1350	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.8333629965782166	
+Prediction 2: weevil, 0.12662333250045776	
+Prediction 3: ground beetle, 0.007452527992427349	
+Prediction 4: tiger beetle, 0.004152701701968908	
+Prediction 5: African chameleon, 0.0024731731973588467	
+Image: lh_btle_val_ILSVRC2012_val_00006595.jpeg	Test: [4/50]	Loss: 14.4056	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.4049234092235565	
+Prediction 2: weevil, 0.1216837465763092	
+Prediction 3: grasshopper, 0.09777210652828217	
+Prediction 4: cricket, 0.0925755575299263	
+Prediction 5: wreck, 0.04013312980532646	
+Image: lh_btle_val_ILSVRC2012_val_00006614.jpeg	Test: [4/50]	Loss: 17.0396	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.9975455403327942	
+Prediction 2: ground beetle, 0.0005907564773224294	
+Prediction 3: reel, 0.000363500410458073	
+Prediction 4: tiger beetle, 0.0003070072561968118	
+Prediction 5: leaf beetle, 0.00027043320005759597	
+Image: lh_btle_val_ILSVRC2012_val_00006823.jpeg	Test: [4/50]	Loss: 12.7960	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.4297652244567871	
+Prediction 2: weevil, 0.20992957055568695	
+Prediction 3: rhinoceros beetle, 0.11697541922330856	
+Prediction 4: ground beetle, 0.10835825651884079	
+Prediction 5: leaf beetle, 0.050601422786712646	
+Image: lh_btle_val_ILSVRC2012_val_00006867.jpeg	Test: [4/50]	Loss: 16.4595	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.8341208100318909	
+Prediction 2: rhinoceros beetle, 0.11346817016601562	
+Prediction 3: leaf beetle, 0.010005984455347061	
+Prediction 4: cockroach, 0.005071245599538088	
+Prediction 5: ground beetle, 0.0038020540960133076	
+Image: lh_btle_val_ILSVRC2012_val_00007520.jpeg	Test: [4/50]	Loss: 13.3165	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leafhopper, 0.3759332001209259	
+Prediction 2: weevil, 0.16802851855754852	
+Prediction 3: tree frog, 0.10188090801239014	
+Prediction 4: damselfly, 0.054641563445329666	
+Prediction 5: long-horned beetle, 0.052711404860019684	
+Image: lh_btle_val_ILSVRC2012_val_00008858.jpeg	Test: [4/50]	Loss: 16.7776	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: walking stick, 0.7930509448051453	
+Prediction 2: mantis, 0.05789274722337723	
+Prediction 3: long-horned beetle, 0.029387513175606728	
+Prediction 4: harvestman, 0.02276882529258728	
+Prediction 5: wolf spider, 0.02069677785038948	
+Image: lh_btle_val_ILSVRC2012_val_00010411.jpeg	Test: [4/50]	Loss: 14.5800	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.40621697902679443	
+Prediction 2: dung beetle, 0.3445287048816681	
+Prediction 3: rhinoceros beetle, 0.08477005362510681	
+Prediction 4: ground beetle, 0.06137528643012047	
+Prediction 5: weevil, 0.048747219145298004	
+Image: lh_btle_val_ILSVRC2012_val_00013153.jpeg	Test: [4/50]	Loss: 13.9659	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: wolf spider, 0.23830294609069824	
+Prediction 2: grasshopper, 0.1491704136133194	
+Prediction 3: barn spider, 0.1491549015045166	
+Prediction 4: long-horned beetle, 0.06877191364765167	
+Prediction 5: mousetrap, 0.028302818536758423	
+Image: lh_btle_val_ILSVRC2012_val_00013422.jpeg	Test: [4/50]	Loss: 17.5081	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.989551842212677	
+Prediction 2: weevil, 0.0050788503140211105	
+Prediction 3: leaf beetle, 0.002656280528753996	
+Prediction 4: ground beetle, 0.001222731196321547	
+Prediction 5: rhinoceros beetle, 0.00034972818684764206	
+Image: lh_btle_val_ILSVRC2012_val_00015056.jpeg	Test: [4/50]	Loss: 20.4649	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.7573963403701782	
+Prediction 2: weevil, 0.13675564527511597	
+Prediction 3: cricket, 0.04492693021893501	
+Prediction 4: leafhopper, 0.021606028079986572	
+Prediction 5: tick, 0.008837033994495869	
+Image: lh_btle_val_ILSVRC2012_val_00015603.jpeg	Test: [4/50]	Loss: 17.3017	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.9529509544372559	
+Prediction 2: weevil, 0.021053628996014595	
+Prediction 3: fly, 0.007036429829895496	
+Prediction 4: grasshopper, 0.004703078884631395	
+Prediction 5: leaf beetle, 0.0040310826152563095	
+Image: lh_btle_val_ILSVRC2012_val_00017552.jpeg	Test: [4/50]	Loss: 15.6145	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.9146130084991455	
+Prediction 2: ground beetle, 0.05084865167737007	
+Prediction 3: tiger beetle, 0.013095815666019917	
+Prediction 4: weevil, 0.008416958153247833	
+Prediction 5: rhinoceros beetle, 0.005719763692468405	
+Image: lh_btle_val_ILSVRC2012_val_00017727.jpeg	Test: [4/50]	Loss: 19.8330	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.9674042463302612	
+Prediction 2: harvestman, 0.016473103314638138	
+Prediction 3: cricket, 0.007541087921708822	
+Prediction 4: cockroach, 0.0031066550873219967	
+Prediction 5: weevil, 0.002236799104139209	
+Image: lh_btle_val_ILSVRC2012_val_00017893.jpeg	Test: [4/50]	Loss: 15.7437	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: grasshopper, 0.5300384759902954	
+Prediction 2: weevil, 0.1489982008934021	
+Prediction 3: cricket, 0.12811733782291412	
+Prediction 4: long-horned beetle, 0.055663660168647766	
+Prediction 5: alligator lizard, 0.020756911486387253	
+Image: lh_btle_val_ILSVRC2012_val_00018022.jpeg	Test: [4/50]	Loss: 16.5731	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.7755333781242371	
+Prediction 2: cricket, 0.09432157129049301	
+Prediction 3: weevil, 0.06925132870674133	
+Prediction 4: harvestman, 0.025135045871138573	
+Prediction 5: grasshopper, 0.01586523838341236	
+Image: lh_btle_val_ILSVRC2012_val_00018106.jpeg	Test: [4/50]	Loss: 22.4978	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: weevil, 0.5838769674301147	
+Prediction 2: long-horned beetle, 0.39319759607315063	
+Prediction 3: cricket, 0.011206102557480335	
+Prediction 4: grasshopper, 0.0028230349998921156	
+Prediction 5: scorpion, 0.0025284127332270145	
+Image: lh_btle_val_ILSVRC2012_val_00020053.jpeg	Test: [4/50]	Loss: 11.2622	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: ground beetle, 0.43746092915534973	
+Prediction 2: dung beetle, 0.19978764653205872	
+Prediction 3: ant, 0.13523736596107483	
+Prediction 4: leaf beetle, 0.047871995717287064	
+Prediction 5: rhinoceros beetle, 0.031886644661426544	
+Image: lh_btle_val_ILSVRC2012_val_00021688.jpeg	Test: [4/50]	Loss: 18.5104	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.6712967753410339	
+Prediction 2: weevil, 0.3165627121925354	
+Prediction 3: rhinoceros beetle, 0.004161439836025238	
+Prediction 4: leaf beetle, 0.0025738354306668043	
+Prediction 5: ground beetle, 0.0023441207595169544	
+Image: lh_btle_val_ILSVRC2012_val_00023834.jpeg	Test: [4/50]	Loss: 14.5473	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.5988912582397461	
+Prediction 2: leaf beetle, 0.11723702400922775	
+Prediction 3: rhinoceros beetle, 0.10420019924640656	
+Prediction 4: black widow, 0.08854479342699051	
+Prediction 5: ground beetle, 0.019591694697737694	
+Image: lh_btle_val_ILSVRC2012_val_00024014.jpeg	Test: [4/50]	Loss: 19.2838	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.9927841424942017	
+Prediction 2: leaf beetle, 0.004974258132278919	
+Prediction 3: grasshopper, 0.0006183598306961358	
+Prediction 4: admiral, 0.00029192044166848063	
+Prediction 5: tiger beetle, 0.0002269302203785628	
+Image: lh_btle_val_ILSVRC2012_val_00026324.jpeg	Test: [4/50]	Loss: 16.0890	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leaf beetle, 0.37924960255622864	
+Prediction 2: long-horned beetle, 0.33082520961761475	
+Prediction 3: weevil, 0.257726788520813	
+Prediction 4: cockroach, 0.011525403708219528	
+Prediction 5: ground beetle, 0.009746137075126171	
+Image: lh_btle_val_ILSVRC2012_val_00028427.jpeg	Test: [4/50]	Loss: 13.0381	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leaf beetle, 0.7473011612892151	
+Prediction 2: long-horned beetle, 0.1487499475479126	
+Prediction 3: ground beetle, 0.02664252556860447	
+Prediction 4: weevil, 0.020726237446069717	
+Prediction 5: cricket, 0.016312938183546066	
+Image: lh_btle_val_ILSVRC2012_val_00029227.jpeg	Test: [4/50]	Loss: 15.7574	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.2739476263523102	
+Prediction 2: cricket, 0.20055417716503143	
+Prediction 3: grasshopper, 0.14217257499694824	
+Prediction 4: leaf beetle, 0.13525612652301788	
+Prediction 5: weevil, 0.0997757539153099	
+Image: lh_btle_val_ILSVRC2012_val_00029307.jpeg	Test: [4/50]	Loss: 12.8569	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.544870138168335	
+Prediction 2: leaf beetle, 0.11968649923801422	
+Prediction 3: ground beetle, 0.11543940752744675	
+Prediction 4: cockroach, 0.06520990282297134	
+Prediction 5: tick, 0.057426922023296356	
+Image: lh_btle_val_ILSVRC2012_val_00029410.jpeg	Test: [4/50]	Loss: 16.9551	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.9495217800140381	
+Prediction 2: ground beetle, 0.01949472166597843	
+Prediction 3: leaf beetle, 0.01495636161416769	
+Prediction 4: weevil, 0.009096416644752026	
+Prediction 5: cockroach, 0.0015059664146974683	
+Image: lh_btle_val_ILSVRC2012_val_00031227.jpeg	Test: [4/50]	Loss: 23.1419	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.8193499445915222	
+Prediction 2: rhinoceros beetle, 0.12543994188308716	
+Prediction 3: weevil, 0.023880524560809135	
+Prediction 4: leaf beetle, 0.013657414354383945	
+Prediction 5: cockroach, 0.009724111296236515	
+Image: lh_btle_val_ILSVRC2012_val_00031928.jpeg	Test: [4/50]	Loss: 18.4208	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.9574952125549316	
+Prediction 2: weevil, 0.032132767140865326	
+Prediction 3: ground beetle, 0.0029526851139962673	
+Prediction 4: leaf beetle, 0.0019467300735414028	
+Prediction 5: cricket, 0.0011248289374634624	
+Image: lh_btle_val_ILSVRC2012_val_00032989.jpeg	Test: [4/50]	Loss: 16.3956	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: cicada, 0.6274123787879944	
+Prediction 2: leafhopper, 0.23243345320224762	
+Prediction 3: lacewing, 0.055139802396297455	
+Prediction 4: dragonfly, 0.02480105683207512	
+Prediction 5: ear, 0.010411351919174194	
+Image: lh_btle_val_ILSVRC2012_val_00034014.jpeg	Test: [4/50]	Loss: 19.3793	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: grasshopper, 0.521110475063324	
+Prediction 2: cricket, 0.4529697299003601	
+Prediction 3: long-horned beetle, 0.02131788060069084	
+Prediction 4: scorpion, 0.0005725825321860611	
+Prediction 5: dragonfly, 0.0005295532755553722	
+Image: lh_btle_val_ILSVRC2012_val_00035526.jpeg	Test: [4/50]	Loss: 16.4203	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: grasshopper, 0.29377275705337524	
+Prediction 2: admiral, 0.13644124567508698	
+Prediction 3: cricket, 0.11009074747562408	
+Prediction 4: long-horned beetle, 0.10559392720460892	
+Prediction 5: bee, 0.09398949146270752	
+Image: lh_btle_val_ILSVRC2012_val_00036405.jpeg	Test: [4/50]	Loss: 13.4729	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: grasshopper, 0.4976973831653595	
+Prediction 2: long-horned beetle, 0.33048638701438904	
+Prediction 3: cricket, 0.0724533274769783	
+Prediction 4: cockroach, 0.012990301474928856	
+Prediction 5: walking stick, 0.010621483437716961	
+Image: lh_btle_val_ILSVRC2012_val_00037126.jpeg	Test: [4/50]	Loss: 20.1996	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.9914611577987671	
+Prediction 2: tiger beetle, 0.0039028164464980364	
+Prediction 3: ground beetle, 0.0026445253752171993	
+Prediction 4: weevil, 0.0017314398428425193	
+Prediction 5: leaf beetle, 0.00014056431245990098	
+Image: lh_btle_val_ILSVRC2012_val_00040132.jpeg	Test: [4/50]	Loss: 12.3839	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.2942636013031006	
+Prediction 2: black and gold garden spider, 0.22754675149917603	
+Prediction 3: barn spider, 0.08827343583106995	
+Prediction 4: grasshopper, 0.05915245786309242	
+Prediction 5: garden spider, 0.05750738084316254	
+Image: lh_btle_val_ILSVRC2012_val_00041250.jpeg	Test: [4/50]	Loss: 13.3202	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.6004567742347717	
+Prediction 2: spiny lobster, 0.0776347666978836	
+Prediction 3: crayfish, 0.06604467332363129	
+Prediction 4: cockroach, 0.04407800734043121	
+Prediction 5: cricket, 0.02454501949250698	
+Image: lh_btle_val_ILSVRC2012_val_00041381.jpeg	Test: [4/50]	Loss: 24.1875	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.9002662301063538	
+Prediction 2: weevil, 0.08398909866809845	
+Prediction 3: fly, 0.005572156049311161	
+Prediction 4: ground beetle, 0.003665597178041935	
+Prediction 5: leaf beetle, 0.0035552894696593285	
+Image: lh_btle_val_ILSVRC2012_val_00041506.jpeg	Test: [4/50]	Loss: 14.2475	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.6263800859451294	
+Prediction 2: cockroach, 0.3054666519165039	
+Prediction 3: tiger beetle, 0.03518863022327423	
+Prediction 4: cricket, 0.020727306604385376	
+Prediction 5: crayfish, 0.002494689542800188	
+Image: lh_btle_val_ILSVRC2012_val_00044361.jpeg	Test: [4/50]	Loss: 13.3054	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.5245127081871033	
+Prediction 2: dragonfly, 0.16080139577388763	
+Prediction 3: fly, 0.06941574066877365	
+Prediction 4: black and gold garden spider, 0.05807889252901077	
+Prediction 5: ground beetle, 0.05190863832831383	
+Image: lh_btle_val_ILSVRC2012_val_00044476.jpeg	Test: [4/50]	Loss: 13.2707	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: weevil, 0.6796083450317383	
+Prediction 2: long-horned beetle, 0.17188876867294312	
+Prediction 3: isopod, 0.0495866984128952	
+Prediction 4: cockroach, 0.0214204303920269	
+Prediction 5: ground beetle, 0.020271077752113342	
+Image: lh_btle_val_ILSVRC2012_val_00045848.jpeg	Test: [4/50]	Loss: 18.6432	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.47628241777420044	
+Prediction 2: cricket, 0.25020959973335266	
+Prediction 3: grasshopper, 0.1508892923593521	
+Prediction 4: harvestman, 0.07515162974596024	
+Prediction 5: wolf spider, 0.01811603084206581	
+Image: lh_btle_val_ILSVRC2012_val_00045910.jpeg	Test: [4/50]	Loss: 14.8795	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.9104934334754944	
+Prediction 2: grasshopper, 0.047062814235687256	
+Prediction 3: cricket, 0.009178165346384048	
+Prediction 4: leaf beetle, 0.006518623325973749	
+Prediction 5: damselfly, 0.005148517899215221	
+Image: lh_btle_val_ILSVRC2012_val_00046314.jpeg	Test: [4/50]	Loss: 14.1518	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.9620987176895142	
+Prediction 2: weevil, 0.010795575566589832	
+Prediction 3: ground beetle, 0.006715455092489719	
+Prediction 4: cockroach, 0.004823951981961727	
+Prediction 5: leaf beetle, 0.004705334082245827	
+Image: lh_btle_val_ILSVRC2012_val_00046784.jpeg	Test: [4/50]	Loss: 16.2769	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.6649149060249329	
+Prediction 2: cricket, 0.10249242186546326	
+Prediction 3: tiger beetle, 0.09325627982616425	
+Prediction 4: ground beetle, 0.03530782461166382	
+Prediction 5: leaf beetle, 0.02918984182178974	
+Image: lh_btle_val_ILSVRC2012_val_00047337.jpeg	Test: [4/50]	Loss: 10.7305	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: monarch, 0.23898012936115265	
+Prediction 2: grasshopper, 0.1574624478816986	
+Prediction 3: long-horned beetle, 0.13875076174736023	
+Prediction 4: dragonfly, 0.0852079838514328	
+Prediction 5: damselfly, 0.0811287984251976	
+Image: lh_btle_val_ILSVRC2012_val_00047392.jpeg	Test: [4/50]	Loss: 22.1154	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.9421674609184265	
+Prediction 2: weevil, 0.05477821081876755	
+Prediction 3: ground beetle, 0.0010769226355478168	
+Prediction 4: leaf beetle, 0.001026401063427329	
+Prediction 5: cricket, 0.0003175778256263584	
+Image: lh_btle_val_ILSVRC2012_val_00048076.jpeg	Test: [4/50]	Loss: 14.8679	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.8497639298439026	
+Prediction 2: cricket, 0.03623638674616814	
+Prediction 3: grasshopper, 0.02214074321091175	
+Prediction 4: tiger beetle, 0.020455604419112206	
+Prediction 5: weevil, 0.01754959672689438	
+Image: lh_btle_val_ILSVRC2012_val_00048676.jpeg	Test: [4/50]	Loss: 18.1909	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: long-horned beetle, 0.8409548401832581	
+Prediction 2: leaf beetle, 0.08771704137325287	
+Prediction 3: weevil, 0.05641885846853256	
+Prediction 4: ground beetle, 0.012853698804974556	
+Prediction 5: tiger beetle, 0.0007895508897490799	

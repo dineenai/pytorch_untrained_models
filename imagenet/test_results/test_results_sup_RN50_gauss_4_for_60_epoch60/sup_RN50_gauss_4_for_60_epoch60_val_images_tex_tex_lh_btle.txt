@@ -1,0 +1,300 @@
+Image: tex_lh_btle_val_ILSVRC2012_val_00000926.jpeg	Test: [4/50]	Loss: 10.7659	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: turnstile, 0.10892785340547562	
+Prediction 2: cash machine, 0.04879426956176758	
+Prediction 3: restaurant, 0.0309979896992445	
+Prediction 4: barbershop, 0.02882569283246994	
+Prediction 5: pay-phone, 0.027160519734025	
+Image: tex_lh_btle_val_ILSVRC2012_val_00001529.jpeg	Test: [4/50]	Loss: 9.7101	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.11035424470901489	
+Prediction 2: starfish, 0.0662737637758255	
+Prediction 3: fire screen, 0.04286027327179909	
+Prediction 4: rock beauty, 0.0374956838786602	
+Prediction 5: ski mask, 0.03648138418793678	
+Image: tex_lh_btle_val_ILSVRC2012_val_00003444.jpeg	Test: [4/50]	Loss: 7.8237	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: eel, 0.33262601494789124	
+Prediction 2: goldfish, 0.3026873469352722	
+Prediction 3: rock beauty, 0.18184888362884521	
+Prediction 4: puffer, 0.07285135984420776	
+Prediction 5: flatworm, 0.019668394699692726	
+Image: tex_lh_btle_val_ILSVRC2012_val_00004919.jpeg	Test: [4/50]	Loss: 6.9151	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: electric ray, 0.2767174243927002	
+Prediction 2: velvet, 0.03882947936654091	
+Prediction 3: sarong, 0.025013942271471024	
+Prediction 4: sea cucumber, 0.023942381143569946	
+Prediction 5: stole, 0.022992094978690147	
+Image: tex_lh_btle_val_ILSVRC2012_val_00006595.jpeg	Test: [4/50]	Loss: 11.0757	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: washbasin, 0.12258779257535934	
+Prediction 2: maze, 0.08507388085126877	
+Prediction 3: toilet seat, 0.06426133215427399	
+Prediction 4: shower curtain, 0.04981324449181557	
+Prediction 5: manhole cover, 0.04203832522034645	
+Image: tex_lh_btle_val_ILSVRC2012_val_00006614.jpeg	Test: [4/50]	Loss: 10.3486	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: submarine, 0.15602557361125946	
+Prediction 2: aircraft carrier, 0.10751154273748398	
+Prediction 3: planetarium, 0.056771647185087204	
+Prediction 4: prison, 0.04078400135040283	
+Prediction 5: tank, 0.03928374871611595	
+Image: tex_lh_btle_val_ILSVRC2012_val_00006823.jpeg	Test: [4/50]	Loss: 7.1428	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: castle, 0.1062980592250824	
+Prediction 2: cliff, 0.03614293411374092	
+Prediction 3: monastery, 0.023734968155622482	
+Prediction 4: prison, 0.021910008043050766	
+Prediction 5: vault, 0.017508992925286293	
+Image: tex_lh_btle_val_ILSVRC2012_val_00006867.jpeg	Test: [4/50]	Loss: 18.3487	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.5601261258125305	
+Prediction 2: strainer, 0.23525549471378326	
+Prediction 3: loudspeaker, 0.10921601206064224	
+Prediction 4: fire screen, 0.05071847513318062	
+Prediction 5: matchstick, 0.01102814357727766	
+Image: tex_lh_btle_val_ILSVRC2012_val_00007520.jpeg	Test: [4/50]	Loss: 9.8766	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.12349000573158264	
+Prediction 2: jaguar, 0.08004072308540344	
+Prediction 3: jigsaw puzzle, 0.06095666438341141	
+Prediction 4: honeycomb, 0.058226194232702255	
+Prediction 5: leopard, 0.04266233369708061	
+Image: tex_lh_btle_val_ILSVRC2012_val_00008858.jpeg	Test: [4/50]	Loss: 6.3439	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leopard, 0.06227258965373039	
+Prediction 2: jaguar, 0.04572882503271103	
+Prediction 3: jackfruit, 0.03501330316066742	
+Prediction 4: eel, 0.03371851146221161	
+Prediction 5: porcupine, 0.025041643530130386	
+Image: tex_lh_btle_val_ILSVRC2012_val_00010411.jpeg	Test: [4/50]	Loss: 11.8678	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: oscilloscope, 0.2829132676124573	
+Prediction 2: shoji, 0.08121117949485779	
+Prediction 3: crossword puzzle, 0.07754869759082794	
+Prediction 4: digital clock, 0.06681036949157715	
+Prediction 5: planetarium, 0.04408029094338417	
+Image: tex_lh_btle_val_ILSVRC2012_val_00013153.jpeg	Test: [4/50]	Loss: 8.0074	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: eel, 0.2595553696155548	
+Prediction 2: puffer, 0.2440127581357956	
+Prediction 3: leopard, 0.18716923892498016	
+Prediction 4: cheetah, 0.11985252797603607	
+Prediction 5: jaguar, 0.09250451624393463	
+Image: tex_lh_btle_val_ILSVRC2012_val_00013422.jpeg	Test: [4/50]	Loss: 12.7800	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: washbasin, 0.1960252970457077	
+Prediction 2: crossword puzzle, 0.1839323192834854	
+Prediction 3: maze, 0.10636221617460251	
+Prediction 4: manhole cover, 0.06991753727197647	
+Prediction 5: shower curtain, 0.06691193580627441	
+Image: tex_lh_btle_val_ILSVRC2012_val_00015056.jpeg	Test: [4/50]	Loss: 8.9396	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: cuirass, 0.15575014054775238	
+Prediction 2: breastplate, 0.12813496589660645	
+Prediction 3: measuring cup, 0.039065003395080566	
+Prediction 4: cocktail shaker, 0.030314749106764793	
+Prediction 5: bulletproof vest, 0.01722927764058113	
+Image: tex_lh_btle_val_ILSVRC2012_val_00015603.jpeg	Test: [4/50]	Loss: 10.0881	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.9665960669517517	
+Prediction 2: window screen, 0.007503845728933811	
+Prediction 3: honeycomb, 0.00638615945354104	
+Prediction 4: fire screen, 0.00392083590850234	
+Prediction 5: eel, 0.0029786843806505203	
+Image: tex_lh_btle_val_ILSVRC2012_val_00017552.jpeg	Test: [4/50]	Loss: 4.7047	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: rock beauty, 0.1227741688489914	
+Prediction 2: knee pad, 0.06212085112929344	
+Prediction 3: ground beetle, 0.05088840425014496	
+Prediction 4: electric ray, 0.0419633574783802	
+Prediction 5: strainer, 0.03530255705118179	
+Image: tex_lh_btle_val_ILSVRC2012_val_00017727.jpeg	Test: [4/50]	Loss: 12.9371	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.2751183807849884	
+Prediction 2: window screen, 0.2749980092048645	
+Prediction 3: fire screen, 0.2622213065624237	
+Prediction 4: flatworm, 0.056963544338941574	
+Prediction 5: matchstick, 0.04097459837794304	
+Image: tex_lh_btle_val_ILSVRC2012_val_00017893.jpeg	Test: [4/50]	Loss: 6.8794	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: eel, 0.5618273615837097	
+Prediction 2: electric ray, 0.10785356163978577	
+Prediction 3: Komodo dragon, 0.04416733235120773	
+Prediction 4: jaguar, 0.0345001220703125	
+Prediction 5: leopard, 0.03167899325489998	
+Image: tex_lh_btle_val_ILSVRC2012_val_00018022.jpeg	Test: [4/50]	Loss: 8.0557	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: manhole cover, 0.4598149359226227	
+Prediction 2: electric ray, 0.07503241300582886	
+Prediction 3: maze, 0.06063144654035568	
+Prediction 4: eel, 0.029439199715852737	
+Prediction 5: strainer, 0.024363605305552483	
+Image: tex_lh_btle_val_ILSVRC2012_val_00018106.jpeg	Test: [4/50]	Loss: 11.4083	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8694378137588501	
+Prediction 2: eel, 0.04016675055027008	
+Prediction 3: flatworm, 0.02960270456969738	
+Prediction 4: window screen, 0.015073323622345924	
+Prediction 5: fig, 0.0040677995420992374	
+Image: tex_lh_btle_val_ILSVRC2012_val_00020053.jpeg	Test: [4/50]	Loss: 5.1452	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: eel, 0.2109827846288681	
+Prediction 2: electric ray, 0.11378313601016998	
+Prediction 3: chain mail, 0.07909372448921204	
+Prediction 4: puffer, 0.03242611885070801	
+Prediction 5: strainer, 0.02947296015918255	
+Image: tex_lh_btle_val_ILSVRC2012_val_00021688.jpeg	Test: [4/50]	Loss: 9.8751	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.3423139750957489	
+Prediction 2: thimble, 0.2748768627643585	
+Prediction 3: king snake, 0.05252950266003609	
+Prediction 4: honeycomb, 0.04580804705619812	
+Prediction 5: saltshaker, 0.04182157665491104	
+Image: tex_lh_btle_val_ILSVRC2012_val_00023834.jpeg	Test: [4/50]	Loss: 7.9647	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: eel, 0.42678970098495483	
+Prediction 2: strainer, 0.08741205930709839	
+Prediction 3: cheetah, 0.07728704810142517	
+Prediction 4: electric ray, 0.05198267102241516	
+Prediction 5: leopard, 0.036671243607997894	
+Image: tex_lh_btle_val_ILSVRC2012_val_00024014.jpeg	Test: [4/50]	Loss: 11.2224	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: lighter, 0.13860929012298584	
+Prediction 2: crossword puzzle, 0.03249674662947655	
+Prediction 3: scoreboard, 0.030645113438367844	
+Prediction 4: measuring cup, 0.027048500254750252	
+Prediction 5: binder, 0.02327752858400345	
+Image: tex_lh_btle_val_ILSVRC2012_val_00026324.jpeg	Test: [4/50]	Loss: 14.4366	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: oscilloscope, 0.7185178399085999	
+Prediction 2: fire screen, 0.07175128906965256	
+Prediction 3: digital clock, 0.03910734876990318	
+Prediction 4: strainer, 0.03531922772526741	
+Prediction 5: matchstick, 0.019773142412304878	
+Image: tex_lh_btle_val_ILSVRC2012_val_00028427.jpeg	Test: [4/50]	Loss: 11.9382	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7282189726829529	
+Prediction 2: window screen, 0.17736202478408813	
+Prediction 3: fire screen, 0.01766911894083023	
+Prediction 4: microphone, 0.009288519620895386	
+Prediction 5: honeycomb, 0.007230247836560011	
+Image: tex_lh_btle_val_ILSVRC2012_val_00029227.jpeg	Test: [4/50]	Loss: 14.5330	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.38560429215431213	
+Prediction 2: window screen, 0.15078334510326385	
+Prediction 3: fire screen, 0.1023203581571579	
+Prediction 4: matchstick, 0.08740754425525665	
+Prediction 5: digital clock, 0.049702826887369156	
+Image: tex_lh_btle_val_ILSVRC2012_val_00029307.jpeg	Test: [4/50]	Loss: 11.1532	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: manhole cover, 0.3598673939704895	
+Prediction 2: washbasin, 0.08967388421297073	
+Prediction 3: doormat, 0.04697084054350853	
+Prediction 4: crossword puzzle, 0.03200191259384155	
+Prediction 5: cash machine, 0.030732102692127228	
+Image: tex_lh_btle_val_ILSVRC2012_val_00029410.jpeg	Test: [4/50]	Loss: 14.5628	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.9027596712112427	
+Prediction 2: strainer, 0.060885537415742874	
+Prediction 3: fire screen, 0.029685381799936295	
+Prediction 4: honeycomb, 0.002510320395231247	
+Prediction 5: matchstick, 0.0005417228676378727	
+Image: tex_lh_btle_val_ILSVRC2012_val_00031227.jpeg	Test: [4/50]	Loss: 7.6799	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.26507964730262756	
+Prediction 2: fire screen, 0.09787344187498093	
+Prediction 3: chain mail, 0.06621848791837692	
+Prediction 4: poncho, 0.04206693172454834	
+Prediction 5: spider web, 0.04059160128235817	
+Image: tex_lh_btle_val_ILSVRC2012_val_00031928.jpeg	Test: [4/50]	Loss: 12.6150	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: shower curtain, 0.18207813799381256	
+Prediction 2: maze, 0.15346451103687286	
+Prediction 3: washbasin, 0.15072101354599	
+Prediction 4: crossword puzzle, 0.058330830186605453	
+Prediction 5: toilet seat, 0.052761781960725784	
+Image: tex_lh_btle_val_ILSVRC2012_val_00032989.jpeg	Test: [4/50]	Loss: 14.8059	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7181050181388855	
+Prediction 2: fire screen, 0.13564786314964294	
+Prediction 3: window screen, 0.10920723527669907	
+Prediction 4: space heater, 0.011456269770860672	
+Prediction 5: lampshade, 0.007928437553346157	
+Image: tex_lh_btle_val_ILSVRC2012_val_00034014.jpeg	Test: [4/50]	Loss: 15.6475	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: crossword puzzle, 0.868592381477356	
+Prediction 2: jigsaw puzzle, 0.04406538978219032	
+Prediction 3: maze, 0.03809427097439766	
+Prediction 4: shower curtain, 0.022680452093482018	
+Prediction 5: oscilloscope, 0.0024741459637880325	
+Image: tex_lh_btle_val_ILSVRC2012_val_00035526.jpeg	Test: [4/50]	Loss: 13.5669	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: shoji, 0.10859377682209015	
+Prediction 2: planetarium, 0.10237111151218414	
+Prediction 3: tobacco shop, 0.09591559320688248	
+Prediction 4: washbasin, 0.06032337620854378	
+Prediction 5: turnstile, 0.05987220257520676	
+Image: tex_lh_btle_val_ILSVRC2012_val_00036405.jpeg	Test: [4/50]	Loss: 6.0252	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.6717279553413391	
+Prediction 2: honeycomb, 0.029500171542167664	
+Prediction 3: chain mail, 0.018270667642354965	
+Prediction 4: dishrag, 0.013623767532408237	
+Prediction 5: eel, 0.011848540976643562	
+Image: tex_lh_btle_val_ILSVRC2012_val_00037126.jpeg	Test: [4/50]	Loss: 8.3757	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: flatworm, 0.7011025547981262	
+Prediction 2: eel, 0.1040131002664566	
+Prediction 3: electric ray, 0.08865475654602051	
+Prediction 4: stingray, 0.008426700718700886	
+Prediction 5: sea snake, 0.008300554938614368	
+Image: tex_lh_btle_val_ILSVRC2012_val_00040132.jpeg	Test: [4/50]	Loss: 12.1337	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: drilling platform, 0.15042361617088318	
+Prediction 2: aircraft carrier, 0.08526081591844559	
+Prediction 3: space shuttle, 0.03635646030306816	
+Prediction 4: crane, 0.030692150816321373	
+Prediction 5: jigsaw puzzle, 0.027455221861600876	
+Image: tex_lh_btle_val_ILSVRC2012_val_00041250.jpeg	Test: [4/50]	Loss: 11.5211	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.5183990597724915	
+Prediction 2: strainer, 0.3359389007091522	
+Prediction 3: fire screen, 0.09917870908975601	
+Prediction 4: honeycomb, 0.01796899177134037	
+Prediction 5: matchstick, 0.005342358723282814	
+Image: tex_lh_btle_val_ILSVRC2012_val_00041381.jpeg	Test: [4/50]	Loss: 14.0601	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7650052309036255	
+Prediction 2: window screen, 0.1134563535451889	
+Prediction 3: fire screen, 0.04133477434515953	
+Prediction 4: matchstick, 0.02614293433725834	
+Prediction 5: microphone, 0.006293355021625757	
+Image: tex_lh_btle_val_ILSVRC2012_val_00041506.jpeg	Test: [4/50]	Loss: 13.3374	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: crossword puzzle, 0.19099900126457214	
+Prediction 2: washbasin, 0.12826582789421082	
+Prediction 3: maze, 0.10727670043706894	
+Prediction 4: jigsaw puzzle, 0.09545538574457169	
+Prediction 5: shower curtain, 0.07442045956850052	
+Image: tex_lh_btle_val_ILSVRC2012_val_00044361.jpeg	Test: [4/50]	Loss: 11.1926	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: jigsaw puzzle, 0.1721125841140747	
+Prediction 2: space shuttle, 0.14846260845661163	
+Prediction 3: castle, 0.05749645456671715	
+Prediction 4: drilling platform, 0.04041898250579834	
+Prediction 5: aircraft carrier, 0.03994309529662132	
+Image: tex_lh_btle_val_ILSVRC2012_val_00044476.jpeg	Test: [4/50]	Loss: 6.9921	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: jackfruit, 0.36300787329673767	
+Prediction 2: eel, 0.1682891845703125	
+Prediction 3: honeycomb, 0.05990181118249893	
+Prediction 4: brain coral, 0.04802202805876732	
+Prediction 5: electric ray, 0.04394008219242096	
+Image: tex_lh_btle_val_ILSVRC2012_val_00045848.jpeg	Test: [4/50]	Loss: 5.7653	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: electric ray, 0.15089665353298187	
+Prediction 2: hen-of-the-woods, 0.03609389439225197	
+Prediction 3: eel, 0.03413153439760208	
+Prediction 4: jaguar, 0.02353372797369957	
+Prediction 5: coral reef, 0.023162243887782097	
+Image: tex_lh_btle_val_ILSVRC2012_val_00045910.jpeg	Test: [4/50]	Loss: 7.7924	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: castle, 0.05008450523018837	
+Prediction 2: boa constrictor, 0.04836847260594368	
+Prediction 3: fountain, 0.031684160232543945	
+Prediction 4: green mamba, 0.030147334560751915	
+Prediction 5: submarine, 0.022178536280989647	
+Image: tex_lh_btle_val_ILSVRC2012_val_00046314.jpeg	Test: [4/50]	Loss: 11.1775	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: poncho, 0.4545351564884186	
+Prediction 2: stole, 0.14891691505908966	
+Prediction 3: sea urchin, 0.12255331128835678	
+Prediction 4: velvet, 0.04581400752067566	
+Prediction 5: dishrag, 0.02364674210548401	
+Image: tex_lh_btle_val_ILSVRC2012_val_00046784.jpeg	Test: [4/50]	Loss: 11.8521	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: prison, 0.13954685628414154	
+Prediction 2: monastery, 0.06740216910839081	
+Prediction 3: cinema, 0.05600414052605629	
+Prediction 4: church, 0.054594509303569794	
+Prediction 5: bannister, 0.04913616180419922	
+Image: tex_lh_btle_val_ILSVRC2012_val_00047337.jpeg	Test: [4/50]	Loss: 6.0594	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: Indian cobra, 0.0670684203505516	
+Prediction 2: night snake, 0.02917413040995598	
+Prediction 3: king snake, 0.026570595800876617	
+Prediction 4: horned viper, 0.025718681514263153	
+Prediction 5: rock python, 0.025509459897875786	
+Image: tex_lh_btle_val_ILSVRC2012_val_00047392.jpeg	Test: [4/50]	Loss: 15.2880	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fire screen, 0.5005823373794556	
+Prediction 2: strainer, 0.29849007725715637	
+Prediction 3: window screen, 0.10433176159858704	
+Prediction 4: matchstick, 0.06341712176799774	
+Prediction 5: lighter, 0.006656660232692957	
+Image: tex_lh_btle_val_ILSVRC2012_val_00048076.jpeg	Test: [4/50]	Loss: 7.5589	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: ground beetle, 0.09451457113027573	
+Prediction 2: breastplate, 0.058564692735672	
+Prediction 3: brass, 0.05395989120006561	
+Prediction 4: electric ray, 0.044209983199834824	
+Prediction 5: chain mail, 0.04037925973534584	
+Image: tex_lh_btle_val_ILSVRC2012_val_00048676.jpeg	Test: [4/50]	Loss: 2.9444	Acc@1 0.000 (0.000)	Acc@5 100.000 (2.000)	
+Prediction 1: chain mail, 0.14006860554218292	
+Prediction 2: rock beauty, 0.09839525073766708	
+Prediction 3: prairie chicken, 0.07794097065925598	
+Prediction 4: tench, 0.052631352096796036	
+Prediction 5: snail, 0.04727613180875778	

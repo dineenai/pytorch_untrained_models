@@ -1,0 +1,300 @@
+Image: collie_val_ILSVRC2012_val_00003480.jpeg	Test: [4/50]	Loss: 11.3277	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7980629205703735	
+Prediction 2: window screen, 0.06818708032369614	
+Prediction 3: honeycomb, 0.01718311570584774	
+Prediction 4: space heater, 0.012948022224009037	
+Prediction 5: fire screen, 0.009980668313801289	
+Image: collie_val_ILSVRC2012_val_00003862.jpeg	Test: [4/50]	Loss: 11.1378	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: puffer, 0.43675822019577026	
+Prediction 2: window screen, 0.20994454622268677	
+Prediction 3: strainer, 0.16794218122959137	
+Prediction 4: leopard, 0.050088874995708466	
+Prediction 5: jaguar, 0.02525000087916851	
+Image: collie_val_ILSVRC2012_val_00004711.jpeg	Test: [4/50]	Loss: 13.0842	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.2750968337059021	
+Prediction 2: analog clock, 0.2532597780227661	
+Prediction 3: strainer, 0.0988745242357254	
+Prediction 4: digital clock, 0.09200066328048706	
+Prediction 5: matchstick, 0.030581852421164513	
+Image: collie_val_ILSVRC2012_val_00006330.jpeg	Test: [4/50]	Loss: 10.6509	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.29672110080718994	
+Prediction 2: puffer, 0.27349594235420227	
+Prediction 3: strainer, 0.15911109745502472	
+Prediction 4: leopard, 0.034950871020555496	
+Prediction 5: jaguar, 0.02988109551370144	
+Image: collie_val_ILSVRC2012_val_00007355.jpeg	Test: [4/50]	Loss: 11.8591	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.4248308837413788	
+Prediction 2: strainer, 0.3309905529022217	
+Prediction 3: puffer, 0.0948483794927597	
+Prediction 4: leopard, 0.02349216304719448	
+Prediction 5: jaguar, 0.019757043570280075	
+Image: collie_val_ILSVRC2012_val_00007682.jpeg	Test: [4/50]	Loss: 12.7119	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.8358064293861389	
+Prediction 2: strainer, 0.11611412465572357	
+Prediction 3: fire screen, 0.0076883332803845406	
+Prediction 4: cheetah, 0.005042877048254013	
+Prediction 5: leopard, 0.004517113324254751	
+Image: collie_val_ILSVRC2012_val_00009055.jpeg	Test: [4/50]	Loss: 12.2532	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.6925540566444397	
+Prediction 2: window screen, 0.0978977233171463	
+Prediction 3: fire screen, 0.08886884897947311	
+Prediction 4: honeycomb, 0.0142368720844388	
+Prediction 5: space heater, 0.011196020990610123	
+Image: collie_val_ILSVRC2012_val_00011698.jpeg	Test: [4/50]	Loss: 11.0118	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.877702534198761	
+Prediction 2: window screen, 0.029465805739164352	
+Prediction 3: puffer, 0.02726430632174015	
+Prediction 4: spider web, 0.007648831233382225	
+Prediction 5: microphone, 0.005781481042504311	
+Image: collie_val_ILSVRC2012_val_00012037.jpeg	Test: [4/50]	Loss: 10.6555	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: puffer, 0.34066593647003174	
+Prediction 2: strainer, 0.30034175515174866	
+Prediction 3: leopard, 0.07446702569723129	
+Prediction 4: eel, 0.05744791775941849	
+Prediction 5: window screen, 0.03556133061647415	
+Image: collie_val_ILSVRC2012_val_00014086.jpeg	Test: [4/50]	Loss: 14.5614	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.8015419840812683	
+Prediction 2: strainer, 0.1237880289554596	
+Prediction 3: matchstick, 0.008874214254319668	
+Prediction 4: fire screen, 0.008025324903428555	
+Prediction 5: analog clock, 0.0053525022231042385	
+Image: collie_val_ILSVRC2012_val_00014295.jpeg	Test: [4/50]	Loss: 16.6522	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.5691812634468079	
+Prediction 2: strainer, 0.3082793653011322	
+Prediction 3: fire screen, 0.03547433018684387	
+Prediction 4: analog clock, 0.03383050858974457	
+Prediction 5: wall clock, 0.010194298811256886	
+Image: collie_val_ILSVRC2012_val_00014342.jpeg	Test: [4/50]	Loss: 14.5133	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.8141482472419739	
+Prediction 2: fire screen, 0.06779856234788895	
+Prediction 3: strainer, 0.06458435952663422	
+Prediction 4: matchstick, 0.011276744306087494	
+Prediction 5: digital clock, 0.008184554986655712	
+Image: collie_val_ILSVRC2012_val_00015294.jpeg	Test: [4/50]	Loss: 11.1892	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: leopard, 0.39819562435150146	
+Prediction 2: window screen, 0.24554941058158875	
+Prediction 3: jaguar, 0.07509538531303406	
+Prediction 4: strainer, 0.07077375799417496	
+Prediction 5: puffer, 0.028749525547027588	
+Image: collie_val_ILSVRC2012_val_00016572.jpeg	Test: [4/50]	Loss: 11.6159	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.578988254070282	
+Prediction 2: strainer, 0.22121991217136383	
+Prediction 3: analog clock, 0.024078814312815666	
+Prediction 4: matchstick, 0.019617876037955284	
+Prediction 5: microphone, 0.014897871762514114	
+Image: collie_val_ILSVRC2012_val_00018046.jpeg	Test: [4/50]	Loss: 13.1831	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.5328916907310486	
+Prediction 2: window screen, 0.20869134366512299	
+Prediction 3: fire screen, 0.11277557164430618	
+Prediction 4: matchstick, 0.022319503128528595	
+Prediction 5: analog clock, 0.021437250077724457	
+Image: collie_val_ILSVRC2012_val_00018126.jpeg	Test: [4/50]	Loss: 12.1523	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.6886776089668274	
+Prediction 2: window screen, 0.12461785972118378	
+Prediction 3: fire screen, 0.054389722645282745	
+Prediction 4: analog clock, 0.01595126837491989	
+Prediction 5: honeycomb, 0.006642363034188747	
+Image: collie_val_ILSVRC2012_val_00019134.jpeg	Test: [4/50]	Loss: 11.8409	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.5863874554634094	
+Prediction 2: window screen, 0.24215371906757355	
+Prediction 3: fire screen, 0.02864961326122284	
+Prediction 4: puffer, 0.020638417452573776	
+Prediction 5: matchstick, 0.018108606338500977	
+Image: collie_val_ILSVRC2012_val_00019517.jpeg	Test: [4/50]	Loss: 13.8282	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.654430091381073	
+Prediction 2: strainer, 0.24689960479736328	
+Prediction 3: fire screen, 0.05446944013237953	
+Prediction 4: honeycomb, 0.013257119804620743	
+Prediction 5: matchstick, 0.004561474546790123	
+Image: collie_val_ILSVRC2012_val_00019767.jpeg	Test: [4/50]	Loss: 12.5450	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8736125826835632	
+Prediction 2: window screen, 0.0427514910697937	
+Prediction 3: honeycomb, 0.020057085901498795	
+Prediction 4: puffer, 0.019790412858128548	
+Prediction 5: microphone, 0.005387984216213226	
+Image: collie_val_ILSVRC2012_val_00020196.jpeg	Test: [4/50]	Loss: 11.2841	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.4264495372772217	
+Prediction 2: window screen, 0.14977240562438965	
+Prediction 3: crossword puzzle, 0.028239775449037552	
+Prediction 4: wall clock, 0.02377714402973652	
+Prediction 5: doormat, 0.020807525143027306	
+Image: collie_val_ILSVRC2012_val_00021226.jpeg	Test: [4/50]	Loss: 16.7881	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.5258305668830872	
+Prediction 2: window screen, 0.42648208141326904	
+Prediction 3: fire screen, 0.029969967901706696	
+Prediction 4: honeycomb, 0.003993701655417681	
+Prediction 5: green lizard, 0.001622720155864954	
+Image: collie_val_ILSVRC2012_val_00022645.jpeg	Test: [4/50]	Loss: 12.3422	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.9107189774513245	
+Prediction 2: strainer, 0.022258048877120018	
+Prediction 3: leopard, 0.014886919409036636	
+Prediction 4: green lizard, 0.01015420537441969	
+Prediction 5: American chameleon, 0.006697772536426783	
+Image: collie_val_ILSVRC2012_val_00023666.jpeg	Test: [4/50]	Loss: 14.8124	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.46050819754600525	
+Prediction 2: window screen, 0.2259243130683899	
+Prediction 3: fire screen, 0.12671102583408356	
+Prediction 4: analog clock, 0.042573776096105576	
+Prediction 5: digital clock, 0.0424303337931633	
+Image: collie_val_ILSVRC2012_val_00023702.jpeg	Test: [4/50]	Loss: 12.1002	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.35134628415107727	
+Prediction 2: strainer, 0.314301460981369	
+Prediction 3: leopard, 0.03666618838906288	
+Prediction 4: analog clock, 0.03358253836631775	
+Prediction 5: fire screen, 0.019129155203700066	
+Image: collie_val_ILSVRC2012_val_00023788.jpeg	Test: [4/50]	Loss: 14.8717	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: analog clock, 0.33610987663269043	
+Prediction 2: web site, 0.16319453716278076	
+Prediction 3: digital clock, 0.048198968172073364	
+Prediction 4: strainer, 0.031725745648145676	
+Prediction 5: padlock, 0.030493013560771942	
+Image: collie_val_ILSVRC2012_val_00024292.jpeg	Test: [4/50]	Loss: 12.0823	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7862294316291809	
+Prediction 2: window screen, 0.12037652730941772	
+Prediction 3: fire screen, 0.02096213586628437	
+Prediction 4: puffer, 0.007965892553329468	
+Prediction 5: honeycomb, 0.00637315446510911	
+Image: collie_val_ILSVRC2012_val_00027164.jpeg	Test: [4/50]	Loss: 14.6337	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.7353224754333496	
+Prediction 2: strainer, 0.08549977838993073	
+Prediction 3: fire screen, 0.07373585551977158	
+Prediction 4: matchstick, 0.018126066774129868	
+Prediction 5: analog clock, 0.013597876764833927	
+Image: collie_val_ILSVRC2012_val_00027165.jpeg	Test: [4/50]	Loss: 16.2593	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.40707266330718994	
+Prediction 2: fire screen, 0.30588898062705994	
+Prediction 3: window screen, 0.24801971018314362	
+Prediction 4: matchstick, 0.009613147005438805	
+Prediction 5: space heater, 0.004493314307183027	
+Image: collie_val_ILSVRC2012_val_00027522.jpeg	Test: [4/50]	Loss: 9.2466	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.49668774008750916	
+Prediction 2: strainer, 0.2715564966201782	
+Prediction 3: puffer, 0.021003851667046547	
+Prediction 4: green lizard, 0.016597701236605644	
+Prediction 5: honeycomb, 0.010919478721916676	
+Image: collie_val_ILSVRC2012_val_00027583.jpeg	Test: [4/50]	Loss: 14.4702	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: analog clock, 0.29661932587623596	
+Prediction 2: web site, 0.16667009890079498	
+Prediction 3: wall clock, 0.0569569356739521	
+Prediction 4: matchstick, 0.03731837496161461	
+Prediction 5: digital clock, 0.03328585997223854	
+Image: collie_val_ILSVRC2012_val_00031799.jpeg	Test: [4/50]	Loss: 10.6742	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.3712312877178192	
+Prediction 2: strainer, 0.3431992530822754	
+Prediction 3: fire screen, 0.09358301013708115	
+Prediction 4: spider web, 0.0317235067486763	
+Prediction 5: chainlink fence, 0.01114531047642231	
+Image: collie_val_ILSVRC2012_val_00033642.jpeg	Test: [4/50]	Loss: 14.6442	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.9677261114120483	
+Prediction 2: strainer, 0.007319444324821234	
+Prediction 3: doormat, 0.0044208732433617115	
+Prediction 4: honeycomb, 0.0017879173392429948	
+Prediction 5: leopard, 0.0017660919111222029	
+Image: collie_val_ILSVRC2012_val_00035592.jpeg	Test: [4/50]	Loss: 13.5454	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.7438675761222839	
+Prediction 2: strainer, 0.2054862529039383	
+Prediction 3: fire screen, 0.018718956038355827	
+Prediction 4: analog clock, 0.004021100699901581	
+Prediction 5: matchstick, 0.0021587403025478125	
+Image: collie_val_ILSVRC2012_val_00036097.jpeg	Test: [4/50]	Loss: 12.7785	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8875016570091248	
+Prediction 2: fire screen, 0.04441767558455467	
+Prediction 3: window screen, 0.03448020666837692	
+Prediction 4: flatworm, 0.003531268099322915	
+Prediction 5: honeycomb, 0.003364164847880602	
+Image: collie_val_ILSVRC2012_val_00036360.jpeg	Test: [4/50]	Loss: 14.6519	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.8710938096046448	
+Prediction 2: strainer, 0.0995490774512291	
+Prediction 3: fire screen, 0.00986945815384388	
+Prediction 4: matchstick, 0.0035801611375063658	
+Prediction 5: analog clock, 0.0025568960700184107	
+Image: collie_val_ILSVRC2012_val_00036371.jpeg	Test: [4/50]	Loss: 17.1158	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.519390881061554	
+Prediction 2: fire screen, 0.2759163975715637	
+Prediction 3: strainer, 0.16990774869918823	
+Prediction 4: honeycomb, 0.015481913462281227	
+Prediction 5: digital clock, 0.007977321743965149	
+Image: collie_val_ILSVRC2012_val_00036543.jpeg	Test: [4/50]	Loss: 9.8579	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7551161646842957	
+Prediction 2: window screen, 0.14183098077774048	
+Prediction 3: American chameleon, 0.012321860529482365	
+Prediction 4: green lizard, 0.011898239143192768	
+Prediction 5: common iguana, 0.010349259711802006	
+Image: collie_val_ILSVRC2012_val_00037075.jpeg	Test: [4/50]	Loss: 12.2648	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.7999311685562134	
+Prediction 2: strainer, 0.14294102787971497	
+Prediction 3: honeycomb, 0.006286470219492912	
+Prediction 4: fire screen, 0.004796578083187342	
+Prediction 5: analog clock, 0.0030522653833031654	
+Image: collie_val_ILSVRC2012_val_00037428.jpeg	Test: [4/50]	Loss: 12.4972	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8577585220336914	
+Prediction 2: window screen, 0.05833480507135391	
+Prediction 3: honeycomb, 0.025670507922768593	
+Prediction 4: fire screen, 0.012529982253909111	
+Prediction 5: space heater, 0.0035642944276332855	
+Image: collie_val_ILSVRC2012_val_00038745.jpeg	Test: [4/50]	Loss: 13.8368	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.8876913785934448	
+Prediction 2: strainer, 0.03899458795785904	
+Prediction 3: fire screen, 0.011767111718654633	
+Prediction 4: matchstick, 0.010060558095574379	
+Prediction 5: analog clock, 0.004624631721526384	
+Image: collie_val_ILSVRC2012_val_00038789.jpeg	Test: [4/50]	Loss: 9.2264	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: puffer, 0.2092464417219162	
+Prediction 2: strainer, 0.16093024611473083	
+Prediction 3: window screen, 0.1048128753900528	
+Prediction 4: leopard, 0.07035762816667557	
+Prediction 5: jaguar, 0.06894475966691971	
+Image: collie_val_ILSVRC2012_val_00039035.jpeg	Test: [4/50]	Loss: 10.9116	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.36801695823669434	
+Prediction 2: strainer, 0.13935323059558868	
+Prediction 3: cheetah, 0.04140475019812584	
+Prediction 4: honeycomb, 0.03337116166949272	
+Prediction 5: fire screen, 0.024237539619207382	
+Image: collie_val_ILSVRC2012_val_00039142.jpeg	Test: [4/50]	Loss: 11.1051	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.30363553762435913	
+Prediction 2: strainer, 0.2615440785884857	
+Prediction 3: analog clock, 0.037569932639598846	
+Prediction 4: matchstick, 0.023509353399276733	
+Prediction 5: iron, 0.023019567131996155	
+Image: collie_val_ILSVRC2012_val_00039761.jpeg	Test: [4/50]	Loss: 11.9083	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.906891942024231	
+Prediction 2: strainer, 0.03378795459866524	
+Prediction 3: fire screen, 0.0029539300594478846	
+Prediction 4: honeycomb, 0.002942930208519101	
+Prediction 5: matchstick, 0.002700381213799119	
+Image: collie_val_ILSVRC2012_val_00040015.jpeg	Test: [4/50]	Loss: 13.1221	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.5306946635246277	
+Prediction 2: strainer, 0.33074870705604553	
+Prediction 3: fire screen, 0.03941413015127182	
+Prediction 4: analog clock, 0.018300628289580345	
+Prediction 5: digital clock, 0.007103382144123316	
+Image: collie_val_ILSVRC2012_val_00041176.jpeg	Test: [4/50]	Loss: 14.0330	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.7097697854042053	
+Prediction 2: strainer, 0.25088316202163696	
+Prediction 3: fire screen, 0.026477312669157982	
+Prediction 4: honeycomb, 0.0022926805540919304	
+Prediction 5: green lizard, 0.0013691552449017763	
+Image: collie_val_ILSVRC2012_val_00041929.jpeg	Test: [4/50]	Loss: 9.8348	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.5841594934463501	
+Prediction 2: window screen, 0.24743764102458954	
+Prediction 3: flatworm, 0.03684629127383232	
+Prediction 4: puffer, 0.012757919728755951	
+Prediction 5: eel, 0.01015858817845583	
+Image: collie_val_ILSVRC2012_val_00046531.jpeg	Test: [4/50]	Loss: 14.1990	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.4504167139530182	
+Prediction 2: window screen, 0.2772146165370941	
+Prediction 3: fire screen, 0.1803140640258789	
+Prediction 4: honeycomb, 0.01816483400762081	
+Prediction 5: analog clock, 0.006788657512515783	
+Image: collie_val_ILSVRC2012_val_00046974.jpeg	Test: [4/50]	Loss: 10.2920	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.907294750213623	
+Prediction 2: strainer, 0.016818474978208542	
+Prediction 3: puffer, 0.014324327930808067	
+Prediction 4: leopard, 0.007678192108869553	
+Prediction 5: flatworm, 0.003973833750933409	
+Image: collie_val_ILSVRC2012_val_00049725.jpeg	Test: [4/50]	Loss: 9.4740	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.6825904846191406	
+Prediction 2: puffer, 0.06471052020788193	
+Prediction 3: window screen, 0.062448497861623764	
+Prediction 4: honeycomb, 0.015205683186650276	
+Prediction 5: thimble, 0.012828773818910122	
