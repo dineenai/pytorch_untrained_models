@@ -1,0 +1,10 @@
+tex_ly_bfly_val_ILSVRC2012_val_00010102.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00013322.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00013440.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00020376.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00021806.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00025307.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00028202.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00032196.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00039360.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00043407.JPEG	
