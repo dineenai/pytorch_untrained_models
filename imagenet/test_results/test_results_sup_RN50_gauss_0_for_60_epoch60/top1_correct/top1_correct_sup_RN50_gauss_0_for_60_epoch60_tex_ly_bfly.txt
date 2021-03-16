@@ -1,0 +1,14 @@
+tex_ly_bfly_val_ILSVRC2012_val_00009023.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00013322.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00018935.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00020376.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00021806.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00025307.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00032196.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00035696.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00039181.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00039215.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00039360.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00043218.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00043407.JPEG	
+tex_ly_bfly_val_ILSVRC2012_val_00048827.JPEG	
