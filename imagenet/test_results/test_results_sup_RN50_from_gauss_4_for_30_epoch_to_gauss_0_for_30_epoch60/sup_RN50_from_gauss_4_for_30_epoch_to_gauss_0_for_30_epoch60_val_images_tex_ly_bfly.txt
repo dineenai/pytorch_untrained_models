@@ -1,600 +1,300 @@
-Image: ILSVRC2012_val_00001536.JPEG	Test: [4/100]	Loss: 22.1569	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9807049632072449	
-Prediction 2: ringlet, 0.010803413577377796	
-Prediction 3: sulphur butterfly, 0.00532563216984272	
-Prediction 4: admiral, 0.002753529464825988	
-Prediction 5: cabbage butterfly, 0.0003847227490041405	
-Image: ILSVRC2012_val_00002787.JPEG	Test: [4/100]	Loss: 20.5970	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9973934888839722	
-Prediction 2: ringlet, 0.0023543029092252254	
-Prediction 3: sulphur butterfly, 0.0001115023551392369	
-Prediction 4: admiral, 6.624035449931398e-05	
-Prediction 5: cabbage butterfly, 3.0067227271501906e-05	
-Image: ILSVRC2012_val_00005157.JPEG	Test: [4/100]	Loss: 20.4211	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9660589694976807	
-Prediction 2: cabbage butterfly, 0.016793247312307358	
-Prediction 3: ringlet, 0.012227896600961685	
-Prediction 4: sulphur butterfly, 0.00325662805698812	
-Prediction 5: admiral, 0.001315786619670689	
-Image: ILSVRC2012_val_00009023.JPEG	Test: [4/100]	Loss: 28.2995	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.99991774559021	
-Prediction 2: ringlet, 6.0412312450353056e-05	
-Prediction 3: cabbage butterfly, 1.7967073290492408e-05	
-Prediction 4: sulphur butterfly, 3.1021838822198333e-06	
-Prediction 5: lacewing, 2.7570627025852446e-07	
-Image: ILSVRC2012_val_00010102.JPEG	Test: [4/100]	Loss: 19.3382	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9999196529388428	
-Prediction 2: ringlet, 3.419975473661907e-05	
-Prediction 3: waffle iron, 7.385023309325334e-06	
-Prediction 4: cabbage butterfly, 6.142277470644331e-06	
-Prediction 5: cicada, 5.329529813025147e-06	
-Image: ILSVRC2012_val_00011979.JPEG	Test: [4/100]	Loss: 23.3911	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9998716115951538	
-Prediction 2: ringlet, 0.00012385185982566327	
-Prediction 3: cabbage butterfly, 2.712949935812503e-06	
-Prediction 4: sulphur butterfly, 1.0677481441234704e-06	
-Prediction 5: pick, 2.879530711652478e-07	
-Image: ILSVRC2012_val_00013187.JPEG	Test: [4/100]	Loss: 26.1829	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9969379901885986	
-Prediction 2: ringlet, 0.0028534841258078814	
-Prediction 3: admiral, 9.597401367500424e-05	
-Prediction 4: cabbage butterfly, 7.180187822086737e-05	
-Prediction 5: sulphur butterfly, 3.483408363536e-05	
-Image: ILSVRC2012_val_00013322.JPEG	Test: [4/100]	Loss: 16.7845	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.8174930810928345	
-Prediction 2: admiral, 0.08578401058912277	
-Prediction 3: ringlet, 0.0681678056716919	
-Prediction 4: monarch, 0.009037653915584087	
-Prediction 5: cabbage butterfly, 0.00786978006362915	
-Image: ILSVRC2012_val_00013440.JPEG	Test: [4/100]	Loss: 20.6015	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9749601483345032	
-Prediction 2: ringlet, 0.01651116833090782	
-Prediction 3: cabbage butterfly, 0.0026510742027312517	
-Prediction 4: sulphur butterfly, 0.0023486746940761805	
-Prediction 5: dragonfly, 0.001787554589100182	
-Image: ILSVRC2012_val_00017100.JPEG	Test: [4/100]	Loss: 17.7597	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9641655683517456	
-Prediction 2: sulphur butterfly, 0.029912281781435013	
-Prediction 3: ringlet, 0.0021685915999114513	
-Prediction 4: cabbage butterfly, 0.001459266641177237	
-Prediction 5: admiral, 0.0006793471984565258	
-Image: ILSVRC2012_val_00017393.JPEG	Test: [4/100]	Loss: 28.5393	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9988603591918945	
-Prediction 2: ringlet, 0.0011302438797429204	
-Prediction 3: admiral, 3.975557774538174e-06	
-Prediction 4: cabbage butterfly, 3.554458999133203e-06	
-Prediction 5: sulphur butterfly, 1.1564261512830853e-06	
-Image: ILSVRC2012_val_00018935.JPEG	Test: [4/100]	Loss: 14.1778	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.8277367353439331	
-Prediction 2: ringlet, 0.13884598016738892	
-Prediction 3: sulphur butterfly, 0.005465539637953043	
-Prediction 4: admiral, 0.004179543815553188	
-Prediction 5: stinkhorn, 0.0028154158499091864	
-Image: ILSVRC2012_val_00019795.JPEG	Test: [4/100]	Loss: 24.1386	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9031866788864136	
-Prediction 2: ringlet, 0.0744052454829216	
-Prediction 3: admiral, 0.02189929597079754	
-Prediction 4: sulphur butterfly, 0.00032757187727838755	
-Prediction 5: cabbage butterfly, 0.00015543859626632184	
-Image: ILSVRC2012_val_00019946.JPEG	Test: [4/100]	Loss: 22.0676	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9843324422836304	
-Prediction 2: sulphur butterfly, 0.012395053170621395	
-Prediction 3: ringlet, 0.002254395978525281	
-Prediction 4: admiral, 0.000604183180257678	
-Prediction 5: cabbage butterfly, 0.0003174770681653172	
-Image: ILSVRC2012_val_00020376.JPEG	Test: [4/100]	Loss: 15.1465	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.8327797055244446	
-Prediction 2: ringlet, 0.07553873211145401	
-Prediction 3: cabbage butterfly, 0.04689537361264229	
-Prediction 4: dragonfly, 0.02023717202246189	
-Prediction 5: sulphur butterfly, 0.01592506468296051	
-Image: ILSVRC2012_val_00021806.JPEG	Test: [4/100]	Loss: 22.5243	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9851898550987244	
-Prediction 2: ringlet, 0.01278652623295784	
-Prediction 3: admiral, 0.0011846976121887565	
-Prediction 4: cabbage butterfly, 0.0006519930902868509	
-Prediction 5: sulphur butterfly, 7.375339191639796e-05	
-Image: ILSVRC2012_val_00021929.JPEG	Test: [4/100]	Loss: 19.0452	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.7992761135101318	
-Prediction 2: sulphur butterfly, 0.12444336712360382	
-Prediction 3: ringlet, 0.06379623711109161	
-Prediction 4: admiral, 0.007741125300526619	
-Prediction 5: cabbage butterfly, 0.003362461691722274	
-Image: ILSVRC2012_val_00024595.JPEG	Test: [4/100]	Loss: 17.3313	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9579865336418152	
-Prediction 2: admiral, 0.0312734916806221	
-Prediction 3: ringlet, 0.00355725921690464	
-Prediction 4: leaf beetle, 0.00317062484100461	
-Prediction 5: damselfly, 0.0008197081624530256	
-Image: ILSVRC2012_val_00025307.JPEG	Test: [4/100]	Loss: 22.4871	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.96840500831604	
-Prediction 2: ringlet, 0.020950326696038246	
-Prediction 3: admiral, 0.00967604573816061	
-Prediction 4: cabbage butterfly, 0.00045489909825846553	
-Prediction 5: sulphur butterfly, 0.0003485790512058884	
-Image: ILSVRC2012_val_00025314.JPEG	Test: [4/100]	Loss: 18.0247	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9815226793289185	
-Prediction 2: ringlet, 0.013713422231376171	
-Prediction 3: cabbage butterfly, 0.0021927040070295334	
-Prediction 4: fly, 0.000626455876044929	
-Prediction 5: admiral, 0.0005095154629088938	
-Image: ILSVRC2012_val_00026704.JPEG	Test: [4/100]	Loss: 16.3803	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: admiral, 0.676043689250946	
-Prediction 2: lycaenid, 0.11662936955690384	
-Prediction 3: ringlet, 0.09919922798871994	
-Prediction 4: sulphur butterfly, 0.09203610569238663	
-Prediction 5: cabbage butterfly, 0.0073794955387711525	
-Image: ILSVRC2012_val_00027787.JPEG	Test: [4/100]	Loss: 21.3099	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9665713310241699	
-Prediction 2: sulphur butterfly, 0.017696652561426163	
-Prediction 3: ringlet, 0.011922445148229599	
-Prediction 4: cabbage butterfly, 0.0024905959144234657	
-Prediction 5: admiral, 0.0011551470961421728	
-Image: ILSVRC2012_val_00028071.JPEG	Test: [4/100]	Loss: 25.1659	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9998210072517395	
-Prediction 2: ringlet, 0.00015491494559682906	
-Prediction 3: admiral, 1.3578014659287874e-05	
-Prediction 4: cabbage butterfly, 3.946440756408265e-06	
-Prediction 5: sulphur butterfly, 3.943163846997777e-06	
-Image: ILSVRC2012_val_00028202.JPEG	Test: [4/100]	Loss: 27.2080	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9997326731681824	
-Prediction 2: ringlet, 0.0002545729512348771	
-Prediction 3: admiral, 9.053315807250328e-06	
-Prediction 4: cabbage butterfly, 1.8407422430755105e-06	
-Prediction 5: sulphur butterfly, 9.833380545387627e-07	
-Image: ILSVRC2012_val_00028263.JPEG	Test: [4/100]	Loss: 11.3101	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9780216217041016	
-Prediction 2: ringlet, 0.0031257106456905603	
-Prediction 3: leopard, 0.0013425187207758427	
-Prediction 4: jaguar, 0.001265119295567274	
-Prediction 5: puffer, 0.0010390032548457384	
-Image: ILSVRC2012_val_00032196.JPEG	Test: [4/100]	Loss: 21.0639	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: admiral, 0.852291464805603	
-Prediction 2: ringlet, 0.14387056231498718	
-Prediction 3: monarch, 0.0013845424400642514	
-Prediction 4: bulbul, 0.0009398404508829117	
-Prediction 5: lycaenid, 0.0007846701773814857	
-Image: ILSVRC2012_val_00032299.JPEG	Test: [4/100]	Loss: 23.8797	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9979947805404663	
-Prediction 2: admiral, 0.0008413328323513269	
-Prediction 3: sulphur butterfly, 0.0008092198986560106	
-Prediction 4: ringlet, 0.0002554032835178077	
-Prediction 5: monarch, 5.1805014663841575e-05	
-Image: ILSVRC2012_val_00032862.JPEG	Test: [4/100]	Loss: 22.6064	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9907891154289246	
-Prediction 2: ringlet, 0.009073220193386078	
-Prediction 3: cabbage butterfly, 5.5278553190873936e-05	
-Prediction 4: sulphur butterfly, 4.6433622628683224e-05	
-Prediction 5: admiral, 1.3374820809985977e-05	
-Image: ILSVRC2012_val_00032927.JPEG	Test: [4/100]	Loss: 15.0446	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: fly, 0.5333254933357239	
-Prediction 2: lacewing, 0.10114249587059021	
-Prediction 3: cicada, 0.07975646108388901	
-Prediction 4: lycaenid, 0.07196564227342606	
-Prediction 5: bee, 0.04663662984967232	
-Image: ILSVRC2012_val_00033317.JPEG	Test: [4/100]	Loss: 17.0007	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9956485629081726	
-Prediction 2: ringlet, 0.0021743467077612877	
-Prediction 3: admiral, 0.00030170788522809744	
-Prediction 4: leaf beetle, 0.00020805092935916036	
-Prediction 5: monarch, 0.00020288112864363939	
-Image: ILSVRC2012_val_00033593.JPEG	Test: [4/100]	Loss: 12.9489	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9723777174949646	
-Prediction 2: ringlet, 0.01538983453065157	
-Prediction 3: cabbage butterfly, 0.0018788946326822042	
-Prediction 4: sulphur butterfly, 0.0017000975785776973	
-Prediction 5: dragonfly, 0.0016843290068209171	
-Image: ILSVRC2012_val_00035696.JPEG	Test: [4/100]	Loss: 18.0848	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9462435245513916	
-Prediction 2: ringlet, 0.051448941230773926	
-Prediction 3: cabbage butterfly, 0.0008571336511522532	
-Prediction 4: admiral, 0.0005538922850973904	
-Prediction 5: sulphur butterfly, 0.00043292506597936153	
-Image: ILSVRC2012_val_00036148.JPEG	Test: [4/100]	Loss: 17.6801	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.8646003007888794	
-Prediction 2: ringlet, 0.12018293142318726	
-Prediction 3: sulphur butterfly, 0.00960778258740902	
-Prediction 4: cabbage butterfly, 0.004132827278226614	
-Prediction 5: admiral, 0.0010987084824591875	
-Image: ILSVRC2012_val_00036924.JPEG	Test: [4/100]	Loss: 11.9969	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: admiral, 0.7987567186355591	
-Prediction 2: lycaenid, 0.1054057776927948	
-Prediction 3: ringlet, 0.034257400780916214	
-Prediction 4: mud turtle, 0.010193120688199997	
-Prediction 5: leaf beetle, 0.008650459349155426	
-Image: ILSVRC2012_val_00037965.JPEG	Test: [4/100]	Loss: 21.7359	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9302395582199097	
-Prediction 2: ringlet, 0.05353255197405815	
-Prediction 3: admiral, 0.006817028392106295	
-Prediction 4: sulphur butterfly, 0.004692733753472567	
-Prediction 5: cabbage butterfly, 0.004650742746889591	
-Image: ILSVRC2012_val_00038236.JPEG	Test: [4/100]	Loss: 22.5905	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.8864700198173523	
-Prediction 2: admiral, 0.09645799547433853	
-Prediction 3: ringlet, 0.013014169409871101	
-Prediction 4: dragonfly, 0.001712886500172317	
-Prediction 5: sulphur butterfly, 0.0015014578821137547	
-Image: ILSVRC2012_val_00039181.JPEG	Test: [4/100]	Loss: 19.8242	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9613894820213318	
-Prediction 2: ringlet, 0.03556061163544655	
-Prediction 3: admiral, 0.0012998961610719562	
-Prediction 4: cabbage butterfly, 0.0007363923941738904	
-Prediction 5: sulphur butterfly, 0.0006559173343703151	
-Image: ILSVRC2012_val_00039215.JPEG	Test: [4/100]	Loss: 26.5529	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9996944665908813	
-Prediction 2: ringlet, 0.000282832799712196	
-Prediction 3: cabbage butterfly, 8.750689630687702e-06	
-Prediction 4: admiral, 6.0919433053641114e-06	
-Prediction 5: sulphur butterfly, 5.919172963331221e-06	
-Image: ILSVRC2012_val_00039360.JPEG	Test: [4/100]	Loss: 17.4864	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9702960252761841	
-Prediction 2: ringlet, 0.014058766886591911	
-Prediction 3: admiral, 0.013648699037730694	
-Prediction 4: monarch, 0.0005081408307887614	
-Prediction 5: cabbage butterfly, 0.0004195975780021399	
-Image: ILSVRC2012_val_00039804.JPEG	Test: [4/100]	Loss: 20.9771	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9781227707862854	
-Prediction 2: ringlet, 0.011549914255738258	
-Prediction 3: cabbage butterfly, 0.005315830931067467	
-Prediction 4: sulphur butterfly, 0.001718297484330833	
-Prediction 5: admiral, 0.0015956315910443664	
-Image: ILSVRC2012_val_00040785.JPEG	Test: [4/100]	Loss: 20.6290	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9397940039634705	
-Prediction 2: ringlet, 0.05799150839447975	
-Prediction 3: sulphur butterfly, 0.0017035517375916243	
-Prediction 4: admiral, 0.0003255250630900264	
-Prediction 5: cabbage butterfly, 0.00014223998005036265	
-Image: ILSVRC2012_val_00042940.JPEG	Test: [4/100]	Loss: 22.4345	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9992461204528809	
-Prediction 2: ringlet, 0.00026700791204348207	
-Prediction 3: cabbage butterfly, 0.00020173641678411514	
-Prediction 4: admiral, 0.0001247864420292899	
-Prediction 5: sulphur butterfly, 7.412215927615762e-05	
-Image: ILSVRC2012_val_00043218.JPEG	Test: [4/100]	Loss: 17.3488	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9492488503456116	
-Prediction 2: ringlet, 0.028651602566242218	
-Prediction 3: cabbage butterfly, 0.013043573126196861	
-Prediction 4: sulphur butterfly, 0.005214994307607412	
-Prediction 5: admiral, 0.0029521503020077944	
-Image: ILSVRC2012_val_00043381.JPEG	Test: [4/100]	Loss: 22.5573	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: admiral, 0.5609032511711121	
-Prediction 2: lycaenid, 0.4381319284439087	
-Prediction 3: ringlet, 0.0007032984867691994	
-Prediction 4: monarch, 0.00010971995652653277	
-Prediction 5: cabbage butterfly, 6.879668217152357e-05	
-Image: ILSVRC2012_val_00043407.JPEG	Test: [4/100]	Loss: 26.1379	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9994949102401733	
-Prediction 2: ringlet, 0.00046390239731408656	
-Prediction 3: cabbage butterfly, 1.6720367057132535e-05	
-Prediction 4: admiral, 1.0909221600741148e-05	
-Prediction 5: sulphur butterfly, 9.483149369771127e-06	
-Image: ILSVRC2012_val_00044300.JPEG	Test: [4/100]	Loss: 25.4986	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9999207258224487	
-Prediction 2: ringlet, 7.459335756720975e-05	
-Prediction 3: admiral, 1.6417480992458877e-06	
-Prediction 4: cabbage butterfly, 1.2391406016831752e-06	
-Prediction 5: monarch, 4.0931556100076705e-07	
-Image: ILSVRC2012_val_00045620.JPEG	Test: [4/100]	Loss: 20.4298	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9355085492134094	
-Prediction 2: leafhopper, 0.019585149362683296	
-Prediction 3: garden spider, 0.016763731837272644	
-Prediction 4: lacewing, 0.006649748422205448	
-Prediction 5: barn spider, 0.004936473444104195	
-Image: ILSVRC2012_val_00048827.JPEG	Test: [4/100]	Loss: 21.8036	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9993278980255127	
-Prediction 2: ringlet, 0.0006106802611611784	
-Prediction 3: cabbage butterfly, 1.1248454029555432e-05	
-Prediction 4: admiral, 1.0720305908762384e-05	
-Prediction 5: strainer, 7.33193701307755e-06	
-Image: ILSVRC2012_val_00048962.JPEG	Test: [4/100]	Loss: 21.9921	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9998584985733032	
-Prediction 2: ringlet, 4.519829235505313e-05	
-Prediction 3: cabbage butterfly, 2.6950785468216054e-05	
-Prediction 4: lacewing, 1.2957336366525851e-05	
-Prediction 5: cicada, 1.0907602700171992e-05	
-Image: ILSVRC2012_val_00049071.JPEG	Test: [4/100]	Loss: 26.8471	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9969243407249451	
-Prediction 2: ringlet, 0.0016969910357147455	
-Prediction 3: admiral, 0.0013083848170936108	
-Prediction 4: cabbage butterfly, 4.2990592191927135e-05	
-Prediction 5: sulphur butterfly, 1.925089418364223e-05	
-Image: ly_bfly_val_ILSVRC2012_val_00001536.JPEG	Test: [4/100]	Loss: 22.1569	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9807049632072449	
-Prediction 2: ringlet, 0.010803413577377796	
-Prediction 3: sulphur butterfly, 0.00532563216984272	
-Prediction 4: admiral, 0.002753529464825988	
-Prediction 5: cabbage butterfly, 0.0003847227490041405	
-Image: ly_bfly_val_ILSVRC2012_val_00002787.JPEG	Test: [4/100]	Loss: 20.5970	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9973934888839722	
-Prediction 2: ringlet, 0.0023543029092252254	
-Prediction 3: sulphur butterfly, 0.0001115023551392369	
-Prediction 4: admiral, 6.624035449931398e-05	
-Prediction 5: cabbage butterfly, 3.0067227271501906e-05	
-Image: ly_bfly_val_ILSVRC2012_val_00005157.JPEG	Test: [4/100]	Loss: 20.4211	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9660589694976807	
-Prediction 2: cabbage butterfly, 0.016793247312307358	
-Prediction 3: ringlet, 0.012227896600961685	
-Prediction 4: sulphur butterfly, 0.00325662805698812	
-Prediction 5: admiral, 0.001315786619670689	
-Image: ly_bfly_val_ILSVRC2012_val_00009023.JPEG	Test: [4/100]	Loss: 28.2995	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.99991774559021	
-Prediction 2: ringlet, 6.0412312450353056e-05	
-Prediction 3: cabbage butterfly, 1.7967073290492408e-05	
-Prediction 4: sulphur butterfly, 3.1021838822198333e-06	
-Prediction 5: lacewing, 2.7570627025852446e-07	
-Image: ly_bfly_val_ILSVRC2012_val_00010102.JPEG	Test: [4/100]	Loss: 19.3382	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9999196529388428	
-Prediction 2: ringlet, 3.419975473661907e-05	
-Prediction 3: waffle iron, 7.385023309325334e-06	
-Prediction 4: cabbage butterfly, 6.142277470644331e-06	
-Prediction 5: cicada, 5.329529813025147e-06	
-Image: ly_bfly_val_ILSVRC2012_val_00011979.JPEG	Test: [4/100]	Loss: 23.3911	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9998716115951538	
-Prediction 2: ringlet, 0.00012385185982566327	
-Prediction 3: cabbage butterfly, 2.712949935812503e-06	
-Prediction 4: sulphur butterfly, 1.0677481441234704e-06	
-Prediction 5: pick, 2.879530711652478e-07	
-Image: ly_bfly_val_ILSVRC2012_val_00013187.JPEG	Test: [4/100]	Loss: 26.1829	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9969379901885986	
-Prediction 2: ringlet, 0.0028534841258078814	
-Prediction 3: admiral, 9.597401367500424e-05	
-Prediction 4: cabbage butterfly, 7.180187822086737e-05	
-Prediction 5: sulphur butterfly, 3.483408363536e-05	
-Image: ly_bfly_val_ILSVRC2012_val_00013322.JPEG	Test: [4/100]	Loss: 16.7845	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.8174930810928345	
-Prediction 2: admiral, 0.08578401058912277	
-Prediction 3: ringlet, 0.0681678056716919	
-Prediction 4: monarch, 0.009037653915584087	
-Prediction 5: cabbage butterfly, 0.00786978006362915	
-Image: ly_bfly_val_ILSVRC2012_val_00013440.JPEG	Test: [4/100]	Loss: 20.6015	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9749601483345032	
-Prediction 2: ringlet, 0.01651116833090782	
-Prediction 3: cabbage butterfly, 0.0026510742027312517	
-Prediction 4: sulphur butterfly, 0.0023486746940761805	
-Prediction 5: dragonfly, 0.001787554589100182	
-Image: ly_bfly_val_ILSVRC2012_val_00017100.JPEG	Test: [4/100]	Loss: 17.7597	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9641655683517456	
-Prediction 2: sulphur butterfly, 0.029912281781435013	
-Prediction 3: ringlet, 0.0021685915999114513	
-Prediction 4: cabbage butterfly, 0.001459266641177237	
-Prediction 5: admiral, 0.0006793471984565258	
-Image: ly_bfly_val_ILSVRC2012_val_00017393.JPEG	Test: [4/100]	Loss: 28.5393	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9988603591918945	
-Prediction 2: ringlet, 0.0011302438797429204	
-Prediction 3: admiral, 3.975557774538174e-06	
-Prediction 4: cabbage butterfly, 3.554458999133203e-06	
-Prediction 5: sulphur butterfly, 1.1564261512830853e-06	
-Image: ly_bfly_val_ILSVRC2012_val_00018935.JPEG	Test: [4/100]	Loss: 14.1778	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.8277367353439331	
-Prediction 2: ringlet, 0.13884598016738892	
-Prediction 3: sulphur butterfly, 0.005465539637953043	
-Prediction 4: admiral, 0.004179543815553188	
-Prediction 5: stinkhorn, 0.0028154158499091864	
-Image: ly_bfly_val_ILSVRC2012_val_00019795.JPEG	Test: [4/100]	Loss: 24.1386	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9031866788864136	
-Prediction 2: ringlet, 0.0744052454829216	
-Prediction 3: admiral, 0.02189929597079754	
-Prediction 4: sulphur butterfly, 0.00032757187727838755	
-Prediction 5: cabbage butterfly, 0.00015543859626632184	
-Image: ly_bfly_val_ILSVRC2012_val_00019946.JPEG	Test: [4/100]	Loss: 22.0676	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9843324422836304	
-Prediction 2: sulphur butterfly, 0.012395053170621395	
-Prediction 3: ringlet, 0.002254395978525281	
-Prediction 4: admiral, 0.000604183180257678	
-Prediction 5: cabbage butterfly, 0.0003174770681653172	
-Image: ly_bfly_val_ILSVRC2012_val_00020376.JPEG	Test: [4/100]	Loss: 15.1465	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.8327797055244446	
-Prediction 2: ringlet, 0.07553873211145401	
-Prediction 3: cabbage butterfly, 0.04689537361264229	
-Prediction 4: dragonfly, 0.02023717202246189	
-Prediction 5: sulphur butterfly, 0.01592506468296051	
-Image: ly_bfly_val_ILSVRC2012_val_00021806.JPEG	Test: [4/100]	Loss: 22.5243	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9851898550987244	
-Prediction 2: ringlet, 0.01278652623295784	
-Prediction 3: admiral, 0.0011846976121887565	
-Prediction 4: cabbage butterfly, 0.0006519930902868509	
-Prediction 5: sulphur butterfly, 7.375339191639796e-05	
-Image: ly_bfly_val_ILSVRC2012_val_00021929.JPEG	Test: [4/100]	Loss: 19.0452	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.7992761135101318	
-Prediction 2: sulphur butterfly, 0.12444336712360382	
-Prediction 3: ringlet, 0.06379623711109161	
-Prediction 4: admiral, 0.007741125300526619	
-Prediction 5: cabbage butterfly, 0.003362461691722274	
-Image: ly_bfly_val_ILSVRC2012_val_00024595.JPEG	Test: [4/100]	Loss: 17.3313	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9579865336418152	
-Prediction 2: admiral, 0.0312734916806221	
-Prediction 3: ringlet, 0.00355725921690464	
-Prediction 4: leaf beetle, 0.00317062484100461	
-Prediction 5: damselfly, 0.0008197081624530256	
-Image: ly_bfly_val_ILSVRC2012_val_00025307.JPEG	Test: [4/100]	Loss: 22.4871	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.96840500831604	
-Prediction 2: ringlet, 0.020950326696038246	
-Prediction 3: admiral, 0.00967604573816061	
-Prediction 4: cabbage butterfly, 0.00045489909825846553	
-Prediction 5: sulphur butterfly, 0.0003485790512058884	
-Image: ly_bfly_val_ILSVRC2012_val_00025314.JPEG	Test: [4/100]	Loss: 18.0247	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9815226793289185	
-Prediction 2: ringlet, 0.013713422231376171	
-Prediction 3: cabbage butterfly, 0.0021927040070295334	
-Prediction 4: fly, 0.000626455876044929	
-Prediction 5: admiral, 0.0005095154629088938	
-Image: ly_bfly_val_ILSVRC2012_val_00026704.JPEG	Test: [4/100]	Loss: 16.3803	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: admiral, 0.676043689250946	
-Prediction 2: lycaenid, 0.11662936955690384	
-Prediction 3: ringlet, 0.09919922798871994	
-Prediction 4: sulphur butterfly, 0.09203610569238663	
-Prediction 5: cabbage butterfly, 0.0073794955387711525	
-Image: ly_bfly_val_ILSVRC2012_val_00027787.JPEG	Test: [4/100]	Loss: 21.3099	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9665713310241699	
-Prediction 2: sulphur butterfly, 0.017696652561426163	
-Prediction 3: ringlet, 0.011922445148229599	
-Prediction 4: cabbage butterfly, 0.0024905959144234657	
-Prediction 5: admiral, 0.0011551470961421728	
-Image: ly_bfly_val_ILSVRC2012_val_00028071.JPEG	Test: [4/100]	Loss: 25.1659	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9998210072517395	
-Prediction 2: ringlet, 0.00015491494559682906	
-Prediction 3: admiral, 1.3578014659287874e-05	
-Prediction 4: cabbage butterfly, 3.946440756408265e-06	
-Prediction 5: sulphur butterfly, 3.943163846997777e-06	
-Image: ly_bfly_val_ILSVRC2012_val_00028202.JPEG	Test: [4/100]	Loss: 27.2080	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9997326731681824	
-Prediction 2: ringlet, 0.0002545729512348771	
-Prediction 3: admiral, 9.053315807250328e-06	
-Prediction 4: cabbage butterfly, 1.8407422430755105e-06	
-Prediction 5: sulphur butterfly, 9.833380545387627e-07	
-Image: ly_bfly_val_ILSVRC2012_val_00028263.JPEG	Test: [4/100]	Loss: 11.3101	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9780216217041016	
-Prediction 2: ringlet, 0.0031257106456905603	
-Prediction 3: leopard, 0.0013425187207758427	
-Prediction 4: jaguar, 0.001265119295567274	
-Prediction 5: puffer, 0.0010390032548457384	
-Image: ly_bfly_val_ILSVRC2012_val_00032196.JPEG	Test: [4/100]	Loss: 21.0639	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: admiral, 0.852291464805603	
-Prediction 2: ringlet, 0.14387056231498718	
-Prediction 3: monarch, 0.0013845424400642514	
-Prediction 4: bulbul, 0.0009398404508829117	
-Prediction 5: lycaenid, 0.0007846701773814857	
-Image: ly_bfly_val_ILSVRC2012_val_00032299.JPEG	Test: [4/100]	Loss: 23.8797	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9979947805404663	
-Prediction 2: admiral, 0.0008413328323513269	
-Prediction 3: sulphur butterfly, 0.0008092198986560106	
-Prediction 4: ringlet, 0.0002554032835178077	
-Prediction 5: monarch, 5.1805014663841575e-05	
-Image: ly_bfly_val_ILSVRC2012_val_00032862.JPEG	Test: [4/100]	Loss: 22.6064	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9907891154289246	
-Prediction 2: ringlet, 0.009073220193386078	
-Prediction 3: cabbage butterfly, 5.5278553190873936e-05	
-Prediction 4: sulphur butterfly, 4.6433622628683224e-05	
-Prediction 5: admiral, 1.3374820809985977e-05	
-Image: ly_bfly_val_ILSVRC2012_val_00032927.JPEG	Test: [4/100]	Loss: 15.0446	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: fly, 0.5333254933357239	
-Prediction 2: lacewing, 0.10114249587059021	
-Prediction 3: cicada, 0.07975646108388901	
-Prediction 4: lycaenid, 0.07196564227342606	
-Prediction 5: bee, 0.04663662984967232	
-Image: ly_bfly_val_ILSVRC2012_val_00033317.JPEG	Test: [4/100]	Loss: 17.0007	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9956485629081726	
-Prediction 2: ringlet, 0.0021743467077612877	
-Prediction 3: admiral, 0.00030170788522809744	
-Prediction 4: leaf beetle, 0.00020805092935916036	
-Prediction 5: monarch, 0.00020288112864363939	
-Image: ly_bfly_val_ILSVRC2012_val_00033593.JPEG	Test: [4/100]	Loss: 12.9489	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9723777174949646	
-Prediction 2: ringlet, 0.01538983453065157	
-Prediction 3: cabbage butterfly, 0.0018788946326822042	
-Prediction 4: sulphur butterfly, 0.0017000975785776973	
-Prediction 5: dragonfly, 0.0016843290068209171	
-Image: ly_bfly_val_ILSVRC2012_val_00035696.JPEG	Test: [4/100]	Loss: 18.0848	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9462435245513916	
-Prediction 2: ringlet, 0.051448941230773926	
-Prediction 3: cabbage butterfly, 0.0008571336511522532	
-Prediction 4: admiral, 0.0005538922850973904	
-Prediction 5: sulphur butterfly, 0.00043292506597936153	
-Image: ly_bfly_val_ILSVRC2012_val_00036148.JPEG	Test: [4/100]	Loss: 17.6801	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.8646003007888794	
-Prediction 2: ringlet, 0.12018293142318726	
-Prediction 3: sulphur butterfly, 0.00960778258740902	
-Prediction 4: cabbage butterfly, 0.004132827278226614	
-Prediction 5: admiral, 0.0010987084824591875	
-Image: ly_bfly_val_ILSVRC2012_val_00036924.JPEG	Test: [4/100]	Loss: 11.9969	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: admiral, 0.7987567186355591	
-Prediction 2: lycaenid, 0.1054057776927948	
-Prediction 3: ringlet, 0.034257400780916214	
-Prediction 4: mud turtle, 0.010193120688199997	
-Prediction 5: leaf beetle, 0.008650459349155426	
-Image: ly_bfly_val_ILSVRC2012_val_00037965.JPEG	Test: [4/100]	Loss: 21.7359	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9302395582199097	
-Prediction 2: ringlet, 0.05353255197405815	
-Prediction 3: admiral, 0.006817028392106295	
-Prediction 4: sulphur butterfly, 0.004692733753472567	
-Prediction 5: cabbage butterfly, 0.004650742746889591	
-Image: ly_bfly_val_ILSVRC2012_val_00038236.JPEG	Test: [4/100]	Loss: 22.5905	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.8864700198173523	
-Prediction 2: admiral, 0.09645799547433853	
-Prediction 3: ringlet, 0.013014169409871101	
-Prediction 4: dragonfly, 0.001712886500172317	
-Prediction 5: sulphur butterfly, 0.0015014578821137547	
-Image: ly_bfly_val_ILSVRC2012_val_00039181.JPEG	Test: [4/100]	Loss: 19.8242	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9613894820213318	
-Prediction 2: ringlet, 0.03556061163544655	
-Prediction 3: admiral, 0.0012998961610719562	
-Prediction 4: cabbage butterfly, 0.0007363923941738904	
-Prediction 5: sulphur butterfly, 0.0006559173343703151	
-Image: ly_bfly_val_ILSVRC2012_val_00039215.JPEG	Test: [4/100]	Loss: 26.5529	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9996944665908813	
-Prediction 2: ringlet, 0.000282832799712196	
-Prediction 3: cabbage butterfly, 8.750689630687702e-06	
-Prediction 4: admiral, 6.0919433053641114e-06	
-Prediction 5: sulphur butterfly, 5.919172963331221e-06	
-Image: ly_bfly_val_ILSVRC2012_val_00039360.JPEG	Test: [4/100]	Loss: 17.4864	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9702960252761841	
-Prediction 2: ringlet, 0.014058766886591911	
-Prediction 3: admiral, 0.013648699037730694	
-Prediction 4: monarch, 0.0005081408307887614	
-Prediction 5: cabbage butterfly, 0.0004195975780021399	
-Image: ly_bfly_val_ILSVRC2012_val_00039804.JPEG	Test: [4/100]	Loss: 20.9771	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9781227707862854	
-Prediction 2: ringlet, 0.011549914255738258	
-Prediction 3: cabbage butterfly, 0.005315830931067467	
-Prediction 4: sulphur butterfly, 0.001718297484330833	
-Prediction 5: admiral, 0.0015956315910443664	
-Image: ly_bfly_val_ILSVRC2012_val_00040785.JPEG	Test: [4/100]	Loss: 20.6290	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9397940039634705	
-Prediction 2: ringlet, 0.05799150839447975	
-Prediction 3: sulphur butterfly, 0.0017035517375916243	
-Prediction 4: admiral, 0.0003255250630900264	
-Prediction 5: cabbage butterfly, 0.00014223998005036265	
-Image: ly_bfly_val_ILSVRC2012_val_00042940.JPEG	Test: [4/100]	Loss: 22.4345	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9992461204528809	
-Prediction 2: ringlet, 0.00026700791204348207	
-Prediction 3: cabbage butterfly, 0.00020173641678411514	
-Prediction 4: admiral, 0.0001247864420292899	
-Prediction 5: sulphur butterfly, 7.412215927615762e-05	
-Image: ly_bfly_val_ILSVRC2012_val_00043218.JPEG	Test: [4/100]	Loss: 17.3488	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9492488503456116	
-Prediction 2: ringlet, 0.028651602566242218	
-Prediction 3: cabbage butterfly, 0.013043573126196861	
-Prediction 4: sulphur butterfly, 0.005214994307607412	
-Prediction 5: admiral, 0.0029521503020077944	
-Image: ly_bfly_val_ILSVRC2012_val_00043381.JPEG	Test: [4/100]	Loss: 22.5573	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: admiral, 0.5609032511711121	
-Prediction 2: lycaenid, 0.4381319284439087	
-Prediction 3: ringlet, 0.0007032984867691994	
-Prediction 4: monarch, 0.00010971995652653277	
-Prediction 5: cabbage butterfly, 6.879668217152357e-05	
-Image: ly_bfly_val_ILSVRC2012_val_00043407.JPEG	Test: [4/100]	Loss: 26.1379	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9994949102401733	
-Prediction 2: ringlet, 0.00046390239731408656	
-Prediction 3: cabbage butterfly, 1.6720367057132535e-05	
-Prediction 4: admiral, 1.0909221600741148e-05	
-Prediction 5: sulphur butterfly, 9.483149369771127e-06	
-Image: ly_bfly_val_ILSVRC2012_val_00044300.JPEG	Test: [4/100]	Loss: 25.4986	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9999207258224487	
-Prediction 2: ringlet, 7.459335756720975e-05	
-Prediction 3: admiral, 1.6417480992458877e-06	
-Prediction 4: cabbage butterfly, 1.2391406016831752e-06	
-Prediction 5: monarch, 4.0931556100076705e-07	
-Image: ly_bfly_val_ILSVRC2012_val_00045620.JPEG	Test: [4/100]	Loss: 20.4298	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9355085492134094	
-Prediction 2: leafhopper, 0.019585149362683296	
-Prediction 3: garden spider, 0.016763731837272644	
-Prediction 4: lacewing, 0.006649748422205448	
-Prediction 5: barn spider, 0.004936473444104195	
-Image: ly_bfly_val_ILSVRC2012_val_00048827.JPEG	Test: [4/100]	Loss: 21.8036	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9993278980255127	
-Prediction 2: ringlet, 0.0006106802611611784	
-Prediction 3: cabbage butterfly, 1.1248454029555432e-05	
-Prediction 4: admiral, 1.0720305908762384e-05	
-Prediction 5: strainer, 7.33193701307755e-06	
-Image: ly_bfly_val_ILSVRC2012_val_00048962.JPEG	Test: [4/100]	Loss: 21.9921	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9998584985733032	
-Prediction 2: ringlet, 4.519829235505313e-05	
-Prediction 3: cabbage butterfly, 2.6950785468216054e-05	
-Prediction 4: lacewing, 1.2957336366525851e-05	
-Prediction 5: cicada, 1.0907602700171992e-05	
-Image: ly_bfly_val_ILSVRC2012_val_00049071.JPEG	Test: [4/100]	Loss: 26.8471	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
-Prediction 1: lycaenid, 0.9969243407249451	
-Prediction 2: ringlet, 0.0016969910357147455	
-Prediction 3: admiral, 0.0013083848170936108	
-Prediction 4: cabbage butterfly, 4.2990592191927135e-05	
-Prediction 5: sulphur butterfly, 1.925089418364223e-05	
+Image: ly_bfly_val_ILSVRC2012_val_00001536.JPEG	Test: [4/50]	Loss: 14.5511	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.93796706199646	
+Prediction 2: honeycomb, 0.04622964188456535	
+Prediction 3: window screen, 0.005738551262766123	
+Prediction 4: microphone, 0.0015688774874433875	
+Prediction 5: dragonfly, 0.0010778079740703106	
+Image: ly_bfly_val_ILSVRC2012_val_00002787.JPEG	Test: [4/50]	Loss: 17.2452	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.5175124406814575	
+Prediction 2: honeycomb, 0.4592941105365753	
+Prediction 3: window screen, 0.014619586057960987	
+Prediction 4: fire screen, 0.0055166142992675304	
+Prediction 5: microphone, 0.0007411237456835806	
+Image: ly_bfly_val_ILSVRC2012_val_00005157.JPEG	Test: [4/50]	Loss: 11.0500	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.3546930253505707	
+Prediction 2: bannister, 0.05139130726456642	
+Prediction 3: microphone, 0.04918152466416359	
+Prediction 4: cheetah, 0.0408262200653553	
+Prediction 5: flatworm, 0.035655394196510315	
+Image: ly_bfly_val_ILSVRC2012_val_00009023.JPEG	Test: [4/50]	Loss: 15.5303	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8575478792190552	
+Prediction 2: honeycomb, 0.07298101484775543	
+Prediction 3: window screen, 0.04157163202762604	
+Prediction 4: microphone, 0.013074956834316254	
+Prediction 5: traffic light, 0.0017567678587511182	
+Image: ly_bfly_val_ILSVRC2012_val_00010102.JPEG	Test: [4/50]	Loss: 14.4750	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.7273654937744141	
+Prediction 2: strainer, 0.2187930941581726	
+Prediction 3: window screen, 0.046336278319358826	
+Prediction 4: bubble, 0.0008849250734783709	
+Prediction 5: dome, 0.0007228212198242545	
+Image: ly_bfly_val_ILSVRC2012_val_00011979.JPEG	Test: [4/50]	Loss: 9.3976	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: flatworm, 0.24633145332336426	
+Prediction 2: strainer, 0.17796681821346283	
+Prediction 3: eel, 0.0950765311717987	
+Prediction 4: honeycomb, 0.05753082409501076	
+Prediction 5: sea slug, 0.031289782375097275	
+Image: ly_bfly_val_ILSVRC2012_val_00013187.JPEG	Test: [4/50]	Loss: 11.7515	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.27970558404922485	
+Prediction 2: strainer, 0.23058409988880157	
+Prediction 3: lycaenid, 0.12134842574596405	
+Prediction 4: traffic light, 0.07245811074972153	
+Prediction 5: dragonfly, 0.05640998110175133	
+Image: ly_bfly_val_ILSVRC2012_val_00013322.JPEG	Test: [4/50]	Loss: 11.2350	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.42201897501945496	
+Prediction 2: bubble, 0.19142156839370728	
+Prediction 3: window screen, 0.07942406088113785	
+Prediction 4: strainer, 0.05696229636669159	
+Prediction 5: flatworm, 0.03998562693595886	
+Image: ly_bfly_val_ILSVRC2012_val_00013440.JPEG	Test: [4/50]	Loss: 16.2991	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.8713200688362122	
+Prediction 2: window screen, 0.043043334037065506	
+Prediction 3: church, 0.015136615373194218	
+Prediction 4: bubble, 0.013894247822463512	
+Prediction 5: fountain, 0.00626502837985754	
+Image: ly_bfly_val_ILSVRC2012_val_00017100.JPEG	Test: [4/50]	Loss: 11.5702	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.4400160312652588	
+Prediction 2: flatworm, 0.3735329210758209	
+Prediction 3: strainer, 0.1171020045876503	
+Prediction 4: window screen, 0.026370083913207054	
+Prediction 5: puffer, 0.008882330730557442	
+Image: ly_bfly_val_ILSVRC2012_val_00017393.JPEG	Test: [4/50]	Loss: 11.4631	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.4008881747722626	
+Prediction 2: window screen, 0.1057497188448906	
+Prediction 3: bubble, 0.0697566494345665	
+Prediction 4: honeycomb, 0.067973293364048	
+Prediction 5: gasmask, 0.030915001407265663	
+Image: ly_bfly_val_ILSVRC2012_val_00018935.JPEG	Test: [4/50]	Loss: 12.6605	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.5442489981651306	
+Prediction 2: honeycomb, 0.2940565049648285	
+Prediction 3: window screen, 0.07144006341695786	
+Prediction 4: flatworm, 0.03957054764032364	
+Prediction 5: spider web, 0.018191685900092125	
+Image: ly_bfly_val_ILSVRC2012_val_00019795.JPEG	Test: [4/50]	Loss: 14.0355	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.7608402967453003	
+Prediction 2: honeycomb, 0.1302713304758072	
+Prediction 3: window screen, 0.022243354469537735	
+Prediction 4: flatworm, 0.014831449836492538	
+Prediction 5: spider web, 0.00826671440154314	
+Image: ly_bfly_val_ILSVRC2012_val_00019946.JPEG	Test: [4/50]	Loss: 14.1325	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.6392835378646851	
+Prediction 2: window screen, 0.17894873023033142	
+Prediction 3: strainer, 0.14287814497947693	
+Prediction 4: digital clock, 0.014970666728913784	
+Prediction 5: traffic light, 0.004949110094457865	
+Image: ly_bfly_val_ILSVRC2012_val_00020376.JPEG	Test: [4/50]	Loss: 18.2734	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.9265421628952026	
+Prediction 2: strainer, 0.06581489741802216	
+Prediction 3: window screen, 0.003631936153396964	
+Prediction 4: fire screen, 0.0010736003750935197	
+Prediction 5: lampshade, 0.0009877735283225775	
+Image: ly_bfly_val_ILSVRC2012_val_00021806.JPEG	Test: [4/50]	Loss: 11.3919	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: spider web, 0.6865023970603943	
+Prediction 2: honeycomb, 0.09206197410821915	
+Prediction 3: window screen, 0.056456923484802246	
+Prediction 4: strainer, 0.02618768811225891	
+Prediction 5: bubble, 0.016390878707170486	
+Image: ly_bfly_val_ILSVRC2012_val_00021929.JPEG	Test: [4/50]	Loss: 12.4033	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.49954742193222046	
+Prediction 2: honeycomb, 0.2822313606739044	
+Prediction 3: window screen, 0.1627131551504135	
+Prediction 4: flatworm, 0.020768649876117706	
+Prediction 5: fire screen, 0.004914823919534683	
+Image: ly_bfly_val_ILSVRC2012_val_00024595.JPEG	Test: [4/50]	Loss: 13.8882	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.8357942700386047	
+Prediction 2: honeycomb, 0.15077021718025208	
+Prediction 3: window screen, 0.00791705772280693	
+Prediction 4: flatworm, 0.0013813198311254382	
+Prediction 5: digital clock, 0.0011750746052712202	
+Image: ly_bfly_val_ILSVRC2012_val_00025307.JPEG	Test: [4/50]	Loss: 13.1886	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.4441882073879242	
+Prediction 2: window screen, 0.30793440341949463	
+Prediction 3: bubble, 0.049012165516614914	
+Prediction 4: spider web, 0.03263812139630318	
+Prediction 5: fountain, 0.02828500233590603	
+Image: ly_bfly_val_ILSVRC2012_val_00025314.JPEG	Test: [4/50]	Loss: 12.6799	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.4036337733268738	
+Prediction 2: window screen, 0.3205356299877167	
+Prediction 3: strainer, 0.12865476310253143	
+Prediction 4: spider web, 0.030383886769413948	
+Prediction 5: bubble, 0.014658719301223755	
+Image: ly_bfly_val_ILSVRC2012_val_00026704.JPEG	Test: [4/50]	Loss: 11.7139	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: spider web, 0.348186194896698	
+Prediction 2: honeycomb, 0.2631763815879822	
+Prediction 3: window screen, 0.05838720500469208	
+Prediction 4: fountain, 0.05480102077126503	
+Prediction 5: book jacket, 0.03704947233200073	
+Image: ly_bfly_val_ILSVRC2012_val_00027787.JPEG	Test: [4/50]	Loss: 16.2201	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.669445276260376	
+Prediction 2: honeycomb, 0.30465903878211975	
+Prediction 3: digital clock, 0.012739482335746288	
+Prediction 4: window screen, 0.007782819680869579	
+Prediction 5: fire screen, 0.0013708152109757066	
+Image: ly_bfly_val_ILSVRC2012_val_00028071.JPEG	Test: [4/50]	Loss: 14.0171	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.5965546369552612	
+Prediction 2: microphone, 0.23539072275161743	
+Prediction 3: honeycomb, 0.04432331770658493	
+Prediction 4: spotlight, 0.02452530339360237	
+Prediction 5: window screen, 0.02263261005282402	
+Image: ly_bfly_val_ILSVRC2012_val_00028202.JPEG	Test: [4/50]	Loss: 15.1725	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.8161627650260925	
+Prediction 2: strainer, 0.11451202630996704	
+Prediction 3: window screen, 0.02217356488108635	
+Prediction 4: bubble, 0.007395260035991669	
+Prediction 5: dome, 0.005461645778268576	
+Image: ly_bfly_val_ILSVRC2012_val_00028263.JPEG	Test: [4/50]	Loss: 14.0626	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.5894304513931274	
+Prediction 2: window screen, 0.18358655273914337	
+Prediction 3: strainer, 0.13934795558452606	
+Prediction 4: bubble, 0.012037931010127068	
+Prediction 5: church, 0.009846937842667103	
+Image: ly_bfly_val_ILSVRC2012_val_00032196.JPEG	Test: [4/50]	Loss: 10.6922	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.5500186681747437	
+Prediction 2: honeycomb, 0.1602259874343872	
+Prediction 3: strainer, 0.15166838467121124	
+Prediction 4: dome, 0.01496684830635786	
+Prediction 5: bubble, 0.014497432857751846	
+Image: ly_bfly_val_ILSVRC2012_val_00032299.JPEG	Test: [4/50]	Loss: 9.8124	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.36659976840019226	
+Prediction 2: strainer, 0.22175005078315735	
+Prediction 3: flatworm, 0.1361403465270996	
+Prediction 4: window screen, 0.09381387382745743	
+Prediction 5: Band Aid, 0.02922067977488041	
+Image: ly_bfly_val_ILSVRC2012_val_00032862.JPEG	Test: [4/50]	Loss: 11.3331	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.4836965501308441	
+Prediction 2: honeycomb, 0.24013593792915344	
+Prediction 3: digital clock, 0.054555222392082214	
+Prediction 4: bubble, 0.02698606811463833	
+Prediction 5: gasmask, 0.022803982719779015	
+Image: ly_bfly_val_ILSVRC2012_val_00032927.JPEG	Test: [4/50]	Loss: 13.2570	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.33104464411735535	
+Prediction 2: window screen, 0.14359115064144135	
+Prediction 3: spider web, 0.136710986495018	
+Prediction 4: bubble, 0.08278263360261917	
+Prediction 5: strainer, 0.06338272988796234	
+Image: ly_bfly_val_ILSVRC2012_val_00033317.JPEG	Test: [4/50]	Loss: 12.2175	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.29415228962898254	
+Prediction 2: church, 0.26936307549476624	
+Prediction 3: window screen, 0.06232857331633568	
+Prediction 4: bubble, 0.060063768178224564	
+Prediction 5: digital clock, 0.03768572956323624	
+Image: ly_bfly_val_ILSVRC2012_val_00033593.JPEG	Test: [4/50]	Loss: 17.4049	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.9829372763633728	
+Prediction 2: strainer, 0.008627538569271564	
+Prediction 3: window screen, 0.005494865123182535	
+Prediction 4: traffic light, 0.0005534320953302085	
+Prediction 5: microphone, 0.0003398834087420255	
+Image: ly_bfly_val_ILSVRC2012_val_00035696.JPEG	Test: [4/50]	Loss: 12.8938	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.5631246566772461	
+Prediction 2: honeycomb, 0.21947458386421204	
+Prediction 3: flatworm, 0.0684930607676506	
+Prediction 4: bubble, 0.02986755035817623	
+Prediction 5: window screen, 0.016840312629938126	
+Image: ly_bfly_val_ILSVRC2012_val_00036148.JPEG	Test: [4/50]	Loss: 9.3793	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.3262113332748413	
+Prediction 2: honeycomb, 0.2795248329639435	
+Prediction 3: window screen, 0.11503831297159195	
+Prediction 4: flatworm, 0.04399411752820015	
+Prediction 5: book jacket, 0.01923377998173237	
+Image: ly_bfly_val_ILSVRC2012_val_00036924.JPEG	Test: [4/50]	Loss: 18.2814	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.8600324988365173	
+Prediction 2: strainer, 0.12242115288972855	
+Prediction 3: window screen, 0.01393022108823061	
+Prediction 4: fire screen, 0.001362062175758183	
+Prediction 5: digital clock, 0.0009082796168513596	
+Image: ly_bfly_val_ILSVRC2012_val_00037965.JPEG	Test: [4/50]	Loss: 13.0313	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.5963127613067627	
+Prediction 2: honeycomb, 0.3205568492412567	
+Prediction 3: window screen, 0.0391215980052948	
+Prediction 4: fire screen, 0.0058989571407437325	
+Prediction 5: dome, 0.00487290695309639	
+Image: ly_bfly_val_ILSVRC2012_val_00038236.JPEG	Test: [4/50]	Loss: 11.2601	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.5780988335609436	
+Prediction 2: flatworm, 0.12240061163902283	
+Prediction 3: strainer, 0.09209074079990387	
+Prediction 4: window screen, 0.07288569957017899	
+Prediction 5: fire screen, 0.01936960220336914	
+Image: ly_bfly_val_ILSVRC2012_val_00039181.JPEG	Test: [4/50]	Loss: 11.6834	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: flatworm, 0.748072624206543	
+Prediction 2: honeycomb, 0.09266151487827301	
+Prediction 3: strainer, 0.08758319914340973	
+Prediction 4: sea slug, 0.01382371410727501	
+Prediction 5: window screen, 0.004422457423061132	
+Image: ly_bfly_val_ILSVRC2012_val_00039215.JPEG	Test: [4/50]	Loss: 14.1706	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.46162164211273193	
+Prediction 2: bubble, 0.06991865485906601	
+Prediction 3: church, 0.059449873864650726	
+Prediction 4: window screen, 0.057929351925849915	
+Prediction 5: bannister, 0.04110592231154442	
+Image: ly_bfly_val_ILSVRC2012_val_00039360.JPEG	Test: [4/50]	Loss: 15.6326	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.783778727054596	
+Prediction 2: strainer, 0.17130103707313538	
+Prediction 3: window screen, 0.03616401553153992	
+Prediction 4: flatworm, 0.0017811604775488377	
+Prediction 5: digital clock, 0.000814294267911464	
+Image: ly_bfly_val_ILSVRC2012_val_00039804.JPEG	Test: [4/50]	Loss: 14.3791	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.8980221152305603	
+Prediction 2: flatworm, 0.042472366243600845	
+Prediction 3: strainer, 0.019434567540884018	
+Prediction 4: window screen, 0.016625169664621353	
+Prediction 5: traffic light, 0.0036634267307817936	
+Image: ly_bfly_val_ILSVRC2012_val_00040785.JPEG	Test: [4/50]	Loss: 12.5566	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.49648037552833557	
+Prediction 2: honeycomb, 0.21583540737628937	
+Prediction 3: lampshade, 0.05060594156384468	
+Prediction 4: traffic light, 0.0424749031662941	
+Prediction 5: microphone, 0.03461695462465286	
+Image: ly_bfly_val_ILSVRC2012_val_00042940.JPEG	Test: [4/50]	Loss: 17.1720	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.5528500080108643	
+Prediction 2: strainer, 0.4091775417327881	
+Prediction 3: window screen, 0.019301900640130043	
+Prediction 4: digital clock, 0.010825763456523418	
+Prediction 5: traffic light, 0.0052549452520906925	
+Image: ly_bfly_val_ILSVRC2012_val_00043218.JPEG	Test: [4/50]	Loss: 13.3674	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.287723571062088	
+Prediction 2: strainer, 0.22036707401275635	
+Prediction 3: window screen, 0.14988212287425995	
+Prediction 4: bubble, 0.06519009917974472	
+Prediction 5: spotlight, 0.05588402971625328	
+Image: ly_bfly_val_ILSVRC2012_val_00043381.JPEG	Test: [4/50]	Loss: 14.2117	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.5238844156265259	
+Prediction 2: strainer, 0.24299587309360504	
+Prediction 3: window screen, 0.19308210909366608	
+Prediction 4: spider web, 0.011659609153866768	
+Prediction 5: fire screen, 0.005689960904419422	
+Image: ly_bfly_val_ILSVRC2012_val_00043407.JPEG	Test: [4/50]	Loss: 12.0229	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.2516176700592041	
+Prediction 2: microphone, 0.09925422072410583	
+Prediction 3: strainer, 0.04752684757113457	
+Prediction 4: window screen, 0.04514749348163605	
+Prediction 5: bubble, 0.03630184382200241	
+Image: ly_bfly_val_ILSVRC2012_val_00044300.JPEG	Test: [4/50]	Loss: 13.6274	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: strainer, 0.23263797163963318	
+Prediction 2: honeycomb, 0.15505100786685944	
+Prediction 3: racket, 0.14190906286239624	
+Prediction 4: bubble, 0.05789337307214737	
+Prediction 5: tennis ball, 0.049718227237463	
+Image: ly_bfly_val_ILSVRC2012_val_00045620.JPEG	Test: [4/50]	Loss: 12.9116	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: tennis ball, 0.4119706451892853	
+Prediction 2: strainer, 0.21541061997413635	
+Prediction 3: digital clock, 0.14137768745422363	
+Prediction 4: honeycomb, 0.0891391783952713	
+Prediction 5: racket, 0.055657532066106796	
+Image: ly_bfly_val_ILSVRC2012_val_00048827.JPEG	Test: [4/50]	Loss: 12.2462	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.33870840072631836	
+Prediction 2: window screen, 0.25066083669662476	
+Prediction 3: strainer, 0.1954650580883026	
+Prediction 4: bubble, 0.023541422560811043	
+Prediction 5: fountain, 0.015008236281573772	
+Image: ly_bfly_val_ILSVRC2012_val_00048962.JPEG	Test: [4/50]	Loss: 10.6009	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: window screen, 0.5893489718437195	
+Prediction 2: strainer, 0.1981724351644516	
+Prediction 3: honeycomb, 0.12426909059286118	
+Prediction 4: digital clock, 0.020213373005390167	
+Prediction 5: flatworm, 0.004926946945488453	
+Image: ly_bfly_val_ILSVRC2012_val_00049071.JPEG	Test: [4/50]	Loss: 13.3373	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.7396594285964966	
+Prediction 2: window screen, 0.12722058594226837	
+Prediction 3: flatworm, 0.05223388969898224	
+Prediction 4: strainer, 0.027162570506334305	
+Prediction 5: bubble, 0.010864639654755592	
