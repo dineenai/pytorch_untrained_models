@@ -1,0 +1,300 @@
+Image: tex_lh_btle_val_ILSVRC2012_val_00000926.jpeg	Test: [4/50]	Loss: 10.1884	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: rock beauty, 0.7914299964904785	
+Prediction 2: comic book, 0.02452169358730316	
+Prediction 3: book jacket, 0.022050077095627785	
+Prediction 4: European fire salamander, 0.013363867066800594	
+Prediction 5: worm fence, 0.009404385462403297	
+Image: tex_lh_btle_val_ILSVRC2012_val_00001529.jpeg	Test: [4/50]	Loss: 8.8855	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: rock beauty, 0.45028820633888245	
+Prediction 2: pick, 0.056245747953653336	
+Prediction 3: basketball, 0.03451654687523842	
+Prediction 4: cowboy boot, 0.024868009611964226	
+Prediction 5: yawl, 0.0206536166369915	
+Image: tex_lh_btle_val_ILSVRC2012_val_00003444.jpeg	Test: [4/50]	Loss: 10.6905	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: ladybug, 0.4194366931915283	
+Prediction 2: leaf beetle, 0.11251205950975418	
+Prediction 3: long-horned beetle, 0.061644937843084335	
+Prediction 4: cockroach, 0.05287918820977211	
+Prediction 5: eft, 0.046402592211961746	
+Image: tex_lh_btle_val_ILSVRC2012_val_00004919.jpeg	Test: [4/50]	Loss: 7.4031	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: axolotl, 0.016091780737042427	
+Prediction 2: common newt, 0.014365246519446373	
+Prediction 3: ptarmigan, 0.013160553760826588	
+Prediction 4: horned viper, 0.012674231082201004	
+Prediction 5: sidewinder, 0.012652646750211716	
+Image: tex_lh_btle_val_ILSVRC2012_val_00006595.jpeg	Test: [4/50]	Loss: 7.3038	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: sidewinder, 0.10953149199485779	
+Prediction 2: horned viper, 0.05153467133641243	
+Prediction 3: banded gecko, 0.034138649702072144	
+Prediction 4: Indian cobra, 0.03158295154571533	
+Prediction 5: frilled lizard, 0.02651323564350605	
+Image: tex_lh_btle_val_ILSVRC2012_val_00006614.jpeg	Test: [4/50]	Loss: 5.3083	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: dugong, 0.15662391483783722	
+Prediction 2: pick, 0.041178490966558456	
+Prediction 3: electric ray, 0.037106920033693314	
+Prediction 4: rock beauty, 0.03125353902578354	
+Prediction 5: hourglass, 0.025350214913487434	
+Image: tex_lh_btle_val_ILSVRC2012_val_00006823.jpeg	Test: [4/50]	Loss: 6.0244	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fox squirrel, 0.32477444410324097	
+Prediction 2: frilled lizard, 0.0627850741147995	
+Prediction 3: platypus, 0.05621955543756485	
+Prediction 4: patas, 0.021764757111668587	
+Prediction 5: dugong, 0.016640061512589455	
+Image: tex_lh_btle_val_ILSVRC2012_val_00006867.jpeg	Test: [4/50]	Loss: 10.2062	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: mask, 0.3634394407272339	
+Prediction 2: breastplate, 0.06794119626283646	
+Prediction 3: loudspeaker, 0.04034468159079552	
+Prediction 4: fire screen, 0.03278529644012451	
+Prediction 5: wolf spider, 0.027408594265580177	
+Image: tex_lh_btle_val_ILSVRC2012_val_00007520.jpeg	Test: [4/50]	Loss: 9.2232	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: chiton, 0.2336256206035614	
+Prediction 2: sidewinder, 0.0866037905216217	
+Prediction 3: meat loaf, 0.07332563400268555	
+Prediction 4: eel, 0.0667831301689148	
+Prediction 5: French loaf, 0.05999092012643814	
+Image: tex_lh_btle_val_ILSVRC2012_val_00008858.jpeg	Test: [4/50]	Loss: 6.5391	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: hen-of-the-woods, 0.0951116606593132	
+Prediction 2: fox squirrel, 0.0841214582324028	
+Prediction 3: three-toed sloth, 0.049657274037599564	
+Prediction 4: earthstar, 0.031365495175123215	
+Prediction 5: platypus, 0.022345466539263725	
+Image: tex_lh_btle_val_ILSVRC2012_val_00010411.jpeg	Test: [4/50]	Loss: 7.3322	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: chain, 0.08309923112392426	
+Prediction 2: oil filter, 0.06611308455467224	
+Prediction 3: typewriter keyboard, 0.03430667147040367	
+Prediction 4: screw, 0.02272406779229641	
+Prediction 5: space bar, 0.02135731466114521	
+Image: tex_lh_btle_val_ILSVRC2012_val_00013153.jpeg	Test: [4/50]	Loss: 10.1839	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: whiptail, 0.0728188008069992	
+Prediction 2: isopod, 0.05923856422305107	
+Prediction 3: tailed frog, 0.05608126521110535	
+Prediction 4: meerkat, 0.052512526512145996	
+Prediction 5: marmot, 0.04517873004078865	
+Image: tex_lh_btle_val_ILSVRC2012_val_00013422.jpeg	Test: [4/50]	Loss: 7.2691	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: isopod, 0.09084580093622208	
+Prediction 2: space bar, 0.07292170822620392	
+Prediction 3: typewriter keyboard, 0.0585736520588398	
+Prediction 4: nematode, 0.037531137466430664	
+Prediction 5: thimble, 0.03186248242855072	
+Image: tex_lh_btle_val_ILSVRC2012_val_00015056.jpeg	Test: [4/50]	Loss: 7.8501	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: frilled lizard, 0.03529020771384239	
+Prediction 2: tailed frog, 0.02620980143547058	
+Prediction 3: sidewinder, 0.025298655033111572	
+Prediction 4: earthstar, 0.0241860244423151	
+Prediction 5: fox squirrel, 0.022923579439520836	
+Image: tex_lh_btle_val_ILSVRC2012_val_00015603.jpeg	Test: [4/50]	Loss: 7.8809	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: king snake, 0.641749918460846	
+Prediction 2: ringneck snake, 0.11895771324634552	
+Prediction 3: sea snake, 0.026632459834218025	
+Prediction 4: rock python, 0.024040790274739265	
+Prediction 5: boa constrictor, 0.02001321315765381	
+Image: tex_lh_btle_val_ILSVRC2012_val_00017552.jpeg	Test: [4/50]	Loss: 5.7653	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: killer whale, 0.07098791003227234	
+Prediction 2: pickelhaube, 0.0449087992310524	
+Prediction 3: ground beetle, 0.03159397467970848	
+Prediction 4: platypus, 0.028199201449751854	
+Prediction 5: ocarina, 0.018205201253294945	
+Image: tex_lh_btle_val_ILSVRC2012_val_00017727.jpeg	Test: [4/50]	Loss: 7.6368	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: eel, 0.1683657169342041	
+Prediction 2: chiton, 0.12822943925857544	
+Prediction 3: flatworm, 0.06229279562830925	
+Prediction 4: electric ray, 0.04388734698295593	
+Prediction 5: isopod, 0.03824685513973236	
+Image: tex_lh_btle_val_ILSVRC2012_val_00017893.jpeg	Test: [4/50]	Loss: 11.5407	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: horned viper, 0.1729167252779007	
+Prediction 2: tailed frog, 0.16596759855747223	
+Prediction 3: sidewinder, 0.07573879510164261	
+Prediction 4: banded gecko, 0.06551577895879745	
+Prediction 5: meat loaf, 0.06162085384130478	
+Image: tex_lh_btle_val_ILSVRC2012_val_00018022.jpeg	Test: [4/50]	Loss: 8.1413	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: axolotl, 0.060718052089214325	
+Prediction 2: binoculars, 0.060713332146406174	
+Prediction 3: boa constrictor, 0.05718036741018295	
+Prediction 4: cannon, 0.04987039044499397	
+Prediction 5: dumbbell, 0.038265716284513474	
+Image: tex_lh_btle_val_ILSVRC2012_val_00018106.jpeg	Test: [4/50]	Loss: 11.6594	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: weevil, 0.10445357114076614	
+Prediction 2: slug, 0.08720986545085907	
+Prediction 3: hognose snake, 0.07237938046455383	
+Prediction 4: diamondback, 0.054174017161130905	
+Prediction 5: wolf spider, 0.049005500972270966	
+Image: tex_lh_btle_val_ILSVRC2012_val_00020053.jpeg	Test: [4/50]	Loss: 5.3415	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: platypus, 0.1226269006729126	
+Prediction 2: axolotl, 0.05625215172767639	
+Prediction 3: isopod, 0.02546592801809311	
+Prediction 4: electric ray, 0.022940952330827713	
+Prediction 5: nematode, 0.02094133011996746	
+Image: tex_lh_btle_val_ILSVRC2012_val_00021688.jpeg	Test: [4/50]	Loss: 12.9553	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: typewriter keyboard, 0.7009499073028564	
+Prediction 2: space bar, 0.27793774008750916	
+Prediction 3: computer keyboard, 0.002403882797807455	
+Prediction 4: thimble, 0.0021906658075749874	
+Prediction 5: diamondback, 0.0010070245480164886	
+Image: tex_lh_btle_val_ILSVRC2012_val_00023834.jpeg	Test: [4/50]	Loss: 7.5821	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: barn spider, 0.1986807882785797	
+Prediction 2: wolf spider, 0.14684505760669708	
+Prediction 3: tarantula, 0.10166873037815094	
+Prediction 4: isopod, 0.03946004435420036	
+Prediction 5: rock crab, 0.03899478167295456	
+Image: tex_lh_btle_val_ILSVRC2012_val_00024014.jpeg	Test: [4/50]	Loss: 12.0508	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: mortarboard, 0.5031360983848572	
+Prediction 2: academic gown, 0.16900895535945892	
+Prediction 3: abaya, 0.06196247413754463	
+Prediction 4: velvet, 0.025299040600657463	
+Prediction 5: brassiere, 0.021548526361584663	
+Image: tex_lh_btle_val_ILSVRC2012_val_00026324.jpeg	Test: [4/50]	Loss: 8.4580	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: goldfish, 0.2065657377243042	
+Prediction 2: orange, 0.08044885843992233	
+Prediction 3: honeycomb, 0.07437490671873093	
+Prediction 4: wallet, 0.0362861193716526	
+Prediction 5: corn, 0.03247560188174248	
+Image: tex_lh_btle_val_ILSVRC2012_val_00028427.jpeg	Test: [4/50]	Loss: 4.3646	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: eel, 0.49081698060035706	
+Prediction 2: axolotl, 0.13526292145252228	
+Prediction 3: electric ray, 0.061466384679079056	
+Prediction 4: common newt, 0.027602123096585274	
+Prediction 5: barracouta, 0.02418324537575245	
+Image: tex_lh_btle_val_ILSVRC2012_val_00029227.jpeg	Test: [4/50]	Loss: 7.9214	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: honeycomb, 0.22586297988891602	
+Prediction 2: frilled lizard, 0.11550801992416382	
+Prediction 3: chiton, 0.0951741486787796	
+Prediction 4: isopod, 0.041441574692726135	
+Prediction 5: apiary, 0.034607838839292526	
+Image: tex_lh_btle_val_ILSVRC2012_val_00029307.jpeg	Test: [4/50]	Loss: 7.3768	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fox squirrel, 0.07518234848976135	
+Prediction 2: isopod, 0.055836308747529984	
+Prediction 3: Irish water spaniel, 0.04443485289812088	
+Prediction 4: breastplate, 0.042188942432403564	
+Prediction 5: chain mail, 0.03548461198806763	
+Image: tex_lh_btle_val_ILSVRC2012_val_00029410.jpeg	Test: [4/50]	Loss: 9.2224	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: breastplate, 0.3685069978237152	
+Prediction 2: cuirass, 0.08426260203123093	
+Prediction 3: French loaf, 0.03170705586671829	
+Prediction 4: shower curtain, 0.03067382052540779	
+Prediction 5: long-horned beetle, 0.02910122089087963	
+Image: tex_lh_btle_val_ILSVRC2012_val_00031227.jpeg	Test: [4/50]	Loss: 7.6956	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: chiffonier, 0.1896800994873047	
+Prediction 2: velvet, 0.05243072286248207	
+Prediction 3: theater curtain, 0.038501448929309845	
+Prediction 4: prayer rug, 0.03489205241203308	
+Prediction 5: breastplate, 0.028732214123010635	
+Image: tex_lh_btle_val_ILSVRC2012_val_00031928.jpeg	Test: [4/50]	Loss: 5.7839	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: isopod, 0.12026847898960114	
+Prediction 2: chiton, 0.07233195751905441	
+Prediction 3: sidewinder, 0.04059676453471184	
+Prediction 4: hen-of-the-woods, 0.03163564205169678	
+Prediction 5: hot pot, 0.027902547270059586	
+Image: tex_lh_btle_val_ILSVRC2012_val_00032989.jpeg	Test: [4/50]	Loss: 9.1543	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: theater curtain, 0.12414119392633438	
+Prediction 2: tile roof, 0.1111048012971878	
+Prediction 3: velvet, 0.08935869485139847	
+Prediction 4: panpipe, 0.028185280039906502	
+Prediction 5: vault, 0.026433894410729408	
+Image: tex_lh_btle_val_ILSVRC2012_val_00034014.jpeg	Test: [4/50]	Loss: 8.3738	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: rock beauty, 0.39235585927963257	
+Prediction 2: flatworm, 0.055294327437877655	
+Prediction 3: European fire salamander, 0.04808108136057854	
+Prediction 4: spotted salamander, 0.029414832592010498	
+Prediction 5: common newt, 0.020631765946745872	
+Image: tex_lh_btle_val_ILSVRC2012_val_00035526.jpeg	Test: [4/50]	Loss: 7.1964	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: plane, 0.06843921542167664	
+Prediction 2: tobacco shop, 0.050561051815748215	
+Prediction 3: lumbermill, 0.03204932436347008	
+Prediction 4: typewriter keyboard, 0.024743491783738136	
+Prediction 5: isopod, 0.023733166977763176	
+Image: tex_lh_btle_val_ILSVRC2012_val_00036405.jpeg	Test: [4/50]	Loss: 6.8953	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: ground beetle, 0.15994860231876373	
+Prediction 2: velvet, 0.11087273806333542	
+Prediction 3: cockroach, 0.05744684115052223	
+Prediction 4: long-horned beetle, 0.043029963970184326	
+Prediction 5: rhinoceros beetle, 0.0363629087805748	
+Image: tex_lh_btle_val_ILSVRC2012_val_00037126.jpeg	Test: [4/50]	Loss: 5.1928	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: platypus, 0.5046613216400146	
+Prediction 2: axolotl, 0.0822259709239006	
+Prediction 3: common newt, 0.05565682798624039	
+Prediction 4: electric ray, 0.021828537806868553	
+Prediction 5: eel, 0.021147917956113815	
+Image: tex_lh_btle_val_ILSVRC2012_val_00040132.jpeg	Test: [4/50]	Loss: 8.4920	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: sidewinder, 0.12743885815143585	
+Prediction 2: spotted salamander, 0.11468890309333801	
+Prediction 3: European fire salamander, 0.0915040448307991	
+Prediction 4: rock python, 0.0634225383400917	
+Prediction 5: common newt, 0.05755887180566788	
+Image: tex_lh_btle_val_ILSVRC2012_val_00041250.jpeg	Test: [4/50]	Loss: 10.8670	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: barn spider, 0.29507744312286377	
+Prediction 2: ant, 0.0885424017906189	
+Prediction 3: chiton, 0.06197833642363548	
+Prediction 4: tick, 0.0546400360763073	
+Prediction 5: isopod, 0.040521103888750076	
+Image: tex_lh_btle_val_ILSVRC2012_val_00041381.jpeg	Test: [4/50]	Loss: 7.9024	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fox squirrel, 0.0468982495367527	
+Prediction 2: mink, 0.034235794097185135	
+Prediction 3: marmot, 0.028919387608766556	
+Prediction 4: ibex, 0.02840660884976387	
+Prediction 5: bighorn, 0.025254568085074425	
+Image: tex_lh_btle_val_ILSVRC2012_val_00041506.jpeg	Test: [4/50]	Loss: 6.9177	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: rock beauty, 0.1374717801809311	
+Prediction 2: space bar, 0.0669989362359047	
+Prediction 3: flatworm, 0.05817283317446709	
+Prediction 4: typewriter keyboard, 0.05639882758259773	
+Prediction 5: spotted salamander, 0.05359812453389168	
+Image: tex_lh_btle_val_ILSVRC2012_val_00044361.jpeg	Test: [4/50]	Loss: 6.3980	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: European fire salamander, 0.09930157661437988	
+Prediction 2: spotted salamander, 0.06841778755187988	
+Prediction 3: rock beauty, 0.05955645814538002	
+Prediction 4: school bus, 0.042254794389009476	
+Prediction 5: oil filter, 0.03398509323596954	
+Image: tex_lh_btle_val_ILSVRC2012_val_00044476.jpeg	Test: [4/50]	Loss: 9.3994	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: isopod, 0.08036746084690094	
+Prediction 2: ground beetle, 0.07264356315135956	
+Prediction 3: flatworm, 0.04779116064310074	
+Prediction 4: whiptail, 0.04771067202091217	
+Prediction 5: banded gecko, 0.04698628559708595	
+Image: tex_lh_btle_val_ILSVRC2012_val_00045848.jpeg	Test: [4/50]	Loss: 6.8465	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fox squirrel, 0.10094095021486282	
+Prediction 2: rock beauty, 0.054329585283994675	
+Prediction 3: hen-of-the-woods, 0.050321485847234726	
+Prediction 4: earthstar, 0.03834012895822525	
+Prediction 5: eel, 0.03413515165448189	
+Image: tex_lh_btle_val_ILSVRC2012_val_00045910.jpeg	Test: [4/50]	Loss: 8.1184	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: green mamba, 0.6897872686386108	
+Prediction 2: vine snake, 0.16217763721942902	
+Prediction 3: green snake, 0.013731354847550392	
+Prediction 4: rock beauty, 0.009984016418457031	
+Prediction 5: eel, 0.008960981853306293	
+Image: tex_lh_btle_val_ILSVRC2012_val_00046314.jpeg	Test: [4/50]	Loss: 12.0140	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: velvet, 0.9510414600372314	
+Prediction 2: theater curtain, 0.005159156862646341	
+Prediction 3: nematode, 0.0034814898390322924	
+Prediction 4: radiator, 0.0029862539377063513	
+Prediction 5: panpipe, 0.0022540544159710407	
+Image: tex_lh_btle_val_ILSVRC2012_val_00046784.jpeg	Test: [4/50]	Loss: 5.8105	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: rock beauty, 0.6189835071563721	
+Prediction 2: king penguin, 0.06286527961492538	
+Prediction 3: yellow lady's slipper, 0.04128900542855263	
+Prediction 4: platypus, 0.03420984745025635	
+Prediction 5: brambling, 0.01968512311577797	
+Image: tex_lh_btle_val_ILSVRC2012_val_00047337.jpeg	Test: [4/50]	Loss: 5.5203	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: platypus, 0.21648648381233215	
+Prediction 2: isopod, 0.05988945811986923	
+Prediction 3: ground beetle, 0.04952424764633179	
+Prediction 4: mud turtle, 0.0448608472943306	
+Prediction 5: chiton, 0.03601263463497162	
+Image: tex_lh_btle_val_ILSVRC2012_val_00047392.jpeg	Test: [4/50]	Loss: 10.2741	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: porcupine, 0.6776453256607056	
+Prediction 2: sea urchin, 0.12294343113899231	
+Prediction 3: brown bear, 0.03306431695818901	
+Prediction 4: echidna, 0.021520432084798813	
+Prediction 5: marmot, 0.018745463341474533	
+Image: tex_lh_btle_val_ILSVRC2012_val_00048076.jpeg	Test: [4/50]	Loss: 5.9944	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: fox squirrel, 0.03507281839847565	
+Prediction 2: grey whale, 0.03088195249438286	
+Prediction 3: rock python, 0.024742519482970238	
+Prediction 4: revolver, 0.023188063874840736	
+Prediction 5: milk can, 0.01844775676727295	
+Image: tex_lh_btle_val_ILSVRC2012_val_00048676.jpeg	Test: [4/50]	Loss: 3.8612	Acc@1 0.000 (0.000)	Acc@5 0.000 (0.000)	
+Prediction 1: axolotl, 0.06295590847730637	
+Prediction 2: quill, 0.0627480298280716	
+Prediction 3: common newt, 0.03599775210022926	
+Prediction 4: goldfish, 0.02354656159877777	
+Prediction 5: ground beetle, 0.021063780412077904	
