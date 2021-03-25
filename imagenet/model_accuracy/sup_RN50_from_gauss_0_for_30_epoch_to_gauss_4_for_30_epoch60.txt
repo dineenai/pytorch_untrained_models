@@ -1,0 +1,1 @@
+Model Path: /data/blurry_vision_sup_RN50/supervised_resnet50_from_gauss_0_for_30_epoch_to_gauss_4_for_30/outmodel/checkpoint_supervised_resnet50_from_gauss_0_for_30_epoch_to_gauss_4_for_30_epoch60.pth.tar	Acc@1 1.212	Acc@5 3.556	
