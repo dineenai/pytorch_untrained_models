@@ -1,4 +1,5 @@
-Category, Shape_Choices, Texture_Choices, Other_Choices, Shape_Bias, Total, 205, 482, 513, 0.29839883551673946, 
+Category,Shape_Choices,Texture_Choices,Other_Choices,Shape_Bias,
+Total, 205,482,513,0.29839883551673946,
 airplane, 4, 29, 42, 0.12121212121212122, 
 bicycle, 11, 21, 43, 0.34375, 
 boat, 2, 37, 36, 0.05128205128205128, 
