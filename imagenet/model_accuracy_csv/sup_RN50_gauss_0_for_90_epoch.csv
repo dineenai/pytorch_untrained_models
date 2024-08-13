@@ -1,0 +1,7 @@
+,model_pth,epoch,top1acc,top5acc,val_images_blurred,val_blur_sigma
+0,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch65.pth.tar,65,75.374,92.694,0,0
+1,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch70.pth.tar,70,75.652,92.786,0,0
+2,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch75.pth.tar,75,75.732,92.846,0,0
+3,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch80.pth.tar,80,75.838,92.776,0,0
+4,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch85.pth.tar,85,75.77,92.738,0,0
+5,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch90.pth.tar,90,75.806,92.840,0,0

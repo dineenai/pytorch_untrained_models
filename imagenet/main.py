@@ -1,3 +1,4 @@
+# Update epochs is effective for blurry network
 import argparse
 import os
 import random
@@ -289,16 +290,33 @@ def main_worker(gpu, ngpus_per_node, args):
 #             torch.save(state, save_file)
 #             # help release GPU memory
 #             del state
-         
-        if epoch % args.save_freq == 0:
+
+        # Script used for high res network NB MUST retrain!!! - epochs were one behind desired
+        # if epoch % args.save_freq == 0:
+        #     print('==> Saving...')
+        # # save running checkpoint From Anna T DeepCluster https://github.com/AnnaTruzzi/deepcluster/blob/backtostart/main.py
+        #     torch.save({'epoch': epoch + 1,
+        #                 'arch': args.arch,
+        #                 'state_dict': model.state_dict(),
+        #                 'optimizer' : optimizer.state_dict()},
+        #              #  os.path.join(args.exp, 'checkpoint_dc'+str(args.instantiation)+'_epoch'+str(epoch)+'.pth.tar'))
+        #                os.path.join(args.model_path, 'checkpoint_unsupervised_resnet50'+'_epoch'+str(epoch)+'.pth.tar'))
+
+        # Added  to save_checkpoint definition - failed - this way works
+        save_epoch = epoch + 1
+        if save_epoch % args.save_freq == 0: #saves at epochs 6, 11 etc, added  1 to save one epoch earlier
+        # if epoch % args.save_freq == 0:
             print('==> Saving...')
         # save running checkpoint From Anna T DeepCluster https://github.com/AnnaTruzzi/deepcluster/blob/backtostart/main.py
             torch.save({'epoch': epoch + 1,
                         'arch': args.arch,
                         'state_dict': model.state_dict(),
+                        'best_acc1': best_acc1,
                         'optimizer' : optimizer.state_dict()},
                      #  os.path.join(args.exp, 'checkpoint_dc'+str(args.instantiation)+'_epoch'+str(epoch)+'.pth.tar'))
-                       os.path.join(args.model_path, 'checkpoint_unsupervised_resnet50'+'_epoch'+str(epoch)+'.pth.tar'))
+                    #    os.path.join(args.model_path, 'checkpoint_unsupervised_resnet50_gauss_4_for_60_epoch'+'_epoch'+str(epoch)+'.pth.tar'))
+                    # Should now record correct epoch number in title of .tar file!
+                       os.path.join(args.model_path, 'checkpoint_unsupervised_resnet50'+'_epoch'+str(save_epoch)+'.pth.tar'))
 
             
 def train(train_loader, model, criterion, optimizer, epoch, args):

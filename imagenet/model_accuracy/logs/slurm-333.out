@@ -1,0 +1,60 @@
+i: 65
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch65.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch65.pth.tar' (epoch 65)
+Test: [  0/500]	Time  3.717 ( 3.717)	Loss 3.6415e-01 (3.6415e-01)	Acc@1  90.00 ( 90.00)	Acc@5  98.00 ( 98.00)
+Test: [100/500]	Time  0.069 ( 0.222)	Loss 7.3990e-01 (7.0325e-01)	Acc@1  73.00 ( 81.23)	Acc@5  99.00 ( 95.50)
+Test: [200/500]	Time  0.346 ( 0.207)	Loss 9.9997e-01 (7.0656e-01)	Acc@1  65.00 ( 80.88)	Acc@5  92.00 ( 95.76)
+Test: [300/500]	Time  0.062 ( 0.202)	Loss 2.6226e+00 (8.5610e-01)	Acc@1  43.00 ( 77.77)	Acc@5  75.00 ( 94.04)
+Test: [400/500]	Time  0.062 ( 0.197)	Loss 2.7109e-01 (9.3618e-01)	Acc@1  94.00 ( 76.19)	Acc@5  98.00 ( 93.00)
+ * Acc@1 75.374 Acc@5 92.694
+i: 70
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch70.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch70.pth.tar' (epoch 70)
+Test: [  0/500]	Time  3.519 ( 3.519)	Loss 4.0985e-01 (4.0985e-01)	Acc@1  91.00 ( 91.00)	Acc@5  98.00 ( 98.00)
+Test: [100/500]	Time  0.062 ( 0.200)	Loss 7.5113e-01 (6.9945e-01)	Acc@1  76.00 ( 81.30)	Acc@5  98.00 ( 95.49)
+Test: [200/500]	Time  0.347 ( 0.187)	Loss 9.8226e-01 (7.0289e-01)	Acc@1  64.00 ( 81.12)	Acc@5  90.00 ( 95.79)
+Test: [300/500]	Time  0.080 ( 0.182)	Loss 2.5677e+00 (8.5105e-01)	Acc@1  48.00 ( 78.07)	Acc@5  76.00 ( 94.05)
+Test: [400/500]	Time  0.070 ( 0.178)	Loss 3.2899e-01 (9.2820e-01)	Acc@1  91.00 ( 76.49)	Acc@5  98.00 ( 93.09)
+ * Acc@1 75.652 Acc@5 92.786
+i: 75
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch75.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch75.pth.tar' (epoch 75)
+Test: [  0/500]	Time  3.551 ( 3.551)	Loss 4.2140e-01 (4.2140e-01)	Acc@1  89.00 ( 89.00)	Acc@5  95.00 ( 95.00)
+Test: [100/500]	Time  0.062 ( 0.195)	Loss 7.6759e-01 (6.9234e-01)	Acc@1  75.00 ( 81.55)	Acc@5  98.00 ( 95.52)
+Test: [200/500]	Time  0.339 ( 0.185)	Loss 1.1727e+00 (6.9534e-01)	Acc@1  63.00 ( 81.30)	Acc@5  92.00 ( 95.84)
+Test: [300/500]	Time  0.070 ( 0.177)	Loss 2.5809e+00 (8.4628e-01)	Acc@1  46.00 ( 78.17)	Acc@5  76.00 ( 94.10)
+Test: [400/500]	Time  0.071 ( 0.174)	Loss 3.0772e-01 (9.2214e-01)	Acc@1  92.00 ( 76.58)	Acc@5 100.00 ( 93.18)
+ * Acc@1 75.732 Acc@5 92.846
+i: 80
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch80.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch80.pth.tar' (epoch 80)
+Test: [  0/500]	Time  3.482 ( 3.482)	Loss 4.1830e-01 (4.1830e-01)	Acc@1  90.00 ( 90.00)	Acc@5  98.00 ( 98.00)
+Test: [100/500]	Time  0.062 ( 0.193)	Loss 7.2580e-01 (6.9500e-01)	Acc@1  79.00 ( 81.94)	Acc@5  97.00 ( 95.50)
+Test: [200/500]	Time  0.371 ( 0.183)	Loss 1.1270e+00 (6.9983e-01)	Acc@1  63.00 ( 81.42)	Acc@5  93.00 ( 95.82)
+Test: [300/500]	Time  0.063 ( 0.177)	Loss 2.5892e+00 (8.4866e-01)	Acc@1  45.00 ( 78.29)	Acc@5  74.00 ( 94.01)
+Test: [400/500]	Time  0.063 ( 0.174)	Loss 3.1538e-01 (9.2323e-01)	Acc@1  93.00 ( 76.75)	Acc@5  99.00 ( 93.13)
+ * Acc@1 75.838 Acc@5 92.776
+i: 85
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch85.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch85.pth.tar' (epoch 85)
+Test: [  0/500]	Time  3.449 ( 3.449)	Loss 3.8282e-01 (3.8282e-01)	Acc@1  91.00 ( 91.00)	Acc@5  96.00 ( 96.00)
+Test: [100/500]	Time  0.062 ( 0.194)	Loss 6.3302e-01 (6.9450e-01)	Acc@1  80.00 ( 81.99)	Acc@5  97.00 ( 95.42)
+Test: [200/500]	Time  0.341 ( 0.185)	Loss 1.1546e+00 (6.9774e-01)	Acc@1  64.00 ( 81.39)	Acc@5  90.00 ( 95.73)
+Test: [300/500]	Time  0.062 ( 0.177)	Loss 2.6303e+00 (8.5104e-01)	Acc@1  44.00 ( 78.12)	Acc@5  72.00 ( 94.00)
+Test: [400/500]	Time  0.062 ( 0.174)	Loss 2.6669e-01 (9.3008e-01)	Acc@1  93.00 ( 76.54)	Acc@5  98.00 ( 93.04)
+ * Acc@1 75.770 Acc@5 92.738
+i: 90
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch90.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_90_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_90_epoch_epoch90.pth.tar' (epoch 90)
+Test: [  0/500]	Time  3.429 ( 3.429)	Loss 3.8592e-01 (3.8592e-01)	Acc@1  90.00 ( 90.00)	Acc@5  98.00 ( 98.00)
+Test: [100/500]	Time  0.064 ( 0.195)	Loss 7.3313e-01 (6.8965e-01)	Acc@1  77.00 ( 82.11)	Acc@5  98.00 ( 95.45)
+Test: [200/500]	Time  0.332 ( 0.183)	Loss 9.8804e-01 (6.9428e-01)	Acc@1  65.00 ( 81.64)	Acc@5  91.00 ( 95.81)
+Test: [300/500]	Time  0.123 ( 0.176)	Loss 2.3585e+00 (8.4853e-01)	Acc@1  52.00 ( 78.22)	Acc@5  77.00 ( 94.11)
+Test: [400/500]	Time  0.062 ( 0.173)	Loss 2.6568e-01 (9.2438e-01)	Acc@1  94.00 ( 76.69)	Acc@5 100.00 ( 93.17)
+ * Acc@1 75.806 Acc@5 92.840

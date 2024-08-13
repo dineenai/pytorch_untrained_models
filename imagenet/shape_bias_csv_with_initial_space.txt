@@ -1,0 +1,22 @@
+
+/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/plot_shape_bias.py
+shape_bias_src =  '/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/shape_bias'
+
+Did not fix files BUT solved with df=pd.read_csv(file_path, sep=',', skipinitialspace=True)
+
+4               sup_RN50_from_gauss_4_for_50_epoch_to_gauss_0_for_10_epoch55
+12                                                                    CMC_AN
+13     sup_RN50_conv1_21_from_gauss_4_for_30_epoch_to_gauss_0_for_30_epoch35
+23              sup_RN50_from_gauss_4_for_50_epoch_to_gauss_0_for_10_epoch60
+26              sup_RN50_from_gauss_4_for_15_epoch_to_gauss_0_for_45_epoch60
+37     sup_RN50_conv1_21_from_gauss_0_for_30_epoch_to_gauss_4_for_30_epoch60
+49              sup_RN50_from_gauss_4_for_40_epoch_to_gauss_0_for_20_epoch45
+67              sup_RN50_from_gauss_4_for_30_epoch_to_gauss_0_for_30_epoch35
+91                                from_sup_RN50_gauss_0_for_60_epoch_epoch60
+105                                                               CMC_RN50v2
+114             sup_RN50_from_gauss_6_for_30_epoch_to_gauss_0_for_30_epoch40
+121             sup_RN50_from_gauss_6_for_30_epoch_to_gauss_0_for_30_epoch45
+122             sup_RN50_from_gauss_4_for_30_epoch_to_gauss_0_for_30_epoch40
+124             sup_RN50_from_gauss_6_for_30_epoch_to_gauss_0_for_30_epoch50
+137                               sup_RN50_from_gauss_0_for_60_epoch_epoch45
+138             sup_RN50_from_gauss_6_for_30_epoch_to_gauss_0_for_30_epoch35

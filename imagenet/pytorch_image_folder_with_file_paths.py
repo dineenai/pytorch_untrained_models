@@ -17,13 +17,13 @@ class ImageFolderWithPaths(datasets.ImageFolder):
         tuple_with_path = (original_tuple + (path,))
         return tuple_with_path
 
-# EXAMPLE USAGE:
-# instantiate the dataset and dataloader
-data_dir = "your/data_dir/here"
-dataset = ImageFolderWithPaths(data_dir) # our custom dataset
-dataloader = torch.utils.DataLoader(dataset)
+# # EXAMPLE USAGE:
+# # instantiate the dataset and dataloader
+# data_dir = "your/data_dir/here"
+# dataset = ImageFolderWithPaths(data_dir) # our custom dataset
+# dataloader = torch.utils.DataLoader(dataset)
 
-# iterate over data
-for inputs, labels, paths in dataloader:
-    # use the above variables freely
-    print(inputs, labels, paths)
+# # iterate over data
+# for inputs, labels, paths in dataloader:
+#     # use the above variables freely
+#     print(inputs, labels, paths)
