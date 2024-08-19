@@ -1,0 +1,2 @@
+,model_pth,epoch,top1acc,top5acc,loss,train_band,test_band
+0,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_low_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_low_for_60_epoch_epoch1.pth.tar,1,11.916,28.768,4.9232e+00,low,all

@@ -1,3 +1,12 @@
+# Filename and Gauss parsers are working and may be included directly into bash script
+
+# Below No longer Required
+# NB change filename in 3 places, adjust gaussian blur as required
+# TESTING whether cpkt_name PARSER HAS FIXED THIS
+# - IF SO ONLY 1 THING TO CHANGE - GAUSSIAN BLUR!!! - COULD MAKE A PARSER WOLD NEED A ZERO OPTION - LOOP OR 0 IN FUNCTION?
+# Currently - Gaussian is set to 6
+#Add these changes ie gaussia to main_general once save cpkts is working
+
 import argparse
 import os
 import random
@@ -17,8 +26,6 @@ import torch.utils.data.distributed
 import torchvision.transforms as transforms
 import torchvision.datasets as datasets
 import torchvision.models as models
-import ntpath #Split path: https://stackoverflow.com/questions/8384737/extract-file-name-from-path-no-matter-what-the-os-path-format
-from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
 
 model_names = sorted(name for name in models.__dict__
     if name.islower() and not name.startswith("__")
@@ -55,14 +62,13 @@ parser.add_argument('-p', '--print-freq', default=10, type=int,
                     metavar='N', help='print frequency (default: 10)')
 parser.add_argument('--save_freq', type=int, default=10, help='save frequency') #From CMC - AIM: Save Ckpt.
 parser.add_argument('--resume', default='', type=str, metavar='PATH',
-                    help='path to latest checkpoint (default: none)')                  
+                    help='path to latest checkpoint (default: none)')
+
+parser.add_argument('--cpkt_name', default=None, type=str, metavar='CPKT_name',
+                    help='name checkpoints')  #Name checkpoints a from bash script without adapting python script
+
 parser.add_argument('-e', '--evaluate', dest='evaluate', action='store_true',
                     help='evaluate model on validation set')
-parser.add_argument('--save_accuracy_path', default='/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/model_accuracy_csv',
-                    type=str, metavar='SAVE_ACCURACY_PATH',
-                    help='path to save accuracy of model') 
-parser.add_argument('--save_accuracy_file', default='model_accuracy', type=str, metavar='SAVE_ACCURACY_PATH',
-                    help='filename to save accuracy of model ')    
 parser.add_argument('--pretrained', dest='pretrained', action='store_true',
                     help='use pre-trained model')
 parser.add_argument('--world-size', default=-1, type=int,
@@ -82,10 +88,16 @@ parser.add_argument('--multiprocessing-distributed', action='store_true',
                          'N processes per node, which has N GPUs. This is the '
                          'fastest way to use PyTorch for either single node or '
                          'multi node data parallel training')
+parser.add_argument('--gauss', default=0, type=float, metavar='N',
+                    help='amount of gaussian blur to apply to the train_loader') #Added 
+parser.add_argument('--kernel', default=9, type=int, metavar='N',
+                    help='size of kernel for gaussian blur applied to train_loader')
+
 
 opt = parser.parse_args() #Added from train_CMC.py to facilitate saving ckpts
+global args #Attempt to make global to facilitate custimization of filename! 
+args = parser.parse_args() #Added from Main - remove all opt eventually 
 
-best_acc1 = 0
 
 
 def main():
@@ -125,7 +137,6 @@ def main():
 
 
 def main_worker(gpu, ngpus_per_node, args):
-    global best_acc1
     args.gpu = gpu
 
     if args.gpu is not None:
@@ -197,10 +208,6 @@ def main_worker(gpu, ngpus_per_node, args):
                 loc = 'cuda:{}'.format(args.gpu)
                 checkpoint = torch.load(args.resume, map_location=loc)
             args.start_epoch = checkpoint['epoch']
-            # best_acc1 = checkpoint['best_acc1'] #Removing this allows us to use out added checkpoints!
-            if args.gpu is not None:
-                # best_acc1 may be from a checkpoint from a different GPU
-                best_acc1 = best_acc1.to(args.gpu)
             model.load_state_dict(checkpoint['state_dict'])
             optimizer.load_state_dict(checkpoint['optimizer'])
             print("=> loaded checkpoint '{}' (epoch {})"
@@ -211,20 +218,44 @@ def main_worker(gpu, ngpus_per_node, args):
     cudnn.benchmark = True
 
     # Data loading code
-
-    valdir = os.path.join(args.data, 'val_in_folders') #Change to val_in_folders for imagenet, ie DIR='/data/ILSVRC2012/'  TO DO add this to loop 
+    traindir = os.path.join(args.data, 'train')
+#     valdir = os.path.join(args.data, 'val') # Need to change Val to val in folders as this is the directory name on server
+    valdir = os.path.join(args.data, 'val_in_folders')
     normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406],
                                      std=[0.229, 0.224, 0.225])
+    
+    print(f'Confirm Parameters are set correctly:\n\targs.gauss: {args.gauss}, args.kernel: {args.kernel}')
+   
+
+    print(f'valdir: {valdir}, traindir: {traindir}')
+
+ 
+    train_dataset = datasets.ImageFolder(
+        traindir,
+        transforms.Compose([
+            transforms.RandomResizedCrop(224),
+            transforms.RandomHorizontalFlip(),
+            transforms.ToTensor(),
+            normalize,
+        ]))
+ 
 
 
-
-    # folder_dataset_val = ImageFolderWithPaths(root=Config.valdir)
-    # Note that this is not actually connected to the val_loader!
-    folder_dataset_val = ImageFolderWithPaths(valdir) #works
-
+    #model_names was causing errors - removed to simplify - using DeepCluster vesion instead
+#     #Model Folder to facilitate saving of checkpoints - from train_CMC.py line 113-116
+#     opt.model_folder = os.path.join(opt.model_path, opt.model_names) #Changed model_name to model_names 
+#     if not os.path.isdir(opt.model_folder):
+#         os.makedirs(opt.model_folder)
         
-        # print(paths)
-    #Still need to encorporate the above into loader      
+    if args.distributed:
+        train_sampler = torch.utils.data.distributed.DistributedSampler(train_dataset)
+    else:
+        train_sampler = None
+
+    train_loader = torch.utils.data.DataLoader(
+        train_dataset, batch_size=args.batch_size, shuffle=(train_sampler is None),
+        num_workers=args.workers, pin_memory=True, sampler=train_sampler)
+
     val_loader = torch.utils.data.DataLoader(
         datasets.ImageFolder(valdir, transforms.Compose([
             transforms.Resize(256),
@@ -234,8 +265,6 @@ def main_worker(gpu, ngpus_per_node, args):
         ])),
         batch_size=args.batch_size, shuffle=False,
         num_workers=args.workers, pin_memory=True)
-
-    # test_dataloader = torch.utils.data.DataLoader(folder_dataset_val,num_workers=6,batch_size=1,shuffle=True)    
 
     if args.evaluate:
         validate(val_loader, model, criterion, args)
@@ -247,26 +276,68 @@ def main_worker(gpu, ngpus_per_node, args):
         adjust_learning_rate(optimizer, epoch, args)
 
         # train for one epoch
-        train(train_loader, model, criterion, optimizer, epoch, args)
+        train(train_loader, val_loader, model, criterion, optimizer, epoch, args)
 
         # evaluate on validation set
         acc1 = validate(val_loader, model, criterion, args)
 
-        # remember best acc@1 and save checkpoint
-        is_best = acc1 > best_acc1
-        best_acc1 = max(acc1, best_acc1)
+        # save checkpoint        
+        save_epoch = epoch + 1
+        if save_epoch % args.save_freq == 0: 
+            save_checkpoint(model, epoch, optimizer, filename="checkpoint_%s.pth.tar" % args.cpkt_name, suffix='complete')
+            
+def train(train_loader, val_loader, model, criterion, optimizer, epoch, args):
+    batch_time = AverageMeter('Time', ':6.3f')
+    data_time = AverageMeter('Data', ':6.3f')
+    losses = AverageMeter('Loss', ':.4e')
+    top1 = AverageMeter('Acc@1', ':6.2f')
+    top5 = AverageMeter('Acc@5', ':6.2f')
+    progress = ProgressMeter(
+        len(train_loader),
+        [batch_time, data_time, losses, top1, top5],
+        prefix="Epoch: [{}]".format(epoch))
 
-        if not args.multiprocessing_distributed or (args.multiprocessing_distributed
-                and args.rank % ngpus_per_node == 0):
-            save_checkpoint({
-                'epoch': epoch + 1,
-                'arch': args.arch,
-                'state_dict': model.state_dict(),
-                'best_acc1': best_acc1,
-                'optimizer' : optimizer.state_dict(),
-            }, is_best)
-   
-    
+    # switch to train mode
+    model.train()
+
+    end = time.time()
+    for i, (images, target) in enumerate(train_loader):
+        # measure data loading time
+        data_time.update(time.time() - end)
+
+        if args.gpu is not None:
+            images = images.cuda(args.gpu, non_blocking=True)
+        if torch.cuda.is_available():
+            target = target.cuda(args.gpu, non_blocking=True)
+
+        # compute output
+        output = model(images)
+        loss = criterion(output, target)
+
+        # measure accuracy and record loss
+        acc1, acc5 = accuracy(output, target, topk=(1, 5))
+        losses.update(loss.item(), images.size(0))
+        top1.update(acc1[0], images.size(0))
+        top5.update(acc5[0], images.size(0))
+
+        # compute gradient and do SGD step
+        optimizer.zero_grad()
+        loss.backward()
+        optimizer.step()
+
+        # measure elapsed time
+        batch_time.update(time.time() - end)
+        end = time.time()
+
+        if i % args.print_freq == 0:
+            progress.display(i)
+        
+        # create new variable called save_batch_freq
+        if i % 500 == 0:
+            acc1 = validate(val_loader, model, criterion, args)
+            print('==> Saving...')
+            save_checkpoint(model, epoch, optimizer, filename="checkpoint_%s.pth.tar" % args.cpkt_name, suffix='batch'+str(i))
+        
 
 
 def validate(val_loader, model, criterion, args):
@@ -293,8 +364,6 @@ def validate(val_loader, model, criterion, args):
             # compute output
             output = model(images)
             loss = criterion(output, target)
-            # print("Output: ")
-            # print(output) #a tensor
 
             # measure accuracy and record loss
             acc1, acc5 = accuracy(output, target, topk=(1, 5))
@@ -306,8 +375,6 @@ def validate(val_loader, model, criterion, args):
             batch_time.update(time.time() - end)
             end = time.time()
 
-
-
             if i % args.print_freq == 0:
                 progress.display(i)
 
@@ -315,60 +382,22 @@ def validate(val_loader, model, criterion, args):
         print(' * Acc@1 {top1.avg:.3f} Acc@5 {top5.avg:.3f}'
               .format(top1=top1, top5=top5))
 
-        print("TRY:\n* Loss:{losses.avg:.4e}".format(losses=losses))
-
-            #   Loss', ':.4e'
-        
-        # Added file to save average accuracy following validation, added parsers
-        # save_path = '/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/model_accuracy/'
-        save_path = args.save_accuracy_path
-        # name_of_file = raw_input("What is the name of the file: ") #Add Parser to capture network name!
-        # name_of_file = 'testfile_model_accuracy'
-        name_of_file = args.save_accuracy_file
-        output_accuracy = os.path.join(save_path, name_of_file+".txt") 
-
-        # f = open('model_accuracy.txt', 'a')
-
-
-        # Try 7/9/22
-        # 
-        output_accuracy_csv = os.path.join(save_path, name_of_file+".csv") 
-        # f = open(output_accuracy_csv, "a")
-        import pandas as pd
-        if os.path.exists(output_accuracy_csv):
-            val_accuracy_csv = pd.read_csv(output_accuracy_csv, index_col=0)
-        else:
-            val_accuracy_csv = pd.DataFrame(columns=['model_pth','epoch', 'top1acc', 'top5acc', 'loss', 'val_images_blurred', 'val_blur_sigma']) #add column for epoch (perhaps instead of path?)
-        # TRY adding Epoch:args.start_epoch 
-        test_images_blurred = 0 #make this a binary variable - y or n 0or 1
-        val_blur_sigma = 0
-        val_accuracy_csv = val_accuracy_csv.append({'model_pth':args.resume, 'epoch':args.start_epoch,'top1acc':f'{top1.avg:.3f}','loss':f'{losses.avg:.4e}', 'top5acc':f'{top5.avg:.3f}', 'val_images_blurred':test_images_blurred, 'val_blur_sigma':val_blur_sigma}, ignore_index=True)
-        val_accuracy_csv.to_csv(output_accuracy_csv)
-
-        # Top1Acc = []
-        # Top5Acc = []
-
-        # f = open(output_accuracy, "a")
-        # f.write('Model Path: {0}\t'
-        #         'Acc@1 {top1.avg:.3f}\t'
-        #         # 'Acc@5 {top5.val:.3f} ({top5.avg:.3f})\t'
-        #         'Acc@5 {top5.avg:.3f}\t'
-        #         '\n'.format(
-        #             args.resume, top1=top1, top5=top5))  
-        # f.close
-
     return top1.avg
 
 
 
-def save_checkpoint(state, is_best, filename):
-    torch.save(state, 'checkpoint.pth.tar')
-    if is_best:
-        shutil.copyfile(filename, 'model_best.pth.tar')         
-    #Added - save every 5 epochs
-    if epoch % args.save_freq -1 == 0: #Does the minus 1 work?, does this require brackets?
-        print('==> Saving...')
-        torch.save(state, os.path.join(args.model_path, 'checkpoint_unsupervised_resnet50'+'_epoch'+str(epoch)+'.pth.tar'))
+# Created function 17 Aug 24
+def save_checkpoint(model, epoch, optimizer, filename="checkpoint_%s.pth.tar" % args.cpkt_name, suffix=None): 
+    if suffix != None:
+        suffix = f'_{suffix}'
+    print('==> Saving...')
+    torch.save({'epoch': epoch + 1,
+                'arch': args.arch,
+                'state_dict': model.state_dict(),
+                'optimizer' : optimizer.state_dict()},
+                os.path.join(args.model_path, f'checkpoint_{str(args.cpkt_name)}_epoch{str(epoch)}{suffix}.pth.tar'))
+    return 
+
 
 
 class AverageMeter(object):

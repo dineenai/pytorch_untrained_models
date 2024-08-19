@@ -14,11 +14,11 @@ MODEL='resnet50'
 CPKT="supervised_resnet50_bp_butter_low_for_60_epoch"
 EPOCHS=60
 SAVE=1
-RESUME="/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_low_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_low_for_60_epoch_epoch1.pth.tar"
+RESUME="/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_low_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_low_for_60_epoch_epoch15.pth.tar"
 
 
 
-${PYTHON} main_general_copy_mmk.py --a ${MODEL} \
+${PYTHON} main_general_copy_mmk_pared_back.py --a ${MODEL} \
 --model_path ${OUTFOLDER} \
 --epochs ${EPOCHS} \
 --cpkt_name ${CPKT} \
