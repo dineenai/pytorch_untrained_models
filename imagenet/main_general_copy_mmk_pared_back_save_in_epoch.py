@@ -27,6 +27,7 @@ import torchvision.datasets as datasets
 import torchvision.models as models
 
 import pandas as pd
+import datetime
 
 
 model_names = sorted(name for name in models.__dict__
@@ -96,6 +97,7 @@ parser.add_argument('--kernel', default=9, type=int, metavar='N',
                     help='size of kernel for gaussian blur applied to train_loader')
 parser.add_argument('--save_batch_freq', type=int, default=1001, help='save frequency within an epoch') 
 parser.add_argument('--path_acc', type=str, default=None, help='path to save accuracy')
+parser.add_argument('--iteration', type=int, default=None, help='Replication of Training')
 
 opt = parser.parse_args() #Added from train_CMC.py to facilitate saving ckpts
 global args #Attempt to make global to facilitate custimization of filename! 
@@ -274,20 +276,20 @@ def main_worker(gpu, ngpus_per_node, args):
         return
 
     # Load path to save accuracy
-    band = args.cpkt_name.split('bp_')[1].split('_')[0]
-    output_accuracy_csv = os.path.join(args.path_acc, f'supervised_resnet50_bp_butter_train-{band}_test-{band}_accuracy.csv')
+    band = args.cpkt_name.split('butter_')[1].split('_')[0]
+    output_accuracy_csv = os.path.join(args.path_acc, f'supervised_resnet50_bp_butter_train-{band}_test-{band}_iter-{args.iteration}_accuracy.csv')
 
     if os.path.exists(output_accuracy_csv):
         val_accuracy_csv = pd.read_csv(output_accuracy_csv, index_col=0)
     else:
-        val_accuracy_csv = pd.DataFrame(columns=['model_pth','epoch', 'batch', 'top1acc', 'top5acc', 'loss', 'train_band', 'test_band']) #add column for epoch (perhaps instead of path?)
+        val_accuracy_csv = pd.DataFrame(columns=['model_pth','epoch', 'batch', 'top1acc', 'top5acc', 'loss', 'train_band', 'test_band', 'timestamp']) #add column for epoch (perhaps instead of path?)
     val_accuracy_csv.to_csv(output_accuracy_csv)
 
     # if not resuming, start from scratch
     if args.resume == '':
         # Save checkpoint for untrained model
         ckpt_suffix = 'untrained'
-        ckpt_file_name = save_checkpoint(model, 0, optimizer,  args.cpkt_name, ckpt_suffix=ckpt_suffix)
+        ckpt_file_name = save_checkpoint(model, 0, optimizer, args.cpkt_name, ckpt_suffix=ckpt_suffix, iteration=args.iteration)
         
         val_acc1, val_acc5, val_loss = validate(val_loader, model, criterion, args)
 
@@ -309,15 +311,13 @@ def main_worker(gpu, ngpus_per_node, args):
         ckpt_suffix = 'complete'
         
         # f'checkpoint_{str(cpkt_name)}_epoch{str(epoch)}{suffix}.pth.tar'
-        ckpt_file_name = save_checkpoint(model, epoch, optimizer,  args.cpkt_name, ckpt_suffix=ckpt_suffix)
+        ckpt_file_name = save_checkpoint(model, epoch, optimizer, args.cpkt_name, ckpt_suffix=ckpt_suffix, iteration=args.iteration)
 
         # TO DO: save accuracy to csv!
         # evaluate on validation set
         val_acc1, val_acc5, val_loss = validate(val_loader, model, criterion, args)
   
-        batch = len(train_loader)
-
-        save_evaluation_results(output_accuracy_csv, ckpt_file_name, epoch, batch, val_acc1, val_acc5, val_loss, band)
+        save_evaluation_results(output_accuracy_csv, ckpt_file_name, epoch, len(train_loader), val_acc1, val_acc5, val_loss, band)
         # '/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/bandpass_analysis_butterworth'
 
         
@@ -372,15 +372,15 @@ def train(train_loader, val_loader, model, criterion, optimizer, epoch, args, ou
             progress.display(i)
         
         # create new variable called save_batch_freq
-        if i != 0 and i % args.save_batch_freq == 0:
+        if ((i !=0) and (i % args.save_batch_freq == 0)):
         # if i % args.save_batch_freq == 0:
             print(f'{i} batches have been trained')
-            acc1 = validate(val_loader, model, criterion, args)
+            # acc1 = validate(val_loader, model, criterion, args)
             # print(f'==> Saving Evaluation Results for batch {i}...')
             
             ckpt_suffix = 'batch'+str(i)
             
-            ckpt_file_name = save_checkpoint(model, epoch, optimizer,  args.cpkt_name, ckpt_suffix=ckpt_suffix)
+            ckpt_file_name = save_checkpoint(model, epoch, optimizer,  args.cpkt_name, ckpt_suffix=ckpt_suffix, iteration=args.iteration)
 
             val_acc1, val_acc5, val_loss = validate(val_loader, model, criterion, args)
 
@@ -438,20 +438,22 @@ def validate(val_loader, model, criterion, args):
     return top1.avg, top5.avg , losses.avg
 
 
-def save_evaluation_results(output_accuracy_csv, ckpt_file_name, epoch, batch, val_acc1, val_acc5, val_loss, band):
+def save_evaluation_results(output_accuracy_csv, ckpt_file_name, epoch, batch, acc1, acc5, loss, band):
     print(f'==> Saving Evaluation Results for epoch {epoch} batch: {batch}')
     val_accuracy_csv = pd.read_csv(output_accuracy_csv, index_col=0)
-    val_accuracy_csv = val_accuracy_csv.append({'model_pth':ckpt_file_name, 'epoch':epoch,'batch':batch,'top1acc':f'{val_acc1:.3f}','top5acc':f'{val_acc5:.3f}', 'loss':f'{val_loss:.4e}', 'train_band':band, 'test_band':band}, ignore_index=True)
+    val_accuracy_csv = val_accuracy_csv.append({'model_pth':ckpt_file_name, 'epoch':epoch,'batch':batch,'top1acc':f'{acc1:.3f}','top5acc':f'{acc5:.3f}', 'loss':f'{loss:.4e}', 'train_band':band, 'test_band':band, 'timestamp': str(datetime.datetime.now())}, ignore_index=True)
     val_accuracy_csv.to_csv(output_accuracy_csv)
 
 
 # Created function 17 Aug 24
-def save_checkpoint(model, epoch, optimizer, cpkt_name, ckpt_suffix=None): 
+def save_checkpoint(model, epoch, optimizer, cpkt_name, ckpt_suffix=None, iteration=None): 
     print(f'==> Saving Checkpoint... Epoch: {epoch} {ckpt_suffix}')
     
     if ckpt_suffix != None:
         ckpt_suffix = f'_{ckpt_suffix}'
-    ckpt_file_name = f'checkpoint_{str(cpkt_name)}_epoch{str(epoch)}{ckpt_suffix}.pth.tar'
+    if iteration != None:
+        iteration = f'_iter-{iteration}'
+    ckpt_file_name = f'checkpoint_{str(cpkt_name)}_epoch{str(epoch)}{ckpt_suffix}{iteration}.pth.tar'
     
     torch.save({'epoch': epoch + 1,
                 'arch': args.arch, # CAUTION not currently passed in!!

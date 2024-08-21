@@ -1,0 +1,3 @@
+,model_pth,epoch,batch,top1acc,top5acc,loss,train_band,test_band,timestamp
+0,checkpoint_supervised_resnet50_bp_butter_low_batches_for_60_epoch_epoch0_untrained_iter-1.pth.tar,0,,0.1,0.53,24.693,low,low,2024-08-21 14:33:58.341995
+1,checkpoint_supervised_resnet50_bp_butter_low_batches_for_60_epoch_epoch0_batch1001_iter-1.pth.tar,0,1001.0,0.786,3.154,6.5659e+00,low,low,2024-08-21 14:59:49.895006
