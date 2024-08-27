@@ -277,7 +277,8 @@ def main_worker(gpu, ngpus_per_node, args):
         validate(val_loader, model, criterion, args)
         return
     
-    print(f'Length of train_loader: {len(train_loader)}')
+    n_batches_per_epoch = len(train_loader)
+    print(f'Length of train_loader: {n_batches_per_epoch}')
 
     # Load path to save accuracy
     # Attempted to modify for all band!
@@ -287,11 +288,11 @@ def main_worker(gpu, ngpus_per_node, args):
     if args.batches_to_save:
         batches_df = pd.read_csv(args.batches_to_save, index_col=0)
         batches_df['n_batches_rounded'] = batches_df['n_batches_rounded'] - 1   
-        batch_ids_to_save = batches_df['n_batches_rounded'].unique()
+        # batch_ids_to_save = batches_df['n_batches_rounded'].unique() 
     else:
         batch_ids_to_save = None
 
-    print(f'Batch IDs to Save: {batch_ids_to_save}')
+    # print(f'Batch IDs to Save: {batch_ids_to_save}')
     
 
     band = args.cpkt_name.split('butter_')[1].split('_')[0]
@@ -323,8 +324,11 @@ def main_worker(gpu, ngpus_per_node, args):
             train_sampler.set_epoch(epoch)
         adjust_learning_rate(optimizer, epoch, args)
 
+        epoch_rows_df = batches_df[batches_df['corresponding_epoch'] == epoch]
+        batch_ids_to_save_for_epoch = epoch_rows_df['n_batches_rounded'].unique()
+
         # train for one epoch
-        train(train_loader, val_loader, model, criterion, optimizer, epoch, args, output_accuracy_csv, band, batch_ids_to_save)
+        train(train_loader, val_loader, model, criterion, optimizer, epoch, args, output_accuracy_csv, band, batch_ids_to_save_for_epoch, n_batches_per_epoch)
 
 
         # SAVE FOR ALL EPOCHS IN THIS SCRIPT
@@ -337,27 +341,33 @@ def main_worker(gpu, ngpus_per_node, args):
         # evaluate on validation set
         val_acc1, val_acc5, val_loss = validate(val_loader, model, criterion, args)
   
-        save_evaluation_results(output_accuracy_csv, ckpt_file_name, epoch, len(train_loader), val_acc1, val_acc5, val_loss, band)
+        save_evaluation_results(output_accuracy_csv, ckpt_file_name, epoch, n_batches_per_epoch, val_acc1, val_acc5, val_loss, band)
         # '/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/bandpass_analysis_butterworth'
 
         
         
 
-def train(train_loader, val_loader, model, criterion, optimizer, epoch, args, output_accuracy_csv, band=None, batch_ids_to_save=None):
+def train(train_loader, val_loader, model, criterion, optimizer, epoch, args, output_accuracy_csv, band=None, batch_ids_to_save=None, n_batches_per_epoch=None):
+    if n_batches_per_epoch is None:
+        n_batches_per_epoch = len(train_loader)
+
     batch_time = AverageMeter('Time', ':6.3f')
     data_time = AverageMeter('Data', ':6.3f')
     losses = AverageMeter('Loss', ':.4e')
     top1 = AverageMeter('Acc@1', ':6.2f')
     top5 = AverageMeter('Acc@5', ':6.2f')
     progress = ProgressMeter(
-        len(train_loader),
+        n_batches_per_epoch,
         [batch_time, data_time, losses, top1, top5],
         prefix="Epoch: [{}]".format(epoch))
     
     # Ensure not overwriting batch_ids_to_save
-    batch_ids_to_save_for_epoch = batch_ids_to_save + epoch*len(train_loader)
+    # FIX
+    # batch_ids_to_save_for_epoch = batch_ids_to_save + epoch*len(train_loader)
 
     # TO DO - Pass in Epoch specific batches
+
+    
     
 
 
@@ -368,6 +378,8 @@ def train(train_loader, val_loader, model, criterion, optimizer, epoch, args, ou
 
     end = time.time()
     for i, (images, target) in enumerate(train_loader): # i is the batch number
+        cum_batch_no = i + epoch * n_batches_per_epoch 
+        
         # measure data loading time
         data_time.update(time.time() - end)
 
@@ -401,14 +413,16 @@ def train(train_loader, val_loader, model, criterion, optimizer, epoch, args, ou
         # # create new variable called save_batch_freq
         # if ((i !=0) and (i % args.save_batch_freq == 0)):
 
-        if i in batch_ids_to_save_for_epoch: # Initial incorrect 
+        if cum_batch_no in batch_ids_to_save:
+        # if (i + epoch * n_batches_per_epoch) in batch_ids_to_save: # Initial incorrect 
         # if (i + epoch * 5005) in batch_ids_to_save_for_epoch: #In process of fixing
         # if i % args.save_batch_freq == 0:
-            print(f'{i} batches have been trained')
+            print(f'{cum_batch_no} batches have been trained')
             # acc1 = validate(val_loader, model, criterion, args)
             # print(f'==> Saving Evaluation Results for batch {i}...')
             
-            ckpt_suffix = 'batch'+str(i)+'_log' #Added _log to distinguish from other analysis
+            # ckpt_suffix = 'batch'+str(i) # 
+            ckpt_suffix = 'batch'+str(cum_batch_no)+'_log' #Added _log to distinguish from other analysis
             
             ckpt_file_name = save_checkpoint(model, epoch, optimizer,  args.cpkt_name, ckpt_suffix=ckpt_suffix, iteration=args.iteration)
 

@@ -7,4 +7,5 @@
 5,checkpoint_supervised_resnet50_bp_butter_low_batches_for_60_epoch_epoch0_complete_iter-5.pth.tar,0,5005.0,12.938,31.068,4.619,low,low,2024-08-27 10:09:04.839242
 6,checkpoint_supervised_resnet50_bp_butter_low_batches_for_60_epoch_epoch1_batch1001_iter-5.pth.tar,1,1001.0,15.272,34.146,4.4649,low,low,2024-08-27 10:27:05.003722
 7,checkpoint_supervised_resnet50_bp_butter_low_batches_for_60_epoch_epoch1_batch2002_iter-5.pth.tar,1,2002.0,18.084,38.922,4.2127,low,low,2024-08-27 10:49:27.248224
-8,checkpoint_supervised_resnet50_bp_butter_low_batches_for_60_epoch_epoch1_batch3003_iter-5.pth.tar,1,3003.0,19.756,41.726,4.0360e+00,low,low,2024-08-27 11:13:12.824332
+8,checkpoint_supervised_resnet50_bp_butter_low_batches_for_60_epoch_epoch1_batch3003_iter-5.pth.tar,1,3003.0,19.756,41.726,4.036,low,low,2024-08-27 11:13:12.824332
+9,checkpoint_supervised_resnet50_bp_butter_low_batches_for_60_epoch_epoch1_batch4004_iter-5.pth.tar,1,4004.0,21.220,43.912,3.9285e+00,low,low,2024-08-27 11:44:25.352625

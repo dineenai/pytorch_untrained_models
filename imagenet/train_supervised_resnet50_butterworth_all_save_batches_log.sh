@@ -26,6 +26,7 @@ SAVE=1
 ACCPATH="/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/bandpass_analysis_butterworth/batched_accuracy"
 PRINTFREQ=100
 BATCHNOPATH="/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/log_batches.csv"
+RESUME="${OUTFOLDER}/checkpoint_supervised_resnet50_bp_butter_all_batches_for_60_epoch_epoch0_complete_log_iter-1.pth.tar"
 
 
 ${PYTHON} main_general_copy_mmk_pared_back_save_in_epoch_save_log_batches.py --a ${MODEL} \
@@ -37,4 +38,5 @@ ${PYTHON} main_general_copy_mmk_pared_back_save_in_epoch_save_log_batches.py --a
 --path_acc ${ACCPATH} \
 --iter ${ITER} \
 --batches_to_save ${BATCHNOPATH} \
+--resume ${RESUME} \
 ${DIR}
