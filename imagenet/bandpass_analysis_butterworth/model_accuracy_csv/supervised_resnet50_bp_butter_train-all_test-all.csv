@@ -1,0 +1,16 @@
+,model_pth,epoch,top1acc,top5acc,loss,train_band,test_band
+0,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch1.pth.tar,1,16.218,36.39,4.501,all,all
+1,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch2.pth.tar,2,31.182,57.196,3.2222,all,all
+2,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch3.pth.tar,3,39.612,66.272,2.721,all,all
+3,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch4.pth.tar,4,44.78,71.752,2.4182,all,all
+4,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch5.pth.tar,5,44.628,71.058,2.4554,all,all
+5,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch6.pth.tar,6,47.172,73.432,2.2993,all,all
+6,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch7.pth.tar,7,42.092,68.564,2.6222,all,all
+7,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch8.pth.tar,8,48.936,74.808,2.2401,all,all
+8,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch9.pth.tar,9,51.184,77.096,2.0988,all,all
+9,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch10.pth.tar,10,50.282,76.62,2.1255,all,all
+10,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch11.pth.tar,11,51.504,77.328,2.0885,all,all
+11,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch12.pth.tar,12,50.588,76.314,2.1411,all,all
+12,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch13.pth.tar,13,51.966,77.874,2.0461,all,all
+13,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch14.pth.tar,14,53.304,78.558,1.9964,all,all
+14,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch15.pth.tar,15,51.904,77.974,2.0540e+00,all,all

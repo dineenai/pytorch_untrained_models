@@ -98,6 +98,8 @@ parser.add_argument('--kernel', default=9, type=int, metavar='N',
 parser.add_argument('--save_batch_freq', type=int, default=1001, help='save frequency within an epoch') 
 parser.add_argument('--path_acc', type=str, default=None, help='path to save accuracy')
 parser.add_argument('--iteration', type=int, default=None, help='Replication of Training')
+parser.add_argument('--batches_to_save', type=str, default=None, help='path to csv with batch IDs to save in n_batches_rounded column')
+
 
 opt = parser.parse_args() #Added from train_CMC.py to facilitate saving ckpts
 global args #Attempt to make global to facilitate custimization of filename! 
@@ -274,16 +276,28 @@ def main_worker(gpu, ngpus_per_node, args):
     if args.evaluate:
         validate(val_loader, model, criterion, args)
         return
+    
+    print(f'Length of train_loader: {len(train_loader)}')
 
     # Load path to save accuracy
     # Attempted to modify for all band!
     # band = args.cpkt_name.replace('butter_','').split('bp_')[1].split('_')[0]
     # print(f'Band is {band}')
+
+    if args.batches_to_save:
+        batches_df = pd.read_csv(args.batches_to_save, index_col=0)
+        batches_df['n_batches_rounded'] = batches_df['n_batches_rounded'] - 1   
+        batch_ids_to_save = batches_df['n_batches_rounded'].unique()
+    else:
+        batch_ids_to_save = None
+
+    print(f'Batch IDs to Save: {batch_ids_to_save}')
     
 
     band = args.cpkt_name.split('butter_')[1].split('_')[0]
 
-    output_accuracy_csv = os.path.join(args.path_acc, f'supervised_resnet50_bp_butter_train-{band}_test-{band}_iter-{args.iteration}_accuracy.csv')
+    # output_accuracy_csv = os.path.join(args.path_acc, f'supervised_resnet50_bp_butter_train-{band}_test-{band}_iter-{args.iteration}_accuracy.csv')
+    output_accuracy_csv = os.path.join(args.path_acc, f'supervised_resnet50_bp_butter_train-{band}_test-{band}_log_iter-{args.iteration}_accuracy.csv')
 
     if os.path.exists(output_accuracy_csv):
         val_accuracy_csv = pd.read_csv(output_accuracy_csv, index_col=0)
@@ -294,7 +308,7 @@ def main_worker(gpu, ngpus_per_node, args):
     # if not resuming, start from scratch
     if args.resume == '':
         # Save checkpoint for untrained model
-        ckpt_suffix = 'untrained'
+        ckpt_suffix = 'untrained' + '_log' # Added _log to distinguish from other analysis
         ckpt_file_name = save_checkpoint(model, 0, optimizer, args.cpkt_name, ckpt_suffix=ckpt_suffix, iteration=args.iteration)
         
         val_acc1, val_acc5, val_loss = validate(val_loader, model, criterion, args)
@@ -310,11 +324,11 @@ def main_worker(gpu, ngpus_per_node, args):
         adjust_learning_rate(optimizer, epoch, args)
 
         # train for one epoch
-        train(train_loader, val_loader, model, criterion, optimizer, epoch, args, output_accuracy_csv, band)
+        train(train_loader, val_loader, model, criterion, optimizer, epoch, args, output_accuracy_csv, band, batch_ids_to_save)
 
 
         # SAVE FOR ALL EPOCHS IN THIS SCRIPT
-        ckpt_suffix = 'complete'
+        ckpt_suffix = 'complete' + '_log' #Added _log to distinguish from other analysis
         
         # f'checkpoint_{str(cpkt_name)}_epoch{str(epoch)}{suffix}.pth.tar'
         ckpt_file_name = save_checkpoint(model, epoch, optimizer, args.cpkt_name, ckpt_suffix=ckpt_suffix, iteration=args.iteration)
@@ -329,7 +343,7 @@ def main_worker(gpu, ngpus_per_node, args):
         
         
 
-def train(train_loader, val_loader, model, criterion, optimizer, epoch, args, output_accuracy_csv, band=None):
+def train(train_loader, val_loader, model, criterion, optimizer, epoch, args, output_accuracy_csv, band=None, batch_ids_to_save=None):
     batch_time = AverageMeter('Time', ':6.3f')
     data_time = AverageMeter('Data', ':6.3f')
     losses = AverageMeter('Loss', ':.4e')
@@ -339,6 +353,13 @@ def train(train_loader, val_loader, model, criterion, optimizer, epoch, args, ou
         len(train_loader),
         [batch_time, data_time, losses, top1, top5],
         prefix="Epoch: [{}]".format(epoch))
+    
+    # Ensure not overwriting batch_ids_to_save
+    batch_ids_to_save_for_epoch = batch_ids_to_save + epoch*len(train_loader)
+
+    # TO DO - Pass in Epoch specific batches
+    
+
 
     # switch to train mode
     model.train()
@@ -377,27 +398,31 @@ def train(train_loader, val_loader, model, criterion, optimizer, epoch, args, ou
         if i % args.print_freq == 0:
             progress.display(i)
         
-        # create new variable called save_batch_freq
-        if ((i !=0) and (i % args.save_batch_freq == 0)):
+        # # create new variable called save_batch_freq
+        # if ((i !=0) and (i % args.save_batch_freq == 0)):
+
+        if i in batch_ids_to_save_for_epoch: # Initial incorrect 
+        # if (i + epoch * 5005) in batch_ids_to_save_for_epoch: #In process of fixing
         # if i % args.save_batch_freq == 0:
             print(f'{i} batches have been trained')
             # acc1 = validate(val_loader, model, criterion, args)
             # print(f'==> Saving Evaluation Results for batch {i}...')
             
-            ckpt_suffix = 'batch'+str(i)
+            ckpt_suffix = 'batch'+str(i)+'_log' #Added _log to distinguish from other analysis
             
             ckpt_file_name = save_checkpoint(model, epoch, optimizer,  args.cpkt_name, ckpt_suffix=ckpt_suffix, iteration=args.iteration)
 
-            val_acc1, val_acc5, val_loss = validate(val_loader, model, criterion, args)
+            # REMOVE EVALUATION FROM TRAINING LOOP TO SPEED UP TRAINING - can calculate after training if required!!! 26/8/24
+            # val_acc1, val_acc5, val_loss = validate(val_loader, model, criterion, args)
 
-            batch = i
-            save_evaluation_results(output_accuracy_csv, ckpt_file_name, epoch, batch, val_acc1, val_acc5, val_loss, band)
+            # batch = i
+            # save_evaluation_results(output_accuracy_csv, ckpt_file_name, epoch, batch, val_acc1, val_acc5, val_loss, band)
 
-            # Make sure model is in train mode before resuming training!!
-            # Does this fix the bug?? Fri 23-8-24
-            model.train()
+            # # Make sure model is in train mode before resuming training!!
+            # # Does this fix the bug?? Fri 23-8-24
+            # model.train()
 
-            # calculate accuracy and loss and save to csv!
+            # # calculate accuracy and loss and save to csv!
         
 
 

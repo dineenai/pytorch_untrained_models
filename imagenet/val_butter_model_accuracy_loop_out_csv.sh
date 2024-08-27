@@ -7,8 +7,8 @@
 #SBATCH --error=/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/model_accuracy/logs/slurm-%j.err
 
 # starting epoch
-i=1
-t=1
+i=16
+t=34
 
 
 until [ $i -gt $t ]
@@ -18,13 +18,14 @@ do
     
     
 
-    TRAINBAND='low' #Will set path in RESUME
+    TRAINBAND='high' #Will set path in RESUME
+    TESTBAND=${TRAINBAND}
 
-    TESTBAND='all'
-    DIR='/data/ILSVRC2012/'
+    # TESTBAND='all'
+    # DIR='/data/ILSVRC2012/'
     
-    # TESTBAND='low'
-    # DIR="/data2/ILSVRC2012/butterworth/cut-0.055-0.15_order-3.0_npad-40/${TESTBAND}" # DIR='/data/ILSVRC2012/'
+    # TESTBAND='mid'
+    DIR="/data2/ILSVRC2012/butterworth/cut-0.055-0.15_order-3.0_npad-40/${TESTBAND}" # DIR='/data/ILSVRC2012/'
 
     echo DIR: $DIR
 
@@ -35,6 +36,7 @@ do
 
 
     RESUME="/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_${TRAINBAND}_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_${TRAINBAND}_for_60_epoch_epoch${i}.pth.tar"
+    # RESUME="/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_1e/outmodel/checkpoint_supervised_resnet50_gauss_0_1e_epoch${i}.pth.tar"
     echo RESUME: $RESUME
     AFILE="supervised_resnet50_bp_butter_train-${TRAINBAND}_test-${TESTBAND}" 
     APATH="/home/ainedineen/blurry_vision/pytorch_untrained_models/imagenet/bandpass_analysis_butterworth/model_accuracy_csv"

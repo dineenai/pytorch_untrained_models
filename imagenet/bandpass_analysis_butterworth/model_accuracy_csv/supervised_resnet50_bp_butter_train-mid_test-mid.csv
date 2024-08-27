@@ -1,0 +1,17 @@
+,model_pth,epoch,top1acc,top5acc,loss,train_band,test_band
+0,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch6.pth.tar,6,38.986,65.516,2.7783,mid,mid
+1,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch1.pth.tar,1,11.812,29.544,4.6278,mid,mid
+2,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch2.pth.tar,2,0.724,2.0,203.9,mid,mid
+3,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch3.pth.tar,3,28.536,53.458,3.4354,mid,mid
+4,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch4.pth.tar,4,35.082,61.284,3.0061,mid,mid
+5,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch5.pth.tar,5,38.43,64.728,2.809,mid,mid
+6,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch6.pth.tar,6,38.986,65.516,2.7783,mid,mid
+7,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch7.pth.tar,7,40.908,67.716,2.6464,mid,mid
+8,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch8.pth.tar,8,41.658,68.624,2.6068,mid,mid
+9,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch9.pth.tar,9,43.55,69.824,2.515,mid,mid
+10,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch10.pth.tar,10,43.334,69.61,2.5256,mid,mid
+11,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch11.pth.tar,11,44.068,70.382,2.4907,mid,mid
+12,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch12.pth.tar,12,45.36,71.694,2.4174,mid,mid
+13,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch13.pth.tar,13,46.518,72.924,2.3363,mid,mid
+14,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch14.pth.tar,14,44.008,70.494,2.4876,mid,mid
+15,/data/blurry_vision_sup_RN50/supervised_resnet50_bp_butter_mid_for_60_epoch/outmodel/checkpoint_supervised_resnet50_bp_butter_mid_for_60_epoch_epoch15.pth.tar,15,44.722,70.99,2.4554,mid,mid

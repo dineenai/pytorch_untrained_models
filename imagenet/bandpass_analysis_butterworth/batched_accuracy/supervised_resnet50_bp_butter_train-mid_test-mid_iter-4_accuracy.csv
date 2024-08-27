@@ -1,0 +1,27 @@
+,model_pth,epoch,batch,top1acc,top5acc,loss,train_band,test_band,timestamp
+0,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch0_untrained_iter-4.pth.tar,0,,0.1,0.506,23.67,mid,mid,2024-08-25 11:43:50.124022
+1,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch0_batch1001_iter-4.pth.tar,0,1001.0,0.714,2.682,6.4619,mid,mid,2024-08-25 13:20:27.902913
+2,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch0_batch2002_iter-4.pth.tar,0,2002.0,2.292,8.616,5.8573,mid,mid,2024-08-25 14:56:27.897693
+3,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch0_batch3003_iter-4.pth.tar,0,3003.0,3.458,11.298,5.8698,mid,mid,2024-08-25 16:32:18.522969
+4,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch0_batch4004_iter-4.pth.tar,0,4004.0,7.606,21.018,5.1502,mid,mid,2024-08-25 17:52:53.438483
+5,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch0_complete_iter-4.pth.tar,0,5005.0,11.596,28.982,4.6839,mid,mid,2024-08-25 18:48:41.744920
+6,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch1_batch1001_iter-4.pth.tar,1,1001.0,15.636,35.738,4.3273,mid,mid,2024-08-25 19:05:14.621065
+7,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch1_batch2002_iter-4.pth.tar,1,2002.0,14.964,34.042,4.5313,mid,mid,2024-08-25 19:22:02.026706
+8,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch1_batch3003_iter-4.pth.tar,1,3003.0,20.988,43.81,3.9135,mid,mid,2024-08-25 19:38:09.078054
+9,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch1_batch4004_iter-4.pth.tar,1,4004.0,19.898,41.554,4.0885,mid,mid,2024-08-25 19:53:56.199377
+10,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch1_complete_iter-4.pth.tar,1,5005.0,25.082,49.54,3.6304,mid,mid,2024-08-25 20:09:27.315415
+11,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch2_batch1001_iter-4.pth.tar,2,1001.0,26.256,51.252,3.5516,mid,mid,2024-08-25 22:02:27.103179
+12,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch2_batch2002_iter-4.pth.tar,2,2002.0,24.428,47.976,3.7514,mid,mid,2024-08-25 22:46:46.489446
+13,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch2_batch3003_iter-4.pth.tar,2,3003.0,29.992,55.818,3.3163,mid,mid,2024-08-25 23:34:39.140245
+14,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch2_batch4004_iter-4.pth.tar,2,4004.0,29.116,54.72,3.3715,mid,mid,2024-08-26 00:59:11.537911
+15,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch2_complete_iter-4.pth.tar,2,5005.0,32.084,58.142,3.1959,mid,mid,2024-08-26 02:34:58.757394
+16,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch3_batch1001_iter-4.pth.tar,3,1001.0,32.656,59.21,3.1397,mid,mid,2024-08-26 02:43:53.779773
+17,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch3_batch2002_iter-4.pth.tar,3,2002.0,29.626,54.888,3.3915,mid,mid,2024-08-26 02:52:47.708106
+18,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch3_batch3003_iter-4.pth.tar,3,3003.0,33.362,59.942,3.1018,mid,mid,2024-08-26 03:01:41.963165
+19,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch3_batch4004_iter-4.pth.tar,3,4004.0,33.242,59.27,3.1224,mid,mid,2024-08-26 03:10:35.553359
+20,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch3_complete_iter-4.pth.tar,3,5005.0,34.24,60.6,3.0248,mid,mid,2024-08-26 03:19:29.990694
+21,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch4_batch1001_iter-4.pth.tar,4,1001.0,32.784,58.618,3.1675,mid,mid,2024-08-26 03:28:26.205166
+22,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch4_batch2002_iter-4.pth.tar,4,2002.0,37.666,64.51,2.8151,mid,mid,2024-08-26 03:37:19.153249
+23,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch4_batch3003_iter-4.pth.tar,4,3003.0,35.664,62.552,2.9532,mid,mid,2024-08-26 03:46:14.973693
+24,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch4_batch4004_iter-4.pth.tar,4,4004.0,36.72,63.944,2.8684,mid,mid,2024-08-26 03:55:09.797574
+25,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch4_complete_iter-4.pth.tar,4,5005.0,37.440,63.944,2.8618e+00,mid,mid,2024-08-26 04:04:04.285722

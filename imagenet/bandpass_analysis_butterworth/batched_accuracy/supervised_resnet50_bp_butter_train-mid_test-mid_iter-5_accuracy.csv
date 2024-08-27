@@ -1,0 +1,2 @@
+,model_pth,epoch,batch,top1acc,top5acc,loss,train_band,test_band,timestamp
+0,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch0_untrained_iter-5.pth.tar,0,,0.100,0.500,2.6356e+01,mid,mid,2024-08-27 11:34:09.445669
