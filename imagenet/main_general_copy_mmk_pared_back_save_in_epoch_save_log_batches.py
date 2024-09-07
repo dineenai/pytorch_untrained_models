@@ -34,6 +34,8 @@ model_names = sorted(name for name in models.__dict__
     if name.islower() and not name.startswith("__")
     and callable(models.__dict__[name]))
 
+print(f'Model Names: {model_names}')
+
 parser = argparse.ArgumentParser(description='PyTorch ImageNet Training')
 parser.add_argument('data', metavar='DIR',
                     help='path to dataset')
@@ -298,7 +300,7 @@ def main_worker(gpu, ngpus_per_node, args):
     band = args.cpkt_name.split('butter_')[1].split('_')[0]
 
     # output_accuracy_csv = os.path.join(args.path_acc, f'supervised_resnet50_bp_butter_train-{band}_test-{band}_iter-{args.iteration}_accuracy.csv')
-    output_accuracy_csv = os.path.join(args.path_acc, f'supervised_resnet50_bp_butter_train-{band}_test-{band}_log_iter-{args.iteration}_accuracy.csv')
+    output_accuracy_csv = os.path.join(args.path_acc, f'supervised_{args.arch}_bp_butter_train-{band}_test-{band}_log_iter-{args.iteration}_accuracy.csv')
 
     if os.path.exists(output_accuracy_csv):
         val_accuracy_csv = pd.read_csv(output_accuracy_csv, index_col=0)

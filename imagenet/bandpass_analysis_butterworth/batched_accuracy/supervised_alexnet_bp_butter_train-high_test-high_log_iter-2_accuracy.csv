@@ -1,0 +1,2 @@
+,model_pth,epoch,batch,top1acc,top5acc,loss,train_band,test_band,timestamp
+0,checkpoint_supervised_alexnet_bp_butter_high_batches_for_60_epoch_epoch0_untrained_log_iter-2.pth.tar,0,,0.090,0.506,6.9078e+00,high,high,2024-09-07 13:10:14.065527

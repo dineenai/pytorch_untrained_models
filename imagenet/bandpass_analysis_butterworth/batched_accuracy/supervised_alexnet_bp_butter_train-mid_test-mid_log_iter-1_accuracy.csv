@@ -1,0 +1,5 @@
+,model_pth,epoch,batch,top1acc,top5acc,loss,train_band,test_band,timestamp
+0,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch0_untrained_log_iter-1.pth.tar,0,,0.098,0.504,6.9078,mid,mid,2024-09-07 01:08:57.771135
+1,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch0_complete_log_iter-1.pth.tar,0,5005.0,3.386,11.098,5.8278,mid,mid,2024-09-07 01:43:23.288865
+2,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch1_complete_log_iter-1.pth.tar,1,5005.0,2.648,9.498,5.9569,mid,mid,2024-09-07 02:17:18.835499
+3,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch2_complete_log_iter-1.pth.tar,2,5005.0,2.554,8.928,6.0281e+00,mid,mid,2024-09-07 02:51:10.526651

@@ -1,2 +1,4 @@
 ,model_pth,epoch,batch,top1acc,top5acc,loss,train_band,test_band,timestamp
-0,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch0_untrained_iter-5.pth.tar,0,,0.100,0.500,2.6356e+01,mid,mid,2024-08-27 11:34:09.445669
+0,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch0_untrained_iter-5.pth.tar,0,,0.1,0.5,26.356,mid,mid,2024-08-27 11:34:09.445669
+1,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch0_batch1001_iter-5.pth.tar,0,1001.0,0.794,3.108,6.6994,mid,mid,2024-08-27 12:47:35.054033
+2,checkpoint_supervised_resnet50_bp_butter_mid_batches_for_60_epoch_epoch0_batch2002_iter-5.pth.tar,0,2002.0,3.096,10.482,5.8016e+00,mid,mid,2024-08-27 13:38:18.184437
