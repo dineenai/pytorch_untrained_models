@@ -68,7 +68,6 @@ parser.add_argument('-p', '--print-freq', default=10, type=int,
 parser.add_argument('--save_freq', type=int, default=10, help='save frequency') #From CMC - AIM: Save Ckpt.
 parser.add_argument('--resume', default='', type=str, metavar='PATH',
                     help='path to latest checkpoint (default: none)')
-
 parser.add_argument('--cpkt_name', default=None, type=str, metavar='CPKT_name',
                     help='name checkpoints')  #Name checkpoints a from bash script without adapting python script
 
@@ -101,6 +100,7 @@ parser.add_argument('--save_batch_freq', type=int, default=1001, help='save freq
 parser.add_argument('--path_acc', type=str, default=None, help='path to save accuracy')
 parser.add_argument('--iteration', type=int, default=None, help='Replication of Training')
 parser.add_argument('--batches_to_save', type=str, default=None, help='path to csv with batch IDs to save in n_batches_rounded column')
+parser.add_argument('--lr_freq', type=int, default=30, help='frequency to change the learning rate in epochs') 
 
 
 opt = parser.parse_args() #Added from train_CMC.py to facilitate saving ckpts
@@ -193,10 +193,14 @@ def main_worker(gpu, ngpus_per_node, args):
         model = model.cuda(args.gpu)
     else:
         # DataParallel will divide and allocate batch_size to all available GPUs
-        if args.arch.startswith('alexnet') or args.arch.startswith('vgg'):
+        if args.arch.startswith('alexnet') or args.arch.startswith('vgg'): #Revert to default 
+        # if ((args.arch.startswith('alexnet')) or (args.arch.startswith('vgg'))):
+        # # if args.arch.startswith('alexnet'):
+        #     print('RUNNING')
             model.features = torch.nn.DataParallel(model.features)
             model.cuda()
         else:
+            print('NOT RUNNING!!!')
             model = torch.nn.DataParallel(model).cuda()
 
     # define loss function (criterion) and optimizer
@@ -291,6 +295,10 @@ def main_worker(gpu, ngpus_per_node, args):
         batches_df = pd.read_csv(args.batches_to_save, index_col=0)
         batches_df['n_batches_rounded'] = batches_df['n_batches_rounded'] - 1   
         # batch_ids_to_save = batches_df['n_batches_rounded'].unique() 
+        # if alexnet
+        # 
+        if args.batch_size == 32:
+            batches_df['n_batches_rounded'] = batches_df['n_batches_rounded'] * 8
     else:
         batch_ids_to_save = None
 
@@ -557,7 +565,8 @@ class ProgressMeter(object):
 
 def adjust_learning_rate(optimizer, epoch, args):
     """Sets the learning rate to the initial LR decayed by 10 every 30 epochs"""
-    lr = args.lr * (0.1 ** (epoch // 30))
+    # lr = args.lr * (0.1 ** (epoch // 30))
+    lr = args.lr * (0.1 ** (epoch // args.lr_freq))
     for param_group in optimizer.param_groups:
         param_group['lr'] = lr
 

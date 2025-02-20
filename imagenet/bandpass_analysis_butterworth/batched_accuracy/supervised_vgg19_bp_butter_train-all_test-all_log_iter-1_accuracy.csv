@@ -1,0 +1,16 @@
+,model_pth,epoch,batch,top1acc,top5acc,loss,train_band,test_band,timestamp
+0,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch0_untrained_log_iter-1.pth.tar,0,,0.084,0.526,6.9082,all,all,2024-10-18 18:35:54.452129
+1,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch0_complete_log_iter-1.pth.tar,0,40037.0,7.234,21.026,5.0733,all,all,2024-10-18 20:07:42.616853
+2,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch1_complete_log_iter-1.pth.tar,1,40037.0,18.08,41.016,4.0267,all,all,2024-10-18 21:38:13.331223
+3,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch2_complete_log_iter-1.pth.tar,2,40037.0,26.31,51.954,3.506,all,all,2024-10-18 23:08:33.686427
+4,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch3_complete_log_iter-1.pth.tar,3,40037.0,28.242,54.738,3.3617,all,all,2024-10-19 00:38:47.256019
+5,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch4_complete_log_iter-1.pth.tar,4,40037.0,28.222,54.372,3.3882,all,all,2024-10-19 02:09:41.672183
+6,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch5_complete_log_iter-1.pth.tar,5,40037.0,27.792,53.556,3.452,all,all,2024-10-19 03:40:31.661075
+7,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch6_complete_log_iter-1.pth.tar,6,40037.0,17.524,38.218,4.3082,all,all,2024-10-19 05:11:10.742362
+8,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch7_complete_log_iter-1.pth.tar,7,40037.0,0.1,0.5,,all,all,2024-10-19 06:40:24.388230
+9,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch8_complete_log_iter-1.pth.tar,8,40037.0,0.1,0.5,,all,all,2024-10-19 08:09:25.175572
+10,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch9_complete_log_iter-1.pth.tar,9,40037.0,0.1,0.5,,all,all,2024-10-19 09:38:12.006206
+11,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch10_complete_log_iter-1.pth.tar,10,40037.0,0.1,0.5,,all,all,2024-10-19 11:07:07.543159
+12,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch11_complete_log_iter-1.pth.tar,11,40037.0,0.1,0.5,,all,all,2024-10-19 12:35:56.422558
+13,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch12_complete_log_iter-1.pth.tar,12,40037.0,0.1,0.5,,all,all,2024-10-19 14:04:35.951385
+14,checkpoint_supervised_vgg19_bp_butter_all_batches_for_60_epoch_params-AN_default_bs-32_epoch13_complete_log_iter-1.pth.tar,13,40037.0,0.100,0.500,nan,all,all,2024-10-19 15:33:26.633512

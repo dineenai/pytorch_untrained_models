@@ -1,2 +1,22 @@
 ,model_pth,epoch,batch,top1acc,top5acc,loss,train_band,test_band,timestamp
-0,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch0_untrained_log_iter-2.pth.tar,0,,0.102,0.468,6.9078e+00,mid,mid,2024-09-07 13:10:43.485964
+0,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch0_untrained_log_iter-2.pth.tar,0,,0.102,0.468,6.9078,mid,mid,2024-09-07 13:10:43.485964
+1,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch0_complete_log_iter-2.pth.tar,0,5005.0,3.116,10.804,5.8328,mid,mid,2024-09-07 13:45:02.433200
+2,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch1_complete_log_iter-2.pth.tar,1,5005.0,2.694,8.904,5.9857,mid,mid,2024-09-07 14:18:54.093101
+3,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch2_complete_log_iter-2.pth.tar,2,5005.0,2.498,8.416,6.0197,mid,mid,2024-09-07 14:52:45.929787
+4,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch3_complete_log_iter-2.pth.tar,3,5005.0,2.65,9.018,5.9771,mid,mid,2024-09-09 23:58:54.613842
+5,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch4_complete_log_iter-2.pth.tar,4,5005.0,2.996,9.756,5.9152,mid,mid,2024-09-10 00:32:55.013595
+6,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch5_complete_log_iter-2.pth.tar,5,5005.0,3.148,10.336,5.8882,mid,mid,2024-09-10 01:06:52.662010
+7,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch6_complete_log_iter-2.pth.tar,6,5005.0,3.046,10.222,5.9142,mid,mid,2024-09-10 01:40:50.212288
+8,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch7_complete_log_iter-2.pth.tar,7,5005.0,2.69,9.006,6.0015,mid,mid,2024-09-10 02:14:49.729999
+9,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch8_complete_log_iter-2.pth.tar,8,5005.0,2.86,9.392,5.9822,mid,mid,2024-09-10 02:48:47.244057
+10,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch9_complete_log_iter-2.pth.tar,9,5005.0,2.698,8.9,6.0398,mid,mid,2024-09-10 03:22:47.089135
+11,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch10_complete_log_iter-2.pth.tar,10,5005.0,3.212,10.836,5.8883,mid,mid,2024-09-10 03:56:44.220010
+12,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch11_complete_log_iter-2.pth.tar,11,5005.0,3.014,10.158,5.97,mid,mid,2024-09-10 04:30:41.104145
+13,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch12_complete_log_iter-2.pth.tar,12,5005.0,3.126,10.468,5.8967,mid,mid,2024-09-10 05:04:41.466893
+14,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch13_complete_log_iter-2.pth.tar,13,5005.0,3.02,10.076,5.9354,mid,mid,2024-09-10 05:38:41.629335
+15,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch14_complete_log_iter-2.pth.tar,14,5005.0,3.292,10.744,5.9239,mid,mid,2024-09-10 06:12:41.403348
+16,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch15_complete_log_iter-2.pth.tar,15,5005.0,3.086,10.142,5.9832,mid,mid,2024-09-10 06:46:40.591963
+17,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch16_complete_log_iter-2.pth.tar,16,5005.0,3.346,11.048,5.9138,mid,mid,2024-09-10 07:20:40.983346
+18,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch17_complete_log_iter-2.pth.tar,17,5005.0,3.406,11.344,5.8678,mid,mid,2024-09-10 07:54:44.118087
+19,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch18_complete_log_iter-2.pth.tar,18,5005.0,3.238,10.47,5.8973,mid,mid,2024-09-10 08:28:47.494675
+20,checkpoint_supervised_alexnet_bp_butter_mid_batches_for_60_epoch_epoch19_complete_log_iter-2.pth.tar,19,5005.0,3.320,10.744,5.9291e+00,mid,mid,2024-09-10 09:02:50.124129

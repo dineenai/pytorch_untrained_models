@@ -247,6 +247,15 @@ def main_worker(gpu, ngpus_per_node, args):
                     transforms.GaussianBlur(kernel_size=blur_kernel, sigma=(gauss, gauss)),
                     transforms.GaussianBlur(kernel_size=blur_kernel, sigma=(gauss, gauss)),
                     ])
+        elif args.gauss==3:
+            gauss = 2
+            blur_kernel = 13
+            blur_transform = transforms.Compose([
+                    transforms.GaussianBlur(kernel_size=blur_kernel, sigma=(gauss, gauss)), #default kernel size of 9, sigma of 4
+                    transforms.GaussianBlur(kernel_size=blur_kernel, sigma=(gauss, gauss)),
+                    transforms.GaussianBlur(kernel_size=blur_kernel, sigma=(1, 1)),
+                    ])
+            
         elif args.gauss==6:
             gauss = 2 
             blur_kernel = 13
