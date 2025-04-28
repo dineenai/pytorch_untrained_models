@@ -1,0 +1,448 @@
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 2, Test Gaussian: 0 Name: train-2_test-0
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.544 ( 3.544)	Loss 9.1274e+00 (9.1274e+00)	Acc@1   4.00 (  4.00)	Acc@5   4.00 (  4.00)
+Test: [100/500]	Time  0.135 ( 0.203)	Loss 1.3092e+01 (1.2408e+01)	Acc@1   0.00 (  0.39)	Acc@5   1.00 (  2.09)
+Test: [200/500]	Time  0.301 ( 0.190)	Loss 9.5426e+00 (1.2487e+01)	Acc@1   1.00 (  0.43)	Acc@5   1.00 (  2.19)
+Test: [300/500]	Time  0.126 ( 0.183)	Loss 9.9772e+00 (1.1682e+01)	Acc@1   0.00 (  0.73)	Acc@5   3.00 (  3.18)
+Test: [400/500]	Time  0.068 ( 0.179)	Loss 1.0577e+01 (1.1272e+01)	Acc@1   1.00 (  0.92)	Acc@5   1.00 (  3.46)
+ * Acc@1 1.086 Acc@5 3.858
+TRY:
+* Loss:1.1151e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 2, Test Gaussian: 0.5 Name: train-2_test-0.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.919 ( 3.919)	Loss 8.0600e+00 (8.0600e+00)	Acc@1   4.00 (  4.00)	Acc@5   8.00 (  8.00)
+Test: [100/500]	Time  0.068 ( 0.315)	Loss 1.2246e+01 (1.1114e+01)	Acc@1   1.00 (  0.93)	Acc@5   2.00 (  3.68)
+Test: [200/500]	Time  0.232 ( 0.304)	Loss 8.8259e+00 (1.1295e+01)	Acc@1   1.00 (  0.90)	Acc@5   4.00 (  3.64)
+Test: [300/500]	Time  0.068 ( 0.302)	Loss 9.1272e+00 (1.0527e+01)	Acc@1   1.00 (  1.51)	Acc@5   5.00 (  5.22)
+Test: [400/500]	Time  0.068 ( 0.300)	Loss 9.3186e+00 (1.0125e+01)	Acc@1   1.00 (  1.79)	Acc@5   2.00 (  5.79)
+ * Acc@1 1.968 Acc@5 6.200
+TRY:
+* Loss:1.0008e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 2, Test Gaussian: 1 Name: train-2_test-1
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.697 ( 3.697)	Loss 4.7732e+00 (4.7732e+00)	Acc@1  23.00 ( 23.00)	Acc@5  36.00 ( 36.00)
+Test: [100/500]	Time  0.068 ( 0.296)	Loss 8.9751e+00 (6.6236e+00)	Acc@1   2.00 ( 10.75)	Acc@5   7.00 ( 23.56)
+Test: [200/500]	Time  0.068 ( 0.287)	Loss 6.3071e+00 (6.8870e+00)	Acc@1   9.00 (  9.71)	Acc@5  16.00 ( 21.57)
+Test: [300/500]	Time  0.083 ( 0.289)	Loss 6.4926e+00 (6.3695e+00)	Acc@1   1.00 ( 11.74)	Acc@5  15.00 ( 24.84)
+Test: [400/500]	Time  0.068 ( 0.289)	Loss 5.1123e+00 (6.0891e+00)	Acc@1   8.00 ( 12.91)	Acc@5  23.00 ( 26.79)
+ * Acc@1 13.064 Acc@5 27.166
+TRY:
+* Loss:6.0289e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 2, Test Gaussian: 1.5 Name: train-2_test-1.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  4.081 ( 4.081)	Loss 1.3508e+00 (1.3508e+00)	Acc@1  73.00 ( 73.00)	Acc@5  86.00 ( 86.00)
+Test: [100/500]	Time  0.068 ( 0.317)	Loss 2.1082e+00 (1.8466e+00)	Acc@1  43.00 ( 57.47)	Acc@5  83.00 ( 81.07)
+Test: [200/500]	Time  0.844 ( 0.307)	Loss 2.2823e+00 (1.8150e+00)	Acc@1  42.00 ( 57.91)	Acc@5  71.00 ( 81.71)
+Test: [300/500]	Time  0.068 ( 0.301)	Loss 3.7231e+00 (1.9059e+00)	Acc@1  24.00 ( 56.14)	Acc@5  50.00 ( 80.22)
+Test: [400/500]	Time  0.081 ( 0.298)	Loss 1.0725e+00 (1.9573e+00)	Acc@1  72.00 ( 55.37)	Acc@5  90.00 ( 79.34)
+ * Acc@1 54.646 Acc@5 78.726
+TRY:
+* Loss:1.9901e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 2, Test Gaussian: 2 Name: train-2_test-2
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  4.099 ( 4.099)	Loss 6.5190e-01 (6.5190e-01)	Acc@1  88.00 ( 88.00)	Acc@5  95.00 ( 95.00)
+Test: [100/500]	Time  0.069 ( 0.316)	Loss 1.2198e+00 (1.0719e+00)	Acc@1  64.00 ( 72.96)	Acc@5  93.00 ( 90.95)
+Test: [200/500]	Time  0.068 ( 0.305)	Loss 1.3683e+00 (1.0543e+00)	Acc@1  62.00 ( 72.50)	Acc@5  88.00 ( 91.81)
+Test: [300/500]	Time  0.068 ( 0.301)	Loss 3.2561e+00 (1.2452e+00)	Acc@1  33.00 ( 69.08)	Acc@5  60.00 ( 89.21)
+Test: [400/500]	Time  0.068 ( 0.299)	Loss 7.1040e-01 (1.3455e+00)	Acc@1  85.00 ( 67.22)	Acc@5  96.00 ( 87.75)
+ * Acc@1 66.454 Acc@5 87.390
+TRY:
+* Loss:1.3752e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 3
+Train Gaussian: 2, Test Gaussian: 3 Name: train-2_test-3
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  5.306 ( 5.306)	Loss 8.6863e-01 (8.6863e-01)	Acc@1  81.00 ( 81.00)	Acc@5  92.00 ( 92.00)
+Test: [100/500]	Time  2.189 ( 0.646)	Loss 1.9285e+00 (1.7940e+00)	Acc@1  48.00 ( 57.50)	Acc@5  84.00 ( 80.88)
+Test: [200/500]	Time  1.755 ( 0.633)	Loss 2.5495e+00 (1.7656e+00)	Acc@1  48.00 ( 57.13)	Acc@5  72.00 ( 82.00)
+Test: [300/500]	Time  0.072 ( 0.626)	Loss 4.1380e+00 (2.0560e+00)	Acc@1  16.00 ( 52.48)	Acc@5  44.00 ( 77.38)
+Test: [400/500]	Time  0.072 ( 0.623)	Loss 1.7825e+00 (2.1977e+00)	Acc@1  59.00 ( 50.38)	Acc@5  81.00 ( 75.05)
+ * Acc@1 49.822 Acc@5 74.640
+TRY:
+* Loss:2.2296e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 4
+Train Gaussian: 2, Test Gaussian: 4 Name: train-2_test-4
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  5.870 ( 5.870)	Loss 1.2817e+00 (1.2817e+00)	Acc@1  75.00 ( 75.00)	Acc@5  88.00 ( 88.00)
+Test: [100/500]	Time  2.571 ( 0.756)	Loss 2.5095e+00 (2.6511e+00)	Acc@1  40.00 ( 42.04)	Acc@5  74.00 ( 68.15)
+Test: [200/500]	Time  2.504 ( 0.735)	Loss 3.9855e+00 (2.6181e+00)	Acc@1  28.00 ( 42.04)	Acc@5  42.00 ( 68.56)
+Test: [300/500]	Time  2.558 ( 0.723)	Loss 4.9222e+00 (2.9744e+00)	Acc@1   7.00 ( 37.45)	Acc@5  30.00 ( 62.57)
+Test: [400/500]	Time  2.592 ( 0.717)	Loss 2.6475e+00 (3.1378e+00)	Acc@1  39.00 ( 35.43)	Acc@5  69.00 ( 59.77)
+ * Acc@1 35.186 Acc@5 59.414
+TRY:
+* Loss:3.1630e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 6
+Train Gaussian: 2, Test Gaussian: 6 Name: train-2_test-6
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  8.072 ( 8.072)	Loss 2.3641e+00 (2.3641e+00)	Acc@1  56.00 ( 56.00)	Acc@5  73.00 ( 73.00)
+Test: [100/500]	Time  5.234 ( 1.430)	Loss 4.0587e+00 (4.3898e+00)	Acc@1  12.00 ( 19.08)	Acc@5  41.00 ( 39.01)
+Test: [200/500]	Time  5.112 ( 1.408)	Loss 5.7767e+00 (4.3411e+00)	Acc@1  10.00 ( 19.17)	Acc@5  20.00 ( 39.66)
+Test: [300/500]	Time  5.198 ( 1.389)	Loss 6.4057e+00 (4.7689e+00)	Acc@1   3.00 ( 15.97)	Acc@5  12.00 ( 33.87)
+Test: [400/500]	Time  5.258 ( 1.383)	Loss 4.5377e+00 (4.9433e+00)	Acc@1  21.00 ( 14.85)	Acc@5  32.00 ( 31.47)
+ * Acc@1 15.062 Acc@5 31.628
+TRY:
+* Loss:4.9455e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 3, Test Gaussian: 0 Name: train-3_test-0
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.293 ( 3.293)	Loss 1.1557e+01 (1.1557e+01)	Acc@1   1.00 (  1.00)	Acc@5   1.00 (  1.00)
+Test: [100/500]	Time  0.068 ( 0.194)	Loss 1.6262e+01 (1.6470e+01)	Acc@1   0.00 (  0.08)	Acc@5   0.00 (  0.21)
+Test: [200/500]	Time  0.317 ( 0.181)	Loss 2.2574e+01 (1.6353e+01)	Acc@1   0.00 (  0.05)	Acc@5   0.00 (  0.37)
+Test: [300/500]	Time  0.068 ( 0.175)	Loss 1.5914e+01 (1.6883e+01)	Acc@1   0.00 (  0.11)	Acc@5   0.00 (  0.69)
+Test: [400/500]	Time  0.068 ( 0.171)	Loss 1.8167e+01 (1.7063e+01)	Acc@1   0.00 (  0.11)	Acc@5   0.00 (  0.72)
+ * Acc@1 0.216 Acc@5 0.912
+TRY:
+* Loss:1.7057e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 3, Test Gaussian: 0.5 Name: train-3_test-0.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.841 ( 3.841)	Loss 1.0300e+01 (1.0300e+01)	Acc@1   1.00 (  1.00)	Acc@5   1.00 (  1.00)
+Test: [100/500]	Time  0.068 ( 0.296)	Loss 1.5535e+01 (1.4693e+01)	Acc@1   0.00 (  0.11)	Acc@5   0.00 (  0.24)
+Test: [200/500]	Time  0.773 ( 0.290)	Loss 1.8410e+01 (1.4711e+01)	Acc@1   0.00 (  0.07)	Acc@5   0.00 (  0.44)
+Test: [300/500]	Time  0.573 ( 0.282)	Loss 1.3422e+01 (1.4842e+01)	Acc@1   0.00 (  0.16)	Acc@5   1.00 (  0.82)
+Test: [400/500]	Time  0.138 ( 0.278)	Loss 1.5425e+01 (1.4848e+01)	Acc@1   0.00 (  0.16)	Acc@5   0.00 (  0.88)
+ * Acc@1 0.280 Acc@5 1.084
+TRY:
+* Loss:1.4826e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 3, Test Gaussian: 1 Name: train-3_test-1
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.793 ( 3.793)	Loss 8.3940e+00 (8.3940e+00)	Acc@1   1.00 (  1.00)	Acc@5   2.00 (  2.00)
+Test: [100/500]	Time  0.068 ( 0.297)	Loss 1.3315e+01 (1.2075e+01)	Acc@1   0.00 (  0.23)	Acc@5   0.00 (  0.92)
+Test: [200/500]	Time  0.813 ( 0.290)	Loss 1.1045e+01 (1.2175e+01)	Acc@1   0.00 (  0.17)	Acc@5   0.00 (  1.10)
+Test: [300/500]	Time  0.287 ( 0.283)	Loss 9.7503e+00 (1.1597e+01)	Acc@1   0.00 (  0.48)	Acc@5   3.00 (  1.85)
+Test: [400/500]	Time  0.197 ( 0.280)	Loss 1.0520e+01 (1.1264e+01)	Acc@1   0.00 (  0.57)	Acc@5   0.00 (  2.12)
+ * Acc@1 0.706 Acc@5 2.388
+TRY:
+* Loss:1.1217e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 3, Test Gaussian: 1.5 Name: train-3_test-1.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.855 ( 3.855)	Loss 7.0606e+00 (7.0606e+00)	Acc@1   3.00 (  3.00)	Acc@5   9.00 (  9.00)
+Test: [100/500]	Time  0.068 ( 0.299)	Loss 1.1320e+01 (9.8618e+00)	Acc@1   0.00 (  1.15)	Acc@5   0.00 (  3.68)
+Test: [200/500]	Time  0.068 ( 0.291)	Loss 8.4748e+00 (1.0060e+01)	Acc@1   1.00 (  1.00)	Acc@5   6.00 (  3.52)
+Test: [300/500]	Time  0.068 ( 0.287)	Loss 8.1929e+00 (9.3408e+00)	Acc@1   0.00 (  1.97)	Acc@5   5.00 (  5.71)
+Test: [400/500]	Time  0.070 ( 0.283)	Loss 8.5489e+00 (8.9218e+00)	Acc@1   2.00 (  2.58)	Acc@5   3.00 (  6.93)
+ * Acc@1 2.808 Acc@5 7.320
+TRY:
+* Loss:8.8619e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 3, Test Gaussian: 2 Name: train-3_test-2
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.813 ( 3.813)	Loss 5.6474e+00 (5.6474e+00)	Acc@1  15.00 ( 15.00)	Acc@5  25.00 ( 25.00)
+Test: [100/500]	Time  0.068 ( 0.295)	Loss 9.6142e+00 (7.0245e+00)	Acc@1   0.00 (  8.13)	Acc@5   3.00 ( 17.98)
+Test: [200/500]	Time  0.627 ( 0.287)	Loss 6.4432e+00 (7.3961e+00)	Acc@1  16.00 (  6.61)	Acc@5  26.00 ( 15.19)
+Test: [300/500]	Time  0.068 ( 0.281)	Loss 6.2666e+00 (6.6887e+00)	Acc@1   4.00 (  9.18)	Acc@5  15.00 ( 20.29)
+Test: [400/500]	Time  0.068 ( 0.279)	Loss 5.3517e+00 (6.2883e+00)	Acc@1  15.00 ( 11.08)	Acc@5  28.00 ( 23.39)
+ * Acc@1 11.494 Acc@5 24.120
+TRY:
+* Loss:6.2077e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 3
+Train Gaussian: 3, Test Gaussian: 3 Name: train-3_test-3
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  4.925 ( 4.925)	Loss 6.1854e-01 (6.1854e-01)	Acc@1  87.00 ( 87.00)	Acc@5  93.00 ( 93.00)
+Test: [100/500]	Time  0.955 ( 0.586)	Loss 1.2630e+00 (1.1152e+00)	Acc@1  60.00 ( 71.12)	Acc@5  93.00 ( 90.56)
+Test: [200/500]	Time  1.481 ( 0.580)	Loss 1.8638e+00 (1.0903e+00)	Acc@1  50.00 ( 71.52)	Acc@5  82.00 ( 91.43)
+Test: [300/500]	Time  0.068 ( 0.573)	Loss 3.1605e+00 (1.2861e+00)	Acc@1  33.00 ( 67.98)	Acc@5  58.00 ( 88.65)
+Test: [400/500]	Time  0.071 ( 0.574)	Loss 8.8191e-01 (1.3825e+00)	Acc@1  83.00 ( 66.35)	Acc@5  96.00 ( 87.18)
+ * Acc@1 65.522 Acc@5 86.680
+TRY:
+* Loss:1.4187e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 4
+Train Gaussian: 3, Test Gaussian: 4 Name: train-3_test-4
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  5.426 ( 5.426)	Loss 1.3505e+00 (1.3505e+00)	Acc@1  72.00 ( 72.00)	Acc@5  87.00 ( 87.00)
+Test: [100/500]	Time  1.801 ( 0.728)	Loss 1.9855e+00 (1.8993e+00)	Acc@1  38.00 ( 56.14)	Acc@5  86.00 ( 79.02)
+Test: [200/500]	Time  2.499 ( 0.720)	Loss 2.5399e+00 (1.8379e+00)	Acc@1  50.00 ( 56.56)	Acc@5  72.00 ( 80.66)
+Test: [300/500]	Time  2.097 ( 0.713)	Loss 4.0872e+00 (2.1931e+00)	Acc@1  19.00 ( 50.97)	Acc@5  43.00 ( 75.01)
+Test: [400/500]	Time  2.106 ( 0.709)	Loss 2.0000e+00 (2.3678e+00)	Acc@1  54.00 ( 48.38)	Acc@5  80.00 ( 72.15)
+ * Acc@1 47.710 Acc@5 71.496
+TRY:
+* Loss:2.4178e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 6
+Train Gaussian: 3, Test Gaussian: 6 Name: train-3_test-6
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  7.999 ( 7.999)	Loss 3.6055e+00 (3.6055e+00)	Acc@1  35.00 ( 35.00)	Acc@5  53.00 ( 53.00)
+Test: [100/500]	Time  4.969 ( 1.414)	Loss 3.5938e+00 (3.7305e+00)	Acc@1  17.00 ( 26.58)	Acc@5  46.00 ( 49.22)
+Test: [200/500]	Time  5.108 ( 1.398)	Loss 4.9271e+00 (3.6969e+00)	Acc@1  12.00 ( 26.97)	Acc@5  29.00 ( 50.28)
+Test: [300/500]	Time  5.262 ( 1.389)	Loss 5.6523e+00 (4.0082e+00)	Acc@1   5.00 ( 23.56)	Acc@5  19.00 ( 44.95)
+Test: [400/500]	Time  5.283 ( 1.385)	Loss 3.7990e+00 (4.1497e+00)	Acc@1  27.00 ( 22.24)	Acc@5  49.00 ( 42.48)
+ * Acc@1 22.352 Acc@5 42.512
+TRY:
+* Loss:4.1568e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 4, Test Gaussian: 0 Name: train-4_test-0
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.286 ( 3.286)	Loss 2.0970e+01 (2.0970e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.00)
+Test: [100/500]	Time  0.068 ( 0.194)	Loss 2.1782e+01 (2.5725e+01)	Acc@1   0.00 (  0.01)	Acc@5   0.00 (  0.01)
+Test: [200/500]	Time  0.282 ( 0.180)	Loss 2.6680e+01 (2.5344e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.00)
+Test: [300/500]	Time  0.068 ( 0.174)	Loss 2.1168e+01 (2.4176e+01)	Acc@1   0.00 (  0.01)	Acc@5   0.00 (  0.21)
+Test: [400/500]	Time  0.068 ( 0.170)	Loss 2.1061e+01 (2.3446e+01)	Acc@1   0.00 (  0.13)	Acc@5   0.00 (  0.43)
+ * Acc@1 0.118 Acc@5 0.588
+TRY:
+* Loss:2.3105e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 4, Test Gaussian: 0.5 Name: train-4_test-0.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.805 ( 3.805)	Loss 1.9570e+01 (1.9570e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.00)
+Test: [100/500]	Time  0.068 ( 0.303)	Loss 2.0750e+01 (2.3993e+01)	Acc@1   0.00 (  0.01)	Acc@5   0.00 (  0.01)
+Test: [200/500]	Time  0.230 ( 0.289)	Loss 2.4180e+01 (2.3658e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.01)
+Test: [300/500]	Time  0.068 ( 0.285)	Loss 1.9199e+01 (2.2436e+01)	Acc@1   0.00 (  0.02)	Acc@5   0.00 (  0.23)
+Test: [400/500]	Time  0.068 ( 0.282)	Loss 1.9394e+01 (2.1691e+01)	Acc@1   0.00 (  0.15)	Acc@5   0.00 (  0.44)
+ * Acc@1 0.132 Acc@5 0.612
+TRY:
+* Loss:2.1368e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 4, Test Gaussian: 1 Name: train-4_test-1
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.845 ( 3.845)	Loss 1.6230e+01 (1.6230e+01)	Acc@1   1.00 (  1.00)	Acc@5   1.00 (  1.00)
+Test: [100/500]	Time  0.068 ( 0.297)	Loss 1.8294e+01 (2.0067e+01)	Acc@1   0.00 (  0.02)	Acc@5   0.00 (  0.02)
+Test: [200/500]	Time  0.068 ( 0.288)	Loss 1.8729e+01 (1.9814e+01)	Acc@1   0.00 (  0.01)	Acc@5   0.00 (  0.02)
+Test: [300/500]	Time  0.068 ( 0.285)	Loss 1.5014e+01 (1.8550e+01)	Acc@1   0.00 (  0.04)	Acc@5   0.00 (  0.32)
+Test: [400/500]	Time  0.068 ( 0.282)	Loss 1.5918e+01 (1.7808e+01)	Acc@1   0.00 (  0.17)	Acc@5   0.00 (  0.52)
+ * Acc@1 0.174 Acc@5 0.676
+TRY:
+* Loss:1.7551e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 4, Test Gaussian: 1.5 Name: train-4_test-1.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.822 ( 3.822)	Loss 1.3105e+01 (1.3105e+01)	Acc@1   1.00 (  1.00)	Acc@5   1.00 (  1.00)
+Test: [100/500]	Time  0.070 ( 0.300)	Loss 1.5856e+01 (1.6726e+01)	Acc@1   0.00 (  0.03)	Acc@5   0.00 (  0.06)
+Test: [200/500]	Time  0.068 ( 0.288)	Loss 1.4846e+01 (1.6518e+01)	Acc@1   0.00 (  0.02)	Acc@5   0.00 (  0.04)
+Test: [300/500]	Time  0.068 ( 0.284)	Loss 1.2171e+01 (1.5379e+01)	Acc@1   0.00 (  0.09)	Acc@5   0.00 (  0.47)
+Test: [400/500]	Time  0.068 ( 0.280)	Loss 1.3131e+01 (1.4717e+01)	Acc@1   0.00 (  0.22)	Acc@5   2.00 (  0.72)
+ * Acc@1 0.244 Acc@5 0.946
+TRY:
+* Loss:1.4547e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 4, Test Gaussian: 2 Name: train-4_test-2
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.833 ( 3.833)	Loss 1.0566e+01 (1.0566e+01)	Acc@1   1.00 (  1.00)	Acc@5   2.00 (  2.00)
+Test: [100/500]	Time  0.135 ( 0.297)	Loss 1.3546e+01 (1.3890e+01)	Acc@1   0.00 (  0.05)	Acc@5   0.00 (  0.19)
+Test: [200/500]	Time  0.775 ( 0.292)	Loss 1.2139e+01 (1.3721e+01)	Acc@1   0.00 (  0.05)	Acc@5   0.00 (  0.23)
+Test: [300/500]	Time  0.071 ( 0.283)	Loss 1.0164e+01 (1.2779e+01)	Acc@1   0.00 (  0.23)	Acc@5   0.00 (  1.04)
+Test: [400/500]	Time  0.068 ( 0.281)	Loss 1.0497e+01 (1.2226e+01)	Acc@1   1.00 (  0.44)	Acc@5   2.00 (  1.46)
+ * Acc@1 0.502 Acc@5 1.790
+TRY:
+* Loss:1.2129e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 3
+Train Gaussian: 4, Test Gaussian: 3 Name: train-4_test-3
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  4.945 ( 4.945)	Loss 4.9534e+00 (4.9534e+00)	Acc@1  23.00 ( 23.00)	Acc@5  36.00 ( 36.00)
+Test: [100/500]	Time  0.962 ( 0.588)	Loss 7.6586e+00 (5.7380e+00)	Acc@1   4.00 ( 14.67)	Acc@5   5.00 ( 29.36)
+Test: [200/500]	Time  0.598 ( 0.580)	Loss 4.1986e+00 (5.9909e+00)	Acc@1  22.00 ( 12.49)	Acc@5  47.00 ( 26.38)
+Test: [300/500]	Time  0.072 ( 0.578)	Loss 5.1615e+00 (5.4992e+00)	Acc@1   4.00 ( 15.06)	Acc@5  21.00 ( 30.70)
+Test: [400/500]	Time  0.072 ( 0.577)	Loss 3.5422e+00 (5.2435e+00)	Acc@1  32.00 ( 16.80)	Acc@5  59.00 ( 33.13)
+ * Acc@1 16.958 Acc@5 33.694
+TRY:
+* Loss:5.1959e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 4
+Train Gaussian: 4, Test Gaussian: 4 Name: train-4_test-4
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  5.454 ( 5.454)	Loss 6.0944e-01 (6.0944e-01)	Acc@1  87.00 ( 87.00)	Acc@5  93.00 ( 93.00)
+Test: [100/500]	Time  1.385 ( 0.719)	Loss 1.5526e+00 (1.2558e+00)	Acc@1  58.00 ( 68.70)	Acc@5  90.00 ( 88.20)
+Test: [200/500]	Time  2.126 ( 0.712)	Loss 1.8569e+00 (1.2298e+00)	Acc@1  48.00 ( 68.57)	Acc@5  80.00 ( 89.30)
+Test: [300/500]	Time  0.594 ( 0.704)	Loss 3.3942e+00 (1.4396e+00)	Acc@1  31.00 ( 64.95)	Acc@5  53.00 ( 86.44)
+Test: [400/500]	Time  0.068 ( 0.703)	Loss 9.2830e-01 (1.5531e+00)	Acc@1  75.00 ( 62.86)	Acc@5  96.00 ( 84.74)
+ * Acc@1 62.180 Acc@5 84.330
+TRY:
+* Loss:1.5834e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 6
+Train Gaussian: 4, Test Gaussian: 6 Name: train-4_test-6
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  8.131 ( 8.131)	Loss 3.0500e+00 (3.0500e+00)	Acc@1  46.00 ( 46.00)	Acc@5  67.00 ( 67.00)
+Test: [100/500]	Time  3.570 ( 1.412)	Loss 4.0395e+00 (3.6051e+00)	Acc@1  13.00 ( 29.78)	Acc@5  43.00 ( 52.40)
+Test: [200/500]	Time  3.561 ( 1.396)	Loss 4.4012e+00 (3.6141e+00)	Acc@1  13.00 ( 29.68)	Acc@5  34.00 ( 52.49)
+Test: [300/500]	Time  2.826 ( 1.387)	Loss 5.8097e+00 (3.8460e+00)	Acc@1   4.00 ( 26.72)	Acc@5  18.00 ( 48.28)
+Test: [400/500]	Time  3.855 ( 1.383)	Loss 3.3936e+00 (3.9581e+00)	Acc@1  30.00 ( 25.38)	Acc@5  60.00 ( 46.14)
+ * Acc@1 25.384 Acc@5 46.050
+TRY:
+* Loss:3.9624e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 6, Test Gaussian: 0 Name: train-6_test-0
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.288 ( 3.288)	Loss 1.4215e+01 (1.4215e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.00)
+Test: [100/500]	Time  0.068 ( 0.191)	Loss 1.6522e+01 (1.7121e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.01)
+Test: [200/500]	Time  0.339 ( 0.181)	Loss 1.0775e+01 (1.7133e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.00)
+Test: [300/500]	Time  0.070 ( 0.173)	Loss 1.2055e+01 (1.6003e+01)	Acc@1   0.00 (  0.04)	Acc@5   0.00 (  0.17)
+Test: [400/500]	Time  0.068 ( 0.170)	Loss 1.3511e+01 (1.5282e+01)	Acc@1   0.00 (  0.03)	Acc@5   0.00 (  0.18)
+ * Acc@1 0.182 Acc@5 0.630
+TRY:
+* Loss:1.4991e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 6, Test Gaussian: 0.5 Name: train-6_test-0.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.830 ( 3.830)	Loss 1.3990e+01 (1.3990e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.00)
+Test: [100/500]	Time  0.068 ( 0.298)	Loss 1.6381e+01 (1.6888e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.01)
+Test: [200/500]	Time  0.772 ( 0.289)	Loss 1.0540e+01 (1.6917e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.00)
+Test: [300/500]	Time  0.068 ( 0.283)	Loss 1.1941e+01 (1.5803e+01)	Acc@1   0.00 (  0.02)	Acc@5   0.00 (  0.17)
+Test: [400/500]	Time  0.068 ( 0.280)	Loss 1.3331e+01 (1.5092e+01)	Acc@1   0.00 (  0.02)	Acc@5   0.00 (  0.19)
+ * Acc@1 0.176 Acc@5 0.642
+TRY:
+* Loss:1.4809e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 6, Test Gaussian: 1 Name: train-6_test-1
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.785 ( 3.785)	Loss 1.3362e+01 (1.3362e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.00)
+Test: [100/500]	Time  0.069 ( 0.298)	Loss 1.5955e+01 (1.6218e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.01)
+Test: [200/500]	Time  0.070 ( 0.288)	Loss 9.9684e+00 (1.6283e+01)	Acc@1   0.00 (  0.00)	Acc@5   1.00 (  0.01)
+Test: [300/500]	Time  0.069 ( 0.285)	Loss 1.1671e+01 (1.5230e+01)	Acc@1   0.00 (  0.01)	Acc@5   0.00 (  0.18)
+Test: [400/500]	Time  0.069 ( 0.280)	Loss 1.2965e+01 (1.4561e+01)	Acc@1   0.00 (  0.01)	Acc@5   0.00 (  0.21)
+ * Acc@1 0.168 Acc@5 0.684
+TRY:
+* Loss:1.4301e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 6, Test Gaussian: 1.5 Name: train-6_test-1.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.832 ( 3.832)	Loss 1.2714e+01 (1.2714e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.00)
+Test: [100/500]	Time  0.068 ( 0.297)	Loss 1.5491e+01 (1.5544e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.01)
+Test: [200/500]	Time  0.541 ( 0.287)	Loss 9.5233e+00 (1.5636e+01)	Acc@1   0.00 (  0.00)	Acc@5   1.00 (  0.02)
+Test: [300/500]	Time  0.068 ( 0.281)	Loss 1.1450e+01 (1.4662e+01)	Acc@1   0.00 (  0.01)	Acc@5   0.00 (  0.21)
+Test: [400/500]	Time  0.068 ( 0.279)	Loss 1.2754e+01 (1.4043e+01)	Acc@1   0.00 (  0.01)	Acc@5   0.00 (  0.26)
+ * Acc@1 0.162 Acc@5 0.726
+TRY:
+* Loss:1.3811e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 6, Test Gaussian: 2 Name: train-6_test-2
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  3.784 ( 3.784)	Loss 1.2118e+01 (1.2118e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.00)
+Test: [100/500]	Time  0.070 ( 0.296)	Loss 1.5048e+01 (1.4975e+01)	Acc@1   0.00 (  0.00)	Acc@5   0.00 (  0.01)
+Test: [200/500]	Time  0.589 ( 0.286)	Loss 9.2511e+00 (1.5078e+01)	Acc@1   0.00 (  0.00)	Acc@5   1.00 (  0.03)
+Test: [300/500]	Time  0.068 ( 0.281)	Loss 1.1313e+01 (1.4185e+01)	Acc@1   0.00 (  0.01)	Acc@5   1.00 (  0.24)
+Test: [400/500]	Time  0.068 ( 0.279)	Loss 1.2640e+01 (1.3613e+01)	Acc@1   0.00 (  0.01)	Acc@5   0.00 (  0.31)
+ * Acc@1 0.158 Acc@5 0.798
+TRY:
+* Loss:1.3406e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 3
+Train Gaussian: 6, Test Gaussian: 3 Name: train-6_test-3
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  4.968 ( 4.968)	Loss 9.6497e+00 (9.6497e+00)	Acc@1   0.00 (  0.00)	Acc@5   1.00 (  1.00)
+Test: [100/500]	Time  1.948 ( 0.592)	Loss 1.3139e+01 (1.2657e+01)	Acc@1   0.00 (  0.04)	Acc@5   0.00 (  0.24)
+Test: [200/500]	Time  1.933 ( 0.582)	Loss 8.2736e+00 (1.2771e+01)	Acc@1   0.00 (  0.04)	Acc@5   2.00 (  0.38)
+Test: [300/500]	Time  0.664 ( 0.574)	Loss 1.0520e+01 (1.2157e+01)	Acc@1   0.00 (  0.06)	Acc@5   2.00 (  0.71)
+Test: [400/500]	Time  0.069 ( 0.571)	Loss 1.1360e+01 (1.1750e+01)	Acc@1   0.00 (  0.11)	Acc@5   0.00 (  0.93)
+ * Acc@1 0.294 Acc@5 1.340
+TRY:
+* Loss:1.1617e+01
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 4
+Train Gaussian: 6, Test Gaussian: 4 Name: train-6_test-4
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  5.384 ( 5.384)	Loss 7.3222e+00 (7.3222e+00)	Acc@1   1.00 (  1.00)	Acc@5   5.00 (  5.00)
+Test: [100/500]	Time  2.552 ( 0.731)	Loss 1.1447e+01 (9.9043e+00)	Acc@1   0.00 (  0.62)	Acc@5   0.00 (  2.15)
+Test: [200/500]	Time  2.502 ( 0.722)	Loss 6.0586e+00 (1.0072e+01)	Acc@1   3.00 (  0.76)	Acc@5  21.00 (  2.62)
+Test: [300/500]	Time  1.899 ( 0.714)	Loss 8.5085e+00 (9.4581e+00)	Acc@1   1.00 (  1.15)	Acc@5   4.00 (  3.82)
+Test: [400/500]	Time  1.479 ( 0.708)	Loss 7.4563e+00 (9.0910e+00)	Acc@1   4.00 (  1.60)	Acc@5  11.00 (  4.90)
+ * Acc@1 1.784 Acc@5 5.300
+TRY:
+* Loss:8.9560e+00
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 6
+Train Gaussian: 6, Test Gaussian: 6 Name: train-6_test-6
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /data/ILSVRC2012/val_in_folders
+Test: [  0/500]	Time  8.126 ( 8.126)	Loss 8.4873e-01 (8.4873e-01)	Acc@1  81.00 ( 81.00)	Acc@5  92.00 ( 92.00)
+Test: [100/500]	Time  5.224 ( 1.421)	Loss 1.7412e+00 (1.4426e+00)	Acc@1  44.00 ( 64.34)	Acc@5  91.00 ( 85.93)
+Test: [200/500]	Time  5.169 ( 1.404)	Loss 1.7961e+00 (1.3931e+00)	Acc@1  53.00 ( 64.78)	Acc@5  82.00 ( 87.31)
+Test: [300/500]	Time  5.249 ( 1.393)	Loss 3.8543e+00 (1.6083e+00)	Acc@1  24.00 ( 61.44)	Acc@5  47.00 ( 83.90)
+Test: [400/500]	Time  5.267 ( 1.389)	Loss 9.4144e-01 (1.7317e+00)	Acc@1  78.00 ( 59.24)	Acc@5  93.00 ( 82.04)
+ * Acc@1 58.454 Acc@5 81.482
+TRY:
+* Loss:1.7679e+00

@@ -1,0 +1,64 @@
+/var/spool/slurm/d/job01888/slurm_script: line 10: /foundcog/pyenv3.8/bin/activate: No such file or directory
+Traceback (most recent call last):
+  File "main_val_shape_bias_df_blur_mmk.py", line 22, in <module>
+    from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
+ModuleNotFoundError: No module named 'pytorch_image_folder_with_file_paths'
+srun: error: cusacklab-lamb00: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "main_val_shape_bias_df_blur_mmk.py", line 22, in <module>
+    from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
+ModuleNotFoundError: No module named 'pytorch_image_folder_with_file_paths'
+srun: error: cusacklab-lamb00: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "main_val_shape_bias_df_blur_mmk.py", line 22, in <module>
+    from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
+ModuleNotFoundError: No module named 'pytorch_image_folder_with_file_paths'
+srun: error: cusacklab-lamb00: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "main_val_shape_bias_df_blur_mmk.py", line 22, in <module>
+    from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
+ModuleNotFoundError: No module named 'pytorch_image_folder_with_file_paths'
+srun: error: cusacklab-lamb00: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "main_val_shape_bias_df_blur_mmk.py", line 22, in <module>
+    from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
+ModuleNotFoundError: No module named 'pytorch_image_folder_with_file_paths'
+srun: error: cusacklab-lamb00: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "main_val_shape_bias_df_blur_mmk.py", line 22, in <module>
+    from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
+ModuleNotFoundError: No module named 'pytorch_image_folder_with_file_paths'
+srun: error: cusacklab-lamb00: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "main_val_shape_bias_df_blur_mmk.py", line 22, in <module>
+    from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
+ModuleNotFoundError: No module named 'pytorch_image_folder_with_file_paths'
+srun: error: cusacklab-lamb00: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "main_val_shape_bias_df_blur_mmk.py", line 22, in <module>
+    from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
+ModuleNotFoundError: No module named 'pytorch_image_folder_with_file_paths'
+srun: error: cusacklab-lamb00: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "main_val_shape_bias_df_blur_mmk.py", line 22, in <module>
+    from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
+ModuleNotFoundError: No module named 'pytorch_image_folder_with_file_paths'
+srun: error: cusacklab-lamb00: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "main_val_shape_bias_df_blur_mmk.py", line 22, in <module>
+    from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
+ModuleNotFoundError: No module named 'pytorch_image_folder_with_file_paths'
+srun: error: cusacklab-lamb00: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "main_val_shape_bias_df_blur_mmk.py", line 22, in <module>
+    from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
+ModuleNotFoundError: No module named 'pytorch_image_folder_with_file_paths'
+srun: error: cusacklab-lamb00: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "main_val_shape_bias_df_blur_mmk.py", line 22, in <module>
+    from pytorch_image_folder_with_file_paths import ImageFolderWithPaths #Print Image Name https://stackoverflow.com/questions/56962318/printing-image-paths-from-the-dataloader-in-pytorch
+ModuleNotFoundError: No module named 'pytorch_image_folder_with_file_paths'
+srun: error: cusacklab-lamb00: task 0: Exited with exit code 1
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 1888.12 ON cusacklab-lamb00 CANCELLED AT 2025-04-27T00:00:19 ***
+slurmstepd: error: *** JOB 1888 ON cusacklab-lamb00 CANCELLED AT 2025-04-27T00:00:19 ***

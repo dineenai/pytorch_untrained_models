@@ -1,0 +1,512 @@
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 0, Test Gaussian: 0 Name: train-0_test-0
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0_test-0...
+Overall Shape Bias: 0.1987
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 0, Test Gaussian: 0.5 Name: train-0_test-0.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0_test-0.5...
+Overall Shape Bias: 0.2274
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 0, Test Gaussian: 1 Name: train-0_test-1
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0_test-1...
+Overall Shape Bias: 0.3681
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 0, Test Gaussian: 1.5 Name: train-0_test-1.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0_test-1.5...
+Overall Shape Bias: 0.4846
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 0, Test Gaussian: 2 Name: train-0_test-2
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0_test-2...
+Overall Shape Bias: 0.5588
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 3
+Train Gaussian: 0, Test Gaussian: 3 Name: train-0_test-3
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0_test-3...
+Overall Shape Bias: 0.6851
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 4
+Train Gaussian: 0, Test Gaussian: 4 Name: train-0_test-4
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0_test-4...
+Overall Shape Bias: 0.6646
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 6
+Train Gaussian: 0, Test Gaussian: 6 Name: train-0_test-6
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0_test-6...
+Overall Shape Bias: 0.6000
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 0.5, Test Gaussian: 0 Name: train-0.5_test-0
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0.5_test-0...
+Overall Shape Bias: 0.2593
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 0.5, Test Gaussian: 0.5 Name: train-0.5_test-0.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0.5_test-0.5...
+Overall Shape Bias: 0.2548
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 0.5, Test Gaussian: 1 Name: train-0.5_test-1
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0.5_test-1...
+Overall Shape Bias: 0.3851
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 0.5, Test Gaussian: 1.5 Name: train-0.5_test-1.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0.5_test-1.5...
+Overall Shape Bias: 0.5390
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 0.5, Test Gaussian: 2 Name: train-0.5_test-2
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0.5_test-2...
+Overall Shape Bias: 0.6034
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 3
+Train Gaussian: 0.5, Test Gaussian: 3 Name: train-0.5_test-3
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0.5_test-3...
+Overall Shape Bias: 0.6984
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 4
+Train Gaussian: 0.5, Test Gaussian: 4 Name: train-0.5_test-4
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0.5_test-4...
+Overall Shape Bias: 0.6975
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 6
+Train Gaussian: 0.5, Test Gaussian: 6 Name: train-0.5_test-6
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-0.5_test-6...
+Overall Shape Bias: 0.6098
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 1, Test Gaussian: 0 Name: train-1_test-0
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1_test-0...
+Overall Shape Bias: 0.4176
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 1, Test Gaussian: 0.5 Name: train-1_test-0.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1_test-0.5...
+Overall Shape Bias: 0.3458
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 1, Test Gaussian: 1 Name: train-1_test-1
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1_test-1...
+Overall Shape Bias: 0.2774
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 1, Test Gaussian: 1.5 Name: train-1_test-1.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1_test-1.5...
+Overall Shape Bias: 0.3905
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 1, Test Gaussian: 2 Name: train-1_test-2
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1_test-2...
+Overall Shape Bias: 0.5221
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar with Gaussian level 3
+Train Gaussian: 1, Test Gaussian: 3 Name: train-1_test-3
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1_test-3...
+Overall Shape Bias: 0.6863
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar with Gaussian level 4
+Train Gaussian: 1, Test Gaussian: 4 Name: train-1_test-4
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1_test-4...
+Overall Shape Bias: 0.7455
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar with Gaussian level 6
+Train Gaussian: 1, Test Gaussian: 6 Name: train-1_test-6
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1_test-6...
+Overall Shape Bias: 0.7300
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 1.5, Test Gaussian: 0 Name: train-1.5_test-0
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1.5_test-0...
+Overall Shape Bias: 0.5529
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 1.5, Test Gaussian: 0.5 Name: train-1.5_test-0.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1.5_test-0.5...
+Overall Shape Bias: 0.4956
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 1.5, Test Gaussian: 1 Name: train-1.5_test-1
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1.5_test-1...
+Overall Shape Bias: 0.3638
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 1.5, Test Gaussian: 1.5 Name: train-1.5_test-1.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1.5_test-1.5...
+Overall Shape Bias: 0.3542
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 1.5, Test Gaussian: 2 Name: train-1.5_test-2
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1.5_test-2...
+Overall Shape Bias: 0.5094
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 3
+Train Gaussian: 1.5, Test Gaussian: 3 Name: train-1.5_test-3
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1.5_test-3...
+Overall Shape Bias: 0.6789
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 4
+Train Gaussian: 1.5, Test Gaussian: 4 Name: train-1.5_test-4
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1.5_test-4...
+Overall Shape Bias: 0.7623
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 6
+Train Gaussian: 1.5, Test Gaussian: 6 Name: train-1.5_test-6
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_1pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_1pt5_for_60_epoch_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-1.5_test-6...
+Overall Shape Bias: 0.8212
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 2, Test Gaussian: 0 Name: train-2_test-0
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-2_test-0...
+Overall Shape Bias: 0.5153
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 2, Test Gaussian: 0.5 Name: train-2_test-0.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-2_test-0.5...
+Overall Shape Bias: 0.5090
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 2, Test Gaussian: 1 Name: train-2_test-1
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-2_test-1...
+Overall Shape Bias: 0.4947
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 2, Test Gaussian: 1.5 Name: train-2_test-1.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-2_test-1.5...
+Overall Shape Bias: 0.3931
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 2, Test Gaussian: 2 Name: train-2_test-2
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-2_test-2...
+Overall Shape Bias: 0.4090
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 3
+Train Gaussian: 2, Test Gaussian: 3 Name: train-2_test-3
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-2_test-3...
+Overall Shape Bias: 0.6347
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 4
+Train Gaussian: 2, Test Gaussian: 4 Name: train-2_test-4
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-2_test-4...
+Overall Shape Bias: 0.7222
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar with Gaussian level 6
+Train Gaussian: 2, Test Gaussian: 6 Name: train-2_test-6
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-2_test-6...
+Overall Shape Bias: 0.7093
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 3, Test Gaussian: 0 Name: train-3_test-0
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-3_test-0...
+Overall Shape Bias: 0.4043
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 3, Test Gaussian: 0.5 Name: train-3_test-0.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-3_test-0.5...
+Overall Shape Bias: 0.3876
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 3, Test Gaussian: 1 Name: train-3_test-1
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-3_test-1...
+Overall Shape Bias: 0.3633
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 3, Test Gaussian: 1.5 Name: train-3_test-1.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-3_test-1.5...
+Overall Shape Bias: 0.3891
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 3, Test Gaussian: 2 Name: train-3_test-2
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-3_test-2...
+Overall Shape Bias: 0.4455
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 3
+Train Gaussian: 3, Test Gaussian: 3 Name: train-3_test-3
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-3_test-3...
+Overall Shape Bias: 0.5124
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 4
+Train Gaussian: 3, Test Gaussian: 4 Name: train-3_test-4
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-3_test-4...
+Overall Shape Bias: 0.7103
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 6
+Train Gaussian: 3, Test Gaussian: 6 Name: train-3_test-6
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_3_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_3_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-3_test-6...
+Overall Shape Bias: 0.7557
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 4, Test Gaussian: 0 Name: train-4_test-0
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-4_test-0...
+Overall Shape Bias: 0.5033
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 4, Test Gaussian: 0.5 Name: train-4_test-0.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-4_test-0.5...
+Overall Shape Bias: 0.5066
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 4, Test Gaussian: 1 Name: train-4_test-1
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-4_test-1...
+Overall Shape Bias: 0.4805
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 4, Test Gaussian: 1.5 Name: train-4_test-1.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-4_test-1.5...
+Overall Shape Bias: 0.4220
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 4, Test Gaussian: 2 Name: train-4_test-2
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-4_test-2...
+Overall Shape Bias: 0.3784
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 3
+Train Gaussian: 4, Test Gaussian: 3 Name: train-4_test-3
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-4_test-3...
+Overall Shape Bias: 0.3957
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 4
+Train Gaussian: 4, Test Gaussian: 4 Name: train-4_test-4
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-4_test-4...
+Overall Shape Bias: 0.5085
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 6
+Train Gaussian: 4, Test Gaussian: 6 Name: train-4_test-6
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_4_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_4_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-4_test-6...
+Overall Shape Bias: 0.6831
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 6, Test Gaussian: 0 Name: train-6_test-0
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-6_test-0...
+Overall Shape Bias: 0.4863
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 6, Test Gaussian: 0.5 Name: train-6_test-0.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-6_test-0.5...
+Overall Shape Bias: 0.4863
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 6, Test Gaussian: 1 Name: train-6_test-1
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-6_test-1...
+Overall Shape Bias: 0.4800
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 6, Test Gaussian: 1.5 Name: train-6_test-1.5
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-6_test-1.5...
+Overall Shape Bias: 0.4650
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 6, Test Gaussian: 2 Name: train-6_test-2
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-6_test-2...
+Overall Shape Bias: 0.4410
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 3
+Train Gaussian: 6, Test Gaussian: 3 Name: train-6_test-3
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-6_test-3...
+Overall Shape Bias: 0.3368
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 4
+Train Gaussian: 6, Test Gaussian: 4 Name: train-6_test-4
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-6_test-4...
+Overall Shape Bias: 0.3160
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar with Gaussian level 6
+Train Gaussian: 6, Test Gaussian: 6 Name: train-6_test-6
+=> creating model 'resnet50'
+=> loading checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar'
+=> loaded checkpoint '/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_6_for_60_epoch_mmk/outmodel/checkpoint_supervised_resnet50_gauss_6_for_60_epoch_mmk_epoch60.pth.tar' (epoch 60)
+Valdir is /home/ainedineen/blurry_vision/texture-vs-shape/stimuli/style-transfer-preprocessed-512
+Calculating shape bias for train-6_test-6...
+Overall Shape Bias: 0.6245

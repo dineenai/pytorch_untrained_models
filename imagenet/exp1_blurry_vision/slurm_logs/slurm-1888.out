@@ -1,0 +1,26 @@
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 0, Test Gaussian: 0 Name: train-0_test-0
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 0, Test Gaussian: 0.5 Name: train-0_test-0.5
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 0, Test Gaussian: 1 Name: train-0_test-1
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 0, Test Gaussian: 1.5 Name: train-0_test-1.5
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 0, Test Gaussian: 2 Name: train-0_test-2
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 3
+Train Gaussian: 0, Test Gaussian: 3 Name: train-0_test-3
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 4
+Train Gaussian: 0, Test Gaussian: 4 Name: train-0_test-4
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0_for_60_epoch60.pth.tar with Gaussian level 6
+Train Gaussian: 0, Test Gaussian: 6 Name: train-0_test-6
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 0
+Train Gaussian: 0.5, Test Gaussian: 0 Name: train-0.5_test-0
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 0.5
+Train Gaussian: 0.5, Test Gaussian: 0.5 Name: train-0.5_test-0.5
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 1
+Train Gaussian: 0.5, Test Gaussian: 1 Name: train-0.5_test-1
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 1.5
+Train Gaussian: 0.5, Test Gaussian: 1.5 Name: train-0.5_test-1.5
+Running model /data/blurry_vision_sup_RN50/supervised_resnet50_gauss_0pt5_for_60_epoch/outmodel/checkpoint_supervised_resnet50_gauss_0pt5_for_60_epoch_epoch60.pth.tar with Gaussian level 2
+Train Gaussian: 0.5, Test Gaussian: 2 Name: train-0.5_test-2

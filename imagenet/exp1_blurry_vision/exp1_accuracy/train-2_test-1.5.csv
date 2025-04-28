@@ -1,0 +1,2 @@
+,model_pth,epoch,top1acc,top5acc,loss,val_images_blurred,val_blur_sigma
+0,/data/blurry_vision_sup_RN50/supervised_resnet50_gauss_2_for_60_epoch_ker_13/outmodel/checkpoint_supervised_resnet50_gauss_2_for_60_epoch_ker_13_epoch60.pth.tar,60,54.646,78.726,1.9901e+00,0,0
